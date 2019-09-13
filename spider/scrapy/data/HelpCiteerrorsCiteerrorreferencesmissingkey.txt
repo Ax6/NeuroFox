@@ -1,0 +1,72 @@
+This page will help you to fix the cite error message:  
+  
+**Alist-defined reference named "$1" is not used in the content (see the help
+page). **  
+  
+
+A footnote used multiple times may be defined with a name:
+
+To invoke a named footnote:
+
+References may also be defined within the reference list:
+
+List-defined references may be invoked by the standard markup or by use of
+{{r}}.
+
+All references defined in the reference list must be invoked in the content.
+Unused references must be removed or commented out.
+
+Including more than one nested reference in List-defined references will cause
+a Cite error.
+
+Misusing a template that was never intended as a citation template and placing
+it in `<ref>` tags may cause this issue.
+
+A template that creates `<ref>` tags; known instances:
+
+A template that includes table markup; known instances:
+
+Ex. 1) There are three references defined in the list, but none are invoked in
+the content. Note the spurious error for the first reference named _ipsum_ :
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+cillum dolore eu fugiat nulla pariatur.
+
+Cite error: A list-defined reference with group name `""` is not used in the
+content (see the help page).  
+Cite error: A list-defined reference with group name `""` is not used in the
+content (see the help page).  
+Cite error: A list-defined reference with group name `""` is not used in the
+content (see the help page).
+
+Ex. 2) If only one reference is defined but not invoked, then only the
+spurious error is shown:
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+cillum dolore eu fugiat nulla pariatur.
+
+Cite error: A list-defined reference with group name `""` is not used in the
+content (see the help page).
+
+Ex. 3) Not so obvious case. If you mistakenly nest an {{sfn}} type template
+inside <ref></ref> as in the second footnote below, an error message will
+show:
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua.[1] Ut enim ad minim
+veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit
+esse cillum dolore eu fugiat nulla pariatur.[2]
+
+Cite error: A list-defined reference named "FOOTNOTEFoo1999123" is not used in
+the content (see the help page).
+
+Pages with this error message are placed into Pages with incorrect ref
+formatting. The system message page is at Cite error references missing key.
+

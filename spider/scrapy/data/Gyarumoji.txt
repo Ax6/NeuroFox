@@ -1,0 +1,82 @@
+**Gyaru-moji** (ギャル文字, "gal's alphabet") or **Heta-moji** (下手文字, "poor
+handwriting") is a style of obfuscated (cant) Japanese writing popular amongst
+urban Japanese youth. As the name gyaru-moji suggests ("gyaru" indicating
+"girl"), this writing system was created by and remains primarily employed by
+young women.[1]
+
+Like the English phenomenon of SMS language, it is most often used for sending
+cell phone text messages, but while text is used as a form of informal
+shorthand, a message typed in gyaru-moji usually requires more characters and
+effort than the same message typed in plain Japanese. Since writing in gyaru-
+moji requires extra effort, and due to the perception of confidentiality,
+sending gyaru-moji messages to a peer is seen as a sign of informality or
+friendship. The origin of this style is unclear but it has been proposed that
+magazines targeted at teenage girls first made it popular, and the phenomenon
+started to gain wider attention in media around 2002.[1]
+
+The style has been met with increasing criticism, as its use continues to
+expand.[ _citation needed_ ] Reported instances of girls using the writing in
+school work, OLs (Office Ladies) adopting the style in the workplace, and
+gyaru-moji being used in karaoke subtitling, are examples of this.[ _citation
+needed_ ] Anthropologist Laura Miller has analyzed gyaru moji as an example of
+gender resistance.[1]
+
+Several online guides for gyaru-moji exist, as well as one published book:
+Shibuya Heta Moji Fukyû Iinkai, ed., 2004.[2]
+
+Like leet, gyaru-moji replaces characters with visually similar characters or
+combinations of characters. The Japanese language consists of traditional
+characters of Chinese origin, kanji, and two native syllabic scripts called
+kana: hiragana and katakana. These characters and scripts are altered to form
+hidden messages. Hiragana consisting of connected strokes are replaced by
+symbols or Greek letters: for example, す ( _su_ ) may be rendered as the
+section symbol `§`. Hiragana consisting of detached elements are replaced by
+sequences of kana, Western letters, or symbols. For example, ほ ( _ho_ ) may be
+typed as `|ま` (vertical bar and hiragana _ma_ ) or `(ま` (open parenthesis and
+_ma_ ), け ( _ke_ ) may be typed as `レナ` (katakana _re na_ ), `Iナ` (capital i,
+_na_ ), or `(†` (open parenthesis, dagger), and た (ta) may be typed as `ナ=`
+(katakana _na_ , equals sign) or `†こ` (dagger, hiragana _ko_ ). Katakana is
+frequently replaced by similar-looking kanji, such as 世 for セ (se) or 干 for チ
+(chi), in a reversal of the process that turned man'yōgana into kana. Kana and
+rōmaji may be mixed freely, even within a word, and Latin letters in rōmaji
+may be replaced with similar-looking Cyrillic letters, such as replacing N
+with И (Cyrillic I). Compound kanji are decomposed into left and right
+elements, which are written as individual kanji or kana. For example, the
+kanji 好 in 好き, meaning "like, enjoy" may be split into 女子 (the kanji for woman
+and child, respectively).
+
+In addition to the basic obfuscation provided by character replacement,
+another technique used to disguise the content of the message is to use
+vocabulary and grammar that is uncharacteristic of standard usage.[3] Combined
+with character substitution, this can make the meaning of the message almost
+unintelligible to those not “in the know”. This is analogous to the use of
+leet’s specialized grammar. However, the flexible nature of the Japanese
+language means that although gyaru-moji phrases sound peculiar to someone
+expecting formal or even commonly colloquial Japanese, they are often
+technically still grammatically correct.
+
+For example, the sentence 「私は今とても良い気分です。」 (“Watashi wa ima totemo yoi kibun
+desu.”) is “Right now I am feeling very good.” in standard normal-polite
+Japanese. By first rewording this as 「超気持ちいい！」 or 「チョーキモチイイ！」 (“Chōkimochi
+ii!”) – which roughly translates as “(I have a) Super good feeling!” – and
+then converting to gyaru-moji to get 「走召 氣 持 ち ぃ ぃ !」 or 「于∋─≠モ于ｲｲ！」, the
+message could prove difficult for those not versed in the style to understand.
+
+The original Japanese hiragana followed by romaji, and then various versions
+of the Japanese character in gyaru moji. The following chart is also available
+in image form.
+
+Here are some examples of gyaru-moji created from compound kanji. The kanji
+characters are followed by their reading and meaning, and the gyaru-moji
+derived from them:
+
+As a youth culture element produced by women, gyaru-moji is not well-received
+by the older Japanese public. From a traditionalist perspective, gyaru-moji
+rejects the elegant, painstaking brushstrokes of Japanese writing embraced by
+the art of shodo. From a contemporary perspective, gyaru-moji may be likened
+to other, comical recent scripts, such as the bubble-like _maru-moji_ from the
+1980s. Since its widespread use in the early 2000s, television programs and
+public attention has taken note of gyaru-moji. However, this innovative
+writing system subverts cultural norms and breaks linguistic barriers,
+characterizing gyaru-moji with a rebellious nature.[1]
+

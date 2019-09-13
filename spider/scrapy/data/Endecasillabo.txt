@@ -1,0 +1,312 @@
+Nella metrica italiana, l' **endecasillabo** (dal greco ἐνδεκασύλλαβος
+_hendecasýllabos_ , letteralmente "(verso) di undici sillabe")[1] è il verso
+in cui l'ultimo accento, tonico e ritmico, cade obbligatoriamente sulla decima
+sillaba.[2]
+
+È il metro principale e più utilizzato della poesia italiana: si trova in
+tutte le strofe e le strutture metriche più importanti, come la terza rima, o
+terzina dantesca, l'ottava, la ballata, la canzone, il sonetto. È sempre stato
+usato anche da solo in sequenze di endecasillabi sciolti.
+
+Le sedi degli accenti sono varie. Tuttavia di norma gli endecasillabi
+presentano un accento fisso o sulla quarta o sulla sesta sede (qui evidenziate
+in arancione e in giallo).
+
+Non è escluso, come già ipotizzava Pietro Bembo, che all'origine
+dell'endecasillabo ci siano influenze provenzali e, come trova il critico
+Francesco D'Ovidio[3] esistono «affinità con il décasyllabe, una derivazione
+dall'endecasillabo saffico attraverso la poesia mediolatina con la mediazione
+del trimetro giambico».
+
+Contrariamente a quanto si potrebbe dedurre dal nome, è bene chiarire subito
+che la nota distintiva dell'endecasillabo non è il numero effettivo di
+sillabe, bensì il fatto che in tutti i casi l'accento dell'ultima parola del
+verso cada sempre sulla decima sillaba (da qui in poi segnata in verde).
+
+È errore comune dunque pensare che tutti gli endecasillabi debbano avere
+sempre e comunque undici sillabe. Ciò, se pure nella maggior parte dei casi è
+vero, non costituisce una regola. L'avere undici sillabe non è altro che la
+diretta conseguenza del fatto che la lingua italiana sia formata
+prevalentemente da parole piane, cioè che hanno l'accento sulla penultima
+sillaba.
+
+Per chiarire il concetto ecco alcuni esempi:
+
+«Mi ritrovai per una selva **oscura** »
+
+«Ciò che 'n grembo a Benaco star non **può** »
+
+«Ergasto mio, perché solingo e **tacito** »
+
+Come appare chiaro da questi esempi, pur mutando il numero complessivo di
+sillabe e la posizione degli accenti interni al verso, l'accento sulla decima
+sede rimane fisso in ogni caso. Nei tre esempi mostrati è inoltre chiara
+un'altra caratteristica fondamentale del verso non solo endecasillabo: la
+definizione della sillaba fonetica e non strettamente grammaticale. Vediamo
+quindi in ciascun esempio che una sillaba metrica è costituita da 2 sillabe di
+parole adiacenti pronunciate insieme.
+
+Lungo tutta la storia della letteratura italiana i casi di endecasillabi
+maggiori di dodici sillabe sono assai rari e costituiti in prevalenza da
+parole a cui sono state aggiunte una o più particelle àtone, come ad esempio i
+pronomi clitici (mi, ci, ne, si, lo). Data la loro artificiosità, la
+produzione di tali versi si limita in genere allo sperimentalismo della poesia
+burlesco/parodistica.
+
+«Se cadrò combattendo, amico, vendicami!»
+
+«Ottima è l'acqua; ma le piante abbeverinosene.»
+
+«Sotto la penna, ovvero stalagmitificanomisi.»
+
+Ecco l'intera quartina da cui è stato tratto l'esempio precedente, formata
+esclusivamente da endecasillabi con quindici o sedici sillabe:
+
+«Sì crudo è il gelo che le rime sdrucciolanosene  
+Tremando, e in fondo al verso rincantucciolanosene;  
+Le gocciole d'inchiostro stalattitificanomisi  
+Sotto la penna, ovvero stalagmitificanomisi.»
+
+Per motivi legati alla sua genesi (l'endecasillabo nasce infatti dalla fusione
+di un Quinario e di un Settenario[ _senza fonte_ ]) e formalizzati già da
+Pietro Bembo, l'endecasillabo "canonico" prevede un accento secondario sulla
+quarta o sulla sesta sede; nel primo caso l'endecasillabo si definisce _a
+minore_ (ed il primo emistichio equivale ad un quinario), nel secondo caso si
+definisce _a maiore_ (ed il primo emistichio equivale ad un settenario).
+
+La definizione degli accenti di un verso è spesso un concetto soggettivo; un
+verso può anche avere più accentazioni diverse a seconda della lettura che si
+vuol dare; di regola si tende a considerare atone le particelle più piccole
+come i _pronomi_ , _preposizioni_ , _articoli_ e _congiunzioni_ , quando non
+siano in posizione evidentemente marcata.
+
+L'endecasillabo _a maiore_ è generalmente considerato più solenne:
+
+«Nel mezzo del cammin di nostra vita»
+
+Mentre l'endecasillabo _a minore_ è più calmo pacato ed intimista:
+
+«Mi ritrovai per una selva oscura»
+
+Questa versatilità rende l'endecasillabo uno dei versi principe della metrica
+italiana.
+
+Nell'endecasillabo "a maiore" generalmente è tonica almeno una sillaba prima
+della sesta (tipicamente la 1ª, la 2ª o la 3ª).
+
+Molto più raro il caso in cui non ci siano accenti rilevanti prima della sesta
+sillaba come in questo caso:
+
+«de la trasfigur _a_ ta mia persona .»
+
+Più raro ancora il caso in cui da un accento sulla prima si va subito
+all'accento sulla sesta:
+
+«Sgombrimisi del p _e_ tto ogni altra voglia.»
+
+L'endecasillabo _a minore_ ha principalmente due tipi di accentazione
+rilevanti:
+
+L'endecasillabo con accento sull' _ottava_ , più comune:
+
+«Non perciò d' _i_ ra al flagell _a_ r rov _e_ nte»
+
+«che 'l gran sep _o_ lcro liber _ò_ di Cristo»
+
+L'endecasillabo a minore " _di settima_ " risulta essere più raro rispetto
+agli altri versi "a minore", poiché il suo ritmo in passato era considerato
+poco "sonoro" e perciò adatto, secondo i poeti petrarchisti, a riprodurre la
+prosodia del parlato:
+
+«ch'io mi sia t _a_ rdi al socc _o_ rso lev _a_ ta,»
+
+«l'aiuta s _ì_ ch'i' ne s _i_ a consol _a_ ta.»
+
+Come in una composizione musicale, il ritmo è una delle componenti
+fondamentali da cui deriva l'armonia musicale che caratterizza il verso. Data
+la ricchezza ritmica non esiste una classificazione universalmente
+riconosciuta che riesca a categorizzare tutti i tipi di ritmi che si possono
+dare ad un endecasillabo. Tuttavia, prendendo a prestito una terminologia
+proveniente dalla metrica classica, è possibile evidenziare alcuni tipi di
+versi a seconda del loro attacco definendoli _giambici_ , _dattilici_ e
+_anapestici_.
+
+Si definiscono dal ritmo
+
+«Al c _o_ r gent _i_ l remp _a_ ira s _e_ mpre am _o_ re»
+
+Un endecasillabo così costruito ha entrambe le sedi principali toniche (4ª e
+6ª sillaba), anche per questo motivo è il ritmo più semplice e più comune
+nella poesia italiana. L'andamento giambico (àtona-tònica-àtona-tònica...)
+fornisce al verso un ritmo cantilenante e monotono. Questo ritmo era
+particolarmente adatto a componimenti che dovevano essere accompagnati da
+musica.
+
+Tra i versi _a minore_ si riconoscono dal ritmo:
+
+«f _a_ tta di gi _o_ co in fig _u_ ra d'am _o_ re»
+
+I poeti delle origini utilizzavano questo ritmo lento e discendente (tònica-
+àtona-àtona-tònica...) per dare al lettore una sensazione di solennità, o per
+riprodurre la prosodia del parlato.
+
+Tra i versi _a maiore_ è possibile identificare quelli dal ritmo:
+
+«Se Merc _é_ fosse am _i_ ca a' miei disiri»
+
+Il ritmo anapestico (àtona-àtona-tònica...) è ascendente e dà un senso di
+maggiore "scorrevolezza" e velocità al verso.
+
+Volendo trovare una regola generale potremmo dire che il ritmo del verso si fa
+più incalzante quanto più sono numerosi e ravvicinati e gli accenti tra loro;
+lo sfruttare abilmente gli accenti di un verso è parte fondamentale della
+sensibilità artistica di un autore. Ecco alcuni esempi che mostrano quanto il
+ritmo sia importante per dare "colore" al componimento poetico:
+
+In questo esempio i primi accenti a disposizione dattilica, e l'accostamento
+di due versi con accentazione simile contribuiscono a dare un andamento da
+ninna-nanna e una sensazione di pace:
+
+In quest'altro esempio invece gli accenti sono disposti per riprodurre un
+ritmo calmo e meditativo.
+
+Oppure possono dare un ritmo solenne alla composizione:
+
+Il punto che separa i due emistichi si definisce cesura (dal latino _caedo_ =
+taglio). Se la cesura è particolarmente forte spezza il verso in due parti,
+_ma mai una parola a metà_.
+
+Tutti gli endecasillabi hanno una cesura, che può venire o meno sottolineata
+durante la declamazione del verso. Esistono vari tipi di cesura:
+
+«Le donne i cavalier, l'arme gli amori»
+
+_Secondo la metrica canonica infatti (ma non è una regola ferrea), l'incontro
+di due accenti consecutivi (cavali_ èr __ l'àr _me) è infatti possibile
+soltanto nel punto in cui il verso presenta una cesura, poiché l'incontro di
+due accenti rende obbligatoria una breve pausa per una corretta lettura._
+
+Ecco un altro caso di cesura dopo una parola che abbia subito un troncamento (
+_mar_ da _mare_ ):
+
+( _Da notare inoltre come in questo e nel caso successivo, la cesura metrica
+sia funzionale a marcare una pausa di tipo sintattico.'_ )
+
+«Molti i figli del mar. Tu sempre tremi,»
+
+Oppure può cadere dopo una parola che sia già tronca (come ad esempio un
+passato remoto, un futuro)
+
+«Disfrondato lasciò: nascente luna»
+
+«fu stabilita per lo loco santo»
+
+«che nel lago del cor m'era durata»
+
+Tuttavia in italiano la cesura non è una regola matematica. È però buona norma
+sottolineare tale pausa metrica quando è in corrispondenza delle pause
+sintattiche (identificate dai segni di interpunzione), e quando è utilizzata
+volutamente _ad hoc_ per creare un qualche tipo di effetto metrico.
+
+Esistono una serie di endecasillabi "insoliti" che sono considerati canonici
+pur essendone al limite.[ _senza fonte_ ]
+
+Un tipo di cesura molto particolare è la cesura epica reintrodotta da Giovanni
+Pascoli per i suoi endecasillabi epici nell'800 sul calco del decasillabo
+francese.
+
+Tale verso, benché rientri in questa categoria, non è propriamente un
+endecasillabo. La sua forte cesura non permette in nessun caso la sinalefe, ed
+è caratterizzato da una forte pausa tra il primo e secondo emistichio.
+
+Contrariamente a quanto succede nell'endecasillabo canonico, le ultime sillabe
+atone del primo emistichio non si contano nel computo del secondo
+indipendentemente se sia tronco, piano o addirittura sdrucciolo.
+
+Esempio:
+
+«ché pur a retro sempre il guida il suo remo»
+
+Di fatto perciò l'endecasillabo epico _equivale alla semplice giustapposizione
+di un quinario e un settenario._
+
+Un ultimo tipo di endecasillabo a metà tra il canonico e il non canonico è
+quello detto "crescente". Questo tipo di metrica, già presente in epoca
+precedente, è stata resa famosa da Pascoli che ne fa uso in diversi casi e non
+solo usando l'endecasillabo. Grazie a questo espediente il verso riesce in
+qualche modo a rientrare nella categoria dei "canonici" pur essendone al
+limite, come si può vedere in questo caso:
+
+«E non vedeva che a sé stesso il fiato  
+cerulo, ognuno, e s'ascoltava il _g_ emi _to_  
+arido, nel silenzio inabitato.  
+A pini e cerri i pionieri estr _emi_  
+davan la scure per la lor capanna  
+e i nuovi aratri, e per la nave e i r _emi._ »
+
+Nonostante il secondo verso sdrucciolo dell'esempio (gemito) sembri
+apparentemente una rima ipermetra, in fase di lettura diviene una rima
+perfetta con gli altri due (estremi e Remi) perché l'ultima sillaba "-to" di
+“gemito” è assorbito per episinalefe dalla a- di “arido” nel verso dopo. __
+
+Un altro caso è quello in cui la sillaba atona del verso precedente va a
+colmare la sillaba mancante nel verso ipometro seguente: questa tecnica è
+stata ripresa dai crepuscolari.
+
+Esistono poi una serie di endecasillabi considerati "errati" dai teorici.[
+_senza fonte_ ] Non sono ammessi nella poesia classica tutti quei tipi di
+versi dove non è possibile riconoscere i due emistichi principali del quinario
+e del settenario; che abbiano cioè sia la quarta che la sesta sede atone. Gli
+endecasillabi di Dante sono _quasi_ tutti canonici. Quelli di Petrarca e dei
+petrarchisti lo sono tutti. Endecasillabi non canonici si possono trovare nei
+primi esperimenti di poesia italiana (più di un caso nella Divina Commedia) e
+in alcuni poeti successivi volutamente "stravaganti" (Pietro Aretino ad
+esempio), ma ne viene generalmente deprecato l'uso.
+
+Un esempio di endecasillabo con la quarta e la sesta atone, accentato sulla
+seconda e sull'ottava:
+
+«la vipera che Melanesi accampa,»
+
+Tra gli endecasillabi non canonici, i più comuni sono i cosiddetti
+"endecasillabi di quinta", che presentano appunto la quinta sillaba tonica e
+sia la quarta che la sesta atone.
+
+Ecco un esempio di endecasillabo di quinta in Dante
+
+«vestito di novo d'un drappo nero»
+
+. B
+
+Nel Settecento Paolo Rolli tentò di trasporre l'endecasillabo falecio dalla
+metrica classica.  
+Ne uscì un quinario doppio, con uscita sdrucciola nel primo emistichio, e
+piana nel secondo:
+
+«Più non sfavillano quegli occhj neri»
+
+Questo tipo di endecasillabo non è considerato canonico, perché di regola in
+un endecasillabo canonico l'accento sulla quarta sillaba può essere quello di
+una parola monosillabica tronca o polisillabica piana, ma non di una
+polisillabica sdrucciola. Il verso, chiamato "endecasillabo rolliano", prende
+nome dal poeta che lo portò in auge.
+
+La maggior parte della poesia italiana è versificata in endecasillabi.
+
+L'endecasillabo è usato da solo in sequenze di versi sciolti, come nella
+traduzione dell' _Eneide_ di Annibal Caro e dell' _Iliade_ del Monti, oppure
+in strofe, soprattutto in terzine come nella _Divina Commedia_ di Dante e in
+ottave come nell' _Orlando furioso_ dell'Ariosto e nella _Gerusalemme
+liberata_ del Tasso.
+
+Le strofe tipiche costituite da endecasillabi sono :
+
+Sporadici sono i casi di strofe diverse da quelle qui elencate, ma è possibile
+trovare stanze di cinque versi (pentastiche) e di sette versi (eptastiche),
+solitamente endecasillabi e settenari, tutt'altro che rare nella poesia
+italiana.
+
+Nella metrica classica esistono alcune varietà di endecasillabo:
+
+Altri progetti
+

@@ -1,0 +1,39 @@
+La **akan'e** (in russo: аканье?, [ˈɑːkʌnʲjə], letteralmente "pronunciare
+«a»") è un fenomeno fonologico delle lingue russa e bielorussa in cui la /o/
+in posizione atona (specialmente nella sillaba immediatamente precedente
+quella tonica) si pronuncia [ʌ] (suono simile ad [a], da cui il nome). Ad
+esempio, in russo _молоко_ e in bielorusso _малако_ ("latte") vengono
+pronunciati [mʌɫʌˈko, məɫʌˈko] (nel caso del russo è come se la parola fosse
+scritta * _малако_ ).
+
+I linguisti hanno ipotizzato che questo fenomeno sia dovuto all'influenza
+delle lingue uraliche parlate dalle tribù che abitavano le attuali Russia
+europea e Bielorussia prima dell'arrivo delle popolazioni slave. La _akan'e_
+sembra, però, essere comparsa nelle lingue russa e bielorussa non prima del XV
+secolo e divenne una loro caratteristica ricorrente all'incirca alla metà del
+XIX secolo.
+
+La convenzione ortografica del russo non segnala nella scrittura l'esistenza
+della _akan'e_. Gli studenti di russo principianti vengono spesso confusi da
+questo fenomeno, poiché la pronuncia non corrisponde alla scrittura (come del
+resto avviene nel caso di altre lettere dell'alfabeto russo), cosicché spesso
+le parole vengono pronunciate male se lette da un testo scritto o trascritte
+male se ascoltate, a causa anche dell'abitudine ortografica di non segnalare
+la posizione dell'accento.
+
+La _akan'e_ è tipica del dialetto di Mosca. In altri dialetti russi (ad
+esempio quelli di Kostroma e Vologda) la /o/ atona si pronuncia [o] ( _okan'e_
+, fenomeno più antico che rende il russo più simile all'ucraino e al ruteno).
+
+La convenzione ortografica bielorussa, sviluppatasi molto dopo quella russa,
+prevede l'attuazione grafica della _akan'e_ (in lingua bielorussa аканне,
+_akannje_ ), in modo che lingua scritta e pronuncia coincidano. In questo modo
+una **o** non appare mai se non sotto accento (si compari il russo _вода́_ con
+il bielorusso _вада́_ , "acqua", entrambi pronunciati [vʌˈdɑ]).
+
+Anche questa convenzione dà alcuni problemi agli studenti principianti del
+bielorusso, poiché l'accento può spostarsi di sillaba in sillaba nella
+declinazione o nella coniugazione, in modo che la medesima parola venga
+scritta in modo radicalmente diverso a seconda del caso in cui si declina (es.
+"acqua" è вада́ [vʌˈdɑ] al nominativo e во́ду [ˈvoːdu] all'accusativo).
+

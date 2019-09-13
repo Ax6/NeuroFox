@@ -1,0 +1,86 @@
+Steve's been wanting a template for Louisville, so I created one. Doing one
+based on Los Angeles, as he recommended, was not working, so I based it off
+the New York City one. I based the prominent neighborhoods on those most
+prominently mentioned in the corresponding article, although I knew the
+Highlands should have been mentioned. Any other considerations?--Bedford
+20:54, 7 May 2007 (UTC)
+
+Should the Falls of the Ohio link be to the National Wildlife Conservation
+Area, or to the State Park?--Bedford 06:42, 10 May 2007 (UTC)
+
+Would there be any objection to giving this template a gold-like color rather
+than purple? I recently pulled the goldish color from the city's seal that I'm
+now using in WikiProject Louisville. **Stevie is the man!** Talk • Work 00:02,
+1 June 2007 (UTC)
+
+We may want to include neighborhoods outside of the original Louisville city
+limits, such as Fairdale. Also, we may want to reduce the size of the fonts
+used for the neighborhoods, else this template might get very thick. **Stevie
+is the man!** Talk • Work 21:21, 20 June 2007 (UTC)
+
+YUCK! That template is way too big. Sometimes too much information is worse
+than not enough. This qualifies.--Bedford 23:38, 20 June 2007 (UTC)
+
+I reduced the font sizes and removed the miscellaneous items, as I'm afraid
+there's no way to objectively decide what those items _should_ be, beyond the
+obvious Kentucky Derby. Also, it appears that we still have more neighborhoods
+and suburbs to add. Last, the bottom area should probably only show suburbs
+outside of Jefferson County. **Stevie is the man!** Talk • Work 00:45, 21 June
+2007 (UTC)
+
+1) Civil War -- Yep, this was subjective 2) Falls of the Ohio -- Seeing as how
+if it wasn't for this there would be no Louisville, especially not one that is
+16th in size, I think the only thing problematic is choosign whether to use
+the State park or the National Wildlife 3) Fort Knox -- Worldwide famous, but
+need to be eliminated for the same reasons you were removing WP Louisville
+tags from Scott County 4) Hillerich & Bradsby -- Louisville Slugger is
+questionable??? 5) Kentucky Derby -- There's no debate on this 6) Water Tower
+-- National Historic Landmark. I had also thought of including the Marine
+Hospital, but that would almost require us putting **EVERY** NHL on it.--
+Bedford 01:36, 21 June 2007 (UTC)
+
+Idea: We may want to split this up into separate templates. The bottom line
+for a general Louisville template is it should link to its significant
+category/subpage articles, like what's on the first line. **Stevie is the
+man!** Talk • Work 01:12, 21 June 2007 (UTC)
+
+This is way too big with all the neighborhoods... I don't think they're of
+that much interest (and I wrote most of the content in these articles). The
+{{Louisville places}} template was an effort to connect neighborhood articles
+in a useful way... I just haven't added it to all the articles yet. I'd
+support going back to what {{Louisville}} used to look like. --W.marsh 02:02,
+21 June 2007 (UTC)
+
+Let's break it up with a new template just for neighborhoods, and leave the
+old template as was. Angry Aspie 13:56, 21 June 2007 (UTC)
+
+I just added two top subjects.
+
+I realize that we should want to keep this template section tight, but I
+realized that these two subjects were glaring omissions based on their
+importance to the city. **Stevie is the man!** Talk • Work 10:36, 1 October
+2014 (UTC)
+
+On further thought, Muhammad Ali seems to be a good choice as a top subject as
+well, although maybe controversial. It seems to me that he's the city's
+favorite son based on his storied career as well as the things in the city
+that honor him. It's hard to think of a greater Louisville icon than Ali.
+**Stevie is the man!** Talk • Work 10:45, 1 October 2014 (UTC)
+
+I also added L&N as a top subject due to being so key to the city's
+development. **Stevie is the man!** Talk • Work 13:08, 1 October 2014 (UTC)
+
+When reviewing other key aspects of Louisville, I realized other subject areas
+and articles were missing, and then after adding them, I realized that a split
+of "Subject areas" was in order. I created History and Geography sections to
+capture those added articles. Please feel free to voice any concerns if I've
+done anything objectionable or just needs more adjustments. **Stevie is the
+man!** Talk • Work 13:13, 1 October 2014 (UTC)
+
+I appreciate attempts to tidy up the template, but the recent tidying left
+dangling curly brackets and allowed subarticles (in parens) to wrap. Also, a
+category was removed from content categorization even though the template
+encapsulates content. I'm certainly open to making the template better, but
+tidying needs to not create new issues. **Stevie is the man!** Talk • Work
+16:57, 8 October 2014 (UTC)
+

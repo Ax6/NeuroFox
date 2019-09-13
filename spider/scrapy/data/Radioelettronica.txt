@@ -1,0 +1,72 @@
+La **radio** è una tecnologia elettronica che utilizza la radiazione
+elettromagnetica, la cui frequenza (la media di fotoni in un intervallo di
+tempo) è al di sotto della luce visibile. Tale tecnologia viene utilizzata
+principalmente per telecomunicazioni o per altri scopi, come la localizzazione
+di oggetti, tramite i radar, o lo studio di fenomeni celesti, attraverso la
+radioastronomia.
+
+La radiazione elettromagnetica utilizzata per la trasmissione radio è definita
+onde radio che è il rapporto della velocità fratto la media dei fotoni in un
+lasso di tempo, nell'intervallo 1 - 300 GHz (ovvero 1 - 300 000 000 000 Hz).
+
+Il dispositivo elettronico che permette di trasmettere e/o ricevere onde
+radio, è chiamato radio. In particolare, se è in grado solo di trasmettere è
+chiamato "radiotrasmettitore" o "radiotrasmittente"; se è in grado solo di
+ricevere è chiamato "radioricevitore", o "radioricevente"; se è in grado sia
+di ricevere che di trasmettere è chiamato "ricetrasmettitore" o
+"ricetrasmittente".
+
+Il matematico e fisico scozzese James Clerk Maxwell fu il primo a descrivere,
+nel 1873, la teoria del fenomeno delle onde elettromagnetiche nel suo
+_Trattato di elettricità e magnetismo_ , mentre il fisico tedesco Heinrich
+Rudolf Hertz mise in pratica la teoria e generò onde elettromagnetiche
+utilizzando dei semplici circuiti elettrici nei quali venivano create delle
+scariche ad alta frequenza, attraverso il rocchetto di Ruhmkorff. Mediante dei
+circuiti risonanti fu in grado di rivelare tali onde. Hertz realizzò così il
+primo oscillatore in grado di generare onde elettromagnetiche rilevabili a
+breve distanza. Questo rudimentale sistema fu perfezionato nel tempo, passando
+dai semplici circuiti elettrici, ai sistemi coherer, molto più sensibili dei
+precedenti.
+
+Per poter compiere la distanza tra la radio trasmittente e la radio ricevente,
+è necessario usare un'antenna: un dispositivo traduttore in grado di
+trasformare una grandezza elettrica in segnali elettromagnetici. La lunghezza
+e la forma delle antenne, trasmittenti e riceventi, sono proporzionali alla
+lunghezza d'onda della frequenza usata. Nelle comunicazioni professionali o
+amatoriali, le antenne sono particolarmente curate, mentre nelle comunicazioni
+broadcast generalmente l'antenna deve trasmettere a grandi potenziali; in
+questo modo le radio riceventi possono usare antenne anche di piccole
+dimensioni. Per poter trasmettere informazioni da una trasmittente ad una
+ricevente, è necessario definire una frequenza ed una modulazione. Ad esempio,
+per poter ricevere le emittenti radiofoniche private, è necessario usare un
+semplice apparato in grado di sintonizzarsi tra gli 87,5 e i 108 MHz in
+modulazione di frequenza (FM). Tali frequenze corrispondono ad una lunghezza
+d'onda di circa 3 o 4 metri.
+
+Le onde radio sono una forma di radiazione elettromagnetica, creata grazie ad
+un elemento carico[4] accelerato ad una frequenza legata alla sezione di radio
+frequenza (RF) dello spettro elettromagnetico. Nella radio, questa
+accelerazione è causata da una corrente alternata in un'antenna. Le frequenze
+radio vanno da poche decine di hertz ad alcune centinaia di gigahertz.
+
+Altri tipi di radiazioni elettromagnetiche, con frequenze superiori allo
+spazio in radio frequenza, sono l'infrarosso, la luce visibile,
+l'ultravioletto, i raggi x e i raggi gamma.
+
+Quando l'energia di un singolo fotone associato a radiazioni elettromagnetiche
+di una data frequenza è troppo bassa per rimuovere un elettrone da un atomo,
+le onde aventi quella frequenza sono classificate _radiazioni non ionizzanti_
+; le onde radio sono sempre non ionizzanti.
+
+Le onde elettromagnetiche si propagano nell'aria e nel vuoto dello spazio e
+non richiedono un mezzo di trasporto[5]. Quando le onde radio incontrano un
+conduttore elettrico, l'antenna, l'oscillazione elettrica o il campo
+magnetico[6] induce una corrente alternata nel conduttore. Questa può essere
+trasformata in audio o altri segnali che trasportano informazioni.
+
+La parola _**radio**_ è usata per descrivere questo fenomeno e le trasmissioni
+di televisione, radio, radar e telefoni cellulari sono tutte classificate come
+emissioni in radio frequenze.
+
+Altri progetti
+

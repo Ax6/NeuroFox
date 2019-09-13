@@ -1,0 +1,14 @@
+**Colocation** (or **co-location** ) is the act of placing multiple (sometimes
+related) entities within a single location.
+
+Colocation is often used in the data sourcing industry to mean off-site data
+storage, usually in a data center. This is very important for businesses since
+the loss of data can be crucial for companies of any size, up to and including
+disciplinary action for employees or loss of their job.[3] An unexpected loss
+in data can result from fires, earthquakes, floods, or any sort of natural
+disaster.
+
+Data colocation technology began to take hold in the telecommunications
+industry. Colocation enables multiple customers to access network, server, and
+data storage space, connecting them to a variety of service providers.[4]
+

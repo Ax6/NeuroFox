@@ -1,0 +1,131 @@
+Il **Blu-ray** o **Blu-ray Disc** (sigla ufficiale **BD** ) è un supporto di
+memoria di tipo ottico.
+
+Fu progettato da Sony per soppiantare il DVD,[1] in quanto, a differenza di
+quest'ultimo, è in grado di memorizzare contenuti in Full HD (1080p) e Ultra
+HD (2160p). Il disco di plastica ha un diametro di 120 mm e uno spessore 1,2
+mm, le stesse dimensioni di CD e DVD.[2]
+
+Il nome "Blu-ray" si riferisce al laser blu utilizzato per leggere il disco,
+che consente di memorizzare informazioni con una maggiore densità, rispetto al
+laser rosso usato per i DVD.
+
+Grazie all'utilizzo per la lettura e la scrittura di un laser a luce blu (405
+nm), di lunghezza d'onda più corta rispetto al CD (720 nm) ed al DVD (650 nm),
+il Blu-ray riesce a contenere fino a 200 GB di dati, ovvero quasi 40 volte di
+più rispetto a un DVD Single Layer-Single Side (4,7 GB). Un disco da 25 GB
+risulta insufficiente per contenere circa 2 ore di filmato ad alta definizione
+utilizzando il tradizionale codec MPEG-2: per questo motivo, oltre
+all'utilizzo dei dischi a doppio strato (oltre 50 GB), era previsto l'impiego
+di codec più sofisticati come l'MPEG-4 AVC o il Windows Media Video 9
+(standardizzato come VC-1) che permettono, in teoria, di raddoppiare il
+fattore di compressione rispetto all'MPEG-2, dimezzando in conseguenza la
+richiesta di spazio, senza incidere significativamente sulla qualità video.
+
+Fu usato il termine _Blu_ al posto della forma inglese corretta _Blue_ poiché
+quest'ultima, essendo di uso comune nella lingua inglese, non è registrabile
+come marchio. Il primo apparecchio ad aver utilizzato commercialmente questa
+tecnologia fu la PlayStation 3, dopo che il 12 agosto 2004 i produttori
+impegnati nel progetto Blu-ray dichiararono di aver approvato la versione 1.0
+delle specifiche per i dischi BD-ROM. La presentazione ufficiale del nuovo
+supporto disponibile per il cinema ad alta definizione avvenne il 23 maggio
+2006 negli Stati Uniti. Il primo apparecchio "consumer" che arrivò il 10
+aprile 2003 nei negozi giapponesi fu il Sony BDZ-S77, un lettore e
+registratore venduto poi in America a 3.800 dollari. Non vi erano ancora gli
+standard per i video commerciali e nessun film era disponibile, ma solo
+materiale promozionale Sony. Il primo lettore Blu-ray da tavolo realmente
+consumer secondo lo standard fu il BD-P1000, commercializzato dalla Samsung
+nel luglio 2006.
+
+L'HD DVD, nato nel 2003, è stato lo standard commerciale concorrente del Blu-
+ray. Pur utilizzando lo stesso laser blu da 405 nm, prevedeva una disposizione
+degli strati dati differente da questo ed identica a quella dei DVD così da
+consentire la stampa dei nuovi supporti pre-registrati con gli stessi
+macchinari già in possesso ai produttori di home video. Tuttavia questa
+disposizione degli strati non risulta ottimizzata per un laser a così corta
+lunghezza d'onda, motivo per cui la capacità di memorizzazione dell'HD DVD per
+layer risultava inferiore di oltre il 30% rispetto a quella del Blu-ray.
+
+La battaglia per la diffusione dello standard si è combattuta principalmente
+sul fronte degli accordi commerciali con le case cinematografiche ed i
+produttori di hardware; il 19 febbraio 2008 Blu-ray ha definitivamente vinto
+la sua competizione con l'HD DVD, visto che Toshiba, titolare dei diritti
+sullo standard concorrente, ha dichiarato la chiusura del progetto e la
+dismissione delle attività collegate.[3]
+
+Il Blu-ray offre tre differenti capacità di archiviazione: 23.3, 25 e 27 GB.
+Sono leggermente differenti in quanto utilizzano i medesimi supporti, ma
+variano la quantità di dati immagazzinati grazie all'utilizzo di tre
+differenti lunghezze dei pit. È anche possibile diminuire ancora di più la
+lunghezza dei pit e incrementare la capacità di archiviazione per strato, in
+inglese chiamato _layer_.
+
+Con i dischi Blu-ray da 25 GB già sul mercato e con quelli da 50 GB sulla
+linea di partenza, Sony era già al lavoro sui supporti da 200 GB: una capacità
+che sarebbe stata raggiunta con l'adozione di otto strati. Tale capacità è
+stata poi raggiunta e presentata il 26 maggio 2005 da parte della Blu-ray Disc
+Association che ha inoltre dichiarato che ormai i costi di produzione dei
+dischi BD-ROM con capacità da 25 e 50 GB sono molto simili a quelli degli
+odierni DVD a doppio strato.
+
+Sul fronte della sicurezza dei dati contro la contraffazione, Blu-ray utilizza
+l'Advanced Encryption Standard (AES) con chiavi a 128 bit che cambiano ogni 6
+kB di dati. In una conferenza del 2004, Sony ha mostrato come una singola
+chiave veniva utilizzata per decriptare un DVD, mentre la chiave del Blu-ray
+Disc cambiava centinaia di volte durante la riproduzione. Il protocollo di
+gestione dei contenuti digitali funzionerà in cooperazione con il protocollo
+HDCP per impedire la riproduzione a dispositivi non abilitati.
+
+Il Blu-ray utilizza tre meccanismi di protezione dei dati:
+
+[30]
+
+Dopo un'iniziale superiorità di vendite dei lettori HD DVD, le vendite di
+titoli Blu-ray hanno avuto un'accelerazione. Gli analisti hanno imputato alla
+diffusione della PlayStation 3 l'aumento delle vendite dei supporti Blu-ray.
+La console viene venduta in milioni di esemplari e questo fornisce un notevole
+vantaggio al formato Blu-ray. I lettori HD DVD, invece, hanno ritmi di vendita
+molto più ridotti; difatti, i maggiori produttori mondiali ne misurano le
+vendite dei lettori HD DVD in centinaia di migliaia e alcuni rivedendo le
+stime di vendita al ribasso.[31] La catena di negozi di vendita e noleggio di
+supporti audio/video Blockbuster, dopo alcuni mesi di vendita contemporanea
+sia del supporto Blu-ray che quello HD DVD, ha deciso di dismettere i supporti
+HD DVD, dato che il 70% dei clienti chiedeva Blu-ray. Gestire entrambi i
+supporti aveva dei costi di magazzino più elevati.[32] Secondo stime di Sony,
+in Europa, a luglio, le vendite Blu-ray sono state da due a cinque volte
+superiori a quelle HD DVD.[33] A fine luglio Sony ha annunciato un accordo con
+la catena di negozi Target che nei 1500 punti vendita forniranno solamente
+soluzioni Blu-ray fino alle feste natalizie.[34] Secondo le analisi di mercato
+nella prima metà del 2007 il formato Blu-ray ha venduto 1,6 milioni di dischi
+mentre il supporto HD DVD ha venduto 795 000 dischi.[35] Secondo un'analisi
+pubblicata nell'ottobre del 2007 in Europa sarebbero stati venduti un milione
+di dischi Blu-ray pari al 73% del mercato dei supporti ad alta
+definizione.[36]
+
+Altri progetti
+
+VERA (1952) · 2 pollici Quadruplex (1956) · 1 pollice standard A (1965) · 1/4
+pollice Akai (1967) · U-matic (1969) · EIAJ-1 (1969) · Cartrivision (1972) ·
+Video Cassette Recording (aka VCR) (1972) · V-Cord (1974) · VX (1974) ·
+**Betamax** (1975) · IVC (1975) - 1 pollice standard B (1976) · 1 pollice
+standard C (1976) · **VHS** (1976) · VK (1977) · SVR (1979) · Video2000 (1980)
+· CVC (1980) · VHS-C (1982) · M (1982) · **Betacam** (1982) · **Lineplex**
+(1983) · Video8 (1985) · MII (1986) · S-VHS (1987) · S-VHS-C (1987) · **Hi8**
+(1989) · W-VHS (1994)
+
+D1 (1986) · D2 (1988) · D3 (1991) · DCT (1992) · D5 (1994) · **Digital
+Betacam** (1993) · **DV** (1995) · DigitalS (D9) (1995) · DVCPRO (1995) ·
+DVCAM (1996) · HDCAM (1997) · DVCPRO50 (1998) · D-VHS (1998) · Digital8 (1999)
+· DVCPRO HD (2000) · D6 (2000) · MicroMV (2001) · HDV (2003) · HDCAM SR (2003)
+
+**Laserdisc** (1977) · **CED** (1981) · Laserfilm (1984) · CD Video (1986?)
+
+VCD (1993) · MovieCD (1995?) · **DVD-Video** (1995) · MiniDVD · CVD (1998) ·
+SVCD (1998) · FMD (2000) · EVD (2003) · XDCAM (2003) · HVD (2004) · FVD (2005)
+· UMD (2005) · VMD (2006) · **HD DVD** (2006) · **Blu-ray Disc (BD)** (2006) ·
+DMD (2006?) · AVCHD (2006) · Tapestry Media (2007) · Total Hi Def (2008) · HVD
+(TBA) · PH-DVD (TBA) · SVOD (TBA) · Protein-coated disc (TBA) 3D disc (TBA)
+
+Baird Television Record (Phonovision) (1927) · TeD (1974) · Capacitance
+Electronic Disc (1981) · VHD (1983)
+

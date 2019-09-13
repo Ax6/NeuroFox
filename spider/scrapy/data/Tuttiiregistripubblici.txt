@@ -1,0 +1,5 @@
+Presentazione unificata di tutti i registri di Wikipedia. È possibile
+restringere i criteri di ricerca selezionando il tipo di registro, l'utente
+che ha eseguito l'azione, e/o la pagina interessata (entrambi i campi sono
+sensibili al maiuscolo/minuscolo).
+

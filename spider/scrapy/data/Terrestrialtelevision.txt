@@ -1,0 +1,176 @@
+**Terrestrial television** is a type of television broadcasting in which the
+television signal is transmitted by radio waves from the terrestrial (Earth-
+based) transmitter of a television station to a TV receiver having an antenna.
+The term _terrestrial_ is more common in Europe and Latin America, while in
+the United States it is called _broadcast_ or **over-the-air television** (
+**OTA** ). The term "terrestrial" is used to distinguish this type from the
+newer technologies of satellite television (direct broadcast satellite or DBS
+television), in which the television signal is transmitted to the receiver
+from an overhead satellite, cable television, in which the signal is carried
+to the receiver through a cable, and Internet Protocol television, in which
+the signal is received over an Internet stream or on a network utilizing the
+Internet Protocol. Terrestrial television stations broadcast on television
+channels with frequencies between about 52 and 600 MHz in the VHF and UHF
+bands. Since radio waves in these bands travel by line of sight, reception is
+limited by the visual horizon to distances of 40–60 miles (64–97 km).
+
+Terrestrial television was the first technology used for television
+broadcasting. The BBC began broadcasting in 1929 and by 1930 many radio
+stations had a regular schedule of experimental television programmes.
+However, these early experimental systems had insufficient picture quality to
+attract the public, due to their mechanical scan technology, and television
+did not become widespread until after World War II with the advent of
+electronic scan television technology. The television broadcasting business
+followed the model of radio networks, with local television stations in cities
+and towns affiliated with television networks, either commercial (in the US)
+or government-controlled (in Europe), which provided content. Television
+broadcasts were in black and white until the transition to color television in
+the 1950s and 60s.[1]
+
+There was no other method of television delivery until the 1950s with the
+beginnings of cable television and _community antenna television_ (CATV). CATV
+was, initially, only a re-broadcast of over-the-air signals. With the
+widespread adoption of cable across the United States in the 1970s and 1980s,
+viewing of terrestrial television broadcasts has been in decline; in 2013, it
+was estimated that about 7% of US households used an antenna.[2][3] A slight
+increase in use began after the 2009 final conversion to digital terrestrial
+television broadcasts, which offer HDTV image quality as an alternative to
+CATV for cord cutters.[ _citation needed_ ]
+
+Following the ST61 conference, UHF frequencies were first used in the UK in
+1964 with the introduction of BBC2. In UK, VHF channels were kept on the old
+405-line system, while UHF was used solely for 625-line broadcasts (which
+later used PAL colour). Television broadcasting in the 405-line system
+continued after the introduction of four analogue programmes in the UHF bands
+until the last 405-line transmitters were switched off on January 6, 1985. VHF
+Band III was used in other countries around Europe for PAL broadcasts until
+planned phase out and switchover to digital television.
+
+The success of analogue terrestrial television across Europe varied from
+country to country. Although each country had rights to a certain number of
+frequencies by virtue of the ST61 plan, not all of them were brought into
+service.
+
+In 1941, the first NTSC standard was introduced by the National Television
+System Committee. This standard defined a transmission scheme for a black and
+white picture with 525 lines of vertical resolution at 60 fields per second.
+In the early 1950s, this standard was superseded by a backwards-compatible
+standard for color television. The NTSC standard was exclusively being used in
+the Americas as well as Japan until the introduction of digital terrestrial
+television (DTT). While Mexico have ended all its analogue television
+broadcasts and the US and Canada have shut down nearly all of their analogue
+TV stations, the NTSC standard continues to be used in the rest of Latin
+American countries while testing their DTT platform.[4]
+
+In the late 1990s and early 2000s, the Advanced Television Systems Committee
+developed the ATSC standard for digital high definition terrestrial
+transmission. This standard was eventually adopted by many American countries,
+including the United States, Canada, Dominican Republic, Mexico, El Salvador,
+Guatemala and Honduras; however, the three latter countries ditched it in
+favour of ISDB-Tb.[5][6]
+
+The Pan-American terrestrial television operates on analog channels 2 through
+6 (VHF-low band, 54 to 88 MHz, known as band I in Europe), 7 through 13 (VHF-
+high band, 174 to 216 MHz, known as band III elsewhere), and 14 through 51
+(UHF television band, 470 to 698 MHz, elsewhere bands IV and V). Unlike with
+analog transmission, ATSC channel numbers do not correspond to radio
+frequencies. Instead, a virtual channel is defined as part of the ATSC stream
+metadata so that a station can transmit on any frequency but still show the
+same channel number.[7] Additionally, free-to-air television repeaters and
+signal boosters can be used to rebroadcast a terrestrial television signal
+using an otherwise unused channel to cover areas with marginal reception. (see
+Pan-American television frequencies for frequency allocation charts)[8]
+
+Analog television channels 2 through 6, 7 through 13, and 14 through 51 are
+only used for LPTV translator stations in the U.S. Channels 52 through 69 are
+still used by some existing stations, but these channels must be vacated if
+telecommunications companies notify the stations to vacate that signal
+spectrum. By convention, broadcast television signals are transmitted with
+horizontal polarization.
+
+Terrestrial television broadcast in Asia started as early as 1939 in Japan
+through a series of experiments done by NHK Broadcasting Institute of
+Technology. However, these experiments were interrupted by the beginning of
+the World War II in the Pacific. On February 1, 1953, NHK (Japan Broadcasting
+Corporation) began broadcasting. On August 28, 1953, Nippon TV (Nippon
+Television Network Corporation), the first commercial television broadcaster
+in Asia was launched. Meanwhile, in the Philippines, Alto Broadcasting System
+(now ABS-CBN), the first commercial television broadcaster in Southeast Asia,
+launched its first commercial terrestrial television station DZAQ-TV on
+October 23, 1953, with the help of Radio Corporation of America (RCA).
+
+By the mid-1990s, the interest in digital television across Europe was such
+the CEPT convened the "Chester '97" conference to agree means by which digital
+television could be inserted into the ST61 frequency plan.
+
+The introduction of digital terrestrial television in the late 1990s and early
+years of the 21st century led the ITU to call a Regional Radiocommunication
+Conference to abrogate the ST61 plan and to put a new plan for DTT
+broadcasting only in its place.
+
+In December 2005, the European Union decided to cease all analogue audio and
+analogue video television transmissions by 2012 and switch all terrestrial
+television broadcasting to digital audio and digital video (all EU countries
+have agreed on using DVB-T). The Netherlands completed the transition in
+December 2006, and some EU member states decided to complete their switchover
+as early as 2008 (Sweden), and (Denmark) in 2009. While the UK began to switch
+off analogue broadcasts, region by region, in late 2007, it was not completed
+until 24 October 2012. Norway ceased all analogue television transmissions on
+1 December 2009.[9] Two member states (not specified in the announcement) have
+expressed concerns that they might not be able to proceed to the switchover by
+2012 due to technical limitations; the rest of the EU member states had
+stopped analogue television transmissions by the end 2012.
+
+Many countries are developing and evaluating digital terrestrial television
+systems.
+
+Australia has adopted the DVB-T standard and the government's industry
+regulator, the Australian Communications and Media Authority, has mandated
+that all analogue transmissions will cease by 2012. Mandated digital
+conversion started early in 2009 with a graduated program. The first centre to
+experience analog switch-off will be the remote Victorian regional town of
+Mildura, in 2010. The government will supply underprivileged houses across the
+nation with free digital set-top converter boxes in order to minimise any
+conversion disruption. Australia's major free-to-air television networks have
+all been granted digital transmission licences and are each required to
+broadcast at least one high-definition and one standard-definition channel
+into all of their markets.
+
+In North America, a specification laid out by the ATSC has become the standard
+for digital terrestrial television. In the United States, the Federal
+Communications Commission (FCC) set the final deadline for the switch-off of
+analogue service for 12 June 2009. All television receivers must now include a
+DTT tuner using ATSC. In Canada, the Canadian Radio-television and
+Telecommunications Commission (CRTC) set 31 August 2011 as the date that
+terrestrial analogue transmission service ceased in metropolitan areas and
+provincial capitals. [10][11] In Mexico, the Federal Telecommunications
+Institute (IFT) set the final deadline for the end of analogue terrestrial
+television for 31 December 2015.
+
+In late 2009, US competition for the limited available radio spectrum led to
+debate over the possible re-allocation of frequencies currently occupied by
+television, and the FCC began asking for comments on how to increase the
+bandwidth available for wireless broadband. Some have proposed mixing the two
+together, on different channels that are already open (like White Spaces)
+while others have proposed "repacking" some stations and forcing them off
+certain channels, just a few years after the same thing was done (without
+compensation to the broadcasters) in the DTV transition in the United States.
+
+Some US commentators[ _who?_ ] have proposed the closing down of terrestrial
+TV broadcasting, on the grounds that available spectrum might be better used,
+and requiring viewers to shift to satellite or cable reception. This would
+eliminate mobile TV, which has been delayed several years by the FCC's
+decision to choose ATSC and its proprietary 8VSB modulation, instead of the
+worldwide COFDM standard used for all other digital terrestrial broadcasting
+around the world. Compared to Europe and Asia, this has hamstrung mobile TV in
+the US, because ATSC cannot be received while in motion (or often even while
+stationary) without ATSC-M/H as terrestrial DVB-T or ISDB-T can even without
+DVB-H or 1seg.
+
+The National Association of Broadcasters has organised to fight such
+proposals, and public comments are also being taken by the FCC through mid-
+December 2009, in preparation for a plan to be released in mid-February 2010.
+
+Digital terrestrial broadcasting: technology and system by Jian Song (2015)
+https://onlinelibrary.wiley.com/doi/pdf/10.1002/9781119084365
+

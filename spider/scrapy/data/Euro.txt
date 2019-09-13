@@ -1,0 +1,423 @@
+Austria, Belgio, Cipro, Estonia, Finlandia, Francia, Germania, Grecia,
+Irlanda, Italia, Lettonia, Lituania, Lussemburgo, Malta, Paesi Bassi,
+Portogallo, Slovacchia, Slovenia, Spagna.
+
+Andorra, Monaco, San Marino, Vaticano.
+
+Kosovo, Montenegro.
+
+L' **euro** (AFI: /ˈɛuro/[1]; plurale invariabile oppure, meno comunemente,
+"euri"[2][3]; **EUR** o **€** ) è la valuta comune ufficiale dell'Unione
+europea (nel suo insieme) e quella unica attualmente adottata da 19 dei 28
+Stati membri dell'Unione aderenti all'Unione economica e monetaria dell'Unione
+europea (UEM), ossia Austria, Belgio, Cipro, Estonia, Finlandia, Francia,
+Germania, Grecia, Irlanda, Italia, Lettonia, Lituania, Lussemburgo, Malta,
+Paesi Bassi, Portogallo, Slovacchia, Slovenia e Spagna.[4] Le ultime nazioni
+ad aver adottato la valuta sono state la Lettonia e la Lituania,
+rispettivamente il 1 gennaio 2014 e il 1º gennaio 2015.[5][6]
+
+Il complesso di questi Paesi, detto informalmente _zona euro_ (o anche
+_eurozona_ o _eurolandia_ ), conta una popolazione di oltre 343 milioni di
+abitanti; prendendo in considerazione anche quei paesi terzi che utilizzano
+divise legate all'euro, la moneta unica interessa direttamente oltre 480
+milioni di persone in tutto il mondo.
+
+In aggiunta ai membri dell'eurozona, la moneta unica europea è utilizzata
+anche in altri sei Stati europei, a seguito di accordi internazionali o a
+seguito dell'adozione unilaterale. Quattro microstati, ossia Andorra[7], la
+Città del Vaticano,[8] il Principato di Monaco[9] e San Marino[10], hanno
+adottato l'euro in virtù delle preesistenti condizioni di unione monetaria con
+Paesi membri della UE. Infine anche il Montenegro e il Kosovo hanno adottato
+unilateralmente l'euro.
+
+L'euro è la moneta ufficiale anche in tutti i dipartimenti d'oltremare e le
+collettività d'oltremare francesi: Mayotte (Africa), Riunione (Africa),
+Guadalupa (Nordamerica), Martinica (Nordamerica), Saint-Pierre e Miquelon
+(Nordamerica), Saint Barthélemy (Nordamerica), Saint-Martin (Nordamerica),
+Guyana francese (Sudamerica). L'euro è la valuta corrente anche a Ceuta e
+Melilla, città autonome spagnole in nord Africa, nelle Canarie, comunità
+autonoma della Spagna in nord Africa, nei possedimenti spagnoli del nord
+Africa (Plazas de soberanía) e nelle regioni autonome del Portogallo Azzorre e
+Madera.
+
+La nascita ufficiale della moneta unica europea avvenne il 1º gennaio 1999,
+con un comunicato del Consiglio dei Ministri europei.[11]
+
+Il debutto dell'euro sui mercati finanziari risale al 1999, mentre la
+circolazione monetaria ebbe effettivamente inizio il 1º gennaio 2002 nei
+dodici Paesi dell'Unione che per primi hanno adottato la nuova valuta. La
+moneta è suddivisa in 100 centesimi.
+
+L'euro è amministrato dalla Banca centrale europea (BCE), con sede a
+Francoforte sul Meno,[12] e dal Sistema europeo delle banche centrali; il
+primo organismo è responsabile unico delle politiche monetarie comuni, mentre
+coopera con il secondo per quanto riguarda il conio e la distribuzione di
+banconote e monete negli stati membri.[13]
+
+Il nome "euro" fu adottato dal Consiglio europeo di Madrid del dicembre
+1995[14] per rimpiazzare la sigla ECU (dall'acronimo inglese European Currency
+Unit, o "Unità di conto europea"), sino a quel momento utilizzata nei trattati
+e che dal 1978 indicava una valuta scritturale di uso interbancario. Il nome
+doveva essere semplice, unico e invariabile.[15] È probabile che tale
+denominazione derivi dall'uso, invalso negli ambienti finanziari britannici,
+di riferirsi alla vecchia moneta scritturale con l'espressione _Euro-currency_
+, dove _Euro_ sta per _european_ : si tratterebbe dunque di un anglicismo,
+anche se in Italia viene percepito come un accorciamento, in analogia con
+altre parole che, con composizione neoclassica, usano il confisso _euro_ -,
+tratto da _Europa_ ( _europarlamentare_ , _eurovisione_ ecc.).[16][17]
+
+In alcune lingue si usa normalmente il plurale o il partitivo del nome
+(esempio: Spagna, Francia, Portogallo),[18] nonostante il sostantivo "euro"
+sulla cartamoneta resti neutrale e non mostri forme plurali.
+
+La denominazione _ecu_ , indicata nell'articolo 3º del trattato di Maastricht,
+fu scartata per diverse ragioni linguistiche. Aveva un senso in inglese, la
+lingua nella quale era espresso, e in francese, perché la parola _écu_ vuol
+dire scudo, che era un'antica moneta della Francia. La denominazione, quindi,
+non aveva alcun richiamo per gli altri paesi. Ci fu poi il "problema della
+vacca tedesca": i tedeschi avrebbero dovuto chiamare un ecu _ein Ecu_ , che
+suonava come _eine Kuh_ , cioè, appunto, "una mucca".
+
+Il codice internazionale a tre lettere (in base allo standard ISO 4217)
+dell'euro è EUR. È stato disegnato anche un simbolo (glifo) speciale per
+l'euro (€). Dopo che un sondaggio pubblico aveva ristretto la scelta a due, fu
+la Commissione europea a fare la scelta finale. Il vincitore era ispirato
+dalla lettera greca _epsilon_ (ε), così come a una versione stilizzata della
+lettera "E".
+
+L'euro è rappresentato nel set di caratteri Unicode (esadecimale 20AC o
+decimale 8364, codice mnemonico HTML: `&euro;`) così come nelle versioni
+aggiornate dei tradizionali set di caratteri latini. Le nazioni occidentali
+dovrebbero passare dall'ISO 8859-1 (Latin 1) all'ISO 8859-15 (Latin 9) o,
+ancora meglio, a UTF-8 per poter rappresentare questo carattere.
+
+Il "nome unico" ha in realtà due varianti: la prima riguarda la lingua greca,
+la seconda la lingua bulgara. La Grecia ottenne subito di poter chiamare la
+moneta unica Ευρώ in caratteri ellenici. La Bulgaria ottenne durante le
+negoziazioni per il Trattato di Lisbona di chiamare la moneta unica Евро, in
+caratteri cirillici.[19]
+
+Dal 2002 sono in circolazione monete metalliche con otto diversi valori:[20]
+
+Ciascuna moneta è caratterizzata da un lato comune a tutti i paesi che hanno
+adottato l'euro. L'effigie sull'altro lato è di competenza sia dei singoli
+stati che hanno adottato l'euro sia di quelli che possono coniare monete in
+virtù di accordi bilaterali con l'Unione europea tramite Italia e Francia,
+ovvero San Marino, Città del Vaticano, Principato di Monaco e dal 2015 anche
+il Principato di Andorra. Pertanto, senza considerare quelle commemorative,
+sono in circolazione 184 diverse monete.
+
+La Finlandia ha deciso di non produrre e di non far circolare le monete da 1 e
+2 centesimi, a eccezione di piccole quantità per il collezionismo. Dal 2004
+anche i Paesi Bassi[21] non immettono in circolazione monete da 1 e 2
+centesimi; tuttavia quelle in circolazione, benché poco utilizzate, mantengono
+corso legale. Ciò nonostante, le monete di tale valore coniate in altri paesi
+continuano naturalmente ad avere valore legale all'interno di tutta
+l'eurozona.
+
+A partire dal 2018, anche l'Italia ha cessato di produrre monete da 1 e 2
+centesimi, in seguito all'articolo 13-quater della Legge 21 giugno 2017, n.
+96. La manovra è tesa al contenimento della spesa pubblica e il risparmio
+generato è destinato all'ammortamento dei titoli di Stato italiani.[22]
+
+Le banconote euro, a differenza delle monete, sono caratterizzate da un
+aspetto unico valido in tutta la zona euro e sono disponibili in sette tagli,
+ognuno con colore e dimensione diverse: 5, 10, 20, 50, 100, 200 e 500
+euro[23].[24]
+
+Ogni taglio presenta una particolare tematica architettonica e storica nel
+contesto europeo; inoltre gli stili architettonici sono ordinati
+cronologicamente: più aumenta l'importo della banconota e più l'architettura
+rappresentata sarà moderna. Per ogni tematica, il fronte della banconota
+presenta delle porte o delle finestre, mentre il retro raffigura dei ponti.
+
+Considerato gli elevati importi che le banconote rappresentano e la
+potenzialità dell'euro di poter essere utilizzata come valuta di riserva
+internazionale, nella fase di progettazione è stato deciso di applicare
+sofisticate tecnologie anti-contraffazione.
+
+Ogni taglio reca la firma del presidente della BCE:
+
+Il 4 maggio 2016 la Banca centrale europea ha deciso di sospendere la
+produzione della banconota da 500 euro la cui emissione è stata interrotta il
+27 gennaio 2019.[23][25]
+
+In Italia chiunque versi in banca o in posta banconote da 500 euro viene
+segnalato in base alla normativa antiriciclaggio e alle banche è richiesto di
+non distribuirle più.
+
+Ogni banca centrale dell'Unione monetaria europea è responsabile per la stampa
+di uno o due tagli.
+
+Dal 2013 è in corso di emissione la Serie Europa, che ha sostituito la
+precedente anno per anno fino al 2019.
+
+L'Articolo 460 relativo alla _Contraffazione di carta filigranata in uso per
+la fabbricazione di carte di pubblico credito o di valori di bollo_ del Codice
+Penale italiano sancisce:
+
+«[I]. Chiunque contraffà la carta filigranata che si adopera per la
+fabbricazione delle carte di pubblico credito o dei valori di bollo, ovvero
+acquista, detiene o aliena tale carta contraffatta, è punito, se il fatto non
+costituisce un più grave reato, con la reclusione da due a sei anni e con la
+multa da 309 euro a 1 032 euro.»
+
+Tuttavia il punto 3 dell'articolo 2 della decisione della Banca centrale
+europea 4/2003 deroga l'articolo sul delitto di contraffazione, la cui pena
+può cambiare da stato a stato, e determina alcuni casi particolari in cui la
+riproduzione è consentita.[28]
+
+Le fasi di transizione dalle monete locali all'euro vennero stabilite dalle
+disposizioni del Trattato di Maastricht del 1992 relative alla creazione
+dell'Unione economica e monetaria.
+
+Per poter partecipare alla nuova valuta, gli stati membri dovevano rispettare
+i seguenti criteri, informalmente detti parametri di Maastricht:
+
+In fase di accettazione, vennero compresi anche gli stati membri i cui
+parametri avevano dimostrato la tendenza a poter rientrare nel medio periodo
+all'interno dei criteri stabiliti dal Trattato. In particolare, all'Italia e
+al Belgio fu permesso di adottare subito l'euro anche in presenza di un
+rapporto debito/PIL largamente superiore al 60%.
+
+Fra i paesi che avevano chiesto l'adesione alla moneta unica sin dal suo
+esordio, la Grecia era l'unica che non rispettava nessuno dei criteri
+stabiliti; fu comunque ammessa due anni dopo, il 1º gennaio 2001, e
+l'introduzione fisica della nuova valuta nel paese avvenne contemporaneamente
+rispetto agli altri undici paesi.
+
+I tassi di cambio tra le varie divise nazionali e l'euro furono determinati
+dal Consiglio europeo in base ai loro valori sul mercato al 31 dicembre
+1998,[29] in modo che un ECU ( _European Currency Unit_ , Unità di valuta
+europea) fosse pari a un euro. Essi non furono stabiliti in una data
+precedente a causa della composizione particolare dell'ECU, il quale era una
+unità di conto che dipendeva da un paniere di valute comprendenti anche quelle
+che, come la sterlina inglese, non avrebbero fatto parte dell'euro.
+
+In Italia l'euro venne sperimentato per la prima volta nei comuni di Fiesole e
+Pontassieve per sei mesi a partire dal 1º ottobre 1999[30].
+
+Zona euro
+
+UE non appartenenti all'AEC II
+
+UE appartenenti all'AEC II con _opt-out_
+
+UE non appartenenti all'AEC II con _opt-out_
+
+Non UE che usano bilateralmente l'euro
+
+Non UE che usano unilateralmente l'euro
+
+Al 2017 gli Stati membri che partecipano all'euro sono diciannove: l'insieme
+di queste nazioni viene frequentemente definito **eurozona** o **eurolandia**.
+
+Al 2015, nove dei ventotto Stati membri dell'Unione europea non adottano
+ancora l'euro come valuta ufficiale. Nella fattispecie, la Danimarca[31] (in
+seguito a un referendum) e il Regno Unito[32] godono di una speciale deroga al
+trattato di Maastricht che li esime dall'obbligo formale di aderire alla
+divisa comune, permettendo loro di mantenere indefinitamente le proprie valute
+nazionali. Anche la Svezia, che fa parte dell'UE dal 1995, sta continuando a
+usare la corona svedese. Tutti gli altri paesi sono destinati a confluire
+nella zona euro non appena i parametri macroeconomici stabiliti dal trattato
+ne permetteranno l'ingresso.
+
+L'euro è entrato in vigore per la prima volta il 1º gennaio 1999 in undici
+degli allora quindici Stati membri dell'Unione[33][34]; a questi si aggiunse
+la Grecia, che rientrò nei parametri economici richiesti nel 2000[35][36] e fu
+ammessa nell'eurozona il 1º gennaio 2001. In questi primi dodici Stati l'euro
+entrò ufficialmente in circolazione il 1º gennaio 2002 sotto forma di monete e
+banconote.
+
+Nel 2006 un tredicesimo Stato, la Slovenia, entrata nell'Unione nel 2004
+dimostrò di possedere i parametri economici necessari per l'adesione alla
+moneta comune e fu ammessa nella zona euro il 1º gennaio 2007[37][38]. Pochi
+giorni dopo, il 15 gennaio, il tallero sloveno fu ufficialmente considerato
+fuori corso. Con procedura analoga, nel 2007 Malta e Cipro, in virtù dei
+propri parametri macroeconomici soddisfacenti, vennero a loro volta ammessi
+nella zona euro[39][40][41][42]. L'introduzione della divisa comune nelle due
+isole mediterranee è avvenuta il 1º gennaio 2008; il 1º gennaio 2009 è invece
+la volta della Slovacchia[43].
+
+Nel 2010 l'Estonia fu la prima delle repubbliche baltiche a soddisfare i
+requisiti economici richiesti dall'Unione europea e la sua richiesta di
+adesione alla moneta unica venne accettata con effetto dal 1º gennaio
+2011.[44] Il 1º gennaio 2014 anche la Lettonia adotta l'euro come valuta
+ufficiale, diventando così il diciottesimo paese dell'eurozona e il secondo
+del gruppo degli Stati baltici ex URSS. Il 23 luglio 2014, dopo aver
+verificato il rispetto dei requisiti economici da parte del paese, il
+Consiglio accetta la richiesta della Lituania di adottare l'euro[45]. La
+moneta entra in circolazione nella repubblica baltica dal 1º gennaio
+2015.[5][45].
+
+Le questioni connesse strettamente all'unione economica e monetaria vengono
+discusse da un organismo apposito chiamato _Eurogruppo_ , che si riunisce
+informalmente prima delle riunioni dell'Ecofin e a cui partecipano solo gli
+stati membri dell'eurozona[13].
+
+Dal gennaio 2008[46] è poi entrata in vigore l'Area unica dei pagamenti in
+euro, detta anche SEPA, iniziativa tesa ad armonizzare nell'area i bonifici,
+gli incassi e l'uso delle carte, rendendo sempre più efficiente, sicuro e
+conveniente il mercato elettronico.
+
+Il beneficio principale dell'introduzione della moneta unica è l'eliminazione
+dei rischi e costi di cambio, garantendo più stabilità alle aziende
+esportatrici all'interno dell'eurozona; viene inoltre incrementata
+l'interdipendenza economica e una facilitazione del commercio tra stati
+membri. Questo dovrebbe portare benefici a tutti i cittadini dell'eurozona, in
+quanto l'incremento dei commerci è storicamente una delle forze guida della
+crescita economica. Inoltre la moneta unica si inserisce nel piano a lungo
+termine di un mercato unico all'interno dell'Unione[13][47].
+
+Un secondo effetto è una riduzione nelle fluttuazioni dei prezzi, ovvero un
+maggior contenimento dell'inflazione a vantaggio dei consumatori[48].
+
+In alcuni Stati (tra cui l'Italia, Francia, Olanda, Germania, Austria, Grecia)
+hanno preso piede movimenti politici cosiddetti Euroscettici che chiedono o
+una revisione dei Trattati internazionali (specialmente riguardanti il MES ed
+il Fiscal Compact) oppure un ritorno alla valuta nazionale con svalutazione
+della moneta per rendere competitivi, col tasso di cambio, i prodotti per
+l'esportazione. Se da un lato questo potrebbe, in teoria, facilitare
+l'esportazione, per via del nuovo tasso di cambio, dall'altro lato gli effetti
+dell'inflazione annullerebbero questa competitività. Salirebbero infatti,
+sempre per effetto del nuovo tasso di cambio, il costo dei beni e delle
+materie prime importate e il costo dell'energia e di conseguenza anche il
+costo di produzione dei beni interni prodotti e anche dei beni esportati.
+L'aumento dei prezzi avrebbe, poi, come conseguenza un impatto sui redditi con
+la perdita del potere d'acquisto delle retribuzioni e quindi la riduzione del
+salario reale. Questo provocherebbe, a sua volta, una caduta della domanda
+d'acquisto interna con la diminuzione della crescita economica e di
+conseguenza anche un aumento della disoccupazione con i relativi effetti, da
+questa prodotti, a peggiorare ulteriormente il calo di domanda d'acquisto e
+della produzione[49][50][51]. D'altro canto, è stato fatto notare che in
+alcuni paesi dell'eurozona, dal 2009 al 2014, si è già registrata una caduta
+dei salari reali superiore a tutti i cali delle retribuzioni verificatisi
+nell'ultimo trentennio a seguito di abbandoni di regimi valutari[52].
+
+Dopo l'introduzione dell'euro, il tasso di scambio con le altre valute,
+specialmente il dollaro, scese pesantemente. Alla sua introduzione nel 1999,
+l'euro era scambiato a 1,18 $. Da lì scese a fine 2000 fino a 0,85 $, per poi
+risalire all'inizio del 2001 fino a 0,95 $. Riprese a scendere fino al minimo
+storico sotto 0,84 $ nel luglio 2001. Alla luce degli scandali contabili delle
+aziende statunitensi (Enron, MCI Worldcom) le due valute raggiunsero la parità
+il 15 luglio 2002, e per la fine dello stesso anno l'euro raggiunse gli 1,04
+$.
+
+Si è speculato che la forza dell'euro rispetto al dollaro potrebbe
+incoraggiarne l'uso come valuta di riserva. Il 23 maggio 2003, l'euro sorpassò
+la quota iniziale di 1,18 $ e a dicembre 2004 arrivò a superare gli $1,36.
+Parte della forza dell'euro era dovuta ai tassi di interesse, che in quel
+periodo erano più alti in Europa rispetto agli Stati Uniti, e al deficit
+sempre crescente della bilancia commerciale statunitense. Nonostante la
+Federal Reserve abbia aumentato il tasso di sconto nel corso del 2005, per far
+fronte ad un probabile rischio d'inflazione, il dollaro non è riuscito a
+migliorare il tasso di cambio con la moneta europea. Dal luglio del 2007 la
+crisi del mercato immobiliare statunitense ha ulteriormente indebolito la
+posizione della moneta americana che è giunta ad aver un tasso di cambio pari
+1,37 $/€.[53]
+
+A seguito della decisione intrapresa il 18 settembre 2007 dalla Federal
+Reserve di ridurre il tasso di sconto di 50 punti base allo scopo di
+affrontare la crisi di liquidità dovuta ai mutui subprime, il dollaro si è
+avviato su un percorso di lenta discesa del suo tasso di cambio. Come
+conseguenza di questa politica, ripetutasi nei mesi successivi, dalla seconda
+metà di settembre la moneta europea ha inanellato una serie di record storici
+nei confronti di quella statunitense, arrivando a toccare la quotazione di
+1,60 $/€ il 15 luglio 2008[54].
+
+A partire dall'inizio del 2008 l'euro ha intrapreso un sentiero di ascesa
+anche nei confronti della sterlina inglese che ha portato la valuta
+continentale a raggiungere diversi record storici, l'ultimo dei quali si è
+verificato il 30 dicembre 2008 a 0,9804 £/€. Nei mesi seguenti, invece, la
+tendenza è stata invertita nei confronti di tutte le monete internazionali
+fino a toccare, ad esempio, gli 1,2037 dollari per euro nel giugno 2010[55].
+In seguito, il cambio con la moneta statunitense è risalito fino a toccare gli
+1,3810 dollari per euro alla fine di ottobre 2011.[56] Nel luglio 2017 è stato
+rotto al rialzo un periodo di consolidamento che durava da più di due anni
+(gennaio 2015), proprio grazie alla politica di QE.[57]
+
+Le critiche alla moneta unica derivano da economisti appartenenti a diverse
+scuole di pensiero.[58][59] I differenziali di inflazione che si sono
+verificati già dai primissimi anni di adozione della moneta unica avrebbero
+portato una diminuzione della competitività in particolare dei paesi del sud
+Europa, che in assenza di flessibilità del cambio e dei trasferimenti di cui
+sopra, non permetterebbe loro di reggere il passo dei paesi nordici.[60]
+Questo meccanismo avrebbe anche contribuito a fomentare i debiti privati e
+pubblici dei paesi che ne hanno sofferto, i quali li avrebbero peggiorati con
+politiche deflazionistiche e disinflazionistiche intraprese per ristabilire la
+minata competitività.[61][62] I fautori di questa teoria si rifanno
+principalmente al Ciclo di Frenkel, basandosi sulla similitudine fra alcuni
+avvenimenti intercorsi nell'Eurozona degli ultimi anni e nell'Argentina
+durante il cambio fisso col dollaro.[63]
+
+L'altra grande critica alla moneta unica riguarda invece l'austerità che
+sarebbe implicitamente imposta dai trattati che la regolano. Secondo i
+critici, di stampo prevalentemente keynesiano, i limiti di spesa imposti dal
+Trattato di Maastricht prima e dal Fiscal compact poi renderebbero difficile
+per gli stati in recessione una futura crescita duratura, condannandoli ad una
+stagnazione e disoccupazione quasi strutturale.[64] Essi sostengono che per
+non sforare tali parametri (ad esempio quello che obbliga gli stati a non
+oltrepassare un rapporto del 3% tra deficit e PIL, con prospettiva di un
+futuro pareggio di bilancio), i governi dovranno aumentare la tassazione e/o
+ridurre i servizi a disposizione dei propri cittadini, aggravando quindi lo
+stato delle loro economie già provate.[65][66]
+
+Tra i principali economisti a livello internazionale ve ne sono molti che
+avanzano, o hanno avanzato in passato, forti riserve sugli effetti e sul
+rapporto costi/benefici della moneta unica, tanto da considerarne l'adozione
+un fatto più o meno negativo. Tra essi vi sono Roger Bootle (economista della
+_City_ di Londra)[67], vincitore nel 2012 del Wolfson Economics Prize per lo
+studio di fattibilità economica sullo smantellamento della _zona euro_[68],
+Dominick Salvatore (professore alla Fordham University di New York)[69], Rudi
+Dornbusch (già professore al Massachusetts Institute of Technology)[70],
+Martin Feldstein (professore alla Università di Harvard)[71] e i premi Nobel
+Milton Friedman[72], Amartya Sen[73], Joseph Stiglitz[74], Paul Krugman[75],
+Christopher Pissarides (inizialmente sostenitore dell'euro)[76] e James
+Mirrlees[77].
+
+In diversi paesi europei esiste e si sta allargando un dibattito
+sull'opportunità di mantenere l'adesione all'euro e all'eurozona. Tra i
+politici, gli economisti, gli accademici maggiormente critici, o addirittura
+contrari, nei confronti dell'adozione dell'euro si hanno gli ex ministri
+economici Paolo Savona (già professore di economia alla LUISS e professore
+presso l'Università degli Studi Guglielmo Marconi)[78], Giuseppe Guarino (già
+professore di giurisprudenza alla Sapienza Università di Roma)[79], Giorgio La
+Malfa (già professore di economia all'Università di Catania)[80][81], Vincenzo
+Scotti[82], l'ex commissario europeo Frits Bolkestein[83], Hans-Olaf Henkel
+(già presidente della Confindustria Tedesca)[84][85][86], e gli economisti
+Alberto Bagnai (professore di economia all'Università di Pescara)[87][88],
+Claudio Borghi[89], Luigi Zingales (professore presso la University of Chicago
+Booth School of Business)[90], Antoni Soy (professore all'Università di
+Barcellona), Jean-Pierre Vesperini (professore all'Università di Rouen),
+Brigitte Granville (professoressa alla Queen Mary University di Londra), Peter
+Oppenheimer (già professore all'Università di Oxford), Sergio Cesarotto
+(professore di Politica Economica all'Università di Siena)[91].
+
+Altri studiosi, come Emiliano Brancaccio della Università del Sannio, hanno
+segnalato che in caso di tracollo dell'Unione monetaria esisterebbero modalità
+alternative di gestione dell'abbandono dell'euro, ognuna delle quali
+ricadrebbe in modi diversi sulle diverse classi sociali. Questa tesi è stata
+riproposta nel "monito degli economisti" pubblicato nel 2013 sul Financial
+Times[92]
+
+Le considerazioni degli economisti hanno portato molti partiti europei a
+schierarsi su posizioni euro-scettiche o euro-critiche, particolarmente dopo
+la grande recessione e le successive stagnazioni e stag-deflazioni in cui si
+sono trovate molte nazioni dell'Eurozona. Con le elezioni del 2014 si sono
+formati nel parlamento europeo due gruppi chiamati Europa delle Nazioni e
+della Libertà ed Europa della Libertà e della Democrazia Diretta, i cui membri
+si sono spesi spesso a favore di un abbandono dell'area valutaria.[93][94][95]
+Esponenti di spicco del primo gruppo sono il leader della Lega Nord Matteo
+Salvini e la segretaria del Front National Marine Le Pen; nel secondo gruppo,
+invece, sono confluiti fra gli altri Beppe Grillo e Nigel Farage, esponenti di
+spicco rispettivamente del Movimento 5 Stelle in Italia e del partito
+indipendentista britannico. A sinistra, inoltre, si è formato un gruppo
+parlamentare chiamato Sinistra Unitaria Europea, che non propone un ritorno
+alle monete nazionali, ma comunque una forte revisione della politica di
+austerity che si è accompagnata con l'adozione della moneta unica.[96][97] Ne
+fanno parte il leader di Syriza Alexīs Tsipras e quello di Podemos Pablo
+Iglesias Turrión. Questi tre gruppi parlamentari hanno conquistato in totale
+134 seggi, poco meno di un quinto dell'emiciclo di Bruxelles.[98]
+
+Altri progetti
+

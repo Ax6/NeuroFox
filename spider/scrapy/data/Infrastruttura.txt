@@ -1,0 +1,58 @@
+Per **infrastruttura** s'intende uno o la serie di elementi strutturati che
+intermedia i rapporti tra i vari componenti di una struttura.
+
+Il termine può essere considerato un po' astratto poiché è facile considerare
+ogni oggetto, anche di uso comune, come facente parte di una infrastruttura
+più ampia, viene però comunemente utilizzato in alcuni campi specifici.
+
+Ad esempio, si parla di infrastrutture critiche, riferendosi alla sicurezza
+dello Stato, raggruppando sotto questa voce elementi tra loro disgiunti come
+le funzionalità del Ministero della Difesa o delle Banche, ma facente parte di
+un insieme dove la caduta di un singolo elemento rischia di trascinare tutto
+il resto.
+
+In economia, con "infrastruttura" si va a definire la rete di beni e servizi
+che, pur non operando direttamente sul sistema produttivo, è fondamentale per
+lo sviluppo socio-economico del Paese mediando i rapporti tra le parti. È
+frequente in economia l'uso del sinonimo capitale fisso sociale. Trasporti,
+energia e telecomunicazioni delineano i servizi primari, ovvero quella serie
+di infrastrutture che devono presentare un'elevata accessibilità a basso costo
+per consentire al Paese di crescere. Alle infrastrutture prettamente
+economiche si aggiungono le infrastrutture di base che permettono allo Stato
+di espletare le sue funzioni e le infrastrutture sociali, atte a garantire i
+servizi fondamentali al cittadino. Interessante notare come anche queste
+ultime contribuiscano allo sviluppo economico, innestando un aumento di
+consapevolezza e spirito imprenditoriale nei cittadini stessi. Generalmente,
+gli alti costi di messa in pianto, dovuti alla frequente necessità di
+implementare contemporaneamente un alto numero di strutture, uniti
+all'esigenza di un'accessibilità a basso costo e non discriminante, rendono
+praticamente doverosa una gestione statale o quanto meno regolamentata.
+
+In ingegneria, si definisce infrastruttura l'elemento o l'insieme dei
+componenti che struttura un territorio secondo le necessità umane. A seconda
+della sua dislocazione sul territorio troviamo infrastrutture a rete e
+infrastrutture puntuali. Le prime compongono una rete di impianti e servizi
+interconnessi tra loro da specifici punti nodali. Per sua natura, questo tipo
+di infrastrutture necessita di raggiungere vaste zone di territorio o comunque
+un grande numero di cittadini per essere efficiente. Tra di queste troviamo le
+reti dei trasporti, sia di energia che di mezzi e persone, composte da strade,
+ferrovie, canali, gasdotti, oleodotti ecc. Troviamo poi le reti di
+telecomunicazione (rete telefonica, emittente televisiva, emittente
+radiofonica ma anche la rete informatica nel suo complesso), vitali
+(acquedotti), di scarico (fognature) e di difesa del suolo (impianti di
+smaltimento rifiuti, così come le reti di prevenzione dal rischio idro-
+geologico). Il secondo tipo invece ha valore in quanto tale. Ne sono un
+esempio ospedali, scuole ma anche l'insieme delle infrastrutture di base
+composto da carceri, stazioni di polizia e dell'esercito, tribunali etc.
+
+Si può evincere che una caratteristica delle infrastrutture suindicate è il
+fatto di essere composte da elementi definibili come fissi ma che,
+adeguatamente connessi, riescono ad evadere un compito specifico non
+realizzabile altrimenti.
+
+Spesso il termine viene anche usato per indicare una connettività meno
+palpabile tra elementi in cui il comportamento di uno di essi può influenzare
+quello dell'altro.
+
+Altri progetti
+

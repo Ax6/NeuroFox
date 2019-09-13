@@ -1,0 +1,32 @@
+**UTC-4** è un fuso orario in ritardo di 4 ore sull'UTC. Rappresenta
+geograficamente l' **ora dell'Argentina** , sebbene il paese sudamericano
+l’abbia abbandonata per motivi politici.
+
+È utilizzato nei seguenti territori:
+
+Inoltre, la base antartica di _Palmer_ utilizza UTC-4 come ora locale.
+
+Si sottolinea il caso particolare del Cile che, in quanto attraversato dal 75º
+meridiano ovest, adotta questo fuso come espediente artificiale di ora legale
+permanente, che diventa addirittura doppia nell’estate australe.
+
+In teoria UTC-4 corrisponde a una zona di longitudine compresa tra 67,5° W e
+52,5° W e l'ora utilizzata corrispondeva all'ora solare media del 60º
+meridiano ovest, riferimento integrato nell’UTC nel 1972. Tempo fa era detta
+**Ora di Buenos Aires** , rappresentando l’ora naturale della metropoli
+sudamericana, ma poi l’Argentina decise di passare ad una permanente ora
+legale.
+
+Negli Stati Uniti e in Canada, il fuso orario è chiamato _Atlantic Standard
+Time_ (AST).
+
+Alcune delle regioni situate in questo fuso orario adottano l'ora legale,
+passando a UTC-3: Bermuda, Nuovo Brunswick, Nuova Scozia, Isola del Principe
+Edoardo, Labrador, Groenlandia, Mato Grosso, Mato Grosso do Sul, Cile e
+Paraguay.
+
+Reciprocamente, le parti dell'America a UTC-5 che adottano l'ora legale si
+ritrovano in estate a UTC-4.
+
+Altri progetti
+

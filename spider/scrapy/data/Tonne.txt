@@ -1,0 +1,122 @@
+The **tonne** (/tʌn/ (![About this
+sound](//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/11px-
+Loudspeaker.svg.png)listen); non-SI unit, symbol: **t** ), commonly referred
+to as the **metric ton** in the United States and Canada, is a non-SI metric
+unit of mass equal to 1,000 kilograms[1][2][3][4] or one **megagram** (symbol:
+**Mg** ). It is equivalent to approximately 2,204.6 pounds,[5] 1.102 short
+tons (US) or 0.984 long tons (UK). Although not part of the SI, the tonne is
+accepted for use with SI units and prefixes by the International Committee for
+Weights and Measures.[6]
+
+The tonne is derived from the mass of one cubic metre of pure water; one
+thousand litres of pure water has an absolute mass of one tonne.
+
+The SI symbol for the tonne is 't', adopted at the same time as the unit in
+1879.[2] Its use is also official for the metric ton in the United States,
+having been adopted by the United States National Institute of Standards and
+Technology.[7] It is a symbol, not an abbreviation, and should not be followed
+by a period. Use of majuscule and minuscule letter case is significant, and
+use of other letter combinations is not permitted and would lead to ambiguity.
+For example, 'T', 'MT', 'Mt', 'mt' are the SI symbols for the tesla,
+megatesla, megatonne (one teragram) and millitonne (one kilogram)
+respectively. If describing TNT equivalent units of energy, this is equivalent
+to 4.184 petajoules.
+
+In French and most varieties of English (the exceptions being American and
+occasionally Canadian English), _tonne_ is the correct spelling. It is usually
+pronounced the same as ton /tʌn/, but when it is important to clarify that the
+metric term is meant, rather than short ton, the final "e" can also be
+pronounced, i.e. "tuhnny" /ˈtʌnɪ/.[8] In Australia, it is also pronounced
+/tɒn/.[9]
+
+Before metrication in the UK the unit used for most purposes was the Imperial
+ton of 2,240 pounds avoirdupois or 20 hundredweight (usually referred to as
+the long ton in the US), equivalent to 1,016 kg, differing by just 1.6% from
+the tonne. The UK Weights and Measures Act 1985 explicitly excluded from use
+for trade certain imperial units, including the ton, unless the item being
+sold or the weighing equipment being used was weighed or certified prior to 1
+December 1980, and even then only if the buyer was made aware that the weight
+of the item was measured in imperial units.[10][ _full citation needed_
+][11][12]
+
+In the United States _metric ton_ is the name for this unit used and
+recommended by NIST;[7] an unqualified mention of a _ton_ almost invariably
+refers to a short ton of 2,000 pounds (907 kg), and _tonne_ is rarely used in
+speech or writing. Both spellings are acceptable in Canadian usage.
+
+_Ton_ and _tonne_ are both derived from a Germanic word in general use in the
+North Sea area since the Middle Ages (cf. Old English and Old Frisian _tunne_
+, Old High German and Medieval Latin _tunna_ , German and French _tonne_ ) to
+designate a large cask, or _tun_.[13] A full tun, standing about a metre high,
+could easily weigh a tonne. An English tun (an old wine cask volume
+measurement equivalent to nine hundred, and fifty-four litres) of wine has a
+relative mass of one tonne, nine hundred, and fifty-four kg if full of pure
+water, a little less for wine.
+
+The spelling _tonne_ pre-dates the introduction of the SI in 1960; it has been
+used with this meaning in France since 1842,[14] when there were no metric
+prefixes for multiples of 106 and above, and is now used as the standard
+spelling for the metric mass measurement in most English-speaking
+countries.[15][16][17][18] In the United States, the unit was originally
+referred to using the French words _millier_ or _tonneau_ ,[19] but these
+terms are now obsolete.[3] The Imperial and US customary units comparable to
+the tonne are both spelled _ton_ in English, though they differ in mass.
+
+One tonne is equivalent to:
+
+For multiples of the tonne, it is more usual to speak of thousands or millions
+of tonnes. Kilotonne, megatonne, and gigatonne are more usually used for the
+energy of nuclear explosions and other events in equivalent mass of TNT, often
+loosely as approximate figures. When used in this context, there is little
+need to distinguish between metric and other tons, and the unit is spelt
+either as _ton_ or _tonne_ with the relevant prefix attached.[22]
+
+*The equivalent units columns use the short scale large-number naming system currently used in most English-language countries, e.g. 1 billion = 1,000 million = 1,000,000,000.  
+†Values in the equivalent short and long tons columns are rounded to five
+significant figures. See Conversions for exact values.  
+ǂThough non-standard, the symbol "kt" is also used for knot, a unit of speed
+for aircraft and sea-going vessels, and should not be confused with kilotonne.
+
+A **metric ton unit** (mtu) can mean 10 kilograms (22 lb) within metal (e.g.
+tungsten, manganese) trading, particularly within the US. It traditionally
+referred to a metric ton of ore containing 1% (i.e. 10 kg) of metal.[23][24]
+The following excerpt from a mining geology textbook describes its usage in
+the particular case of tungsten:
+
+"Tungsten concentrates are usually traded in metric tonne units (originally
+designating one tonne of ore containing 1% of WO3, today used to measure WO3
+quantities in 10 kg units. One metric tonne unit (mtu) of tungsten (VI)
+contains 7.93 kilograms of tungsten." (Walter L Pohl, _Economic Geology:
+Principles and Practices_ , English edition, 2011, p 183.)
+
+Note that tungsten is also known as wolfram and has the atomic symbol W.
+
+In the case of uranium, the acronym _MTU_ is sometimes considered to be
+_metric ton of uranium_ , meaning 1,000 kg.[25][26][27][28]
+
+A gigatonne is a unit of mass often used by the coal mining industry to assess
+and define the extent of a coal reserve.
+
+The _tonne oftrinitrotoluene (TNT)_ is used as a proxy for energy, usually of
+explosions (TNT is a common high explosive). Prefixes are used: kiloton(ne),
+megaton(ne), gigaton(ne), especially for expressing nuclear weapon yield,
+based on a specific combustion energy of TNT of about 4.2 MJ/kg (or one
+thermochemical calorie per milligram). Hence, 1 t TNT = 4.2 GJ, 1 kt TNT = 4.2
+TJ, 1 Mt TNT = 4.2 PJ.
+
+The SI unit of energy is the joule. Assuming that a TNT explosion releases
+1,000 small (thermochemical) calories per gram (4.2 kJ/g), one tonne of TNT is
+equivalent to 4.2 gigajoules.
+
+In the petroleum industry the tonne of oil equivalent (toe) is a unit of
+energy: the amount of energy released by burning one tonne of crude oil,
+approximately 42 GJ. There are several slightly different definitions. This is
+ten times as much as a tonne of TNT because atmospheric oxygen is used.
+
+Like the gram and the kilogram, the tonne gave rise to a (now obsolete) force
+unit of the same name, the tonne-force, equivalent to about 9.8 kilonewtons: a
+unit also often called simply "tonne" or "metric ton" without identifying it
+as a unit of force. In contrast to the tonne as a mass unit, the tonne-force
+or metric ton-force is not acceptable for use with SI, partly because it is
+not an exact multiple of the SI unit of force, the newton.
+

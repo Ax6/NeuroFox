@@ -1,0 +1,75 @@
+Il **Portale Informatica** è un punto di raccolta per le voci riguardanti
+l'informatica, lo studio dei fondamenti teorici dell'informazione e della
+computazione e delle tecniche pratiche per la loro implementazione e
+applicazione nei sistemi informatici. L'informatica è frequentemente descritta
+come lo studio sistematico dei processi algoritmici che descrivono e
+trasformano l'informazione. È il punto di incontro di almeno due discipline
+autonome: il progetto, la realizzazione e lo sviluppo di macchine
+rappresentatrici ed elaboratrici di numeri e i metodi di risoluzione
+algoritmica di problemi dati.
+
+L' **informatica** ha radici molto antiche, in quanto sistemi per
+automatizzare il trattamento dei dati e delle operazioni aritmetiche erano
+noti già ai babilonesi intorno al X secolo a.C., in India e in Cina forse
+addirittura prima. L'informatica in senso moderno, però, nasce soprattutto dal
+lavoro di precursori quali Pascal e Gottfried Leibniz, iniziatori come
+Babbage, Ada Lovelace, Zuse, Atanasoff, ancora Alan Turing, Stibitz e Howard
+Aiken, creatori dei primi progetti computazionali di vasto respiro come  de
+Finetti, von Neumann e Wiener.
+
+Il **phase-locked loop** , comunemente noto con il suo acronimo **PLL** , è un
+circuito elettrico ampiamente utilizzato nell'elettronica per le
+telecomunicazioni. Esso permette di creare un segnale la cui fase ha una
+relazione fissa con quella di un segnale di riferimento. Il PLL è inoltre un
+classico esempio di applicazione all'elettronica del controllo in retroazione.
+A causa dell'uso comune dell'acronimo, in letteratura non esiste una
+traduzione italiana univoca del termine: è difatti possibile trovare le forme
+"anello ad aggancio di fase", "circuito ad aggancio di fase" oppure "maglia ad
+aggancio di fase".
+
+Tale tipo di circuito si usa per diversi scopi quali:
+
+**PHP** è un linguaggio di scripting interpretato con licenza open source,
+utilizzato principalmente per la realizzazione di applicazioni web lato server
+e pagine web dinamiche. Da qui il suo nome: un acronimo ricorsivo che sta per
+_**P** HP: **H** ypertext **P** reprocessor_ (PHP: preprocessore di
+ipertesti).
+
+Il software MediaWiki, che gestisce i siti del progetto Wikipedia, è scritto
+in PHP.
+
+Calendario voce della settimana
+
+(da Informatica su Wikiquote)
+
+Altri progetti
+
+Altri progetti
+
+William Henry Gates III, meglio noto come Bill Gates (Seattle, 28 ottobre
+1955), è un imprenditore e informatico statunitense.
+
+È il fondatore ed ex-presidente della Microsoft. È il primo uomo più ricco del
+mondo secondo la rivista Forbes. Il suo ultimo patrimonio stimato (2010) è di
+53 miliardi di dollari. È l'uomo più ricco degli Stati Uniti, seguito da
+Warren Buffett, e Lawrence Ellison.
+
+Nacque in una famiglia di origini inglesi, tedesche, irlandesi e scozzesi: il
+padre William H. Gates II era procuratore mentre la madre Mary Maxwell
+svolgeva la professione d'insegnante all'Università dello Stato di Washington
+e presidente della United Way International. In un primo tempo, entrambi i
+genitori avrebbero voluto che il piccolo Bill intraprendesse studi giuridici.
+
+Nel 1968, l'anno in cui si iscrisse alla prestigiosa scuola privata Lakeside,
+Gates e i suoi compagni ebbero accesso per la prima volta ad un computer, un
+DEC PDP-11 di proprietà della Computer Center Corporation, di cui la scuola
+gli aveva affittato un certo numero di ore di utilizzo con lo scopo di
+scoprire e correggere i bugs. Gates, Paul Allen ed altri studenti (poi assunti
+nella Microsoft), divennero inseparabili dal computer. Cominciarono ad avere
+problemi con la scuola, arrivando in ritardo o mai con i compiti svolti, a
+marinare le ore per essere nel locale del computer e di conseguenza
+consumarono tutte le ore a disposizione della scuola in poche settimane.
+
+Quando scrivi una nuova voce, sei pregato di metterla anche nella lista delle
+voci di informatica. Grazie.
+

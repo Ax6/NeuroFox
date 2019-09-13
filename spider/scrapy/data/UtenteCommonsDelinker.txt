@@ -1,0 +1,36 @@
+Si prega di non candidarmi per ottenere il flag di bot o di utente
+autoverificato, perché si è deciso (più volte) che è meglio far controllare le
+mie modifiche manualmente da un utente _umano_. Grazie dell'attenzione.
+
+**CommonsDelinker** , scritto da Orgullomoore, Siebrand e Bryan e attualmente
+gestito da Magnus Manske, è un servizio utilizzato dagli amministratori di
+Wikimedia Commons volto ad aumentare la cooperazione trans-wiki mediante
+l'orfanizzazione delle immagini ridenominate o cancellate su Commons (queste
+ultime lasciano nelle pagine locali dei wikilink rossi).
+
+CommonsDelinker è collegato a CommonsTicker e ne persegue gli stessi
+obiettivi, ma **non** è un suo rimpiazzo. CommonsTicker e l'orfanizzazione
+manuale delle immagini è un metodo **sempre** preferibile, in quanto permette
+non solo l'eliminazione ma anche il rimpiazzo di un'immagine con un'altra
+equivalente **prima** della cancellazione (e di certo ci sono situazioni che
+CommonsDelinker non può risolvere). In ogni caso, Wikimedia Commons non può
+attendere che le immagini vengano eliminate in locale prima di cancellarle nel
+proprio database. Quindi le immagini vengono eliminate a prescindere dal fatto
+che esse siano orfane o meno, anche se è giusto che le immagini cancellate su
+Commons non lascino link rossi sparsi ovunque. Questi sono i motivi per cui
+CommonsDelinker entra in funzione **soltanto dopo** la cancellazione di un
+file su Commons.
+
+Il bot controlla periodicamente i registri delle cancellazioni su Commons e
+per ogni file cancellato, per impostazione predefinita[1], CommonsDelinker
+eseguirà le seguenti operazioni:
+
+Il testo del campo _Oggetto_ deve essere inserito nella sottopagina
+Utente:CommonsDelinker/summary-I18n.
+
+Si raccomanda di proteggere tale sottopagina per evitare vandalismi sui
+messaggi del bot.
+
+L'operatore del bot può essere contattato su Commons sulla sua pagina di
+discussione o via e-mail.
+

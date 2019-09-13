@@ -1,0 +1,225 @@
+I **fusi orari** sono porzioni longitudinali della superficie terrestre
+comprese fra due determinati meridiani, che adottano lo stesso orario per
+scopi legali, economici e sociali. Precedentemente alla loro adozione nelle
+varie zone della Terra si usava l'ora solare locale (media o vera).
+
+I fusi orari, unificando una fascia o una zona di un fuso orario, consentono
+di impostare gli orologi di una regione o di uno stato sull'ora solare media
+del meridiano centrale del fuso in cui la zona ricade. Inizialmente, il mondo
+era diviso in 24 zone temporali, ognuna delle quali copriva 15° di
+longitudine, con un proprio fuso orario e differiva da quella vicino per
+un'ora. Successivamente, soprattutto per motivi politici, si crearono 39 fusi
+orari, tuttora utilizzati.
+
+La maggior parte dei fusi si discostano dal Tempo Coordinato Universale (UTC)
+per un numero di ore intero (da UTC-12 a UTC+12), ma alcuni hanno uno
+scostamento di 30 o 45 minuti (come ad esempio il fuso orario di Terranova è
+UTC-3:30 e quello del Nepal UTC+5:45). Alcuni stati usano l'ora legale per
+parte dell'anno, solitamente cambiando l'orario di un'ora. Molti fusi orari
+terreni sono spostati verso ovest rispetto ai corrispondenti fusi orari
+nautici; questo crea anche un effetto di ora legale permanente.
+
+Considerando la Terra come un Geoide, e considerando che la rotazione
+terrestre si compie in 24 ore, dividendo i 360° della rotazione per 24 si può
+immaginare la superficie sferica divisa in 24 " _spicchi_ " di 15° l'uno, che
+vengono quindi percorsi in un'ora ciascuno. A questi spicchi si dà il nome di
+"fusi orari", e si assume per convenzione che in tutto il fuso ci sia l'ora
+del meridiano centrale a esso, quello che taglia il fuso esattamente a metà.
+
+I fusi orari sono perciò centrati sui meridiani con longitudine multipla di
+15°; i confini delle zone di fuso orario risultano però irregolari, in quanto
+seguono solitamente i confini degli stati.
+
+Tutti i fusi orari sono definiti relativamente al Tempo Coordinato Universale
+(UTC). Il riferimento per i fusi orari è il meridiano primo (longitudine 000)
+che passa attraverso l'Osservatorio reale di Greenwich, a Londra. Per questo
+motivo il termine _Tempo medio di Greenwich_ (GMT) viene ancora spesso
+utilizzato (dalla BBC ad esempio) per indicare l'"orario base" rispetto al
+quale sono definiti gli altri fusi orari. UTC è, ad ogni modo, il termine
+ufficiale per l'odierno orario misurato con gli orologi atomici, distinto da
+quello determinato dall'osservazione astronomica che veniva svolta a
+Greenwich.
+
+Ad essere precisi GMT (UTC) è l'ora locale di Greenwich solo tra le 01:00 UTC
+dell'ultima domenica di ottobre e le 01:00 UTC dell'ultima domenica di marzo.
+Per il resto dell'anno l'ora locale è UTC+1 (a causa dell'ora estiva).
+
+L'ora di un luogo è indicata con riferimento all'UTC. Ad esempio:
+
+Quando l'aggiustamento dovuto ai fusi orari dà un'ora che oltrepassa la
+mezzanotte, allora la data locale è spostata al giorno dopo. Alcuni esempi:
+
+Quando l'aggiustamento dovuto ai fusi orari dà un'ora che precede la
+mezzanotte, allora la data locale è spostata al giorno prima. Alcuni esempi:
+
+Nota: L'aggiustamento del fuso orario per una specifica località può variare a
+causa dell'uso dell'ora legale.
+
+I militari indicano i fusi orari usando delle designazioni a una singola
+lettera. La "Z" viene usata per indicare l'UTC, i fusi orari in avanti
+rispetto all'UTC usano le lettere della prima metà dell'alfabeto latino,
+mentre quelli indietro rispetto all'UTC sono designati usando la seconda metà.
+Fusi orari con una deviazione dall'UTC di una quantità non intera usano la
+lettera dell'ora locale intera più vicina all'UTC, con aggiunto * o †. La
+lettera "J" si riferisce all'ora locale. Non esistono territori abitati che
+adottino l'ora del fuso indicato dalla lettera "Y" (UTC-12), ma quel
+particolare fuso orario viene comunque riconosciuto per comodità o per essere
+utilizzato dai ricercatori che risiedono temporaneamente nell'Isola Baker o
+nell'Isola Howland entrambe disabitate.
+
+Per le regioni polari viene adottata convenzionalmente un'ora corrispondente a
+UTC per il Polo Nord e UTC+12 al Polo Sud
+
+Fino a metà Ottocento il tempo era misurato nelle diverse località secondo
+un'ora locale legata al mezzogiorno e, di conseguenza, alla diversa
+longitudine. In considerazione della bassa velocità di spostamento e della
+durata dei viaggi, queste differenze di orario erano trascurate. La crescente
+diffusione di telegrafi e treni rese però necessaria l'introduzione di un
+coordinamento delle diverse ore locali.
+
+In Italia inizialmente venne introdotta un' _ora ferroviaria_ per gli orari
+dei treni, cioè l'ora della città principale da cui si diramava la linea. Le
+prime ore ferroviarie furono quelle di Napoli (Napoli-Portici) e Milano
+(Milano-Monza), mentre nel 1866 ne esistevano sei, cioè Torino, Verona,
+Firenze, Roma, Napoli e Palermo.[1]
+
+All'interno dei singoli stati fu poi stabilito un "tempo medio" nazionale. Nel
+Regno d'Italia dal 12 dicembre 1866 (inizio orario invernale) venne adottato
+il "tempo medio di Roma" per ferrovie, poste e telegrafi, con l'eccezione
+delle isole di Sicilia e di Sardegna per le quali fu stabilito rispettivamente
+il tempo medio di Palermo e il tempo medio di Cagliari.[2] Progressivamente il
+tempo medio di Roma venne adottato dalle singole città di propria iniziativa
+per tutti gli usi pubblici: Milano dal 12 dicembre 1866 (appena entrato in
+vigore), Torino e Bologna dal 1º gennaio 1867, Venezia solo dal 1º maggio
+1880. Il tempo medio di Roma fu adottato anche in Sardegna (a Sassari dal 1872
+e a Cagliari dal 1886), mentre in Sicilia fu mantenuto il tempo medio di
+Palermo fino all'introduzione del fuso orario dell'Europa Centrale.[1]
+
+L'esistenza di un tempo medio statale rese evidente la necessità di un
+ulteriore coordinamento tra gli stati stabilendo differenze di orario non in
+minuti, ma in ore intere.
+
+Una prima descrizione dei fusi orari si deve a una pubblicazione in inglese di
+Quirico Filopanti nel 1858.[3][4] Dal 1875 fu attivo per la loro adozione
+Enrico Frassi.
+
+La loro introduzione è normalmente attribuita a Sandford Fleming, ingegnere
+capo delle ferrovie canadesi, che nel 1879 utilizzò tale sistema per
+rispondere alle necessità delle compagnie ferroviarie di avere un orario
+locale coerente tra le varie stazioni.[5] Il 18 novembre 1883 le ferrovie
+degli Stati Uniti e del Canada divennero le prime a istituire i fusi orari
+quando stabilirono quattro fusi orari continentali del Nord America.
+
+Il sistema dei fusi orari fu discusso nel corso della _Conferenza
+internazionale dei meridiani_ convocata a Washington nell'ottobre del 1884 a
+cui parteciparono 25 paesi tra i quali l'Italia. La Conferenza stabilì le
+regole generali del sistema che fu ufficialmente assunto come standard
+internazionale a partire dal 1º novembre.
+
+In Italia dal 1º novembre 1893 venne adottato il fuso orario corrispondente a
+15° Est da Greenwich,[6] centrato sul meridiano Termoli–Etna.
+
+Si riporta una tabella pubblicata nel 1892[7] per confrontare il tempo medio
+locale sia con il tempo medio di Roma sia con il tempo relativo al nuovo fuso
+orario. Le località sono ordinate da quelle più a ovest (segno negativo, con
+ritardo rispetto ai meridiani di riferimento) a quelle più a est (segno
+positivo, in anticipo).
+
+Le regioni segnate con ***** osservano l'ora legale aggiungendo 1 ora in
+estate. Si noti che l'orario di alcune regioni differisce di più di 24 ore. I
+due fusi orari più estremi differiscono di 25 ore quindi, per un'ora al
+giorno, le date differiscono per due giorni.
+
+_Designazione militare:Y_
+
+_Designazione militare:X_
+
+_Designazione militare:W_
+
+_Designazione militare:V*_
+
+_Designazione militare:V_
+
+_Designazione militare:U_
+
+_Designazione militare:T_
+
+_Designazione militare:S_
+
+_Designazione militare:R_
+
+_Designazione militare:Q_
+
+_Designazione militare:P*_
+
+_Designazione militare:P_
+
+_Designazione militare:O_
+
+_Designazione militare:N_
+
+_Designazione militare:Z_
+
+_Designazione militare:A_
+
+_Designazione militare:B_
+
+_Designazione militare:C_
+
+_Designazione militare:C*_
+
+_Designazione militare:D_
+
+_Designazione militare:D*_
+
+_Designazione militare:E_
+
+_Designazione militare:E*_
+
+_Designazione militare:E†_
+
+_Designazione militare:F_
+
+_Designazione militare:F*_
+
+_Designazione militare:G_
+
+_Designazione militare:H_
+
+Si noti che l'intera Cina ha lo stesso orario, il che rende questo fuso orario
+eccezionalmente ampio. All'estremità occidentale della Cina il sole raggiunge
+lo zenit alle 15:00, all'estremità orientale alle 11:00.
+
+_Designazione militare:H‡_
+
+_Designazione militare:I_
+
+_Designazione militare:I*_
+
+_Designazione militare:K_  
+Gli Stati Uniti hanno designato ufficialmente questo fuso orario come
+**Chamorro Standard Time**.
+
+_Designazione militare:K*_
+
+_Designazione militare:L_
+
+_Designazione militare:M_
+
+_Designazione militare:M*_
+
+_Designazione militare:M†_
+
+_Designazione militare:M‡_
+
+Altri progetti
+
+Orologio · Orologeria · Storia della misurazione del tempo · Astrario ·
+Cronometro marino · Meridiana · Clessidra (ad acqua) · Orologio a incenso  
+
+Calendario · Giorno · Settimana · Mese · Anno · Anno tropico · Giuliano ·
+Gregoriano · Islamico  
+
+Freccia del tempo · Chronon · Quarta dimensione · Epoca di Planck · Tempo di
+Planck · Dominio del tempo · Dimensioni temporali multiple  
+

@@ -1,0 +1,498 @@
+In meteorologia il **vento** è il movimento di una massa d'aria atmosferica da
+un'area con alta pressione ( _anticiclonica_ ) a un'area con bassa pressione (
+_ciclonica_ ).[1] In genere con tale termine si fa riferimento alle correnti
+aeree di tipo orizzontale, mentre per quelle verticali si usa generalmente il
+termine correnti convettive che si originano invece per instabilità
+atmosferica verticale. Innumerevoli gli autori classici che si sono occupati
+di questo fenomeno atmosferico. Scrive Lucrezio: " _Esistono dunque di certo,
+s'anche invisibili, i venti: essi flagellano il mare: essi la terra, le nubi
+essi, che con improvviso turbine squarciano e spazzano via_ ". Per Seneca "
+_Il vento è aria che spira_ ".[2]
+
+Il vento è causato dalle differenze di pressione atmosferica che spingono
+l'aria da zone di alta pressione a zone di bassa pressione per effetto della
+forza di gradiente.[3] Il flusso d'aria non corre in maniera diretta da un
+punto all'altro, cioè con la stessa direzione della forza di gradiente, ma
+subisce una deviazione dovuta alla forza di Coriolis (o effetto di Coriolis)
+che tende a spostarlo verso destra nell'emisfero settentrionale e verso
+sinistra nell'emisfero meridionale. A causa di questo effetto, che non è
+presente all'equatore, il vento soffia parallelamente alle isobare (vento
+geostrofico).[4][5] Tuttavia alle basse quote (meno di 600 m) è necessario
+tenere conto che l'attrito con la superficie terrestre può modificare la
+direzione del vento di circa 10° sopra il mare e 15–30° sopra la terra,
+rendendo il percorso dall'alta pressione alla bassa pressione più diretto e la
+penetrazione del vento nelle aree di bassa pressione più profonda.[6]
+
+I venti definiti da un equilibrio di forze fisiche vengono usati nella
+scomposizione e analisi dei profili del vento. Sono utili per semplificare
+l'equazione del moto atmosferico e per ricavare dati qualitativi sulla
+distribuzione orizzontale e verticale dei venti.
+
+Globalmente le due forze maggiori della circolazione atmosferica sono il
+differenziale di riscaldamento tra equatore e poli (la differenza
+nell'assorbimento dell'energia solare che genera la forza di buoyancy) e la
+rotazione del pianeta. Al di fuori dei tropici e dell'attrito causato dalla
+superficie terrestre, i venti su larga scala tendono ad avvicinarsi al
+bilancio geostrofico. Una nuova, controversa teoria suggerisce che il
+gradiente atmosferico sia causato dalla condensazione dell'acqua indotta dalle
+foreste che incentivano l'assorbimento dell'umidità dall'aria dei litorali.[7]
+
+Il vento termico è la differenza nel vento geostrofico tra due livelli
+dell'atmosfera. Esiste solo in un'atmosfera con gradienti di temperatura
+orizzontali.[8] Il vento ageostrofico è la differenza tra vento reale e
+geostrofico, che è correlato alla creazione dei cicloni.[9] Il vento di
+gradiente è simile al vento geostrofico ma include anche la forza centrifuga
+(o accelerazione centripeta).[10]
+
+La direzione del vento generalmente viene espressa in base alla direzione da
+cui soffia. Ad esempio un vento _settentrionale_ soffia da nord verso sud.[11]
+La direzione del vento si misura con le banderuole;[12] negli aeroporti le
+maniche a vento indicano la direzione del vento permettono di stimarne la
+velocità in base all'angolazione assunta dalla manica.[13] La velocità è
+misurata dagli anemometri, solitamente servendosi di eliche o coppe rotanti.
+Quando è necessaria una maggior precisione (come nel campo della ricerca) il
+vento può essere misurato tramite la velocità di propagazione degli ultrasuoni
+o dall'effetto della ventilazione su resistenze di fili riscaldati.[14] Un
+altro tipo di anemometro usa i tubi di Pitot, che, sfruttando il differenziale
+di pressione tra un tubo interno e uno esterno che viene esposto al vento,
+permettono di determinare la dinamica della pressione, che viene poi usata per
+calcolare la velocità del vento.[15]
+
+In tutto il mondo la velocità del vento, o meglio la sua intensità, viene
+misurata a dieci metri di altezza e calcolando la media su dieci minuti di
+misurazione; negli Stati Uniti la media viene fatta su un minuto per i cicloni
+tropicali,[16] e su due minuti per le osservazioni meteorologiche,[17] mentre
+in India viene generalmente misurata in tre minuti.[18] I valori calcolati
+sulle medie di un minuto sono generalmente il 14% più alti di quelli calcolati
+sulle medie in dieci minuti.[19] Un breve soffio di vento ad alta velocità è
+chiamato raffica. Una definizione tecnica della raffica è: la massima che
+eccede di 10 nodi (19 km/h) la velocità del vento misurata in dieci minuti. Un
+groppo è un raddoppio della velocità del vento sopra una certa soglia che dura
+per un minuto o più.
+
+Per misurare i venti in quota vengono usate radiosonde che vengono monitorata
+con il GPS, navigazione radio o il radar.[20] In alternativa il movimento del
+pallone aerostatico a cui la radiosonda è attaccata può essere monitorato da
+terra usando un teodolite.[21] Le tecniche di telerilevamento del vento
+includono il SODAR, il doppler lidar e i radar, che possono misurare l'effetto
+Doppler della radiazione elettromagnetica diffusa o riflessa da aerosol o
+molecole. Radiometri e radar possono essere usati per misurare l'irregolarità
+della superficie degli oceani dallo spazio o dagli aerei, che può essere usata
+per stimare la velocità del vento vicino alla superficie dell'acqua. Le
+immagini dei satelliti geostazionari possono essere usate per misurare i venti
+nell'atmosfera basandosi sulla distanza percorsa dalle nuvole tra un'immagine
+a la successiva. L'ingegneria eolica studia gli effetti del vento su ambienti
+urbanizzati, e quindi su edifici, ponti e altri manufatti.
+
+La velocità del vento dipende dal _gradiente barico_ , cioè dalla distanza
+delle isobare, e può essere espressa in metri al secondo (m/s), chilometri
+all'ora (km/h) e nodi. L'intensità del vento aumenta in media con la quota per
+via della diminuzione dell'attrito con la superficie terrestre e la mancanza
+di ostacoli fisici come vegetazione, edifici, colline e montagne. Il complesso
+dei venti e delle correnti aeree atmosferiche dà vita alla circolazione
+atmosferica.
+
+Tradizionalmente la scala di Beaufort fornisce una descrizione empirica
+dell'intensità del vento basata sulle condizioni del mare. Originariamente
+composta da 13 livelli, negli anni quaranta ne sono stati aggiunti altri 5,
+tutti relativi agli uragani, arrivando così a 17.[22] La scala contiene
+termini generali per definire i venti di differenti velocità medie come
+brezza, burrasca, tempesta e uragano, talvolta preceduti da aggettivi come
+moderato, fresco, forte, che vengono usati per differenziare la forza del
+vento all'interno della stessa categoria.[23] La terminologia per i cicloni
+tropicali differisce da una regione all'altra del mondo. La maggior parte dei
+bacini oceanici usa la media della velocità del vento per determinare la
+categoria del ciclone.
+
+La scala Fujita avanzata (in inglese Enhanced Fujita), un aggiornamento della
+scala Fujita, è composta da 6 gradi (da EF0 a EF5) e viene usata per misurare
+l'intensità dei tornado usando come metro di giudizio i danni provocati alle
+abitazioni.[24]
+
+Qui sotto una comparazione tra le diverse classificazioni usate globalmente
+dal Regional Specialized Meteorological Centers:
+
+I simboli stampati sulle mappe meteorologiche usano un ardiglione per mostrare
+sia la direzione sia la velocità del vento, quest'ultima deducibile dal numero
+di bandiere attaccate all'ardiglione stesso:[26]
+
+La direzione del vento è data dalla direzione verso cui è rivolto
+l'ardiglione. Quindi, un vento nord-orientale sarebbe illustrato da una linea
+che si estende verso nord-est, con il numero di bandiere a indicare la
+velocità del vento situate sull'estremità nord-orientale dell'ardiglione.
+Questi simboli permettono di fare un'analisi delle linee della velocità del
+vento (linee che uniscono punti con la medesima velocità del vento); queste
+ultime sono particolarmente utili nell'individuare la posizione delle correnti
+a getto nelle mappe della pressione costante, e vengono generalmente
+posizionate a 300 o più hPa.[27]
+
+I venti si classificano in costanti, periodici, locali e ciclonici.
+
+I **venti costanti** sono quelli che soffiano tutto l'anno sempre nella stessa
+direzione e nello stesso senso. Tra questi vi sono gli alisei, che si generano
+nelle zone anticicloniche tropicali e convergono verso quelle equatoriali. I
+venti extratropicali spirano nelle fasce equatoriali dove, per effetto del
+riscaldamento, si formano masse ascendenti di aria calda e umida. I venti
+occidentali spirano tra i 35° e i 60° . I venti costanti sono tre, partendo
+dal polo nord verso il circolo polare artico i venti polari nord orientali,
+dal tropico del cancro al circolo polare artico i venti tropicali
+sudoccidentali dal tropico del cancro all’equatore sono gli alisei nord
+orientali, nello stesso modo nel emisfero sud, dall’ tropico del capricorno
+all’equatore gli alisei sudorientali, dal tropico del capricorno al circolo
+polare antartico i venti tropicali nordoccidentali e dal polo sud al circolo
+polare i venti polari sudorientali.
+
+Si dicono **venti periodici** quelli che invertono periodicamente il loro
+senso. Il periodo può essere stagionale, importanti sono monsoni o etesi o
+anche semplicemente diurno come nel caso delle brezze. I monsoni sono
+caratteristici dell'Oceano Indiano e dei mari della Cina. Nel semestre estivo,
+tra aprile e ottobre, spirano dall'Oceano verso terra mentre durante quello
+invernale tra novembre e aprile soffiano dal continente verso il mare. Gli
+etesi soffiano durante l'estate dal Mar Egeo verso l'Egitto e sul percorso
+inverso durante l'inverno. Tra le brezze si riconoscono tre tipologie: brezze
+di mare e di terra, di lago e di riva e brezze di monte e di valle. Nelle
+prime due il vento soffia dalla superficie d'acqua verso terra durante il
+giorno e sul percorso inverso durante la notte. Le brezze di monte e di valle
+soffiano invece dalla valle alla montagna durante il giorno e dalla montagna
+alla valle durante la notte.
+
+I venti catabatici sono venti discendenti da un pendio montuoso (ad esempio
+nei meccanismi di foehn) o da un plateau (es. in Groenlandia o in Antartide).
+All'opposto sono venti anabatici quelli che salgono verso l'alto di un pendio
+(es. sempre durante meccanismi di _foehn_ ).
+
+I **venti locali** , tipici delle zone temperate dove soffiano irregolarmente
+quando si vengono a creare zone cicloniche e anticicloniche sono moltissimi e
+spesso legati alla nomenclatura locale, a seconda delle zone in cui si
+generano.
+
+Nell'area interessata dal mar Mediterraneo si usa classificare i venti a
+seconda della direzione da cui provengono sulla base schematica dettata dalla
+Rosa dei venti, riprendendo l'antica nomenclatura derivante dall'antica
+Grecia, che presumeva l'osservatore posto al centro del mar Ionio, a nord-
+ovest delle isole egee, in direzione della Sicilia. Ed è per questo che lo
+scirocco, il grecale e il libeccio si chiamano così perché stando in quel
+punto la Siria è posta a sud-est, la Grecia a nord-est e la Libia a sud-ovest.
+
+Un'altra importante classificazione dei venti provenienti dal largo (foranei),
+relativa alle condizioni locali di ciascun luogo al quale ci si voglia
+riferire (singole città o regioni, o macro-aree ancora più estese), è la
+seguente:
+
+I venti che eventualmente presentassero contemporaneamente le due
+caratteristiche di alta frequenza e velocità, sono detti **prevalenti**.
+
+La direzione, la durata e la velocità del vento sono in generale rappresentati
+su diagrammi polari.
+
+Queste considerazioni un tempo erano valutate con grandissima attenzione e
+tenute in conto non solo per quanto riguarda gli aspetti della navigazione o
+la protezione di determinate colture agricole, ma persino nella costruzione
+delle città. Non sono rari gli esempi di interi centri storici di molte città,
+soprattutto costiere, che portano nella disposizione planimetrica dei loro
+edifici il segno indelebile di questi criteri costruttivi. Tipica è la
+disposizione urbanistica detta " _alisca di pesce_", caratteristica dei centri
+storici di molte città costiere che si affacciano sull'Adriatico meridionale,
+da Bisceglie fino a Monopoli, tra i quali quello di Molfetta è il più
+rappresentativo.
+
+La rosa dei venti più semplice è quella a 4 punte formata dai soli quattro
+punti cardinali:
+
+Tra i quattro punti cardinali principali si possono fissare 4 punti intermedi:
+
+I venti orientali, in media, dominano i flussi ai poli, mentre quelli
+occidentali soffiano alle medie latitudini, dai poli alla cresta subtropicale,
+mentre i tropici dominano ancora i venti orientali, gli alisei.
+
+Direttamente sotto la cresta tropicale c'è la zona delle calme equatoriali, le
+cosiddette latitudini dei cavalli o doldrums, dove i venti sono meno intensi.
+Molti dei deserti del globo cadono vicino alla latitudine media della cresta
+subtropicale, dove le correnti discensionali riducono l'umidità relativa della
+massa d'aria.[28]
+
+I venti più forti sono nelle latitudini intermedie, dove l'aria fredda polare
+si scontra con quella calda dei tropici.
+
+Gli alisei costituiscono i venti di superficie prevalenti nell'area tra i
+tropici e l'equatore.[29]Soffiano soprattutto da nord-est nell'emisfero
+boreale e da sud-est in quello australe, determinano il movimento dei cicloni
+tropicali che si formano sugli oceani[30] e sono responsabili dello
+spostamento del pulviscolo africano nel Mar dei Caraibi e in porzioni del sud-
+est nordamericano.
+
+Un monsone è un vento prevalente stagionale che dura per alcuni mesi nelle
+regioni tropicali. Il termine venne usato per la prima volta in lingua inglese
+in India, Bangladesh, Pakistan e altri paesi dell'area per riferirsi
+all'intenso vento stagionale che soffiava dall'Oceano Indiano e dal Mar
+Arabico portando piogge nell'area.[31] La sua progressione verso il polo è
+accelerata dallo sviluppo delle basse pressioni sui continenti asiatico,
+africano e nordamericano da maggio a luglio, e sull'Australia in
+dicembre.[32][33][34]
+
+I venti occidentali o _westerlies_ sono i venti prevalenti tra i 35 e i 65
+gradi di latitudine, le cosiddette medie latitudini. Questi venti prevalenti
+soffiano da ovest verso est e determinano il movimento dei cicloni
+extratropicali.[35][36] I venti soffiano prevalentemente da sud-ovest
+nell'emisfero boreale e da nord-ovest in quello australe.[30] Sono più forti
+in inverno quando la pressione è più bassa ai poli, mentre si indeboliscono
+durante l'estate, quando la pressione cresce.[37]
+
+Assieme agli alisei, i venti occidentali permisero la creazione di rotte
+circolari per la navigazione sull'Oceano Atlantico e sul Pacifico, dato che i
+venti occidentali portarono allo sviluppo di forti correnti oceaniche nella
+parte occidentale degli oceani in entrambi gli emisferi attraverso un processo
+chiamato intensificazione occidentale.[38] Queste correnti trasportano acqua
+calda subtropicale verso le regioni polari.
+
+I venti occidentali possono essere particolarmente forti, specialmente
+nell'emisfero australe, dove c'è meno terra emersa a rallentare i venti; i
+venti più forti sono conosciuti come i quaranta ruggenti e si trovano tra i 40
+e i 50 gradi di latitudine sud.[39] I venti occidentali giocano un ruolo
+importante nel trasporto di acque e venti caldi equatoriali verso le coste
+occidentali dei continenti,[40][41] specialmente nell'emisfero australe.
+
+I venti orientali polari, chiamati anche celle di Hadley polari, sono venti
+prevalenti, asciutti e freddi che soffiano dalle alte pressioni polari verso
+le aree di bassa pressione all'interno delle latitudini dei venti occidentali.
+A differenza di questi ultimi, questi venti prevalenti soffiano da est a ovest
+e sono spesso deboli e irregolari.[42] A causa dello scarso riscaldamento
+solare l'aria fredda cresce gradualmente e scende dagli strati più alti
+dell'atmosfera a quelli più bassi, in un fenomeno chiamato subsidenza
+atmosferica, creando aree di alta pressione e forzando uno spostamento d'aria
+verso l'equatore;[43] Tale spostamento viene deviato verso ovest a causa della
+forza di Coriolis.
+
+Le brezze di mare e di terra sono venti locali causati dalla differenza di
+riscaldamento del mare e della terra dovuta al maggior calore specifico
+dell'acqua che ne rallenta il l'assorbimento di calore; possono anche assumere
+un'importanza rilevante tra i venti locali.[44]
+
+Di giorno la superficie del suolo, scaldandosi, trasmette il proprio calore
+all'aria. L'aria calda, essendo meno densa dell'ambiente circostante, sale di
+quota creando un gradiente di pressione di 2 millibar tra l'acqua alla terra.
+L'aria più fredda sopra l'acqua, avendo ora una pressione più alta di quella
+sopra la terra, fluisce nella bassa pressione dell'entroterra creando una
+brezza di mare vicino alla costa. Quando i venti su larga scala sono calmi, la
+forza della brezza è direttamente proporzionale alla differenza di temperatura
+tra la terra e l'acqua. Se c'è un vento di almeno 8 nodi (15 km/h) in alto
+mare, la brezza probabilmente non si svilupperà.
+
+Di notte accade il fenomeno opposto: la terra si raffredda più velocemente
+dell'acqua. Di conseguenza anche l'aria sopra la terra diventa più fredda di
+quella sopra l'acqua, aumentando di pressione. Quando la pressione dell'aria
+sopra la terra supererà quella dell'aria sopra l'acqua, l'aria sopra la terra
+sarà spinta a muoversi verso l'acqua, creando così la brezza di terra. Il
+fenomeno non ha luogo se il vento in mare è abbastanza forte da opporvisi.[45]
+
+Anche a quote più elevate il cambiamento della circolazione dell'aria è dovuto
+al gradiente di pressione provocato dalla differenza di riscaldamento
+dell'aria vicino al suolo, che si scalda più velocemente di quella più
+distante, anche se alla stessa quota, abbassando la pressione.[46][47]
+
+Nelle aree dove la topografia è così irregolare da interrompere il flusso dei
+venti più forti, la circolazione dell'aria tra montagne e valli è il più
+importante dei venti prevalenti regionali. Colline e valli, aumentando la
+frizione tra l'atmosfera e il suolo, distorcono notevolmente le correnti
+bloccando il flusso d'aria, deviandolo parallelamente alla parete montuosa e
+spingendolo verso monte in un fenomeno chiamato _barrier jet_ , che può
+aumentare i venti a bassa quota del 45%.[48] La direzione del vento cambia
+anche a causa del profilo del territorio.[49]
+
+Se c'è un passo nella catena montuosa i venti vi correranno attraverso a
+considerevole velocità a causa del principio di Bernoulli, che descrive una
+relazione inversa tra velocità e pressione. Il flusso d'aria può rimanere
+turbolento e irregolare sottovento per una certa distanza in pianura,
+condizione questa pericolosa per aeroplani in salita o discesa.[49] I venti
+freddi che accelerano tra le montagne possono avere nomi regionali, come il
+tehuantepecer o il papayago in America Centrale, o la bora, tramontana e
+maestrale europei. Quando questi venti soffiano in mare aperto aumentano il
+mescolamento dell'acqua di superficie, favorendone il raffreddamento e
+l'arricchimento di sostanze nutritive che portano a un aumento della vita
+marina.[50]
+
+Nelle aree montuose la distorsione dei flussi d'aria diventa importante,
+complice il terreno frastagliato che produce imprevedibili flussi d'aria e
+turbolenze come le onde orografiche, che possono essere sovrastate da
+altocumuli lenticolari. Forti ascendenze, discendenze e vortici si sviluppano
+quando il vento soffia su colline e valli. Le precipitazioni orografiche si
+verificano sul lato sopravento delle montagne e sono causate dall'aumento del
+moto di un grande flusso di aria umida attraverso la catena montuosa (flusso
+di pendio), provocando raffreddamento e condensazione adiabatici. Nelle aree
+montuose soggette a venti relativamente forti (come gli alisei), il lato
+sopravento delle montagne ha generalmente un clima più umido di quello
+sottovento. L'umidità viene rimossa dal sollevamento orografico, che in genere
+lascia un'aria più asciutta e calda nel lato sottovento, dove si può osservare
+un'ombra pluviometrica.[51]
+
+I venti che soffiano dalle montagne verso quote più basse sono conosciuti come
+venti di caduta. Questi venti sono caldi e asciutti, e il loro carattere
+regionale ha fatto sì che in tutto il mondo vengano chiamati con nomi diversi.
+Sulle Alpi sono conosciuti come favonio (o _föhn_ ), in Polonia _halny wiatr_
+, in Argentina _zonda_, a Giava _koembang_ , in Nuova Zelanda _Nor'est arch_ ,
+e vengono accompagnati dalla formazione di nubi che prendono il loro stesso
+nome e che hanno ispirato gli artisti nei secoli.[52] Nelle Grandi pianure
+degli Stati Uniti questi venti sono chiamati _chinook_. In California i venti
+discendenti, come il vento di Santa Ana e il _sundowner_ si incanalano nei
+passi montuosi intensificandosi. Le velocità di questi venti possono anche
+superare i 160 km/h.[53]
+
+Il _wind shear_ , a volte chiamato anche gradiente di vento, è la differenza
+di velocità e direzione del vento su una distanza relativamente breve
+dell'atmosfera terrestre.[54] Il _wind shear_ ha due componenti, una
+orizzontale, può essere riscontrata nei fronti meteorologici e in prossimità
+delle coste,[55] e una verticale, osservabile vicino alla superficie[56] e in
+prossimità delle correnti e dei fronti meteorologici a quote elevate.[57]. Il
+concetto riveste un'importanza notevole nell'ambito della meteorologia
+aeronautica.
+
+Il _wind shear_ di per sé è un fenomeno meteorologico su microscala che copre
+distanze molto brevi, ma può essere associato a fenomeni su mesoscala o su
+scala sinottica come le linee di groppo (o _squall line_ ) e fronti freddi.
+Comunemente viene osservato nelle vicinanze delle _microburst_ (raffiche
+discendenti) e _downburst_ causate da temporali,[58] fronti meteorologici,
+aree in cui il vento locale è particolarmente intenso, vicinanza alle
+montagne,[59] inversioni termiche causate da cieli limpidi e venti calmi,
+edifici,[60] turbine eoliche[61] e barche a vela.[62] Il _wind shear_ è un
+importante fattore di rischio nelle fasi di atterraggio e decollo dei
+velivoli,[63] ed è stato causa di diversi incidenti aerei che in alcuni casi
+hanno causato un elevato numero di vittime.[58]
+
+La propagazione del suono nell'atmosfera è influenzata dal _wind shear_ , che
+può flettere l'onda sonora, deviando la direzione del suono.[64] Lo sviluppo
+dei cicloni tropicali può essere inibito da forti _wind shear_ verticali nella
+troposfera,[65] i quali però aumentano la lunghezza del ciclo di vita dei
+temporali che può portare a condizioni meteorologiche estreme.[66] Il concetto
+del vento termico spiega come le differenze della velocità del vento in
+altezza dipendono dalle differenze di temperatura sull'asse orizzontale, e
+spiegano l'esistenza delle correnti a getto.[67]
+
+In molte culture il vento è stato personificato da uno o più dei o come
+manifestazione del soprannaturale. Vāyu è il dio indù del vento.[68][69] Tra
+gli dei del vento della mitologia greca (anemoi) troviamo Borea, Euro, Ostro e
+Zefiro.[69] Eolo, secondo diverse interpretazioni custode o sovrano dei venti,
+è anche stato chiamato Astreo, il titano che generò i tre venti[70] con Eos,
+dea dell'aurora. Gli antichi greci erano anche consapevoli del cambiamento
+stagionale dei venti, come evidenziato dalla Torre dei venti ad Atene.[69] Gli
+dei greci dei venti trovano corrispondenza con le divinità romane. Fūjin è il
+dio del vento giapponese e il più vecchio degli dei dello shintoismo. Secondo
+la leggenda era presente alla creazione del mondo e lasciò uscire i venti dal
+suo sacco per sgomberarlo dalla nebbia.[71] Nella mitologia norrena il dio dei
+venti era Njörðr,[69] mentre quattro _dvägar_ (nani), chiamati Norðri, Suðri,
+Austri e Vestri, probabilmente i Cervi di Yggdrasill, personificavano i
+quattro venti, un parallelo con la mitologia greca.[72] Stribog è il nome del
+dio del vento, del cielo e dell'aria nella mitologia slava. È considerato il
+nonno dei venti delle otto direzioni.[69]
+
+Con la parola giapponese Camikaze (神風), generalmente tradotta con
+l'espressione “vento divino”, ci si riferisce a un paio di tempeste che
+protessero il Giappone dagli attacchi marittimi dei mongoli di Kublai Khan nel
+1274 e nel 1281; quelle tempeste vennero considerate dai contemporanei un dono
+divino e fu probabilmente la prima volta in cui venne dato un nome a una
+tempesta.[73] Con l'espressione “vento protestante” si indicano invece un paio
+di tempeste: la prima impedì all'Invincibile Armata spagnola di invadere
+l'Inghilterra nel 1588 (i venti in questo caso giocarono un ruolo
+centrale),[74] la seconda invece, con i suoi venti favorevoli, permise a
+Guglielmo III di invadere l'Inghilterra nel 1688.[75] Durante la Campagna
+d'Egitto condotta da Napoleone i soldati francesi ebbero grosse difficoltà con
+il khamsin, un vento tipico del Sahara. Quando la tempesta apparve i locali
+andarono a ripararsi, mentre i francesi “non reagirono finché era troppo
+tardi, quindi soffocarono e svenirono nel muro di sabbia soffocante e
+accecante”.[76] Durante la Campagna del Nordafrica durante la Seconda guerra
+mondiale “le truppe alleate e tedesche vennero obbligati molte volte a
+sospendere la battaglia a causa delle tempeste di sabbia provocate dal khamsin
+[…]”.[77]
+
+Esistono molti tipi di imbarcazioni a vela, ma tutte hanno alcune cose
+fondamentali in comune. Escludendo le navi a rotore, che usano l'Effetto
+Magnus, ogni imbarcazione a vela è provvista di uno scafo, sartie e un albero
+che sostengono una vela che usa il vento forza motrice.[78] I viaggi
+attraverso l'oceano in barca a vela possono durare mesi,[79] e uno dei
+pericolo più comuni è quello della bonaccia (la mancanza di vento),[80] oppure
+di essere rovesciati da una forte tempesta o venti che non permettono
+l'avanzamento della nave nella direzione desiderata.[81] Una forte tempesta
+può portare al naufragio, che può causare anche la perdita di uomini
+dell'equipaggio.[82] Le imbarcazioni a vela possono trasportare solo una certa
+quantità di provviste nelle loro stive; i lunghi viaggi con questo tipo di
+imbarcazioni devono perciò essere pianificati con attenzione, e devono
+includere delle soste per rifornirsi sia di cibo sia di acqua.[83]
+
+Per quanto riguarda i velivoli che operano relativamente all'aria, i venti
+influenzano la velocità al suolo,[84] e in caso di velivoli più leggeri
+dell'aria, come le mongolfiere, il vento può giocare un ruolo significativo,
+oppure anche l'unico ruolo, nel movimento.[85] La velocità di superficie del
+vento è generalmente il primo fattore che governa la direzione delle
+operazioni di volo in un aeroporto, e le piste d'atterraggio sono allineate
+secondo la direzione più comune del vento locale. Generalmente in fase di
+decollo è preferibile avere il vento contro, dato che il vento a favore
+aumenta la distanza necessaria al decollo e diminuisce il gradiente di
+salita.[86]
+
+I singalesi di Anurādhapura e di altre città dello Sri Lanka usarono le forza
+dei venti dei monsoni per alimentare le fornaci dal 300 a.C.,[87] che venivano
+costruite a favore di vento allo scopo di portare la temperatura a 1200 °C.
+
+Una fonte del I secolo d.C. costituisce il primo riferimento a un rudimentale
+mulino a vento che era utilizzato per alimentare un organo.[88] I primi mulini
+funzionanti vennero costruiti a Sistan, in Afghanistan, nel VII secolo d.C.
+Questi erano mulini ad asse verticale composti da sei pale rettangolari[89]
+coperte da un tessuto di vimini o stoffa ed erano usati per la lavorazione di
+cereali e canna da zucchero, e per estrarre l'acqua dai pozzi.[90] I mulini ad
+asse orizzontale erano diffusamente utilizzati nell'Europa nord–occidentale
+per macinare la farina dagli anni 1180, e molti mulini olandesi esistono
+ancora. Oggi i mulini a vento sono utilizzati per produrre energia elettrica
+sfruttando la forza del vento. Le navi cargo risparmiano carburante usando
+l'energia cinetica del vento che viene trasformata in energia meccanica con
+l'utilizzo di grandi vele.[91]
+
+Il vento è essenziale in molti sport e attività ricreative come il volo con il
+deltaplano e la mongolfiera, gli aquiloni, lo snowkiting, il land boarding, il
+kitesurfing, il parapendio, la navigazione a vela e il windsurf. Per quanto
+riguarda il deltaplano e il volo a vela i gradienti di vento appena sopra la
+superficie influenzano il decollo e l'atterraggio dei velivoli. Se il
+gradiente di vento è importante o improvviso, oppure entrambi, e il pilota
+mantiene lo stesso angolo di salita, la velocità del velivolo aumenterà,
+verosimilmente eccedendo la massima velocità di decollo. Il pilota deve
+correggere la velocità per contrastare l'effetto del gradiente di vento.[92]
+In fase di atterraggio il _wind shear_ può costituire un pericolo, in
+particolare quando i vento sono forti. Quando il velivolo scende di quota
+attraverso il gradiente di vento apprestandosi ad atterrare, le velocità
+dell'aria diminuisce mentre l'angolo di discesa aumenta, e non c'è tempo
+sufficiente per accelerare prima del contatto al suolo. Il pilota deve così
+contrastare il gradiente di vento aumentando in anticipo la velocità del
+velivolo.[93]
+
+Energia eolica è l'energia cinetica prodotta dall'aria in movimento. Il totale
+di energia eolica che fluisce attraverso una superficie immaginaria _A_
+durante il tempo t è:
+
+dove _ρ_ è la densità dell'aria, _v_ è la velocità del vento; _Avt_ è il
+volume di aria che passa attraverso _A_ (che è considerato perpendicolare alla
+direzione del vento); _Avtρ_ è quindi la massa _m_ che passa per l'unità di
+tempo. Notare che _½ ρv2_ è l'energia cinetica dell'aria in movimento per
+unità di volume.
+
+La potenza è l'energia per unità di tempo, per l'energia eolica incidente su
+_A_ (ad esempio uguale all'area del rotore di una turbina eolica) è:
+
+L'energia eolica in una corrente d'aria aperta è quindi proporzionale alla
+terza potenza della velocità del vento: la potenza disponibile aumenta quindi
+di otto volte se la velocità del vento raddoppia. Turbine eoliche per la
+produzione di energia elettrica devono quindi essere particolarmente
+efficienti a una maggiore velocità del vento.
+
+L'energia eolica può essere interamente catturata da una turbina solo se la
+velocità del vento viene ridotta a zero. In uno scenario realistico ciò è
+impossibile, dato che l'aria passa attraverso la turbina senza fermarsi; di
+conseguenza è necessario considerare una relazione tra input e output della
+velocità del vento. Usando il concetto di tubo di flusso e applicando la Legge
+di Betz, la massima estrazione raggiungibile dell'energia eolica da una
+turbina è pari al 59% del totale dell'energia teorica.[95]
+
+Esistono però altri fattori che riducono l'assorbimento dell'energia cinetica,
+come la frizione delle pale dei rotori, perdite dovute alla meccanica del
+rotore, perdite dei generatori e convertitori, ecc. Approssimativamente le
+turbine eoliche riescono a sfruttare un terzo dell'energia che catturano.
+
+Altri progetti
+

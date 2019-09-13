@@ -1,0 +1,149 @@
+Nozione cardine della linguistica strutturale, dello strutturalismo filosofico
+e della semiotica, la struttura è una totalità di relazioni fra unità la cui
+descrizione scientifica prescinde dalle proprietà mostrate dalle unità
+stesse[1]. In questo senso il termine struttura presenta due accezioni[2]:
+
+La ricerca di strutture fonologiche, morfologiche, sintattiche, prosodiche,
+semantiche, narrative, poetiche, retoriche, culturali è accomunata dalla
+natura oppositiva e funzionale dei diversi sistemi di volta in volta
+ricostruiti. Si pone dunque il problema di uno studio tipologico delle
+opposizioni reperite in fase di analisi (privative, partecipative, polari,
+scalari, reciproche… )[3]. Greimas e Rastier propongono di riassumere la
+struttura fondamentale delle opposizioni nel quadrato semiotico: esso
+esplicita le relazioni di antonimia, contraddizione, iperonimia/iponimia,
+subcontrarietà che si danno tra elementi semplici[4].
+
+A partire da questo livello fondamentale, il percorso generativo rende conto
+della costituzione di strutture più complesse nei diversi campi menzionati.
+Quello di struttura appare allora come un concetto operativo: il carattere
+funzionale delle strutture permette loro di produrre configurazioni più
+complesse e trasformare le esistenti. Si tratta di una caratterizzazione della
+struttura che accomuna le principali correnti dello strutturalismo secondo il
+filosofo Gilles Deleuze[5], che generalizza concetti mutuati dalla linguistica
+strutturale come casella vuota, catena di trazione, catena di
+propulsione[6],[7].
+
+L’operatività della nozione di struttura permette di distinguere due modi di
+esistenza degli universi di senso: i sistemi semiotici (paradigmatiche, ad
+esempio, le lingue storico-naturali), contraddistinti dalla relazione (o … o …
+) tra i propri elementi, e i processi semiotici (sintagmatiche, ad esempio
+testi linguistici quali le voci di Wikipedia) contraddistinti dalla relazione
+(e … e …) tra i propri elementi[8].
+
+La nozione di struttura è legata alla natura relazionale dell’epistemologia
+semiotica: le differenze sono condizione di possibilità perché vi sia del
+senso. Le relazioni differenziali precedono gli elementi della lingua, i quali
+non sono dotati di identità positiva. L’esempio di Saussure concerne il
+genitivo femminile plurale di diverse lingue slave, che coincide con il tema
+nudo (-0). La differenza tra la presenza e l’assenza di una terminazione di
+caso è dunque sufficiente a manifestare il senso[9]. Inteso in questo senso,
+il concetto di struttura ha una duplice valenza:
+
+Nella prima accezione, _struttura_ si connette a termini tecnici della
+semiotica strutturale quali deduzione, induzione, generalizzazione, totalità,
+universali, forma, gerarchia, funzione. In quanto forma di un universo
+semantico la struttura è invece in relazione a termini come assiologia,
+ideologia, antonimia, iperonimia/iponimia, contraddizione[10].
+
+Ferdinand de Saussure[11] impiega il termine struttura in due accezioni:
+
+«Lenta cementificazione di elementi che, a contatto in un sintagma, hanno
+subito una sintesi che può spingersi fino al completo dileguo delle loro unità
+originali»
+
+«Organizzazione ottenuta in un sol colpo, in un atto di parole, con la
+riunione d’un certo numero di elementi tratte da diverse serie associative»
+
+Secondo Tullio De Mauro, è la prima nozione di struttura, intesa come
+raggruppamento sintagmatico, lineare, a prevalere in Saussure, e ad avere
+successo entro lo strutturalismo americano[12]. La seconda accezione rende
+esplicita la natura operativa della struttura nella generazione del processo a
+partire dagli elementi del sistema, e segnerà lo sviluppo dello strutturalismo
+europeo.
+
+Quanto alla tradizione americana, Leonard Bloomfield espone la nozione di
+_ordine strutturale_ , contrapposta nella sua oggettività all’ordine
+_descrittivo:_ quest’ultimo dipende dal metodo adottato e non dalla lingua
+stessa[13].
+
+È meramente descrittivo dire che il parlante per passare da “traccia” a
+“tracce” prima sostituisce “a” con “e” e poi elimina la “i”. È invece un fatto
+strutturale che la forma “traccia” somigli per certe caratteristiche e
+differisca per altre da “tracce”.
+
+Secondo Ernst Cassirer, i primi strutturalisti (Viggo Brøndal \- al quale
+Cassirer attribuisce l’elaborazione del “programma dello strutturalismo”-,
+Nikolaj Sergeevič Trubeckoj e Roman Jakobson), concepiscono la struttura
+linguistica come _sistema_ nel senso saussuriano di “insieme coerente”, ossia
+come totalità di elementi interdipendenti[14]. Tale concezione è rinvenibile
+anche in Antoine Meillet[15].
+
+John Rupert Firth, titolare dal 1944 al 1956 della prima cattedra di
+Linguistica Generale (istituita presso l’Università di Londra) nella storia
+della Gran Bretagna, adottò il termine _struttura_ per designare i rapporti
+sintagmatici saussuriani come, ad esempio, “consonante-vocale-consonante” e
+“preposizione-nome”[16].
+
+Data l’ampiezza del termine, la sua inevitabile equivocità che coinvolge
+regioni epistemologiche molto lontane, Hjelmslev impiega la parola
+“struttura”, ma non ne fornisce una definizione formale, preferendo
+distinguere tra la struttura del sistema (paradigmatica) e quella del processo
+(sintagmatica)[17]. La definizione è assente anche dagli _Elementi di
+semiologia_ di R. Barthes, che negli anni '60 compendia e popolarizza la
+teoria hjelmsleviana[18].
+
+A partire dal termine _quadru-plex_ otteniamo per associazione _quadrifrons,_
+_quadraginta_ ecc., ossia la serie delle parole che contengono la radice
+_quadr-_. Allo stesso modo, la desinenza _-plex_ genera le associazioni
+_multiplex,_ _simplex_ , _duplex_ ...
+
+Per quanto riguarda l'operatività, la concezione della struttura è mutata
+attraverso le stagioni dello strutturalismo: essa era vista come produzione a
+partire da una serie associativa in Saussure[19]. Tale concezione deve molto
+alla nozione psicologica di associazione; in Hjelmslev la struttura è
+piuttosto concepita come un’algebra, un puro calcolo (schema) presupposto
+dalla lingua di volta in volta intesa come norma, uso, atto[20]. Hjelmslev si
+rifà alle ricerche del positivismo logico, in particolare a quelle di Carnap,
+e della scuola di Leopoli-Varsavia, per quel che riguarda i lavori di Tarski e
+di Ajdukiewicz[21].
+
+A partire dagli anni '60, Greimas tenta di conciliare questa nozione di
+struttura sia con la grammatica generativa di Chomsky sia con la semantica
+generativa, sviluppata in alternativa da George Lakoff, nel tentativo di
+rendere conto degli oggetti semiotici attraverso i rispettivi modi di
+produzione[22]. Negli anni a cavallo tra i '60 e i '70, semiotici come Greimas
+e Lotman avvicinano il funzionamento della struttura a un algoritmo[23][24].
+Parallelamente, a partire dagli studi di Ross Quillian[25], Umberto Eco
+generalizza il modello della rete semantica alla descrizione del funzionamento
+della cultura[26].
+
+In seguito, Thom e Jean Petitot hanno proposto di oltrepassare la concezione
+logicista di struttura, avvertita come un limite, adottando una prospettiva
+matematizzante, attraverso la teoria delle catastrofi[27].
+
+La transizione dallo strutturalismo classico alla semiologia, negli anni '60,
+si accompagna a una discussione sul significato teorico del termine
+"struttura". A partire dalla semplice domanda: “Esistono le strutture?”,
+Umberto Eco distingue due possibili nozioni di struttura:
+
+Umberto Eco accusa i massimi esponenti dello strutturalismo (Lévi-Strauss,
+Derrida, Lacan) di propugnare surrettiziamente una concezione realista della
+struttura, in contraddizione con il principio saussuriano dell’arbitrarietà
+del segno che essi pongono a fondamento delle proprie ricerche[28].
+
+Prima di Umberto Eco, anche Galvano della Volpe aveva criticato Lévi-Strauss e
+Roland Barthes, la cui nozione di struttura, avulsa dalla storia, finirebbe
+per trasformare lo strutturalismo in ideologia[29]. Al contrario, la nozione
+linguistica di struttura è centrale nel tentativo di Galvano della Volpe di
+sottrarre il marxismo al proprio retaggio romantico e idealista nell’analisi
+della letteratura e delle arti[30]. Ferruccio Rossi-Landi concorda con della
+Volpe nel criticare Lévi-Strauss: la struttura lascia intravedere "un'umanità
+dotata di facoltà costanti, cioè con una coscienza sottratta al divenire
+storico"[31]. Polemizza tuttavia anche con Umberto Eco, il quale, nel
+criticare lo strutturalismo francese l'avrebbe sopravvalutato, testimoniando
+indirettamente l'ossequio della cultura italiana nei confronti di quella
+d'oltralpe. Per Rossi-Landi "(...) la struttura di fondo non è assente bensì
+_presente_ ", ed è quella dei "rapporti di produzione, al di sotto della quale
+non si può scendere senza che l'uomo storico cessi di essere oggetto del
+nostro discorso"[32].
+

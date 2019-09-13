@@ -1,0 +1,526 @@
+Al fine di comparire nella rubrica, è necessario che le voci rispondano a una
+serie di requisiti:
+
+**Valutazioni in corso** • **Voci da migliorare prima della valutazione**
+
+La presente rubrica è curata da utenti volontari. Il loro lavoro consiste
+prevalentemente: nell'andare alla ricerca di voci particolarmente curiose, di
+buona qualità e che rispondano ai requisiti sopra esposti; nel valutare le
+candidature che via via pervengono, commentando e proponendo eventuali
+migliorie; nel wikificare le voci approvate affinché siano presentabili per la
+_home page_ ; nel redigere i riassunti da pubblicare.
+
+Se vuoi collaborare, sei invitato ad aggiungere il tuo nome qui sotto
+cliccando qui:
+
+In questa sezione sono calendarizzate le **voci approvate** che fanno parte
+della versione attuale della rubrica, ovvero che compaiono nella pagina
+principale nel giorno corrispondente al numero che le individua nel
+_riepilogo_. Ogni voce compare nella pagina principale almeno due volte. Allo
+scopo di valutare se e quando ciò sia accaduto, nel _riepilogo_ è anche
+indicata la data in cui è stato aggiunto l'incipit della voce alla rubrica
+attraverso la modifica del template corrispondente.
+
+_**Esempio**_ : utilizzando un esempio per maggiore chiarezza, il testo in
+corrispondenza del numero 1 compare nella pagina principale il primo di ogni
+mese. In tal caso, prima di aggiornare il template corrispondente, si chiede
+di valutare se sono trascorsi almeno due primi del mese dalla data indicata
+accanto al tasto di modifica (naturalmente, l'attenzione deve essere prestata
+prevalentemente per i numeri compresi tra il 29 ed il 31 dal momento che i
+mesi non hanno uguale durata). Se ciò è accaduto, è possibile aggiornare il
+template selezionando una voce tra le candidature approvate; viceversa è
+necessario attendere il tempo necessario. Non appena il template è stato
+aggiornato con una voce presa tra quelle approvate, ricorda di aggiungere
+nella pagina di discussione della voce prescelta il template {{cronologia
+valutazioni| _azione1=LSC_ | _data1=mese anno_ }}.
+
+La durata del periodo tra la data di approvazione e l'effettiva pubblicazione
+può variare grandemente, in funzione del numero delle candidature approvate e
+della situazione presente nella calendarizzazione delle voci al momento
+dell'approvazione.
+
+ultima modifica 4 marzo 2019 modifica
+
+**99942 Apophis** (noto in italiano anche come **99942 Apòfi** e in passato
+con la designazione provvisoria **2004 MN 4**) è un asteroide near-Earth che
+ha causato un breve periodo di allarme nel dicembre 2004, in quanto le
+osservazioni iniziali indicavano una probabilità relativamente alta di
+collisione con la Terra nel 2029 (il 27 dicembre 2004 fu calcolata
+un'allarmante probabilità d'impatto di 1 su 37, ossia il 2,7%). Osservazioni
+successive hanno tuttavia permesso di effettuare una determinazione
+dell'orbita più precisa e nell'aprile-maggio 2013 si è esclusa la possibilità
+di un impatto.
+
+ultima modifica 26 giugno 2019 modifica
+
+Il **vaso risonante** , **vaso acustico** o **vaso sonoro** è un tipo di vaso
+incastonato nelle pareti e sotto il pavimento di alcuni edifici antichi e
+medievali. Sebbene la loro finalità non sia del tutto certa, si ritiene che
+avessero lo scopo di migliorare l'acustica degli edifici riducendo i tempi di
+riverbero.
+
+ultima modifica 3 gennaio 2019 modifica
+
+La **chiesa della Trinità** (in russo: Церковь Святой Троицы?) è una piccola
+chiesa ortodossa russa situata sull'Isola di re Giorgio nei pressi della
+stazione russa Bellingshausen in Antartide. È la chiesa ortodossa più
+meridionale del mondo.
+
+L'ambizioso progetto di erigere una chiesa permanente o un monastero sulla
+superficie antartica nacque negli anni novanta. Un'opera pia chiamata "Temple
+for Antarctica" (Храм - Антарктиде) fu approvata dal patriarca Alessio II e
+ricevette donazioni da tutta la Russia. Fu organizzato un appalto per il
+progetto che fu vinto dagli architetti di Barnaul P.I. Anisifirov, S.G. Rybak
+e A.B. Schmidt.
+
+ultima modifica 12 luglio 2018 modifica
+
+**Giuseppe Gasparo Mezzofanti** (Bologna, 19 settembre 1774 \- Roma, 15 marzo
+1849) è stato un cardinale, linguista e filologo italiano.
+
+È noto per le sue doti di iperpoliglotta: nel corso della sua vita riuscì a
+imparare 78 lingue più un numero imprecisato di dialetti.
+
+Nato in una famiglia di umili origini, dimostrò fin da piccolo una memoria
+superiore al comune, un fine orecchio musicale e una straordinaria capacità di
+apprendimento delle lingue straniere. Frequentò le Scuole Pie della sua città
+natale, dove entrò in contatto con molti missionari gesuiti stranieri, esuli
+nello Stato Pontificio a causa della soppressione della Compagnia di Gesù.
+Dialogando con loro apprese rapidamente lo svedese, il tedesco, lo spagnolo e
+varie lingue native americane. Studiò il greco antico sotto il gesuita
+spagnolo Manuel Rodríguez Aponte insieme a Clotilde Tambroni alla quale si
+legò di profonda amicizia.
+
+Entrato in seminario, terminò gli studi di filosofia e teologia prima dell'età
+minima richiesta per l'ordinazione presbiterale e si dedicò allo studio delle
+lingue orientali. Nel 1797, all'età di 23 anni, venne ordinato sacerdote e
+ricevette la cattedra di ebraico, arabo, lingue orientali e greco
+all'Università di Bologna. Nel 1798, con l'avvento di Napoleone in Italia e la
+nascita della Repubblica Cisalpina, Mezzofanti dovette lasciare la cattedra
+per essersi rifiutato di giurare fedeltà alla nuova costituzione e fu
+costretto a dare lezioni private per mantenersi.
+
+ultima modifica 4 marzo 2019 modifica
+
+Il **pozzo superprofondo di Kola** (in russo: Кольская сверхглубокая
+скважина?, traslitterato: _Kol'skaja sverchglubokaja skvažina_ ) è stato un
+progetto di perforazione della crosta terrestre condotto da un gruppo di
+scienziati sovietici dal maggio 1970 con l'obiettivo di studiare la geochimica
+e la geofisica dello strato di crosta sottostante.
+
+La perforazione venne effettuata impiegando l'impianto di perforazione Uralmaš
+4E e poi la Uralmaš della serie 15000.
+
+Il sito di scavo si trova a breve distanza dalla cittadina di Zapoljarnyj,
+nella parte centro-occidentale della penisola di Kola (oblast' di Murmansk);
+costituito da una serie di perforazioni differenti, nel 1989 raggiunse la
+profondità di 12 262 metri con un pozzo di 23 centimetri di diametro
+(perforazione SG-3), stabilendo un primato mondiale che, nonostante sia stato
+superato in quanto alla lunghezza del foro, rimane imbattuto per profondità
+verticale rispetto alla superficie terrestre.
+
+ultima modifica 27 febbraio 2019 modifica
+
+Il **Massacro dei Bretoni** , noto anche come **Sacco dei Bretoni** o **Strage
+di Cesena** , fu un eccidio commesso il 3 febbraio 1377 quando, nonostante si
+fosse arresa, venne uccisa la maggioranza della popolazione della città di
+Cesena dalle truppe mercenarie assoldate dallo Stato della Chiesa. Le diverse
+fonti danno cifre variabili da 4 mila a 5 mila vittime. L'eccidio ebbe
+risonanza in tutta Europa e fu una della più grandi stragi di civili della
+storia medievale.
+
+ultima modifica 5 novembre 2018 modifica
+
+**Michael Thomas Edwards** detto **Eddie** (Cheltenham, 5 dicembre 1963) è un
+ex saltatore con gli sci britannico. Soprannominato _The Eagle_ ( _L'aquila_
+), divenne celebre per essere stato il primo atleta britannico dal 1928 ad
+aver partecipato ai giochi olimpici invernali di Calgary 1988 nella specialità
+del salto con gli sci, dove giunse ultimo nelle gare dai trampolini K70 e K90.
+
+La sua storia è stata raccontata nel 2016 nel film biografico _Eddie the Eagle
+- Il coraggio della follia_.
+
+ultima modifica 10 luglio 2019 modifica
+
+La _**mock turtle soup**_ (in italiano "finta zuppa di tartaruga") è un piatto
+inglese. Come suggerisce il nome, si tratta di una variante, a base di
+frattaglie di vitello, dell'autentica zuppa di tartaruga verde, più costosa e
+pregiata.
+
+La finta zuppa di tartaruga venne inventata in Inghilterra durante la metà del
+Settecento, periodo in cui la zuppa di tartaruga era divenuta molto popolare
+grazie ai marinai che, partendo dalle Indie occidentali, esportavano sul suolo
+britannico vari esemplari di tartarughe verdi. All'apice della sua popolarità
+in Inghilterra, la zuppa di testuggine era apparsa in diverse ricette e ciò
+aveva spinto i navigatori a condurre Oltremanica 15.000 tartarughe vive
+all'anno. Tuttavia, tali animali erano molto costosi e il loro commercio
+avrebbe presto portato alla loro estinzione. Per ovviare a tale circostanza,
+fu ideata la ricetta della _mock turtle soup_ , ove la polpa di tartaruga
+viene sostituita dalle frattaglie del vitello e condita con vari ingredienti,
+fra cui le erbe aromatiche, che dovevano dare maggiore consistenza e sapore
+alla zuppa. Intanto l'originale zuppa, preparata con vera tartaruga, continuò
+a essere consumata dalle classi più abbienti e dalla nobiltà inglesi,
+diventando un classico della cucina vittoriana.
+
+ultima modifica 4 agosto 2019 modifica
+
+Il **Partito Polacco degli Amici della Birra** (in polacco: _Polska Partia
+Przyjaciół Piwa_ , abbreviato **PPPP** ) è stato un partito polacco di
+ispirazione satirica e liberale fondato nel 1990 dall'attore satirico Janusz
+Rewiński. In origine, l'obiettivo del partito era quello di promuovere la
+cultura della birra, da bere nei pub in stile inglese, invece della vodka e
+combattere così l'alcolismo.
+
+Il nome curioso di questo partito, creato durante la grande trasformazione
+politica della Polonia dopo la caduta del comunismo, portò molti cittadini
+polacchi a votarlo alle prime elezioni libere del 1991. All'epoca infatti gli
+elettori polacchi, delusi e pessimisti, avrebbero voluto cambiare, ma senza
+sapere esattamente cosa: molti sostenitori del PPPP promisero allora che con
+il loro partito al governo la situazione politica "non sarebbe certo divenuta
+migliore, ma di sicuro più divertente". Il PPPP ottenne così 16 seggi alla
+camera bassa del Parlamento polacco ( _Sejm_ ) ed entrò persino nel governo
+con un proprio ministro; dopo un paio d'anni però, le divisioni interne e il
+nuovo clima politico nazionale decretarono lo scioglimento del partito, il
+quale diede comunque lo spunto per fondare analoghi "partiti di amanti della
+birra" nei paesi dell'Europa orientale.
+
+ultima modifica 3 aprile 2019 modifica
+
+**Frederick Lorz** (New York, 5 giugno 1884 \- New York, 4 febbraio 1914) è
+stato un maratoneta statunitense, famoso soprattutto per aver tagliato per
+primo il traguardo della maratona alle Olimpiadi di Saint Louis 1904 barando,
+cosa che lo portò alla squalifica; successivamente, vinse in modo regolare la
+maratona di Boston del 1905.
+
+Tesserato per il Mohawk Athletic Club di New York, Lorz faceva il muratore e
+per questo motivo doveva allenarsi di notte dopo il lavoro. Aveva già
+partecipato alla maratona di Boston del 1903 e del 1904, piazzandosi
+rispettivamente in quarta e quinta posizione. Ottenne la possibilità di
+partecipare alle Olimpiadi di Saint Louis 1904 grazie a un buon piazzamento in
+una gara su una distanza di circa 14,5 km, che si tenne a New York il 13
+agosto 1904, poco tempo prima della maratona olimpica di Saint Louis, in
+programma il 30 agosto.
+
+ultima modifica 4 aprile 2019 modifica
+
+**Jimmy the raven** (in italiano: "Jimmy il corvo"), o anche **Jimmy the
+crow** o **Jim the Crow** (deserto del Mojave, circa 1936 – dopo il 1954), è
+stato un esemplare addestrato di corvo imperiale, apparso in oltre un migliaio
+di film fra gli anni trenta e gli anni cinquanta. Tra i suoi ruoli più noti,
+il corvo dello zio Billy ne _La vita è meravigliosa_ di Frank Capra e il corvo
+che si posa sullo Spaventapasseri ne _Il mago di Oz_ di Victor Fleming.
+
+ultima modifica 20 agosto 2018 modifica
+
+L' **effetto Mpemba** è il fenomeno fisico secondo il quale, esposta alla
+stessa temperatura esterna, una stessa quantità di acqua calda si raffredda
+più velocemente e solidifica prima di quella fredda.
+
+L'effetto era già noto nell'antichità, essendo stato descritto nella sua
+_Meteorologica_ da Aristotele nel IV secolo a.C.; tuttavia è tornato oggetto
+di studio solo a partire dal 1969, quando lo studente tanzaniano Erasto
+Mpemba, da cui prende il nome, lo ha riscoperto per caso.
+
+Non è ancora stata trovata una spiegazione soddisfacente per il fenomeno; un
+revisore del Physics World ha scritto: "Sebbene l'effetto Mpemba sia reale,
+non è chiaro se la spiegazione sia banale o illuminante."
+
+ultima modifica 3 agosto 2019 modifica
+
+Lo **stupa di ghiaccio** è una particolare tecnica per creare dei ghiacciai
+artificiali, creati per combattere la scarsità d'acqua causata dal
+riscaldamento globale della area Himalayana. Questi permettono di
+immagazzinare l'acqua di fusione, proveniente dai nevai formatisi nel periodo
+invernale (che altrimenti non sarebbe utilizzata), sotto forma di accumuli di
+ghiaccio a forma conica.
+
+Durante l'estate, quando l'acqua scarseggia, lo stupa di ghiaccio si scioglie
+naturalmente, aumentando la disponibilità di approvvigionamento idrico per le
+colture. Lo stupa di ghiaccio è stato inventato da Sonam Wangchuk in Ladakh
+(India) nell'ambito del progetto gestito dal _Students' Educational and
+Cultural Movement of Ladakh_ , una ONG del Ladakh che è iniziato nell'ottobre
+2013. Il test iniziale è stato avviato nel gennaio 2014 col nome _The Ice
+Stupa Project_. Il 15 novembre 2016, l'inventore ha ricevuto il _Rolex Awards
+for Enterprise_ per questa sua realizzazione.
+
+**Leggi la voce** · **Proponi un'altra voce**
+
+ultima modifica 25 luglio 2018 modifica
+
+Per **eremita ornamentale** o **eremita da giardino** si intende una persona
+che accettava di vivere in un eremo appositamente costruito nella villa di un
+ricco proprietario terriero.
+
+La moda degli eremiti ornamentali si diffuse a cavallo fra il diciottesimo e
+il diciannovesimo secolo fra l'aristocrazia inglese quando alcuni nobili
+iniziarono a "decorare" le proprie abitazioni con degli eremiti che vivevano
+in rudimentali abitazioni. Il compito dell'eremita ornamentale era quello di
+comparire in determinati periodi del giorno al fine di essere osservato dal
+suo padrone e dagli ospiti e, sebbene non potesse rivolgere la parola a
+nessuno, in alcune occasioni era tenuto a intrattenere l'interlocutore con
+discorsi filosofici. Gli eremiti ornamentali vengono citati in molte fonti per
+la loro stravaganza e sono considerati anticipatori dei nani da giardino.
+
+ultima modifica 25 aprile 2019 modifica
+
+Lo **Shri Swaminarayan Mandir** , noto anche come **Tempio di Neasden** , è un
+_mandir_ induista che sorge nell'omonimo distretto della periferia
+nordoccidentale di Londra.
+
+La sua costruzione, realizzata interamente a mano con tecniche antiche
+seguendo i dettami dell'Induismo, ha richiesto l'utilizzo di oltre ventimila
+blocchi di marmo, dapprima spediti in India per essere scolpiti a mano da
+artigiani scalpellini e successivamente inviati a Londra per l'assemblaggio.
+
+Terminato nel 1995, è uno dei sette templi induisti di Londra, nonché il più
+grande tempio induista del mondo al di fuori dell'India ed è regolarmente
+frequentato da numerosi fedeli e alcuni visitatori occasionali.
+
+ultima modifica 26 agosto 2019 modifica
+
+_**Leucochloridium paradoxum**_ è un verme parassita Platelminta della classe
+Trematoda che utilizza i gasteropodi come ospiti intermedi. Si trova in genere
+nelle chiocciole terricole del genere _Succinea_ che vivono in Europa e Nord
+America, alle quali invadono le antenne oculari, colorandole a bande pulsanti
+bianche e verdi, rendendole simili a bruchi o vermi. Gli uccelli passeriformi
+così attirati li mangiano, diventando a loro volta ospiti per le larve di _L.
+paradoxum_ che giunte nel loro intestino maturano, si riproducono e rilasciano
+nel retto dei volatili le loro uova. Queste vengono successivamente escrete
+nell'ambiente con le feci che, ingerite accidentalmente dalle chiocciole
+assieme all'erba di cui si nutrono, consentiranno al parassita di ricominciare
+il suo ciclo vitale.
+
+ultima modifica 10 novembre 2018 modifica
+
+Il **pan di zucchero** o **cono di zucchero** è la tradizionale forma a cono
+con la punta arrotondata utilizzata per la produzione e vendita dello zucchero
+raffinato fino alla fine del XIX secolo, quando venne introdotto lo zucchero
+semolato (cioè macinato e ridotto in polvere) o in zolletta.
+
+Il cono di zucchero con punta arrotondata era il prodotto finale del processo
+di raffinazione della melassa scura, importata dalle regioni di coltivazione
+della canna da zucchero (Caraibi e Brasile), che la faceva diventare zucchero
+bianco: dopo l'ebollizione finale, il prodotto veniva granulato e infine
+raffreddato in stampi di forma conica e capovolti, da cui la forma del panetto
+di zucchero.
+
+Il pan di zucchero viene ancora prodotto per usi tradizionali in alcuni paesi,
+come ad esempio in Germania, Iran e Marocco.
+
+ultima modifica 7 ottobre 2018 modifica
+
+**Sergente Stubby** (1916/1917 \- 16 marzo 1926, in inglese: _Sergeant Stubby_
+) è stato un cane che ha prestato servizio nell'esercito statunitense durante
+la prima guerra mondiale.
+
+Fu il cane da guerra più decorato e l'unico ad essere stato promosso al rango
+di sergente dell'esercito statunitense per meriti in combattimento, come
+riportato anche dalla Smithsonian Institution. Fu la mascotte ufficiale del
+102nd Infantry Regiment, assegnato alla 26th (Yankee) Division. Stubby prestò
+servizio per 18 mesi e prese parte a diciassette battaglie sul Fronte
+occidentale. Ebbe il merito di salvare il suo reggimento da una serie di
+attacchi a sorpresa con gas asfissiante, venendo ferito diverse volte e
+catturando persino un prigioniero tedesco sino all'arrivo di un soldato
+americano. Al suo ritorno in patria divenne una celebrità anche per la
+pubblicità mediatica che gli venne fatta.
+
+ultima modifica 22 agosto 2019 modifica
+
+**John Anthony Walker Jr.** (Washington, 28 luglio 1937 \- Butner, 28 agosto
+2014) è stato un militare statunitense, impegnato in attività di spionaggio a
+favore dell'Unione Sovietica tra il 1967 e il 1985 in piena guerra fredda.
+Sottufficiale della United States Navy e specialista in comunicazioni, Walker
+si offrì spontaneamente di passare informazioni riservate ai sovietici in
+cambio di denaro. In quella che fu definita come «la più importante vittoria
+spionistica di tutta la storia del KGB» e «la più dannosa operazione di
+spionaggio sovietica della storia», Walker passò ai servizi segreti sovietici
+migliaia di documenti segreti semplicemente fotocopiandoli durante i suoi
+normali turni di servizio notturni in sala comunicazioni; quando nel 1976 si
+congedò dalla Marina, Walker continuò la sua attività spionistica reclutando
+un amico, il fratello e il figlio, tutti parimenti arruolati nella US Navy. I
+documenti forniti da Walker diedero ai sovietici enormi vantaggi nella
+competizione militare contro gli Stati Uniti, sia sul piano della ricerca
+tecnologica sia in quello della decifrazione delle comunicazioni in codice.
+
+Denunciato dall'ex moglie Barbara, Walker fu arrestato dall'FBI il 20 maggio
+1985; in cambio della sua collaborazione per smascherare gli altri membri del
+circolo spionistico e di uno sconto di pena per il figlio, Walker patteggiò
+una condanna all'ergastolo. Affetto da diabete e cancro alla gola, morì quindi
+in prigione nel 2014.
+
+ultima modifica 9 settembre 2019 modifica
+
+**Alfonsa Morini** , nota con il nome da coniugata **Alfonsina Strada**
+(Castelfranco Emilia, 16 marzo 1891 \- Milano, 13 settembre 1959), è stata una
+ciclista su strada italiana, prima donna a competere in gare maschili come il
+Giro di Lombardia e il Giro d'Italia; è ritenuta tra le pioniere della
+parificazione tra sport maschile e femminile.
+
+ultima modifica 7 ottobre 2018 modifica
+
+L' _ **Old Man of the Lake**_ (traducibile in _vecchio del lago_ ) è un fusto
+d'albero, in origine appartenuto probabilmente a una tsuga, che galleggia
+verticalmente nel lago Crater, situato nell'omonimo parco nazionale in Oregon,
+negli Stati Uniti d'America. L' _Old Man of the Lake_ , che si presume
+galleggi sulla superficie del lago dal 1896, non è radicato sul fondo; i suoi
+movimenti sono dovuti ai moti ondosi e al vento, e quindi impossibili da
+prevedere. Questo fattore costringe i capitani delle imbarcazioni che navigano
+il lago Crater a comunicarsi reciprocamente e periodicamente la posizione del
+moncone per questioni di sicurezza.
+
+ultima modifica 26 luglio 2019 modifica
+
+Il **re dei ratti** ( _Rattenkönig_ in tedesco, _roi de rats_ in francese) è
+un termine folkloristico per riferirsi a un insieme di roditori (generalmente
+ratti, ma più raramente può capitare anche tra i topi o tra gli scoiattoli)
+legati insieme dalla coda e ritrovati in questa posizione una volta deceduti o
+più raramente mentre ancora in vita.
+
+Questo fenomeno è molto raro e si verifica quando le code vengono unite da
+materiale appiccicoso, come gomma o colla, oppure attraverso capelli, peli o
+altro materiale come feci, sangue o sporcizia. Il numero di animali che
+compone un re dei ratti può anche arrivare a 30 esemplari (il record è di 32
+ratti, esemplare conservato al Museum Mauritanum di Altenburg, Turingia.
+Storicamente, il ritrovamento di un re dei ratti si associa a eventi negativi,
+come la diffusione della peste (probabilmente dall'osservazione che l'aumento
+del numero dei ratti si associava a una presenza maggiore della patologia).
+
+ultima modifica 26 novembre 2018 modifica
+
+Il **manoscritto Voynich** è un codice illustrato risalente al XV secolo (la
+datazione al radiocarbonio ha stabilito con quasi totale certezza che il
+manoscritto sia stato redatto tra il 1404 e 1438), scritto con un sistema di
+scrittura che a tutt'oggi non è stato ancora decifrato. Il manoscritto
+contiene anche immagini di piante che non sono identificabili con alcun
+vegetale noto e l'idioma usato nel testo non appartiene ad alcun sistema
+alfabetico/linguistico conosciuto. È stato definito da più parti come «il
+libro più misterioso del mondo».
+
+Il manoscritto, del quale esistono oggi copie anastatiche disponibili online,
+oltre alla scansione integrale gratuita in formato pdf, è stato donato da Hans
+P. Kraus e dal 1969 conservato presso la Biblioteca Beinecke di manoscritti e
+libri rari dell'Università di Yale (Stati Uniti), dove reca il numero di
+inventario «Ms 408».
+
+ultima modifica 1 gennaio 2019 modifica
+
+La _**Grand Prismatic Spring**_ (letteralmente: _Grande Sorgente Prismatica_ )
+nel Parco nazionale di Yellowstone è la più grande sorgente calda negli Stati
+Uniti, e la terza più grande del mondo, dopo Frying Pan Lake in Nuova Zelanda
+e Boiling Lake in Dominica. Essa si trova nel _Midway Geyser Basin_ ed è
+situata a circa 12 chilometri a Nord del celebre geyser Old Faithful.
+
+La sorgente venne denominata così dai geologi della spedizione Hayden del 1871
+per via della sua sorprendente colorazione. I suoi colori brillanti sono in
+parte dovuti alla presenza di organismi termofili e sono simili a quelli di un
+arcobaleno generati dalla dispersione della luce bianca da parte di un prisma
+ottico: rosso, arancione, giallo, verde e blu.
+
+ultima modifica 4 settembre 2018 modifica
+
+L' **esperimento del caffè di Gustavo III di Svezia** fu un esperimento
+condotto nel XVIII secolo su due gemelli e ordinato dal re svedese per
+studiare gli effetti del caffè sulla salute umana. Anche se alcuni ritengono
+dubbia l'autenticità dell'esperimento in questione, la prova non riuscì a
+dimostrare che il caffè fosse una bevanda pericolosa.
+
+ultima modifica 7 novembre 2018 modifica
+
+Il **London Bridge** di Lake Havasu City è un ponte ad arco situato nei pressi
+del lago Havasu in Arizona. Inaugurato nel 1971, si tratta in realtà del
+vecchio London Bridge di Londra, costruito nel 1831, che nel 1968 fu smontato
+e venduto all'imprenditore americano Robert P. McCulloch, che lo trasportò
+negli Stati Uniti e lo ricostruì nella sua sede attuale.
+
+ultima modifica 17 maggio 2019 modifica
+
+**Tarzan di Magnesia** , pseudonimo di **Ahmet bin Carlak** (Samarra, 1899 \-
+Magnesia, 31 maggio 1963), è stato un ambientalista turco che visse sulla
+montagna dello Spil Dağı vicino a Magnesia, nella Turchia occidentale, per 40
+anni. Il "Tarzan di Magnesia" (in turco: _Manisa Tarzanı_ ) è considerato il
+primo ambientalista della Turchia; ricevette questo soprannome a causa del suo
+abbigliamento succinto e della sua vita a contatto con la natura. Carlak si
+faceva chiamare _Ahmet Bedevi_ ("il beduino Ahmet").
+
+ultima modifica 18 agosto 2018 modifica
+
+**Mulay Ismāʿīl ibn ʿAlī al-Sharīf** (Sigilmassa, 1645 \- Meknès, 22 marzo
+1727) è stato un sultano marocchino della dinastia alawide che regnò dal 1672
+al 1727.
+
+Era il settimo figlio del fondatore della dinastia alawide Sharif ibn Ali.
+Servì come governatore di Meknès dal 1667 fino alla morte del suo
+fratellastro, il sultano Mulay al-Rashid, avvenuta nel 1672. Dopo la morte del
+fratello, Mulay Isma'il venne quindi proclamato sultano del Marocco a Fès, ma
+si dovette confrontare con vari pretendenti al trono, quali il nipote Ahmad
+ibn Mehrez (con cui rimarrà in guerra per quindici anni, fino alla morte di
+quest'ultimo, avvenuta nel 1687) e i fratelli Mulay Harran, Mulay Ahmad e
+Mulay Hashim.
+
+Mantenne il controllo su una flotta di corsari con sede a Salé, che lo rifornì
+di schiavi cristiani e armi grazie alle loro scorrerie nel Mediterraneo e nel
+Mare del Nord. Ciò non gli impedì di stabilire importanti relazioni
+diplomatiche con le potenze straniere, in particolar modo con la Francia e il
+Regno Unito. Mulay Isma'il venne soprannominato il "re sanguinario" dagli
+europei a causa della sua spietatezza.
+
+Secondo gli scritti del diplomatico francese Dominique Busnot, Mulay Isma'il
+aveva almeno 500 concubine e centinaia di figli. Un totale di 867 figli, di
+cui 343 femmine 525 maschi sono menzionati nel 1703, altre fonti invece dicono
+che avrebbe avuto il suo settecentesimo figlio nel 1721 e più di un migliaio
+di bambini verso la fine del suo regno, 1042 secondo il Guinness dei primati,
+1171 secondo due ricercatori antropologi dell'Università di Vienna.
+
+ultima modifica 24 settembre 2018 modifica
+
+Nonostante generalmente si pensi che gli astronauti siano persone dalla salute
+perfetta, selezionati perché resistenti a chinetosi quali il mal di mare o il
+mal d'aria, l'80% di essi manifesta, in modo da lieve a serio, i sintomi del
+**mal di spazio** o **sindrome da adattamento allo spazio** (SAS), ovvero una
+sensazione di disturbo sperimentata nell'adattamento all'assenza di peso che
+può indurre vomito, diarrea, mancanza di appetito, cefalea e malessere diffuso
+per un periodo compreso tra le 12 e le 72 ore dopo qualche ora dall'ingresso
+in orbita.
+
+Raramente proposta nelle immagini pubbliche, fu identificata dai sovietici
+nalla loro seconda missione umana nello spazio, con German Titov; rimase
+invece ignota agli statunitensi fino alla prima missione lunare del Programma
+Apollo, quando fiaccò il comandante Frank Borman nel viaggio verso la Luna. Ad
+ogni modo, la NASA non riuscì ad avere un quadro adeguato della sindrome se
+non con le missioni Skylab prima e Shuttle poi.
+
+Rimane un ostacolo allo sfruttamento a scopo commerciale dello spazio, perché
+sa rendere poco piacevole l'esperienza turistica di una breve permanenza in
+orbita. È trattata con terapie farmacologiche parzialmente efficaci, che
+generalmente inducono sonnolenza come effetto collaterale.
+
+ultima modifica 19 marzo 2019 modifica
+
+Il _**Busto di Lenin**_ è un monumento situato a Cavriago, in provincia di
+Reggio nell'Emilia. Dedicato a Lenin, il busto venne donato alla cittadina
+emiliana dall'Unione Sovietica in segno di ringraziamento. Considerato uno dei
+pochi monumenti dedicati al leader bolscevico della Rivoluzione d'ottobre
+collocato in un luogo pubblico nell'Europa occidentale durante la guerra
+fredda, è una popolare meta turistica.
+
+ultima modifica 27 agosto 2018 modifica
+
+Lo _**hákarl**_ ['haukartˡɬ] (in lingua islandese: _squalo_ ), noto anche come
+**kæstur hákarl** ['kaisdʏr ''haukartˡɬ] ( _squalo fermentato_ oppure
+erroneamente _squalo putrefatto_ ), è un cibo tipico della cucina islandese.
+
+La tradizione islandese racconta che le origini dell'hákarl risalgono al 1601
+nei pressi nell'insediamento di Asparvík, a nord del fiordo di Bjarnarfjörður.
+Fu una scoperta fortuita, dal momento che lo squalo era stato da sempre
+considerato velenoso. In quell'anno uno squalo venne tirato a terra e lasciato
+a marcire, dopodiché qualcuno pensò di appenderlo ad asciugare, ma nessuno
+ebbe il coraggio di assaggiarlo a causa della puzza. A questo punto, la storia
+continua raccontando che il magistrato della contea e i suoi compari erano
+soliti chiedere cibo ovunque essi andassero, anche ai contadini che non
+fossero in grado di nutrire la propria famiglia. Così un giorno un contadino
+lo invitò alla baracca di legno per assaggiare lo squalo e nessuno si
+preoccupò di pensare che si sarebbe potuto rivelare come velenoso: al
+contrario, il magistrato e i suoi uomini, che soffrivano tutti di scorbuto e
+dissenteria, a distanza di una settimana dopo aver mangiato lo squalo si
+trovarono tutti in ottima salute.
+

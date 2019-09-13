@@ -1,0 +1,372 @@
+In fisica, la **forza di Coriolis** è una forza apparente, a cui risulta
+soggetto un corpo quando si osserva il suo moto da un sistema di riferimento
+che sia in moto rotatorio rispetto a un sistema di riferimento inerziale.
+
+Descritta per la prima volta in maniera dettagliata dal fisico francese
+Gaspard Gustave de Coriolis nel 1835,[1][2] la forza di Coriolis dipende,
+anche come direzione, dalla velocità del corpo rispetto al sistema di
+riferimento rotante.[3] È alla base della formazione dei sistemi ciclonici o
+anticiclonici nell'atmosfera[4] e ha effetti non trascurabili in tutti i casi
+in cui un corpo sulla Terra si muova ad alta velocità su lunghi percorsi, come
+per esempio nel caso di proiettili o di missili a lunga gittata.
+
+Meno comunemente il manifestarsi di questa forza apparente è indicato anche
+con l'espressione **effetto Coriolis**.
+
+In termini matematici, la forza di Coriolis ha la forma seguente, che segue
+dalla definizione dell'omonima accelerazione nel teorema di Coriolis e dal
+secondo principio della dinamica di Newton:
+
+Le lettere in grassetto sono quantità vettoriali. **F** _C_ è la forza di
+Coriolis, _m_ è la massa del corpo che si muove con velocità **v** rispetto al
+sistema di riferimento non inerziale rotante,  × {\displaystyle \times } ![
+\\times
+](https://wikimedia.org/api/rest_v1/media/math/render/svg/0ffafff1ad26cbe49045f19a67ce532116a32703)
+rappresenta il prodotto vettoriale e **ω** è la velocità angolare del sistema
+non inerziale, misurata rispetto a un sistema inerziale. Esplicitando la
+dipendenza dall'angolo  ϕ {\displaystyle \phi } ![\\phi
+](https://wikimedia.org/api/rest_v1/media/math/render/svg/72b1f30316670aee6270a28334bdf4f5072cdde4)
+formato dall'asse di rotazione del sistema di riferimento con la direzione
+della velocità del corpo, l'intensità della forza vale:
+
+L'animazione è una rappresentazione schematica dell'effetto Coriolis, in cui
+un oggetto si muove rispetto a un disco rotante senza che vi sia attrito tra
+le due parti. In assenza di forze esterne, il corpo si muoverà di moto
+rettilineo uniforme, se osservato da un sistema di riferimento inerziale,
+svincolato dal disco; se osservato da un sistema di riferimento solidale con
+il disco in rotazione, invece, sembrerà percorrere una traiettoria curva. In
+questo secondo caso, l'osservatore concluderà che sull'oggetto agisce una
+forza. L'effetto è lo stesso che si produrrebbe con l'applicazione di una
+forza trasversale alla direzione del moto, per questo motivo si parla di forza
+di Coriolis. Si tratta di una "forza apparente", poiché dipendente unicamente
+dal moto dell'osservatore rispetto al riferimento inerziale, e non dall'azione
+di qualche altro oggetto o di un campo di forze.
+
+È anche possibile interpretare il fenomeno come un "ritardo" del moto
+dell'oggetto rispetto a quello del disco: per un osservatore in un sistema di
+riferimento inerziale, la velocità tangenziale del disco aumenta in misura
+proporzionale alla distanza dal centro, mentre la velocità dell'oggetto rimane
+costante. Sulla Terra la situazione è analoga per un corpo in moto in
+direzione longitudinale (Nord-Sud): la distanza dall'asse terrestre (l'analogo
+dell'asse di rotazione del disco nell'esempio precedente) è nulla ai poli e
+massima all'equatore. Dato che la Terra ruota da ovest verso est, se dal Polo
+Nord oppure dal Polo Sud ci dirigiamo inizialmente verso l'Equatore, finiremo
+per essere "in ritardo" sulla rotazione e dunque il nostro moto acquisterà una
+componente verso ovest. Se, viceversa, dall'equatore andiamo verso uno dei due
+poli, saremo "in anticipo" e acquisiremo una componente del moto verso est.
+Precisiamo che, al di là di questa rappresentazione intuitiva e parziale dal
+fenomeno, la forza di Coriolis si manifesta anche se inizialmente il moto non
+è longitudinale (e, nel caso del disco, anche se non è radiale).
+
+Per rappresentare adeguatamente l'effetto Coriolis si può utilizzare uno
+specchio di mercurio rotante, come quelli realmente impiegati in astronomia.
+La superficie di una vasca di mercurio rotante assume la forma di un perfetto
+specchio parabolico. Ogni particella di mercurio è in uno stato di equilibrio
+dinamico in cui la forza centrifuga è proporzionale alla distanza dal centro.
+Tutto il mercurio ruota con lo stesso periodo, come un'unica massa. Un oggetto
+che galleggi ovunque sul mercurio si collocherebbe anch'esso in equilibrio
+dinamico, trascinato in rotazione dal metallo. Questo è ottimale per il
+manifestarsi dell'effetto Coriolis.
+
+Per prima cosa si consideri la situazione in cui un oggetto, per esempio un
+piccolissimo hovercraft, sia sospeso sulla superficie del mercurio senza
+attrito, supponendo trascurabile anche l'attrito dell'aria. L'oggetto, non
+interagendo con la superficie non ne è trascinato, quindi consideriamo
+solamente il profilo del mercurio, non la sua rotazione. Dal punto di vista di
+un sistema inerziale, quando l'hovercraft è lasciato andare da una posizione
+prossima al bordo della vasca, esso comincerà a oscillare da un lato all'altro
+della superficie (che ricordiamo ha forma concava).
+
+Il moto dell'hovercraft è formato da due moti oscillatori indipendenti lungo
+assi ortogonali, per esempio nord/sud ed est/ovest, dello stesso periodo della
+rotazione del mercurio. A seconda delle condizioni iniziali (posizione e
+velocità con cui l'hovercraft è lasciato libero), il moto risultante seguirà
+una traiettoria della forma di un segmento, di un'ellisse o, nel caso di una
+perfetta simmetria, di un cerchio. Considerare la traiettoria ellittica come
+combinazione di due moti armonici aiuta a comprendere la fisica sottostante al
+fenomeno e a visualizzare la velocità non costante dell'oggetto nel seguire
+una traiettoria ellittica.
+
+La superficie del mercurio è equipotenziale perciò, per ogni volumetto di
+mercurio sulla superficie si deve avere che il potenziale generalizzato _per
+unità di massa_ (somma del potenziale della forza centrifuga _U c_ e della
+forza gravitazionale _U g_) sia costante:
+
+Ponendo a 0 la costante _c_ , che equivale a porre a 0 la quota alla quale
+l'energia potenziale gravitazionale è nulla, ed esplicitando rispetto alla
+quota _z_ , otteniamo il profilo della superficie:
+
+Notiamo che è una superficie radiale, corrispondente a un paraboloide di
+rotazione con vertice nell'origine e diretto verso l'alto. Per un corpo
+sospeso sulla superficie, l'energia potenziale gravitazionale è data da:
+
+Dato che la forza di gravità è l'unica ad agire sull'hovercraft, essa è data
+dal gradiente dell'energia potenziale cambiato di segno:
+
+Risolvendo le due equazioni differenziali del secondo ordine si ottengono due
+moti armonici disaccoppiati lungo gli assi:
+
+dove _A_ e _B_ sono le ampiezze dei moti e _φ_ e _ψ_ sono le fasi, da
+determinare dalle condizioni iniziali.
+
+Si consideri la situazione in cui l'hovercraft si muova lungo la traiettoria
+ellittica con un periodo identico a quello di rotazione del mercurio. In
+questo caso l'unica forza che influenza il moto è la forza centripeta prodotta
+per effetto dell'inclinazione della superficie.
+
+Quando l'hovercraft si trova in una delle posizioni _B"', la sua velocità è
+inferiore a quella per la quale si avrebbe, per quella distanza dal centro di
+rotazione, l'equilibrio tra forza centripeta e centrifuga. Si ha quindi una
+prevalenza di forza centripeta che accelera l'hovercraft verso il centro del
+disco. Alla posizione_ B _l'hovercraft sta guadagnando velocità e la forza
+centripeta sta compiendolavoro consistente nell'incremento dell'energia
+cinetica di rotazione dell'hovercraft. In posizione _C _l'hovercraft si muove
+più velocemente della velocità di equilibrio per quella distanza da centro,
+per cui si ha un difetto di forza centripeta e l'hovercraft, non più
+trattenuto, tende ad allontanarsi dal centro. Nelle posizioni_ D _l'hovercraft
+risale l'inclinazione perdendo velocità ed energia cinetica, che viene
+convertita in energia potenziale._
+
+Dal punto di vista di una telecamera solidale al disco rotante, l'unico
+movimento percepibile è quello dovuto alla differenza tra l'orbita circolare e
+l'orbita ellittica. L'hovercraft appare muoversi su una piccola traiettoria
+circolare in prossimità del punto in cui è stato rilasciato. Per ogni
+rivoluzione del sistema rotante l'hovercraft compie due rotazioni. Dal punto
+di vista matematico questa traiettoria circolare può essere ottenuta
+sottraendo una traiettoria circolare da una ellittica concentrica. La dinamica
+dell'eccentricità di una traiettoria ellittica è chiamata dinamica di
+Coriolis.
+
+La forza che compie il lavoro è diretta parallelamente all'asse di rotazione
+dello specchio rotante. Nell'esempio descritto si tratta della forza
+gravitazionale terrestre. L'espressione _forza di Coriolis_ in questo caso è
+una semplificazione di termini che riassume una dinamica complessa.
+
+Facendo una analogia tra la dinamica di Coriolis su uno specchio parabolico e
+sulla terra, ovvero se fosse possibile sospendere un oggetto sulla superficie
+terrestre senza alcun attrito, cosa accadrebbe? È stato calcolato come esempio
+che alla latitudine di 43° si avrebbe un moto circolare su un'orbita di 100 km
+in quasi 14 ore, a una velocità di 10 m/s.[5]
+
+Si consideri ora il caso in cui siano presenti degli attriti. I due sistemi
+coinvolti sono il sistema di riferimento inerziale e il sistema rotante. La
+direzione in cui si manifesta la forza di inerzia è determinata dalla
+direzione dell'accelerazione rispetto al sistema di riferimento inerziale, che
+è un punto di riferimento non rotante. Nel caso specifico il sistema rotante è
+il mercurio con l'oggetto in contatto con la sua superficie. Normalmente il
+vettore della forza d'inerzia e quello di trascinamento prodotto dall'attrito
+puntano nella stessa direzione, ma non quando sia implicato un sistema in
+rotazione.
+
+Quando alla dinamica del sistema viene aggiunto un attrito tra mercurio e
+hovercraft, l'orbita ellittica si riduce progressivamente a una forma
+circolare.
+
+Per l'osservatore solidale con il sistema rotante, l'orbita circolare di prima
+diventa un moto a spirale verso il centro. Si ha interazione tra i due
+sistemi: il trascinamento cambia un equilibrio dinamico, l'orbita ellittica,
+in un altro equilibrio dinamico, l'orbita circolare.
+
+Si ipotizzi ora che un dispositivo co-rotante prelevi una quantità di
+mercurio, creando un abbassamento locale di livello. Il mercurio comincerà
+naturalmente a fluire da ogni direzione per colmare il vuoto.
+
+Definiamo ora nord il centro del disco, sud il bordo, ovest il senso orario ed
+est il senso antiorario.
+
+Il mercurio che inizialmente fluisce in senso radiale in direzione nord
+diminuisce la sua velocità tangenziale (Velocità tangenziale=ω*R dove ω è la
+velocità angolare e R il raggio ovvero la distanza dall'asse di rotazione) e
+deflette quindi verso destra. Viceversa il liquido che fluisce verso sud
+incrementa la sua velocità tangenziale e deflette verso la sua destra. Questo
+caso corrisponde al modello della sedia rotante precedentemente descritta in
+cui le masse vengono avvicinate o allontanate per effetto di una forza
+radiale.
+
+Il fluido in movimento verso est, nel senso di rotazione del disco, si sta
+muovendo a una velocità superiore alla velocità di equilibrio, per cui tende a
+risalire verso sud per allargare la sua traiettoria e il risultato è una
+deflessione verso destra. Il fluido in movimento verso ovest ha una velocità
+inferiore a quella di equilibrio e tende perciò ad avvicinarsi al nord e
+ancora si ha una deflessione verso destra. Questo caso equivale all'esempio
+della sedia rotante in cui viene applicato un momento dall'esterno, in questo
+caso costituito dal gradiente di livello del fluido.
+
+Questa serie di eventi porta a quello che in meteorologia è la legge di Buys-
+Ballot. Il risultato è che il mercurio intorno alla depressione tende ad
+assumere un movimento a spirale. Se il bacino ruota in senso antiorario,
+allora anche il vortice ruota in senso antiorario. (Nell'esempio precedente di
+moto non vincolato, la rotazione antioraria si rifletteva in una apparente
+rotazione oraria dell'oggetto rispetto al sistema rotante).  
+La forza causata dalla depressione nel mercurio provoca la deflessione verso
+sinistra, mentre senza questo effetto sarebbe verso destra.
+
+Se il vortice si contrae, come imposto dalle forze centripete descritte,
+allora la velocità angolare aumenta. L'attrito tende a frenare il vortice, ma
+la presenza delle forze che causano la contrazione ha l'effetto di mantenere
+alta la velocità di rotazione.
+
+Per avere un moto circolare stabile rispetto al riferimento inerziale,
+l'intensità della forza centripeta deve essere: _F_ = _mωv_ (dove _ω_ è la
+velocità angolare).
+
+Nel caso del vortice sul mercurio ruotante, l'intensità della forza inerziale
+è determinata dalla velocità reale rispetto al sistema inerziale. Quando
+questa è espressa relativamente al sistema rotante, la forza è data da: _F_ =
+2 _mωv_. (dove _ω_ è la velocità angolare e _v_ è la velocità della massa
+rispetto al sistema rotante).
+
+L'effetto Coriolis ha un ruolo molto importante nella dinamica atmosferica e
+sulla meteorologia, poiché influisce sui venti, sulla formazione e rotazione
+delle tempeste, così come sulla direzione delle correnti oceaniche (spirale di
+Ekman).
+
+Masse d'aria si riscaldano all'equatore, diminuiscono in densità e salgono,
+richiamando aria più fredda che scorre sulla superficie terrestre verso
+l'equatore. Poiché non c'è abbastanza attrito tra la superficie e l'aria,
+questa non acquisisce la velocità necessaria per mantenersi in co-rotazione
+con la terra.
+
+Nella parte superiore dell'atmosfera l'attrito ha scarsa influenza sui venti e
+le particelle di aria sono soggette esclusivamente alla forza dovuta al
+gradiente di pressione e all'effetto Coriolis.
+
+Come descritto nella sezione relativa alla dinamica dei vortici, queste due
+forze tendono a compensarsi, e per questo motivo le correnti d'aria ad alta
+quota tendono a scorrere parallelamente alle isobare. I venti generati con
+questa dinamica sono chiamati geostrofici.
+
+I venti che normalmente scorrerebbero verticalmente dai poli verso l'equatore
+sono quindi deviati dalla forza di Coriolis e danno origine a quei venti
+costanti noti con il nome di alisei. Nell'emisfero nord questi venti soffiano
+da nord-est verso sud-ovest e nell'emisfero sud soffiano da sud-est verso
+nord-ovest. I flussi d'aria che si sollevano all'equatore non giungono fino ai
+poli, poiché la forza di Coriolis costringe le correnti d'aria a muoversi in
+circolo intorno alle regioni polari.
+
+Nell'emisfero settentrionale un sistema di bassa pressione ruota in senso
+antiorario, mentre un sistema di alta pressione ruota in senso orario, come
+stabilito dalla legge di Buys-Ballot; l'opposto avviene nell'emisfero
+meridionale.
+
+Per ricordare il senso di rotazione del fenomeno si può ricordare questo
+semplice schema (valido nell'emisfero settentrionale)
+
+Una applicazione tecnologica dell'effetto Coriolis si ha nel flussimetro, uno
+strumento che misura l'entità del flusso di fluido che scorre in un tubo. Il
+principio di funzionamento fu applicato nel 1977 dalla Micro Motion, Inc.[6]
+
+Il sistema funziona applicando una vibrazione al tubo e quindi rilevando e
+analizzando gli effetti inerziali prodotti dall'interazione tra le vibrazioni
+e lo scorrimento della massa fluida.
+
+Il principale impatto pratico della forza di Coriolis è dovuto alla componente
+della forza parallela al terreno, ma c'è un altro effetto dovuto alla forza di
+Coriolis, cioè l'effetto Eötvös, dovuto all'altra componente della forza,
+quella verticale. A prescindere dall'emisfero in cui si trovano, oggetti in
+moto da est verso ovest subiscono una forza diretta verso il basso (che
+accresce leggermente l'effetto della forza di gravità: gli oggetti sono _più
+pesanti_ ), mentre gli oggetti in moto nel verso opposto subiscono una forza
+diretta verso l'alto (sono più _leggeri_ ). L'effetto è massimo all'equatore e
+nullo ai poli, ma l'effetto è comunque troppo piccolo rispetto alle altre
+forze coinvolte (gravità, reazioni vincolari, ecc.) per avere un'importanza
+significativa in fenomeni dinamici.
+
+Una conseguenza notevole dell'effetto Coriolis è espressa dal teorema di
+Taylor-Proudman: in un sistema idrodinamico in rotazione in cui la forza di
+Coriolis è un termine dominante (ovvero in cui i flussi avvengono su scale
+confrontabili col moto di rotazione, corrispondente a un basso valore del
+numero di Rossby, _Ro_ ) e in cui gli attriti dovuti alla viscosità sono
+trascurabili (corrispondente a un alto numero di Reynolds, _Re_ ), tutte le
+soluzioni stabili delle equazioni di Navier-Stokes hanno la caratteristica che
+la velocità del fluido è costante lungo ogni linea parallela all'asse di
+rotazione.
+
+Spesso negli oceani si verificano situazioni che soddisfano le condizioni del
+teorema (negli oceani _Re_ è universalmente piccolo, e valori comuni come 0,1
+m/s per la velocità tipica del flusso, 4 km per la profondità e dunque in
+approssimazione di acqua bassa,[7] e un valore per _f_ di 10−4 s−1
+corrispondono a un valore per _Ro_ di circa 0,25, che è trascurabile): in quei
+casi si possono osservare le cosiddette colonne di Taylor,[8] in cui la
+velocità dell'acqua è identica in tutti i punti su una verticale.
+
+Più in generale, il teorema di Taylor-Proudman è largamente impiegato quando
+si ha a che fare con i flussi atmosferici, in astrofisica (vento solare,
+dinamica di Giove) e problemi industriali come per esempio la progettazione di
+turbine.
+
+Effetti della forza si manifestano anche in fisica atomica. Nelle molecole
+poliatomiche, il moto molecolare può essere descritto come una rotazione
+rigida più una vibrazione delle parti attorno alla posizione di equilibrio.
+Gli atomi risultano così in movimento relativamente a un sistema di
+riferimento rotante (la molecola). Una forza di Coriolis è quindi presente e
+induce gli atomi a muoversi in una direzione perpendicolare rispetto
+all'oscillazione iniziale. Questo produce una particolare confusione nello
+spettro molecolare, tra i livelli rotazionali e vibrazionali.[9]
+
+Gli insetti del gruppo dei ditteri e dei lepidotteri utilizzano due minuscole
+strutture vibranti sui fianchi del corpo per percepire gli effetti della forza
+di Coriolis. Questi organi svolgono un ruolo chiave nell'abilità degli insetti
+nel volo acrobatico.[10]
+
+È un'idea diffusa che l'effetto Coriolis determini il senso di rotazione dei
+vortici che si creano quando si stappa lo scarico di un lavandino:
+nell'Emisfero boreale la rotazione sarebbe in un senso (antiorario), mentre
+sarebbe opposta nell'Emisfero australe (orario).
+
+In particolare, nei paesi equatoriali, sono comuni acchiappaturisti gli
+spettacoli che perpetrano questa leggenda metropolitana. Solitamente in essi
+ci si avvale di una bacinella, un tappo ed un secchio che vengono spostati di
+volta in volta a ridosso, a Nord e a Sud della linea equatoriale.
+Inizialmente, quando si stappa sull'equatore, l'acqua attraversa lo scarico
+senza praticamente ruotare. Ciò avviene perché il recipiente è simmetrico e
+l'acqua viene lasciata al suo interno sufficientemente a lungo da risultare
+ferma. Successivamente si sposta la bacinella e la si rimpingua. Quando si
+stapperà nuovamente l'acqua vorticherà nello scarico, in maniera
+qualitativamente coerente con la leggenda. Questo differente comportamento è
+ottenuto tramite una sapiente tecnica di versamento dell'acqua. Questa nelle
+migliori esecuzioni viene travasata inizialmente dal secchio nel centro della
+bacinella per poi, durante lo scolo, spostare progressivamente il punto di
+versamento verso destra o sinistra, generando vortici rispettivamente
+destrogiri e levogiri, in maniera invisibile agli spettatori. Alcuni esecutori
+meno accorti non cominciano nemmeno a versare dal centro. Con questo
+versamento asimmetrico si dota l'acqua di una vorticità intrinseca, che viene
+poi trasferita al mulinello generato dallo scolo ma che (se il gioco di
+prestigio è ben eseguito) non è visibile nelle increspature ad occhio nudo
+fintanto che non viene aperto lo scarico. L'effetto può essere facilmente
+replicato anche alle nostre latitudini.[11]
+
+Esistono comunque anche studi seri inerenti all'argomento.[12] Lavorando
+analiticamente ad esempio è possibile valutare la rilevanza dell'effetto
+Coriolis sul verso di rotazione dell'acqua nello scarico e costruire
+esperimenti in cui detto effetto è responsabile della rotazione del fluido.
+Vale ancora una volta la pena sottolineare come l'effetto Coriolis in sistemi
+dimensionalmente simile a quelli dell'esperienza quotidiana è diversi ordini
+di grandezza inferiore rispetto a molti altri contributi: la geometria della
+vasca e dello scarico, l'inclinazione del piano e soprattutto il movimento che
+aveva inizialmente sono effetti dominanti sulla dinamica del moto dell'acqua.
+Esistono però opportune configurazioni sperimentali per cui, con i dovuti
+accorgimenti, è possibile azzerare gli altri contributi e trovare una piena
+correlazione (qualitativa e numerica) tra il verso di rotazione dello scarico
+e l'emisfero dove ci si trova. Se si prende una vasca piatta e circolare, con
+uno scarico piccolo e liscio, avendo cura di attendere che l'acqua sia
+perfettamente ferma e stappando con cura, è possibile osservare l'influenza
+della forza di Coriolis. Vale tuttavia la pena notare che, data l'esigua
+grandezza delle forze in gioco, bisogna lasciare a riposo l'acqua per alcuni
+giorni, in una stanza sigillata e lontano dal passaggio di mezzi pesanti. Le
+correnti d'aria barometriche, i moti vorticosi interni del liquido e le
+vibrazioni indotte dai camion hanno infatti all'incirca lo stesso ordine di
+grandezza del fenomeno che si vuole osservare. [13] Anche queste seconde
+verifiche sperimentali confermano che la teoria degli scarichi è una falsa
+credenza.
+
+La forza di Coriolis deve essere considerata nel calcolo delle traiettorie di
+razzi, proiettili di artiglieria e anche di pallottole a lungo volo, dove per
+queste ultime l'effetto, sebbene spesso trascurabile, è anche in grado di
+produrre una deviazione di pochi centimetri su obiettivi distanti un
+chilometro.[14]
+
+La Forza di Coriolis viene menzionata:
+
+Altri progetti
+

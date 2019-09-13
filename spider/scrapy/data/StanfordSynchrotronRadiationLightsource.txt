@@ -1,0 +1,43 @@
+The **Stanford Synchrotron Radiation Lightsource** (formerly Stanford
+Synchrotron Radiation Laboratory), a division of SLAC National Accelerator
+Laboratory, is operated by Stanford University for the Department of Energy.
+SSRL is a National User Facility which provides synchrotron radiation, a name
+given to electromagnetic radiation in the x-ray, ultraviolet, visible and
+infrared realms produced by electrons circulating in a storage ring (Stanford
+Positron Electron Asymmetric Ring - SPEAR) at nearly the speed of light. The
+extremely bright light that is produced can be used to investigate various
+forms of matter ranging from objects of atomic and molecular size to man-made
+materials with unusual properties. The obtained information and knowledge is
+of great value to society, with impact in areas such as the environment,
+future technologies, health, and education.[1]
+
+The SSRL provides experimental facilities to some 2,000 academic and
+industrial scientists working in such varied fields as drug design,
+environmental cleanup, electronics, and x-ray imaging.[2] It is located in
+southern San Mateo County, just outside the city of Menlo Park.
+
+In 1972 the first x-ray beamline was constructed by Ingolf Lindau and Piero
+Pianetta as literally a "hole in the wall" extending off of the SPEAR storage
+ring. At that time, the SPEAR had been built in an era of particle colliders,
+where physicists were more interested in smashing particles together in hope
+of discovering antimatter than in using x-ray radiation for solid state
+physics and chemistry. From those meager beginnings the Stanford Synchrotron
+Radiation Project (SSRP) began. Within a short time SSRP had five experimental
+hutches sharing the radiation of only a few inches of the curved SPEAR dipole
+magnets. Each one of those stations was equipped with a monochromator to
+select the radiation of interest, and experimenters would bring their samples
+and end stations from all over the world to study the unique effects only
+achieved through synchrotron radiation. Today the SPEAR storage ring is
+dedicated completely to the Stanford Synchrotron Radiation Lightsource as part
+of the SLAC National Accelerator Laboratory facility. SSRL currently operates
+24/7 for about nine solid months out of the year; the remaining time is used
+for major maintenance and upgrades where direct access to the storage ring is
+needed. There are over 30 unique experimental stations which are made
+available to users from universities, government labs, and industry from all
+over the world.
+
+_listed byBeamline and Station_
+
+Coordinates: 37°25′06.2″N 122°12′03.5″W﻿ / ﻿37.418389°N 122.200972°W﻿ /
+37.418389; -122.200972
+

@@ -1,0 +1,12 @@
+Questa categoria riunisce le lingue che seguono la tipologia sintattica **S**
+oggetto- **V** erbo- **O** ggetto.
+
+Dato che per standard le voci di descrizione delle lingue hanno titolo
+[[Lingua "xyz"]], per ottenere una categorizzazione alfabetica è necessario
+scrivere in fondo alla voce di tale lingua "xyz" [[Categoria:Lingue SVO|
+**xyz** ]], aggiungendo cioè alla categoria un parametro con il nome della
+lingua per forzare la categorizzazione a seguire l'iniziale specificata.
+
+Questa categoria contiene le 109 pagine indicate di seguito, su un totale di
+109.
+

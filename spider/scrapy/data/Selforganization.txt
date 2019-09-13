@@ -1,0 +1,305 @@
+**Self-organization** , also called (in the social sciences) spontaneous
+order, is a process where some form of overall order arises from local
+interactions between parts of an initially disordered system. The process can
+be spontaneous when sufficient energy is available, not needing control by any
+external agent. It is often triggered by random fluctuations, amplified by
+positive feedback. The resulting organization is wholly decentralized,
+distributed over all the components of the system. As such, the organization
+is typically robust and able to survive or self-repair substantial
+perturbation. Chaos theory discusses self-organization in terms of islands of
+predictability in a sea of chaotic unpredictability.
+
+Self-organization occurs in many physical, chemical, biological, robotic, and
+cognitive systems. Examples of self-organization include crystallization,
+thermal convection of fluids, chemical oscillation, animal swarming, neural
+circuits, and artificial neural networks.
+
+Self-organization is realized[2] in the physics of non-equilibrium processes,
+and in chemical reactions, where it is often described as self-assembly. The
+concept has proven useful in biology,[3] from molecular to ecosystem level.[4]
+Cited examples of self-organizing behaviour also appear in the literature of
+many other disciplines, both in the natural sciences and in the social
+sciences such as economics or anthropology. Self-organization has also been
+observed in mathematical systems such as cellular automata.[5] Self-
+organization is an example of the related concept of emergence.[6]
+
+Self-organization relies on four basic ingredients:[7]
+
+The cybernetician William Ross Ashby formulated the original principle of
+self-organization in 1947.[8][9] It states that any deterministic dynamic
+system automatically evolves towards a state of equilibrium that can be
+described in terms of an attractor in a basin of surrounding states. Once
+there, the further evolution of the system is constrained to remain in the
+attractor. This constraint implies a form of mutual dependency or coordination
+between its constituent components or subsystems. In Ashby's terms, each
+subsystem has adapted to the environment formed by all other subsystems.[8]
+
+The cybernetician Heinz von Foerster formulated the principle of "order from
+noise" in 1960.[10] It notes that self-organization is facilitated by random
+perturbations ("noise") that let the system explore a variety of states in its
+state space. This increases the chance that the system will arrive into the
+basin of a "strong" or "deep" attractor, from which it then quickly enters the
+attractor itself. The biophysicist Henri Atlan developed this concept by
+proposing the principle of "complexity from noise"[11][12] (French: _le
+principe de complexité par le bruit_ )[13] first in the 1972 book
+_L'organisation biologique et la théorie de l'information_[14] and then in the
+1979 book _Entre le cristal et la fumée_.[15] The thermodynamicist Ilya
+Prigogine formulated a similar principle as "order through fluctuations"[16]
+or "order out of chaos".[17] It is applied in the method of simulated
+annealing for problem solving and machine learning.[18]
+
+The idea that the dynamics of a system can lead to an increase in its
+organization has a long history. The ancient atomists such as Democritus and
+Lucretius believed that a designing intelligence is unnecessary to create
+order in nature, arguing that given enough time and space and matter, order
+emerges by itself.[19]
+
+The philosopher René Descartes presents self-organization hypothetically in
+the fifth part of his 1637 _Discourse on Method_. He elaborated on the idea in
+his unpublished work _The World_.[a]
+
+Immanuel Kant used the term "self-organizing" in his 1790 _Critique of
+Judgment_ , where he argued that teleology is a meaningful concept only if
+there exists such an entity whose parts or "organs" are simultaneously ends
+and means. Such a system of organs must be able to behave as if it has a mind
+of its own, that is, it is capable of governing itself.[20]
+
+In such a natural product as this every part is thought as _owing_ its
+presence to the agency of all the remaining parts, and also as existing _for
+the sake of the others_ and of the whole, that is as an instrument, or
+organ... The part must be an organ _producing_ the other parts—each,
+consequently, reciprocally producing the others... Only under these conditions
+and upon these terms can such a product be an _organized_ and _self-organized_
+being, and, as such, be called a _physical end_.[20]
+
+Sadi Carnot (1796–1832) and Rudolf Clausius (1822–1888) discovered the second
+law of thermodynamics in the 19th century. It states that total entropy,
+sometimes understood as disorder, will always increase over time in an
+isolated system. This means that a system cannot spontaneously increase its
+order without an external relationship that decreases order elsewhere in the
+system (e.g. through consuming the low-entropy energy of a battery and
+diffusing high-entropy heat).[21][22]
+
+18th-century thinkers had sought to understand the "universal laws of form" to
+explain the observed forms of living organisms. This idea became associated
+with Lamarckism and fell into disrepute until the early 20th century, when
+D'Arcy Wentworth Thompson (1860–1948) attempted to revive it.[23]
+
+The psychiatrist and engineer W. Ross Ashby introduced the term "self-
+organizing" to contemporary science in 1947.[8] It was taken up by the
+cyberneticians Heinz von Foerster, Gordon Pask, Stafford Beer; and von
+Foerster organized a conference on "The Principles of Self-Organization" at
+the University of Illinois' Allerton Park in June, 1960 which led to a series
+of conferences on Self-Organizing Systems.[24] Norbert Wiener took up the idea
+in the second edition of his _Cybernetics: or Control and Communication in the
+Animal and the Machine_ (1961).
+
+Self-organization was associated[ _by whom?_ ] with general systems theory in
+the 1960s, but did not become commonplace in the scientific literature until
+physicists Hermann Haken et al. and complex systems researchers adopted it in
+a greater picture from cosmology Erich Jantsch,[ _clarification needed_ ]
+chemistry with dissipative system, biology and sociology as autopoiesis to
+system thinking in the following 1980s (Santa Fe Institute) and 1990s (complex
+adaptive system), until our days with the disruptive emerging technologies
+profounded by a rhizomatic network theory.[25]
+
+Around 2008-2009, a concept of guided self-organization started to take shape.
+This approach aims to regulate self-organization for specific purposes, so
+that a dynamical system may reach specific attractors or outcomes. The
+regulation constrains a self-organizing process within a complex system by
+restricting local interactions between the system components, rather than
+following an explicit control mechanism or a global design blueprint. The
+desired outcomes, such as increases in the resultant internal structure and/or
+functionality, are achieved by combining task-independent global objectives
+with task-dependent constraints on local interactions[26][27].
+
+The many self-organizing phenomena in physics include phase transitions and
+spontaneous symmetry breaking such as spontaneous magnetization and crystal
+growth in classical physics, and the laser,[28] superconductivity and
+Bose–Einstein condensation in quantum physics. It is found in self-organized
+criticality in dynamical systems, in tribology, in spin foam systems, and in
+loop quantum gravity,[29] river basins and deltas, in dendritic solidification
+(snow flakes), and in turbulent structure.[4][5]
+
+Self-organization in chemistry includes molecular self-assembly,[31] reaction-
+diffusion systems and oscillating reactions,[32] autocatalytic networks,
+liquid crystals,[33] grid complexes, colloidal crystals, self-assembled
+monolayers,[34][35] micelles, microphase separation of block copolymers, and
+Langmuir-Blodgett films.[36]
+
+Self-organization in biology[3][37] can be observed in spontaneous folding of
+proteins and other biomacromolecules, formation of lipid bilayer membranes,
+pattern formation and morphogenesis in developmental biology, the coordination
+of human movement, social behaviour in insects (bees, ants, termites),[38] and
+mammals, flocking behaviour in birds and fish.[39]
+
+The mathematical biologist Stuart Kauffman and other structuralists have
+suggested that self-organization may play roles alongside natural selection in
+three areas of evolutionary biology, namely population dynamics, molecular
+evolution, and morphogenesis. However, this does not take into account the
+essential role of energy in driving biochemical reactions in cells. The
+systems of reactions in any cell are self-catalyzing but not simply self-
+organizing as they are thermodynamically open systems relying on a continuous
+input of energy.[40][41] Self-organization is not an alternative to natural
+selection, but it constrains what evolution can do and provides mechanisms
+such as the self-assembly of membranes which evolution then exploits.[42]
+
+Phenomena from mathematics and computer science such as cellular automata,
+random graphs, and some instances of evolutionary computation and artificial
+life exhibit features of self-organization. In swarm robotics, self-
+organization is used to produce emergent behavior. In particular the theory of
+random graphs has been used as a justification for self-organization as a
+general principle of complex systems. In the field of multi-agent systems,
+understanding how to engineer systems that are capable of presenting self-
+organized behavior is an active research area.[43] Optimization algorithms can
+be considered self-organizing because they aim to find the optimal solution to
+a problem. If the solution is considered as a state of the iterative system,
+the optimal solution is the selected, converged structure of the
+system.[44][45] Self-organizing networks include small-world networks[46] and
+scale-free networks. These emerge from bottom-up interactions, unlike top-down
+hierarchical networks within organizations, which are not self-organizing.[47]
+Cloud computing systems have been argued to be inherently self-organising,[48]
+but while they have some autonomy, they are not self-managing as they do not
+have the goal of reducing their own complexity.[49][50]
+
+Norbert Wiener regarded the automatic serial identification of a black box and
+its subsequent reproduction as self-organization in cybernetics.[51] The
+importance of phase locking or the "attraction of frequencies", as he called
+it, is discussed in the 2nd edition of his _Cybernetics: Or Control and
+Communication in the Animal and the Machine_.[52] K. Eric Drexler sees self-
+replication as a key step in nano and universal assembly. By contrast, the
+four concurrently connected galvanometers of W. Ross Ashby's Homeostat hunt,
+when perturbed, to converge on one of many possible stable states.[53] Ashby
+used his state counting measure of variety[54] to describe stable states and
+produced the "Good Regulator"[55] theorem which requires internal models for
+self-organized endurance and stability (e.g. Nyquist stability criterion).
+Warren McCulloch proposed "Redundancy of Potential Command"[56] as
+characteristic of the organization of the brain and human nervous system and
+the necessary condition for self-organization. Heinz von Foerster proposed
+Redundancy, _R_ =1 − _H_ / _H_ max, where _H_ is entropy.[57][58] In essence
+this states that unused potential communication bandwidth is a measure of
+self-organization.
+
+In the 1970s Stafford Beer considered self-organization necessary for autonomy
+in persisting and living systems. He applied his viable system model to
+management. It consists of five parts: the monitoring of performance of the
+survival processes (1), their management by recursive application of
+regulation (2), homeostatic operational control (3) and development (4) which
+produce maintenance of identity (5) under environmental perturbation. Focus is
+prioritized by an alerting "algedonic loop" feedback: a sensitivity to both
+pain and pleasure produced from under-performance or over-performance relative
+to a standard capability.[59]
+
+In the 1990s Gordon Pask argued that von Foerster's H and Hmax were not
+independent, but interacted via countably infinite recursive concurrent spin
+processes[60] which he called concepts. His strict definition of concept "a
+procedure to bring about a relation"[61] permitted his theorem "Like concepts
+repel, unlike concepts attract"[62] to state a general spin-based principle of
+self-organization. His edict, an exclusion principle, "There are No
+Doppelgangers" means no two concepts can be the same. After sufficient time,
+all concepts attract and coalesce as pink noise. The theory applies to all
+organizationally closed or homeostatic processes that produce enduring and
+coherent products which evolve, learn and adapt.[63][60]
+
+The self-organizing behaviour of social animals and the self-organization of
+simple mathematical structures both suggest that self-organization should be
+expected in human society. Tell-tale signs of self-organization are usually
+statistical properties shared with self-organizing physical systems. Examples
+such as critical mass, herd behaviour, groupthink and others, abound in
+sociology, economics, behavioral finance and anthropology.[64]
+
+In social theory, the concept of self-referentiality has been introduced as a
+sociological application of self-organization theory by Niklas Luhmann (1984).
+For Luhmann the elements of a social system are self-producing communications,
+i.e. a communication produces further communications and hence a social system
+can reproduce itself as long as there is dynamic communication. For Luhmann
+human beings are sensors in the environment of the system. Luhmann developed
+an evolutionary theory of Society and its subsystems, using functional
+_analyses_ and systems _theory_.[65]
+
+In economics, a market economy is sometimes said to be self-organizing. Paul
+Krugman has written on the role that market self-organization plays in the
+business cycle in his book "The Self Organizing Economy".[66] Friedrich Hayek
+coined the term _catallaxy_[67] to describe a "self-organizing system of
+voluntary co-operation", in regards to the spontaneous order of the free
+market economy. Neo-classical economists hold that imposing central planning
+usually makes the self-organized economic system less efficient. On the other
+end of the spectrum, economists consider that market failures are so
+significant that self-organization produces bad results and that the state
+should direct production and pricing. Most economists adopt an intermediate
+position and recommend a mixture of market economy and command economy
+characteristics (sometimes called a mixed economy). When applied to economics,
+the concept of self-organization can quickly become ideologically
+imbued.[68][69]
+
+Enabling others to "learn how to learn"[70] is often taken to mean instructing
+them[71] how to submit to being taught. Self-organised learning
+(S.O.L.)[72][73][74] denies that "the expert knows best" or that there is ever
+"the one best method",[75][76][77] insisting instead on "the construction of
+personally significant, relevant and viable meaning"[78] to be tested
+experientially by the learner.[79] This may be collaborative, and more
+rewarding personally.[80][81] It is seen as a lifelong process, not limited to
+specific learning environments (home, school, university) or under the control
+of authorities such as parents and professors.[82] It needs to be tested, and
+intermittently revised, through the personal experience of the learner.[83] It
+need not be restricted by either consciousness or language.[84] Fritjof Capra
+argued that it is poorly recognised within psychology and education.[85] It
+may be related to cybernetics as it involves a negative feedback control
+loop,[61] or to systems theory.[86] It can be conducted as a learning
+conversation or dialogue between learners or within one person.[87][88]
+
+The self-organizing behavior of drivers in traffic flow determines almost all
+the spatiotemporal behavior of traffic, such as traffic breakdown at a highway
+bottleneck, highway capacity, and the emergence of moving traffic jams. In
+1996–2002 these complex self-organizing effects were explained by Boris
+Kerner's three-phase traffic theory.[89]
+
+Order appears spontaneously in the evolution of language as individual and
+population behaviour interacts with biological evolution.[90]
+
+**Self-organized funding allocation** ( **SOFA** ) is a method of distributing
+funding for scientific research. In this system, each researcher is allocated
+an equal amount of funding, and is required to anonymously allocate a fraction
+of their funds to the research of others. Proponents of SOFA argue that it
+would result in similar distribution of funding as the present grant system,
+but with less overhead.[91] In 2016, a test pilot of SOFA began in the
+Netherlands.[92]
+
+Heinz Pagels, in a 1985 review of Ilya Prigogine and Isabelle Stengers's book
+_Order Out of Chaos_ in _Physics Today_ , appeals to authority:[93]
+
+Most scientists would agree with the critical view expressed in _Problems of
+Biological Physics_ (Springer Verlag, 1981) by the biophysicist L. A.
+Blumenfeld, when he wrote: "The meaningful macroscopic ordering of biological
+structure does not arise due to the increase of certain parameters or a system
+above their critical values. These structures are built according to program-
+like complicated architectural structures, the meaningful information created
+during many billions of years of chemical and biological evolution being
+used." Life is a consequence of microscopic, not macroscopic, organization.
+
+Of course, Blumenfeld does not answer the further question of how those
+program-like structures emerge in the first place. His explanation leads
+directly to infinite regress.
+
+In short, they [Prigogine and Stengers] maintain that time irreversibility is
+not derived from a time-independent microworld, but is itself fundamental. The
+virtue of their idea is that it resolves what they perceive as a "clash of
+doctrines" about the nature of time in physics. Most physicists would agree
+that there is neither empirical evidence to support their view, nor is there a
+mathematical necessity for it. There is no "clash of doctrines." Only
+Prigogine and a few colleagues hold to these speculations which, in spite of
+their efforts, continue to live in the twilight zone of scientific
+credibility.
+
+In theology, Thomas Aquinas (1225–1274) in his _Summa Theologica_ assumes a
+teleological created universe in rejecting the idea that something can be a
+self-sufficient cause of its own organization:[94]
+
+Since nature works for a determinate end under the direction of a higher
+agent, whatever is done by nature must needs be traced back to God, as to its
+first cause. So also whatever is done voluntarily must also be traced back to
+some higher cause other than human reason or will, since these can change or
+fail; for all things that are changeable and capable of defect must be traced
+back to an immovable and self-necessary first principle, as was shown in the
+body of the Article.
+

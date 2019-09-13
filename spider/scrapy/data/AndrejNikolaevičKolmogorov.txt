@@ -1,0 +1,69 @@
+**Andrej Nikolaevič Kolmogorov** (in russo: Андре́й Никола́евич Колмого́ров?;
+[ʌndˈrʲɛj nʲɪkʌˈlajɪvɪʧ kəlmʌˈgorəf]; Tambov, 25 aprile 1903 – Mosca, 20
+ottobre 1987) è stato un matematico sovietico.
+
+Tra i più importanti e influenti matematici del XX secolo, compì importanti
+progressi in diversi campi accademici, tra cui la teoria delle probabilità, la
+topologia, la logica intuizionista, la turbolenza, la meccanica classica e la
+complessità computazionale. A dispetto della considerevole importanza della
+sua Scuola matematica per lo sforzo bellico durante la seconda guerra
+mondiale, fu uno dei matematici sovietici esclusi dalla ricerca scientifica in
+ambito militare, forse a causa[ _senza fonte_ ] della sua omosessualità;
+infatti dal 1929 ebbe a dividere una casa col matematico e compagno di una
+vita Pavel Aleksandrov[1].
+
+Si devono a lui l'introduzione della definizione di insieme limitato e gli
+assiomi del calcolo probabilistico[2].
+
+Nato da genitori non sposati, fu sua zia Vera Jakovlena ad occuparsi della sua
+educazione, dato che la madre morì tragicamente durante il parto. Cresciuto a
+Tunošna, nel 1920 entrò nell'Università di Mosca dove non si occupò solo di
+matematica, ma anche di metallurgia e storia della Russia.
+
+Nel 1922 trovò una serie di Fourier che diverge quasi ovunque, che gli valse
+la fama nel mondo. Nel 1925 conseguì la laurea e, iniziate le ricerche sotto
+la supervisione di Luzin, pubblicò 8 articoli tra cui quello che diverrà la
+pietra miliare del calcolo delle probabilità. Nel 1929 completò il suo
+dottorato con ben 18 pubblicazioni. Eseguì una serie di studi sulle catene di
+Markov e nel 1931 divenne professore a Berlino[2].
+
+Nello stesso anno pubblicò gli importanti risultati sull'equazione
+retrospettiva e sull'equazione prospettica.[3] Nel 1933 pubblicò _Concetti
+fondamentali del Calcolo delle Probabilità_ , sviluppando la ricerca che era
+ormai cristallizzata sul dibattito fra quanti consideravano la probabilità
+come limiti di frequenze relative (cfr. impostazione frequentista) e quanti
+cercavano un fondamento logico della stessa. La sua impostazione assiomatica
+si mostrava adeguata a prescindere dall'adesione a una o all'altra scuola di
+pensiero. Questi risultati gli valsero una cattedra a Mosca (1938) e
+l'accoglimento a membro dell'Accademia delle Scienze dell'URSS (1939). Ottenne
+il Premio Lenin nel 1941 e l'Ordine di Lenin in ben 6 occasioni.
+
+Di interesse - sempre negli anni trenta \- sono i suoi studi sulle relazioni
+tra matematica classica e intuizionismo di cui fu precursore[2].
+
+Dopo il secondo conflitto mondiale si dedicò alla teoria dell'informazione. In
+particolare si occupò dell'interpretazione di un segnale in presenza di
+interferenze disturbatrici.
+
+Kolmogorov ottenne nel 1962 il Premio Balzan e la laurea ad honorem in molte
+università (Parigi, Varsavia, Stoccolma). Nel 1987 fu insignito del Premio
+Lobačevskij. Morì lo stesso anno il 20 ottobre a Mosca.
+
+Kolmogorov definì tre assiomi:
+
+A partire da questi tre assiomi, sono stati in seguito formulati vari teoremi
+e varie leggi che costituiscono la base della moderna teoria della
+probabilità. Per i suoi risultati Kolmogorov è anche noto come il padre del
+calcolo delle probabilità.
+
+Se:  ∑ i = 1 ∞ σ i 2 i 2 < ∞ {\displaystyle \sum _{i=1}^{\infty }{\frac
+{\sigma _{i}^{2}}{i^{2}}}\;<\infty } ![{\\displaystyle \\sum _{i=1}^{\\infty
+}{\\frac {\\sigma _{i}^{2}}{i^{2}}}\\;<\\infty
+}](https://wikimedia.org/api/rest_v1/media/math/render/svg/fbbe8c497e91ddaf73de39f949bf11c6127a6adc)
+la successione  { X ¯ n − μ ¯ n } {\displaystyle \left\\{{\bar {X}}_{n}-{\bar
+{\mu }}_{n}\right\\}} ![{\\displaystyle \\left\\{{\\bar {X}}_{n}-{\\bar {\\mu
+}}_{n}\\right\\}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/06a1cc6fe0364f086888691e5d8dc77e2bf73879)
+soddisfa la legge forte dei grandi numeri.
+
+Altri progetti
+

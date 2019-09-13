@@ -1,0 +1,190 @@
+The **Sandia National Laboratories** ( **SNL** ), managed and operated by the
+National Technology and Engineering Solutions of Sandia (a wholly owned
+subsidiary of Honeywell International), is one of three National Nuclear
+Security Administration research and development laboratories. In December
+2016, it was announced that National Technology and Engineering Solutions of
+Sandia, under the direction of Honeywell International, will take over the
+management of Sandia National Laboratories starting on May 1,
+2017.[4][5][6][2]
+
+Their primary mission is to develop, engineer, and test the non-nuclear
+components of nuclear weapons. The primary campus is located on Kirtland Air
+Force Base in Albuquerque, New Mexico and the other is in Livermore,
+California, next to Lawrence Livermore National Laboratory. There is also a
+test facility in Waimea, Kauai, Hawaii.[7]
+
+It is Sandia's mission to maintain the reliability and surety of nuclear
+weapon systems, conduct research and development in arms control and
+nonproliferation technologies, and investigate methods for the disposal of the
+United States' nuclear weapons program's hazardous waste. Other missions
+include research and development in energy and environmental programs, as well
+as the surety of critical national infrastructures. In addition, Sandia is
+home to a wide variety of research including computational biology,
+mathematics (through its Computer Science Research Institute), materials
+science, alternative energy, psychology, MEMS, and cognitive science
+initiatives. Sandia formerly hosted ASCI Red, one of the world's fastest
+supercomputers until its recent decommission, and now hosts ASCI Red Storm,
+originally known as Thor's Hammer. Sandia is also home to the Z Machine. The Z
+Machine is the largest X-ray generator in the world and is designed to test
+materials in conditions of extreme temperature and pressure. It is operated by
+Sandia National Laboratories to gather data to aid in computer modeling of
+nuclear weapons.
+
+Sandia National Laboratories' roots go back to World War II and the Manhattan
+Project. Prior to the United States formally entering the war, the U.S. Army
+leased land near an Albuquerque, New Mexico airport known as Oxnard Field, to
+service transient Army and U.S. Navy aircraft. In January 1941 construction
+began on the Albuquerque Army Air Base, leading to establishment of the
+_Bombardier School-Army Advanced Flying School_ near the end of the year. Soon
+thereafter it was renamed Kirtland Field, after early Army military pilot
+Colonel Roy C. Kirtland, and in mid-1942 the Army acquired Oxnard Field.
+During the war years facilities were expanded further and Kirtland Field
+served as a major Army Air Forces training installation.
+
+In the many months leading up to successful detonation of the first atomic
+bomb, the Trinity test, and delivery of the first airborne atomic weapon,
+Project Alberta, J. Robert Oppenheimer, Director of Los Alamos Laboratory, and
+his technical advisor, Hartly Rowe, began looking for a new site convenient to
+Los Alamos for the continuation of weapons development – especially its non-
+nuclear aspects. They felt a separate division would be best to perform these
+functions. Kirtland had fulfilled Los Alamos' transportation needs for both
+the Trinity and Alberta projects, thus, Oxnard Field was transferred from the
+jurisdiction of the Army Air Corps to the U.S. Army Service Forces Chief of
+Engineer District, and thereafter, assigned to the Manhattan Engineer
+District. In July 1945, the forerunner of Sandia Laboratory, known as "Z"
+Division, was established at Oxnard Field to handle future weapons
+development, testing, and bomb assembly for the Manhattan Engineer District.
+The District-directive calling for establishing a secure area and construction
+of "Z" Division facilities referred to this as "Sandia Base" , after the
+nearby Sandia Mountains — apparently the first official recognition of the
+"Sandia" name.
+
+Sandia Laboratory was operated by the University of California until 1949,
+when President Harry S. Truman asked Western Electric, a subsidiary of
+American Telephone and Telegraph (AT&T), to assume the operation as an
+"opportunity to render an exceptional service in the national interest."
+Sandia Corporation, a wholly owned subsidiary of AT&T Corporation, managed and
+operated the laboratory until October 1993. The United States Congress
+designated Sandia Laboratories as a National laboratory in 1979. In October
+1993, Sandia National Laboratories (SNL) was managed and operated by **Sandia
+Corporation** , a wholly owned subsidiary of Lockheed Martin. As of May 2017,
+Sandia National Laboratory is managed by **National Technology and Engineering
+Solutions of Sandia** , a wholly owned subsidiary of Honeywell
+International,[4][5][6][2] and includes government-owned facilities in
+Albuquerque, New Mexico (SNL/NM); Livermore, California (SNL/CA); Tonopah,
+Nevada; and Kauai, Hawaii. SNL/NM is headquarters and the largest laboratory,
+employing more than 6,600 employees, while SNL/CA is a smaller laboratory,
+with about 850 employees. Tonopah and Kauai are occupied on a "campaign"
+basis, as test schedules dictate.
+
+Sandia led a project that studied how to decontaminate a subway system in the
+event of a biological weapons attack (such as anthrax). As of September 2017,
+the process to decontaminate subways in such an event is "virtually ready to
+implement," said a lead Sandia engineer.[8]
+
+On February 13, 2007, a New Mexico State Court found Sandia Corporation liable
+for $4.7 million in damages for the firing of a former network security
+analyst, Shawn Carpenter, who had reported to his supervisors that hundreds of
+military installations and defense contractors' networks were compromised and
+sensitive information was being stolen – including hundreds of sensitive
+Lockheed documents on the Mars Reconnaissance Orbiter project. When his
+supervisors told him to drop the investigation and do nothing with the
+information, he went to intelligence officials in the United States Army and
+later the Federal Bureau of Investigation to address the national security
+breaches. When Sandia managers discovered his actions months later, they
+revoked his security clearance and fired him.[9]
+
+In 2014 an investigation determined Sandia Corp. used lab operations funds to
+pay for lobbying related to the renewal of its $2 billion contract to operate
+the lab. Sandia Corp. and its parent company, Lockheed Martin, agreed to pay a
+$4.8 million fine.[10]
+
+SNL/NM consists of five technical areas (TA) and several additional test
+areas. Each TA has its own distinctive operations; however, the operations of
+some groups at Sandia may span more than one TA, with one part of a team
+working on a problem from one angle, and another subset of the same team
+located in a different building or area working with other specialized
+equipment. A description of each area is given below.
+
+TA-I operations are dedicated primarily to three activities – the design,
+research, and development of weapon systems; limited production of weapon
+system components; and energy programs. TA-I facilities include the main
+library and offices, laboratories, and shops used by administrative and
+technical staff.
+
+TA-II is a 45-acre (180,000 m2) facility that was established in 1948 for the
+assembly of chemical high explosive main charges for nuclear weapons and later
+for production scale assembly of nuclear weapons. Activities in TA-II include
+the decontamination, decommissioning, and remediation of facilities and
+landfills used in past research and development activities. Remediation of the
+Classified Waste Landfill which started in March 1998, neared completion in
+FY2000. A testing facility, the Explosive Component Facility, integrates many
+of the previous TA-II test activities as well as some testing activities
+previously performed in other remote test areas. The Access Delay Technology
+Test Facility is also located in TA-II.
+
+TA-III is adjacent to and south of TA-V [both are approximately seven miles
+(11 km) south of TA-I]. TA-III facilities include extensive design-test
+facilities such as rocket sled tracks, centrifuges and a radiant heat
+facility. Other facilities in TA-III include a paper destructor, the Melting
+and Solidification Laboratory and the Radioactive and Mixed Waste Management
+Facility (RMWMF). RMWMF serves as central processing facility for packaging
+and storage of low-level and mixed waste. The remediation of the Chemical
+Waste Landfill, which started in September 1998, is an ongoing activity in TA-
+III.
+
+TA-IV, located approximately 1/2 mile (1 km) south of TA-I, consists of
+several inertial-confinement fusion research and pulsed power research
+facilities, including the High Energy Radiation Megavolt Electron Source
+(Hermes-III), the Z Facility, the Short Pulsed High Intensity Nanosecond
+X-Radiator (SPHINX) Facility, and the Saturn Accelerator. TA-IV also hosts
+some computer science and cognition research.
+
+TA-V contains two research reactor facilities, an intense gamma irradiation
+facility (using cobalt-60 and caesium-137 sources), and the Hot Cell Facility.
+
+SNL/NM also has test areas outside of the five technical areas listed above.
+These test areas, collectively known as Coyote Test Field, are located
+southeast of TA-III and/or in the canyons on the west side of the Manzanita
+Mountains. Facilities in the Coyote Canyon Test Field include the Solar Tower
+Facility (34.9623 N, 106.5097 W), the Lurance Canyon Burn Site and the Aerial
+Cable Facility.
+
+In the 1970s, the Sandia, Los Alamos, Air Force Weapons Laboratory Technical
+Exchange Committee initiated the development of the SLATEC library of
+mathematical and statistical routines, written in FORTRAN 77.
+
+Today, Sandia National Laboratories is home to several open-source software
+projects:
+
+In addition, Sandia National Laboratories collaborates with Kitware, Inc. in
+developing the Visualization Toolkit (VTK), a cross-platform graphics and
+visualization software suite.[24] This collaboration has focused on enhancing
+the information visualization capabilities of VTK and has in turn fed back
+into other projects such as ParaView and Titan.[18][20][24]
+
+On January 30, 2012, Sandia announced that it successfully test-fired a self-
+guided dart that can hit targets at 2,000 m (2,187 yd). The dart is 4 in (100
+mm) long, has its center of gravity at the nose, and is made to be fired from
+a small-caliber smoothbore gun. It is kept straight in flight by four
+electromagnetically actuated fins encased in a plastic puller sabot that fall
+off when the dart leaves the bore. The dart cannot be fired from conventional
+rifled barrels because the gyroscopic stability provided by rifling grooves
+for regular bullets would prevent the self-guided bullet from reliably turning
+towards a target when in flight, so fins are responsible for stabilizing
+rather than spinning. A laser designator marks a target, which is tracked by
+the dart's optical sensor and 8-bit CPU. The guided projectile is kept cheap
+because it does not need an inertial measurement unit, since its small size
+allows it to make the fast corrections necessary without the aid of an IMU.
+The natural body frequency of the bullet is about 30 hertz, so corrections can
+be made 30 times per second in flight. Muzzle velocity with commercial
+gunpowder is 2,400 ft/s (730 m/s) (Mach 2.1), but military customized
+gunpowder can increase its speed and range. Computer modeling shows that a
+standard bullet would miss a target at 1,000 m (1,094 yd) by 9.8 yd (9 m),
+while an equivalent guided bullet would hit within 8 in (20 cm). Accuracy
+increases as distances get longer, since the bullet's motions settle more the
+longer it is in flight.[25][26][27][28]
+
+Coordinates: 35°03′02″N 106°32′35″W﻿ / ﻿35.050657°N 106.543136°W﻿ / 35.050657;
+-106.543136
+

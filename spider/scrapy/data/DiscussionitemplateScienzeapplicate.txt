@@ -1,0 +1,26 @@
+Controllando la relativa categoria in italiano (Categoria:Tecnologia e scienze
+applicate) e in inglese (en:Category:Applied sciences) mi sono accorto che il
+numero di scienze applicate è molto più elevato di quello che compare nel
+template. Personalmente, mi pare strano che nella categoria compaiono anche
+"allevamento" e "alimentazione", per citarne alcuni, comunque è necessario
+fare un po' di chiarezza, per tale motivo sarebbe bene ampliare la voce
+Scienza applicata, indicando fonti attendibili e dopo avere verificato le
+fonti, modificare eventualmente tale template. Se il numero di scienze
+applicate è così elevato come sembra, non capisco inoltre quale criterio sia
+stato adottato per inserire solo queste voci e non le altre. Inoltre, se
+dovessimo inserire tutte le voci, allora il template non avrebbe significato,
+in quanto sarebbe un doppione inutile della relativa categoria. Penso che la
+cosa migliore sia cancellare il template, ampliare la voce e ricontrollare le
+categorie. Si accettano pareri in proposito. --Daniele Pugliesi (msg) 12:19,
+28 ott 2014 (CET)
+
+In effetti il template così formato rischia di generare parecchia confusione
+in merito agli ambiti che dovrebbero riguardare la voce principale. Ritengo
+che Daniele non abbia tutti i torti nel voler cancellare il template, almeno
+per il momento. In alternativa bisognerebbe riscrivere i rimandi che contiene,
+non lasciandosi influenzare da quello che compare nella lista della Categoria,
+che contiene termini di diverso tipo e anche non strettamente correlati, e
+quindi forse con un inserimento nel template di un numero minore di termini.
+Sarei anch'io per una cancellazione del template, magari in futuro
+reinseribile se fatto in modo diverso. --Utente 19:17, 9 nov 2015 (CET)
+

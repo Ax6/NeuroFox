@@ -1,0 +1,164 @@
+**SLAC National Accelerator Laboratory** , originally named **Stanford Linear
+Accelerator Center** ,[2][3] is a United States Department of Energy National
+Laboratory operated by Stanford University under the programmatic direction of
+the U.S. Department of Energy Office of Science and located in Menlo Park,
+California.
+
+SLAC research centers on a broad program in atomic and solid-state physics,
+chemistry, biology, and medicine using X-rays from synchrotron radiation and a
+free-electron laser as well as experimental and theoretical research in
+elementary particle physics, astroparticle physics, and cosmology.
+
+Founded in 1962 as the Stanford Linear Accelerator Center, the facility is
+located on 172 hectares (426 acres) of Stanford University-owned land on Sand
+Hill Road in Menlo Park, California—just west of the University's main campus.
+The main accelerator is 3.2 kilometers (2 mi) long—the longest linear
+accelerator in the world—and has been operational since 1966.
+
+Research at SLAC has produced three Nobel Prizes in Physics:
+
+SLAC's meeting facilities also provided a venue for the Homebrew Computer Club
+and other pioneers of the home computer revolution of the late 1970s and early
+1980s.
+
+In 1984 the laboratory was named an ASME National Historic Engineering
+Landmark and an IEEE Milestone.[7]
+
+SLAC developed and, in December 1991, began hosting the first World Wide Web
+server outside of Europe.[8]
+
+In the early-to-mid 1990s, the Stanford Linear Collider (SLC) investigated the
+properties of the Z boson using the Stanford Large Detector.
+
+As of 2005, SLAC employed over 1,000 people, some 150 of whom were physicists
+with doctorate degrees, and served over 3,000 visiting researchers yearly,
+operating particle accelerators for high-energy physics and the Stanford
+Synchrotron Radiation Laboratory (SSRL) for synchrotron light radiation
+research, which was "indispensable" in the research leading to the 2006 Nobel
+Prize in Chemistry awarded to Stanford Professor Roger D. Kornberg.[9]
+
+In October 2008, the Department of Energy announced that the Center's name
+would be changed to SLAC National Accelerator Laboratory. The reasons given
+include a better representation of the new direction of the lab and the
+ability to trademark the laboratory's name. Stanford University had legally
+opposed the Department of Energy's attempt to trademark "Stanford Linear
+Accelerator Center".[2][10]
+
+In March 2009 it was announced that the SLAC National Accelerator Laboratory
+was to receive $68.3 million in Recovery Act Funding to be disbursed by
+Department of Energy's Office of Science.[11]
+
+In October 2016, Bits and Watts launched as a collaboration between SLAC and
+Stanford University to design "better, greener electric grids". SLAC later
+pulled out over concerns about an industry partner, the state-owned Chinese
+electric utility.[12]
+
+The main accelerator was an RF linear accelerator that accelerated electrons
+and positrons up to 50 GeV. At 3.2 km (2.0 mi) long, the accelerator was the
+longest linear accelerator in the world, and was claimed to be "the world's
+most straight object."[13] until 2017 when the European x-ray free electron
+laser opened. The main accelerator is buried 9 m (30 ft) below ground[14] and
+passes underneath Interstate Highway 280. The above-ground klystron gallery
+atop the beamline, the longest building in the United States[ _citation
+needed_ ], is easily distinguishable from the air and is marked as a visual
+waypoint on aeronautical charts.[15]
+
+A portion of the original linear accelerator is now part of the Linac Coherent
+Light Source.
+
+The Stanford Linear Collider was a linear accelerator that collided electrons
+and positrons at SLAC.[16] The center of mass energy was about 90 GeV, equal
+to the mass of the Z boson, which the accelerator was designed to study. Grad
+student Barrett D. Milliken discovered the first Z event on 12 April 1989
+while poring over the previous day's computer data from the Mark II
+detector.[17] The bulk of the data was collected by the SLAC Large Detector,
+which came online in 1991. Although largely overshadowed by the Large
+Electron-Positron Collider at CERN, which began running in 1989, the highly
+polarized electron beam at SLC (close to 80%[18]) made certain unique
+measurements possible, such as parity violation in Z Boson-b quark coupling.[
+_citation needed_ ]
+
+Presently no beam enters the south and north arcs in the machine, which leads
+to the Final Focus, therefore this section is mothballed to run beam into the
+PEP2 section from the beam switchyard.
+
+The SLAC Large Detector (SLD) was the main detector for the Stanford Linear
+Collider. It was designed primarily to detect Z bosons produced by the
+accelerator's electron-positron collisions. The SLD operated from 1992 to
+1998.
+
+PEP (Positron-Electron Project) began operation in 1980, with center-of-mass
+energies up to 29 GeV. At its apex, PEP had five large particle detectors in
+operation, as well as a sixth smaller detector. About 300 researchers made
+used of PEP. PEP stopped operating in 1990, and PEP-II began construction in
+1994.[19]
+
+From 1999 to 2008, the main purpose of the linear accelerator was to inject
+electrons and positrons into the PEP-II accelerator, an electron-positron
+collider with a pair of storage rings 2.2 km (1.4 mi) in circumference. PEP-II
+was host to the BaBar experiment, one of the so-called B-Factory experiments
+studying charge-parity symmetry.
+
+The Stanford Synchrotron Radiation Lightsource (SSRL) is a synchrotron light
+user facility located on the SLAC campus. Originally built for particle
+physics, it was used in experiments where the J/ψ meson was discovered. It is
+now used exclusively for materials science and biology experiments which take
+advantage of the high-intensity synchrotron radiation emitted by the stored
+electron beam to study the structure of molecules. In the early 1990s, an
+independent electron injector was built for this storage ring, allowing it to
+operate independently of the main linear accelerator.
+
+SLAC plays a primary role in the mission and operation of the Fermi Gamma-ray
+Space Telescope, launched in August 2008. The principal scientific objectives
+of this mission are:
+
+The Kavli Institute for Particle Astrophysics and Cosmology (KIPAC) is
+partially housed on the grounds of SLAC, in addition to its presence on the
+main Stanford campus.
+
+The Stanford PULSE Institute (PULSE) is a Stanford Independent Laboratory
+located in the Central Laboratory at SLAC. PULSE was created by Stanford in
+2005 to help Stanford faculty and SLAC scientists develop ultrafast x-ray
+research at LCLS. PULSE research publications can be viewed here.
+
+The Linac Coherent Light Source (LCLS) is a free electron laser facility
+located at SLAC. The LCLS is partially a reconstruction of the last 1/3 of the
+original linear accelerator at SLAC, and can deliver extremely intense x-ray
+radiation for research in a number of areas. It achieved first lasing in April
+2009.[20]
+
+The laser produces hard X-rays, 109 times the relative brightness of
+traditional synchrotron sources and is the most powerful x-ray source in the
+world. LCLS enables a variety of new experiments and provides enhancements for
+existing experimental methods. Often, x-rays are used to take "snapshots" of
+objects at the atomic level before obliterating samples. The laser's
+wavelength, ranging from 0.13 to 6.2 nm (200 to 9500 electron volts
+(eV)[21][22] is similar to the width of an atom, providing extremely detailed
+information that was previously unattainable.[23] Additionally, the laser is
+capable of capturing images with a "shutter speed" measured in femtoseconds,
+or million-billionths of a second, necessary because the intensity of the beam
+is often high enough so that the sample explodes on the femtosecond
+timescale.[24][21]
+
+The LCLS-II project is to provide a major upgrade to LCLS by adding two new
+X-ray laser beams. The new system will utilize the 500 m (1,600 ft) of
+existing tunnel to add a new superconducting accelerator at 4 GeV and two new
+sets of undulators that will increase the available energy range of LCLS. The
+advancement from the discoveries using this new capabilities may include new
+drugs, next-generation computers, and new materials.[25]
+
+In 2012, the first two thirds (~2 km) of the original SLAC LINAC were
+recommissioned for a new user facility, the Facility for Advanced Accelerator
+Experimental Tests (FACET). This facility was capable of delivering 20 GeV, 3
+nC electron (and positron) beams with short bunch lengths and small spot
+sizes, ideal for beam-driven plasma acceleration studies.[26] The facility
+ended operations in 2016 for the constructions of LCLS-II which will occupy
+the first third of the SLAC LINAC. The FACET-II project will re-establish
+electron and positron beams in the middle third of the LINAC for the
+continuation of beam-driven plasma acceleration studies in 2019.
+
+The Next Linear Collider Test Accelerator (NLCTA) is a 60-120 MeV high-
+brightness electron beam linear accelerator used for experiments on advanced
+beam manipulation and acceleration techniques. It is located at SLAC's end
+station B. A list of relevant research publications can be viewed here.
+

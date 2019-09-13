@@ -1,0 +1,17 @@
+![1leftarrow
+blue.svg](//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/1leftarrow_blue.svg/16px-1leftarrow_blue.svg.png)_Voce
+principale: **1977**._
+
+L'aggiornamento è periodico e automatico e ricostruisce completamente la
+pagina. Se manca una persona in questa lista, sei pregato di **non**
+aggiungerla, ma accertati piuttosto che la sua voce biografica contenga il
+**template Bio** e che i dati anagrafici siano correttamente compilati. Se il
+**template Bio** manca, inseriscilo tu stesso o, in alternativa, metti
+l'avviso **{{tmp|Bio}}** che ne segnala la mancanza. Se i dati riportati sono
+sbagliati, correggi direttamente la pagina biografica; le modifiche saranno
+visibili in questa lista dopo pochi giorni. Per chiarimenti vedi il **progetto
+biografie**.  
+La lista contiene solo le **1.003** persone che sono citate nell'enciclopedia
+e per le quali è stato implementato correttamente il template **Bio**. Pagina
+aggiornata al **9 set 2019**.
+

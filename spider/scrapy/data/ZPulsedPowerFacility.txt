@@ -1,0 +1,187 @@
+Coordinates: 35°02′08″N 106°32′33″W﻿ / ﻿35.035451°N 106.542522°W﻿ / 35.035451;
+-106.542522
+
+The **Z Pulsed Power Facility** , informally known as the **Z machine** , is
+the largest high frequency electromagnetic wave generator in the world and is
+designed to test materials in conditions of extreme temperature and pressure.
+Since its refurbishment in October 1996[1] it has been used primarily as an
+inertial confinement fusion (ICF) research facility. Operated by Sandia
+National Laboratories, it gathers data to aid in computer modeling of nuclear
+weapons and eventual nuclear fusion pulsed power plants. The Z machine is
+located at Sandia's main site in Albuquerque, New Mexico.
+
+The Z machine origins can be traced from the Department of Energy needing to
+replicate the fusion reactions of a thermonuclear bomb in a lab environment to
+better understand the physics involved.
+
+Since the 1970s the DoE had been looking into ways to generate electricity
+from fusion reactions, with continuous reactions such as tokamaks or discrete
+fusion of small balls of light atoms. Since at the time lasers were far from
+having the required power, the main approach considered was heavy ion
+fusion.[2] However major advances such as Q-switching and mode-locking made
+lasers an option (culminating in the National Ignition Facility) and the Heavy
+Ion Fusion programs became more or less dormant. In 1985, the review of DoE's
+program by the National Academies[3] stated "The energy crisis is dormant for
+the time being". Heavy ion fusion machines were tasked to help military
+research improve nuclear bombs.
+
+The first research at Sandia dates back from 1971[4] where Gerold Yonas[5][6]
+initiated and directed the particle-beam fusion program. Electrons were the
+first particles to be thought of, because the pulsed power accelerators at the
+time had already concentrated them at high power in small areas. However,
+shortly thereafter it was realized that electrons can not possibly heat the
+fusion fuel rapidly enough for the purpose. The program then moved away from
+electrons in favor of protons. These turned out to be too light to control
+well enough to concentrate onto a target, and the program moved on to light
+ions, lithium. The accelerators names reflect the change in emphasis: first
+the accelerator's name was EBFA-I (electron beam fusion accelerator), shortly
+thereafter PBFA-I, which became Saturn. Protons demanded another accelerator,
+PBFA-II, which became Z.
+
+In the December 1976 issue of Popular Science[7] and in 1976 conference
+proceedings published in 1977, an article titled "Particle Beam Fusion
+Research"[8] described early work and first generation machines: Hydra (1972);
+Proto I (1975); Proto II (1977); EBFA/PBFA (electronic beam fusion
+accelerator/particle beam fusion accelerator) (1980).
+
+In 1985, the PBFA-II was created.[9][10] Sandia continued to target heavy ion
+fusion at a slow pace despite the National Academies report.
+
+The November 1978 issue of Scientific American carried Yonas' first general-
+public article, "Fusion power with particle beams".[11]
+
+Meanwhile, defense-related research was also ongoing at Sandia with the Hermes
+III machine and Saturn (1987), upgraded from PBFA-I, which operated at lower
+total power than PBFA-II but advanced Sandia's knowledge in high voltage and
+high current and was therefore a useful predecessor to the Z machine.
+
+In 1996, the US Army published a report[12] on the decommissioning of the
+Aurora Pulsed Radiation Simulator. This report is useful in understanding ties
+between nuclear arms testing and inertial fusion energy research.
+
+Also in 1996, the PBFA-II machine was once again upgraded[13] into PBFA-Z[1]
+or simply "Z machine", described for the first time to the general public on
+August 1998 in Scientific American.[14][15]
+
+The Z machine uses the well known principle of Z-pinch where the fast
+discharge of capacitors through a tube of plasma causes it to be compressed
+towards its centerline by the resulting Lorentz forces. Bennet successfully
+researched the application of Z-pinches to plasma compression. The Z machine
+layout is cylindrical. On the outside it houses huge capacitors discharging
+through Marx generators which generate a one microsecond high-voltage pulse.
+Yonas then uses a system to divide this time by a factor of 10, using the
+dielectric power of water, to enable the creation of 100ns discharges.
+
+However this effort was not successful for Heavy Ion Fusion, due to lack of
+sufficient focusing of the beams, despite the high power used. It had been
+known for a long time that the Lorentz forces were radial but the current flow
+was highly unstable and rotated along the cylinder which causes twisting of
+the imploding tube therefore decreasing the quality of the compression.
+
+A Russian scientist, Valentin Smirnov, then had the idea of replacing the tube
+(called "liner") with a wire array, to fight the azimuthal flow of the
+current, and therefore fight the MHD instability. The Angara V[16] facility of
+the Kurchatov Institute had been built for the same reason: to help simulate
+and design the second stage of hydrogen bombs and test the effect of high
+power x-rays on nuclear missiles' warheads. The space inside the wire array
+was filled with polystyrene, which helps homogenize the X-ray flux.
+
+Any country developing thermonuclear weapons has its own Z machine, but those
+not using water lines had long rising pulses (for example 800ns in the Sphinx,
+the French machine at Gramat). In the UK, the Magpie[17] machine was situated
+at the Imperial College under control of Malcolm Haines.
+
+By removing the polystyrene core, Sandia was able to obtain a thin 1.5 mm
+plasma cord in which 10 million amperes flowed with 90 megabars of pressure.[
+_citation needed_ ]
+
+The key attributes of Sandia's Z machine[18] are its 18 million amperes and a
+discharge time of less than 100 nanoseconds. The array of tungsten wires is
+called a "liner."[19] In 1999, Sandia tested the idea of nested wire
+arrays;[20] the second array, out of phase with the first, compensates for
+Rayleigh-Taylor instabilities. In 2001, Sandia introduced the Z-Beamlet laser
+(from surplus equipment of the National Ignition Facility) as a tool to better
+image the compressing pellet.[21] This confirmed the shaping uniformity of
+pellets compressed by the Z machine.
+
+Sandia announced the fusing of small amounts of deuterium in the Z machine on
+April 7, 2003.[22]
+
+Besides being used as an X-ray generator, the Z machine propelled small plates
+at 34 kilometers a second, faster than the 30 kilometers per second that Earth
+travels in its orbit around the Sun, and four times Earth's escape velocity (3
+times it at sea level).[23] It also successfully created a special, hyperdense
+"hot ice" known as ice VII, by quickly compressing water to pressures of
+70,000 to 120,000 atmospheres (7 to 12 GPa).[24] Mechanical shock from
+impacting Z-machine accelerated projectiles is able to melt diamonds.[25]
+
+A good overview of the different missions of the Z machine can be found in the
+2002 Trivelpiece committee report[26] which reviewed the pulsed power
+activities at Sandia.
+
+During this period the power of X-ray produced jumps from 10 to 300TW.[27] In
+order to target the next milestone of fusion breakeven, another upgrade was
+then necessary[28]
+
+At the beginning of 2006, the Z machine produced plasmas with announced
+temperatures in excess of 2 billion Kelvin (2 × 109 K) or 3.6 billion °F (2
+billion °C), even reaching a peak at 3.7 × 109 K or 6.6 billion °F (3.7
+billion °C).[29][30][31] It was achieved in part by replacing the tungsten
+wires with thicker steel wires. This temperature, which enables a 10% to 15%
+efficiency in converting electrical energy to soft x-rays, was much higher
+than anticipated (3 to 4 times the kinetic energy of the incoming wires on
+axis). The Guinness Book Of Records formerly listed it as the highest human-
+achieved temperature[32] (the Relativistic Heavy Ion Collider at Brookhaven
+National Laboratory[33] and the Large Hadron Collider[34] have since produced
+higher temperatures). The origin of this extra energy still remains
+unexplained, but it has been theorized that small-scale MHD turbulence and
+viscous damping would convert magnetic energy into thermal energy of the ions,
+which then would transfer their energy to the electrons through
+collisions.[30][31]
+
+A $60 million (raised to $90 million) retrofit program called ZR (Z
+Refurbished) was announced in 2004 to increase its power by 50%. The Z machine
+was dismantled in July 2006 for this upgrade, including the installation of
+newly designed hardware and components and more powerful Marx generators. The
+de-ionized water section of the machine has been reduced to about half the
+previous size while the oil section has been expanded significantly in order
+to house larger intermediate storage lines (i-stores) and new laser towers,
+which used to sit in the water section. The refurbishment was completed in
+October 2007.[35] The newer Z machine can now shoot around 26 million
+amperes[36] (instead of 18 million amperes previously) in 95 nanoseconds. The
+radiated power has been raised to 350 terawatts and the X-ray energy output to
+2.7 megajoules. However the maximum temperature the new version may reach with
+the same record holder stainless steel wire-array liner used in 2005 is not
+yet known.
+
+The ultra-high temperatures reached in 2006 (2.66 to 3.7 billion kelvins) are
+much higher than those required for the classical hydrogen, deuterium and
+tritium fusion previously considered. They could allow, in theory if not in
+practice, the fusion of light hydrogen atoms with heavier atoms such as
+lithium or boron. These two possible fusion reactions do not produce neutrons,
+and thus no radioactivity or nuclear waste, so they open the possibility of
+human-made clean aneutronic fusion.[ _citation needed_ ]
+
+Sandia's roadmap includes another Z machine version called ZN (Z Neutron) to
+test higher yields in fusion power and automation systems. ZN is planned to
+give between 20 and 30 MJ of hydrogen fusion power with a shot per hour using
+a Russian Linear Transformer Driver (LTD) replacing the current Marx
+generators.[37] After 8 to 10 years of operation, ZN would become a
+transmutation pilot plant capable of a fusion shot every 100 seconds.[38]
+
+The next step planned would be the Z-IFE (Z-inertial fusion energy) test
+facility, the first true z-pinch driven prototype fusion power plant. It is
+suggested it would integrate Sandia's latest designs using LTDs. Sandia Labs
+recently proposed a conceptual 1 petawatt (1015 watts) LTD Z-pinch power
+plant, where the electric discharge would reach 70 million amperes.[39] As of
+2012, fusion shot simulations at 60 to 70 million amperes are showing a 100 to
+1000 fold return on input energy. Tests at the Z machine's current design
+maximum of 26-27 million amperes were set to begin in 2013.[40][41][
+_clarification needed_ ]
+
+The Sandia Laboratories Z-IFE project[42] aims to solve the practical
+difficulties in harnessing fusion power. Major problems include producing
+energy in a single Z-pinch shot, and quickly reloading the reactor after each
+shot. By their early estimates, an implosion of a fuel capsule every 10
+seconds could economically produce 300 MW of fusion energy.
+

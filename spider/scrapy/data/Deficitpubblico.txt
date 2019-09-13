@@ -1,0 +1,141 @@
+Nella contabilità di Stato il **deficit pubblico** , o **disavanzo pubblico**
+, è la situazione contabile dello Stato che si verifica quando, nel corso di
+un esercizio finanziario, le uscite superano le entrate ovvero il bilancio
+dello Stato è negativo.
+
+La differenza tra entrate (gettito fiscale) e uscite (spesa pubblica) è detta
+_saldo pubblico_ : se tale saldo è negativo, si parla di _deficit_ ( _o
+disavanzo_ ); se è positivo, si parla di _avanzo_ ; se, infine, è pari a zero,
+si parla di _pareggio del bilancio_.
+
+Si dice invece _saldo primario_ la differenza tra entrate e uscite al netto
+degli interessi, ossia quando sono escluse dal computo delle uscite le spese
+per interessi sul debito pubblico.
+
+La spesa pubblica è costituita dagli acquisti di beni e servizi da parte del
+settore governativo/statale e dai trasferimenti alle amministrazioni locali,
+alle imprese e ai singoli (sotto forma di retribuzioni, pensioni e altri tipi
+di sussidi, come quelli di disoccupazione). A fronte di tali uscite lo Stato
+incassa un cosiddetto gettito fiscale dalle imposte di sua competenza, quali
+le imposte _dirette_ come quelle sul reddito e _indirette_ , come quelle che
+colpiscono i beni. Il saldo negativo tra entrate ed uscite rappresenta dunque
+il deficit o disavanzo.
+
+Il deficit statale può essere il risultato voluto dal governo di politiche di
+bilancio (manovre finanziarie o strategie economico-finanziarie di lungo
+periodo) di tipo _espansivo_ a sostegno della domanda aggregata e quindi della
+crescita economica grazie all'aumento della spesa statale o dei trasferimenti
+e/o riduzione delle imposte. Viceversa manovre _restrittive_ , con riduzione
+della spesa statale o dei trasferimenti, e/o in un aumento delle imposte,
+hanno effetto di riduzione del deficit statale, pareggio di bilancio o
+generazione di avanzo statale ottenendo dunque un saldo positivo nei _conti
+dello Stato_ grazie a _politiche di rigore_ deflazionistiche.
+
+La presenza di un disavanzo si potrebbe dunque attribuire ad un _incremento di
+spesa_ (causata da eventi come una guerra o una catastrofe naturale, da scelte
+di politiche economiche di sostegno ad un decremento della domanda generato da
+aumento del tasso di disoccupazione e da stagnazione o recessione economica
+all'interno del settore privato-non governativo) e/o a _diminuzione delle
+entrate_ (ad esempio politiche fiscali di sostegno alla domanda, alta evasione
+fiscale, bassa crescita economica che genera diminuzione nel gettito fiscale).
+
+Concorre alla generazione di deficit pubblico indesiderato il fenomeno
+dell'evasione fiscale e/o una diminuzione del PIL con diminuzione delle
+entrate dovuta a minor introiti da tassazione sui redditi.
+
+Anche se il deficit statale viene misurato in termini assoluti, indicando il
+suo ammontare in euro o nella moneta in cui è espresso, gli economisti
+preferiscono valutarne le dimensioni relative, rapportando il deficit al
+Prodotto interno lordo del paese. Tale rapporto costituisce, peraltro, il
+parametro essenziale con cui sono valutati gli Stati Membri dell'Unione
+europea, che rientrano nell'eurozona, per il rispetto del Patto di stabilità e
+crescita.
+
+Un deficit contabilizzato nei conti dello Stato, anche se voluto da politiche
+_espansive_ di crescita economica, pone allora la questione cruciale della sua
+copertura finanziaria. Stati a moneta privata (negli USA, sovrana invece in
+Giappone, Cina, etc.) sono sempre solvibili, ma dalla dinamica inflattiva
+innescata da politiche di monetizzazione del debito consegue l'impossibilità
+di ricorrere al credito nelle valuta locale e pertanto questo vantaggio è di
+breve durata, quindi anche i monopolisti della moneta hanno bisogno del
+prelievo fiscale per la loro spesa in deficit . Gli stati, che utilizzino o
+meno una moneta sovrana, hanno il problema di reperire le risorse finanziarie
+per la propria spesa a deficit. Questa avviene solitamente con l'emissione di
+titoli di stato come BOT e CCT, che vanno dunque a costituire, in aggregato,
+il cosiddetto debito statale. Lo Stato emittente paga necessariamente degli
+interessi che contribuiscono a loro volta ad un ulteriore quota delle uscite
+statali.
+
+In quanto originate dal disavanzo tra entrate e uscite, le politiche
+_restrittive_ di colmamento/riduzione di tale deficit statale presente e
+futuro possono ottenersi necessariamente attraverso attuazione di una o più
+delle seguenti misure:
+
+La seguente equazione alle differenze relativa al rapporto deficit/PIL mostra
+come il deficit pubblico al tempo _t_ è uguale agli interessi sul valore
+nominale del debito pubblico dell'anno precedente con _i_ tasso di interesse
+nominale dei titoli di stato più il disavanzo primario (pari alla differenza
+tra le uscite e le entrate statali):
+
+Dividendo l'equazione per il PIL e ponendo che l'incremento del PIL dal tempo
+_t-1_ al tempo _t_ sia pari a _1+n_ (essendo _n_ il tasso di crescita del PIL
+nominale) si ha :
+
+con  b t − 1 {\displaystyle b_{t-1}}
+![b_{t-1}](https://wikimedia.org/api/rest_v1/media/math/render/svg/b490291cc66543efec2c0c188e2f012ca26877eb)
+rapporto debito/PIL al tempo t-1 e d rapporto disavanzo primario/PIL
+considerato costante nel tempo.
+
+In base alla Trattazione matematica del rapporto debito/PIL risulta :
+
+Pertanto si ha :
+
+Semplificando l'equazione e imponendo che risulti uguale al 3% si ha:
+
+Ricavando d dall'equazione si ottiene :
+
+Imponendo ad esempio le condizioni :  t = 0 i = 4 % n = 1 % b 0 = 120 % B 0 =
+2000 m i l i a r d i {\displaystyle t=0\quad i=4\%\quad n=1\%\quad
+b_{0}=120\%\quad B_{0}=2000\quad miliardi} ![t=0 \\quad i=4\\% \\quad n=1\\%
+\\quad b_0=120\\% \\quad B_0=2000 \\quad  miliardi
+](https://wikimedia.org/api/rest_v1/media/math/render/svg/6d74f5e902b2ba5c655acf6048bef62b3eb109cd)
+
+si può ricavare d che risulta uguale a :
+
+Inoltre essendo :
+
+allora il PIL attuale risulta:
+
+e quindi:
+
+Pertanto il disavanzo primario necessario per mantenere il rapporto
+deficit/PIL al 3% è :
+
+Ma gli interessi sul debito risultano pari a :
+
+Pertanto per ottenere un rapporto deficit/PIL inferiore al 3% nelle condizioni
+in esempio occorre che l'avanzo primario cioè la differenza tra le entrare e
+le uscite a meno della spesa per interessi risulti maggiore di 27,98 miliardi
+di euro.
+
+In tal caso il deficit risulterà minore di 77,96-27,98=49.97 miliardi di euro.
+
+Una divisione tradizionale delle posizioni in materia di deficit e politica
+economica tra forze politiche conservatrici e progressiste, attribuisce alle
+prime la volontà di ridurre quanto più possibile il deficit dello stato o
+addirittura di chiudere in pareggio di bilancio i conti pubblici allo scopo di
+mantenere ordine nei conti, di contenere la spesa pubblica e di preservare il
+ruolo di controllo dello stato nell'economia, mentre alle seconde verrebbe
+attribuito il desiderio di accettare deficit pubblici strutturali purché
+finalizzati a sostenere la domanda e in consumi o a preservare le fasce
+sociali più deboli.
+
+In particolare le posizioni che si rifanno alle idee keynesiane attribuiscono
+allo stato il compito di sostenere, quando necessario, la domanda di beni e
+servizi ricorrendo alla spesa pubblica anche in condizioni di deficit
+stimolando la crescita economica, che di per sé in linea teorica sarebbe anche
+in grado di aumentare/sostenere le entrate statali nel medio-lungo periodo per
+tassazione sui maggiori profitti di aziende e lavoratori.
+
+Altri progetti
+

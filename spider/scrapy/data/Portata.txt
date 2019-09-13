@@ -1,0 +1,138 @@
+In fluidodinamica la **portata** è la quantità di fluido che attraversa
+nell'unità di tempo una sezione di area A {\displaystyle A}
+![A](https://wikimedia.org/api/rest_v1/media/math/render/svg/7daff47fa58cdfd29dc333def748ff5fa4c923e3).
+Può capitare che il valore di una portata vada a corrispondere al flusso di un
+determinato vettore attraverso la sezione  A {\displaystyle A}
+![A](https://wikimedia.org/api/rest_v1/media/math/render/svg/7daff47fa58cdfd29dc333def748ff5fa4c923e3).
+
+In generale, data una funzione scalare  q ( r , t ) {\displaystyle q(\mathbf
+{r} ,t)} ![{\\displaystyle q\(\\mathbf {r}
+,t\)}](https://wikimedia.org/api/rest_v1/media/math/render/svg/fd04583487d60335fda80e9a9614ca0320dce0b3),
+in grado di descrivere una quantità di fluido, si può definire la portata di
+quest'ultimo come:
+
+Più nello specifico, data una sezione si può definire una:
+
+La **portata volumetrica** di fluido che scorre nell'unità di tempo attraverso
+una sezione di area _ A {\displaystyle A}
+![A](https://wikimedia.org/api/rest_v1/media/math/render/svg/7daff47fa58cdfd29dc333def748ff5fa4c923e3)_
+è pari a:
+
+pertanto,  V ˙ {\displaystyle {\dot {V}}} ![{\\displaystyle {\\dot
+{V}}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/49ef9fa9f410331b94e4578bab90e9edda5c919b)può
+essere interpretata anche come il flusso della velocità v {\displaystyle
+\mathbf {v} } ![{\\displaystyle \\mathbf {v}
+}](https://wikimedia.org/api/rest_v1/media/math/render/svg/35c1866e359fbfd2e0f606c725ba5cc37a5195d6)
+del fluido attraverso la sezione  A {\displaystyle A}
+![A](https://wikimedia.org/api/rest_v1/media/math/render/svg/7daff47fa58cdfd29dc333def748ff5fa4c923e3).
+
+Nella maggior parte delle applicazioni pratiche, il flusso di un fluido
+attraverso un condotto, se riferito ai valori medi delle proprietà nella
+generica sezione perpendicolare alla direzione del flusso, si può approssimare
+ad un flusso unidimensionale, ovverosia si trascurano le variazioni delle
+proprietà del fluido in ogni direzione tranne la direzione del flusso. Questa
+approssimazione se influisce poco sulla maggior parte delle proprietà del
+fluido, quali temperatura, pressione, densità, ha invece un effetto rilevante
+sulla velocità, il cui valore varia da zero in prossimità delle pareti ad un
+massimo in corrispondenza dell'asse, a causa degli effetti viscosi.
+
+Considerando  ⟨ v ⟩ {\displaystyle \langle v\rangle } ![{\\displaystyle
+\\langle v\\rangle
+}](https://wikimedia.org/api/rest_v1/media/math/render/svg/61604fdde22cb90ecdbdd2813be95b938722f54c)
+la velocità media del fluido uniforme su tutto  A {\displaystyle A}
+![A](https://wikimedia.org/api/rest_v1/media/math/render/svg/7daff47fa58cdfd29dc333def748ff5fa4c923e3)
+e inclinata con un certo angolo  θ {\displaystyle \theta } ![{\\displaystyle
+\\theta
+}](https://wikimedia.org/api/rest_v1/media/math/render/svg/6e5ab2664b422d53eb0c7df3b87e1360d75ad9af)
+rispetto alla normale unitaria associata alla sezione, si ha che:
+
+inoltre, nel caso particolare in cui  v {\displaystyle \mathbf {v} }
+![{\\displaystyle \\mathbf {v}
+}](https://wikimedia.org/api/rest_v1/media/math/render/svg/35c1866e359fbfd2e0f606c725ba5cc37a5195d6)
+risulti ortogonale all'area, si avrà che:
+
+Nel Sistema Internazionale la portata volumetrica si misura in metri cubi al
+secondo [ m 3 / s ] {\displaystyle [m^{3}/s]} ![{\\displaystyle
+\[m^{3}/s\]}](https://wikimedia.org/api/rest_v1/media/math/render/svg/100b9c847f4b2cfb4aecb434403c18826cd0665b).
+
+La **portata molare** di un fluido che scorre nell'unità di tempo attraverso
+una sezione di area  A {\displaystyle A}
+![A](https://wikimedia.org/api/rest_v1/media/math/render/svg/7daff47fa58cdfd29dc333def748ff5fa4c923e3)
+è pari a:
+
+Nel Sistema Internazionale la portata molare si misura in moli al secondo  [ m
+o l / s ] {\displaystyle [mol/s]} ![{\\displaystyle
+\[mol/s\]}](https://wikimedia.org/api/rest_v1/media/math/render/svg/857b400b749668df82fd0f34ddc09b23b5d60bcd).
+
+Nell'ipotesi di flusso unidimensionale, assumendo la velocità costante
+sull'intera sezione trasversale e pari ad un valore medio equivalente, è
+possibile passare dalla portata volumetrica alla portata molare attraverso la
+relazione:
+
+dove  ρ {\displaystyle \rho } ![{\\displaystyle \\rho
+}](https://wikimedia.org/api/rest_v1/media/math/render/svg/1f7d439671d1289b6a816e6af7a304be40608d64)
+è la densità e  M {\displaystyle M} ![{\\displaystyle
+M}](https://wikimedia.org/api/rest_v1/media/math/render/svg/f82cade9898ced02fdd08712e5f0c0151758a0dd)
+la massa molare. Supponendo  ρ {\displaystyle \rho } ![ \\rho
+](https://wikimedia.org/api/rest_v1/media/math/render/svg/1f7d439671d1289b6a816e6af7a304be40608d64)
+costante su tutta la sezione si può riscrivere la relazione come:
+
+La **portata massica**[1] di un fluido che scorre nell'unità di tempo
+attraverso una sezione di area  A {\displaystyle A}
+![A](https://wikimedia.org/api/rest_v1/media/math/render/svg/7daff47fa58cdfd29dc333def748ff5fa4c923e3)
+è pari a:
+
+Nel Sistema Internazionale la portata massica si misura in chilogrammi al
+secondo  [ k g / s ] {\displaystyle [kg/s]} ![{\\displaystyle
+\[kg/s\]}](https://wikimedia.org/api/rest_v1/media/math/render/svg/c4570107ac04d8bb1f6162c736aaf05887ba1641).
+
+Nell'ipotesi di flusso unidimensionale, assumendo la velocità costante
+sull'intera sezione trasversale e pari ad un valore medio equivalente, è
+possibile passare dalla portata volumetrica alla portata massica attraverso la
+relazione:
+
+Supponendo  ρ {\displaystyle \rho } ![ \\rho
+](https://wikimedia.org/api/rest_v1/media/math/render/svg/1f7d439671d1289b6a816e6af7a304be40608d64)
+costante su tutta la sezione si può riscrivere la relazione come:
+
+La **portata ponderale** di un fluido che scorre nell'unità di tempo
+attraverso una sezione di area  A {\displaystyle A}
+![A](https://wikimedia.org/api/rest_v1/media/math/render/svg/7daff47fa58cdfd29dc333def748ff5fa4c923e3)
+è pari a:
+
+dove  g → {\displaystyle {\vec {g}}} ![{\\displaystyle {\\vec
+{g}}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/8aad928c73fda5199478a151663f0ce3a57a8027)
+è l'accelerazione di gravità. Nel Sistema Internazionale la portata molare si
+misura in newton al secondo  [ N / s ] {\displaystyle [N/s]} ![{\\displaystyle
+\[N/s\]}](https://wikimedia.org/api/rest_v1/media/math/render/svg/e87b147cd968baf9e5ee6ae70673a149fb555d44).
+
+_Portata_ è un aggettivo sostantivato, derivante da un precedente uso come
+aggettivo, nel senso di “quantità d'acqua portata” da un alveo. Questo termine
+è molto importante nella storia dell'idraulica e si forma all'inizio del
+Seicento nella scuola di Galileo, dove maturano metodi esatti di misura delle
+acque. La critica ai sistemi tradizionali di misura delle acque è anticipata
+già da Leonardo Da Vinci, ma sarà Benedetto Castelli a sviluppare per primo
+misure sistematiche di portata nel suo trattato _Della misura dell'acque
+correnti_. In precedenza le quantità d'acqua erano misurate semplicemente con
+le sezioni d'efflusso dalle luci o di deflusso nei corsi d'acqua, senza
+considerare il volume totale che le attraversava, cosa che poteva esser fatta
+tenendo conto della velocità con cui il fluido attraversava la sezione. Per
+evidenziare il concetto di portata, Castelli introdusse in modo efficace la
+velocità come terza dimensione, accanto alle due della sezione trasversale.
+Castelli usò l'espressione “quantità dell'acqua” per indicare la portata,
+un'espressione che rimase a lungo e lasciò tracce nel simbolo ancor oggi
+universalmente usato per indicare la portata, ossia la lettera Q, che
+rappresenta appunto l'iniziale di “quantità”.[2]
+
+Nella scienza idraulica il termine “portata” ha due significati: col primo si
+indica la quantità di liquido che attraversa nell'unità di tempo la sezione di
+un corso d'acqua, un canale o un condotto, mentre col secondo s'intende la
+capacità idraulica di un'opera o di un dispositivo per la captazione o
+l'erogazione dell'acqua.
+
+La portata di un corso d'acqua è qualificata da aggettivi (per esempio portata
+_minima_ , _media_ od _ordinaria_ , _massima_ o _di punta_ ), corrispondenti a
+specifiche elaborazioni idrologiche. La _portata solida_ , invece, è la massa
+di sedimenti che attraversano nell'unità di tempo la sezione di un corso
+d'acqua naturale.
+

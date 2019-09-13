@@ -1,0 +1,23 @@
+La **Я** , minuscolo **я** , chiamata **ya** , è una lettera dell'alfabeto
+cirillico. Rappresenta la vocale iotizzata IPA /ja/. È la 33ª ed ultima
+lettera dell'alfabeto cirillico russo. All'apparenza sembra la versione
+speculata della lettera latina R. Nella lingua russa, la parola Я è il pronome
+personale "io". Un detto popolare basato su questo fatto, "ya è l'ultima
+lettera dell'alfabeto" (Я последняя буква алфавита), viene usato per insegnare
+ai bambini la modestia e l'umiltà. Curiosamente, nell'antico alfabeto
+cirillico il nome az" (азъ) per la prima lettera ( _А_ ) stava anch'esso per
+"io"[1].
+
+La Я è in realtà un ibrido di due lettere storiche. Una è la A iotizzata (Ꙗ),
+una legatura di І e А, simile alle lettere Ю (U iotizzata) e Ѥ (E iotizzata).
+L'altra è la jus piccola (Ѧ). Nel tempo, la distinzione fonetica fra Ꙗ e Ѧ è
+andata perduta, e quando Pietro il Grande introdusse la scrittura civile nel
+1708 la sola lettera Я sostituì entrambe. Così, Я è una tarda aggiunta
+all'alfabeto cirillico. Essa non esiste negli alfabeti glagolitico, greco o
+latino, e non possiede valore numerico o altro nome che non ja.
+
+In Unicode, la A iotizzata (Ꙗ) è stata inserita con Unicode 5.1.
+
+I corrispondenti codici HTML sono `&#1071;` o `&#x42F;` per il maiuscolo e
+`&#1103;` o `&#x44F;` per il minuscolo.
+

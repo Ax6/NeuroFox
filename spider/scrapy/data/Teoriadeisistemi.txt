@@ -1,0 +1,231 @@
+In ambito scientifico la **teoria dei sistemi** , più propriamente **teoria
+del sistema generale** (definizione originale[ _senza fonte_ ] di Ludwig von
+Bertalanffy)[1], detta anche **teoria generale dei sistemi** e ancora
+generalizzata in **sistemica** ( _systemics_ in inglese e _systémique_ in
+francese), è un settore di studi spesso interdisciplinare, a cavallo tra
+matematica e scienze naturali, che si occupa dell'analisi delle proprietà e
+della costituzione di un sistema in quanto tale. La teoria si compone
+essenzialmente della teoria dei sistemi dinamici (semplici e complessi) e
+della teoria del controllo ed è alla base di diverse discipline come
+l'automatica, la robotica e la fisica cibernetica nonché lo studio tecnico-
+scientifico dei sistemi in generale.
+
+La teoria dei sistemi nacque come risposta alle nuove conoscenze che la
+biologia cominciò a sviluppare nei primi anni del XX secolo e che fecero
+nascere la scuola di pensiero organicistica che si opponeva a quella
+meccanicistica, caratteristica del XIX secolo. Uno dei primi esponenti di
+questo tipo di pensiero fu Ross Harrison che studiò il concetto di
+organizzazione identificando nella configurazione e nella relazione i due
+elementi più importanti degli oggetti che compongono un sistema.
+
+Uno degli elementi fondamentali dell'organizzazione negli organismi viventi è
+la sua natura gerarchica, ovvero l'esistenza di più livelli di sistema
+all'interno di ogni sistema più ampio. Così le cellule si combinano per
+formare i tessuti, i tessuti per formare gli organi e gli organi per formare
+gli organismi. A loro volta gli organismi vivono in gruppi formanti sistemi
+sociali che vanno poi a formare attraverso l'interazione con altre specie gli
+ecosistemi. Ciò che risultò subito chiaro fu l'esistenza di diversi livelli di
+complessità e che ad ogni livello di complessità i fenomeni osservati mostrano
+proprietà che non esistono al livello inferiore. Nei primi anni venti il
+filosofo C. D. Broad coniò per questo tipo di proprietà il termine emergenza.
+
+Questo tipo di concezione contraddice il paradigma cartesiano secondo cui il
+comportamento del tutto può essere compreso completamente studiando le
+proprietà delle sue parti. La teoria dei sistemi non si può dunque conciliare
+con l'approccio analitico o riduzionistico che aveva caratterizzato il _modus
+operandi_ degli scienziati fino a quel tempo.
+
+Il concetto di sistema si è rapidamente diffuso nell'ingegneria dove certi
+strumenti interpretativi ad esso connessi possono ritenersi patrimonio
+consolidato.  
+Particolarmente efficace è la possibilità di ridurre, in sede di analisi, il
+funzionamento di fenomeni fisici complessi all'interazione di sistemi più
+semplici e, viceversa, la possibilità di progettare sistemi in maniera
+strutturata componendo unità più semplici.  
+Tutti i sistemi fisici di interesse per l'ingegnere sono sistemi dinamici
+orientati che descrivono una vasta gamma di fenomeni e di processi. La
+dipendenza dagli interventi esterni (orientamento), messa in evidenza nel
+modello matematico, ne caratterizza la collocazione tra le scienze
+dell'ingegneria.
+
+Scopo della teoria dei sistemi è introdurre ai principali metodi di studio dei
+sistemi dinamici orientati con particolare riferimento alla classe dei sistemi
+lineari e stazionari, a tempo continuo e a tempo discreto.
+
+In ingegneria la necessità di associare ai fenomeni una loro descrizione
+quantitativa ha poi dato luogo all'associazione sistema-modello, cuore della
+teoria dei sistemi: questa pertanto ha l'obiettivo di inquadrare in maniera
+unitaria le relazioni di causa-effetto e fornire degli strumenti di analisi
+matematica e sintesi ingegneristica.
+
+Per esempio, lo studio delle proprietà nel dominio del tempo e della frequenza
+fornisce elementi essenziali di interpretazione del comportamento di fenomeni
+e processi caratteristici dei diversi settori applicativi dell'automatica e
+dell'informatica. Alcuni programmi di calcolo e simulazione attualmente
+disponibili costituiscono un formidabile ausilio all'utilizzo delle tecniche
+della teoria dei sistemi di cui hanno anche adottato il linguaggio grafico.
+
+Un sistema è una qualsiasi identità che è possibile analizzare e quindi
+scomporre. Ogni sistema ha degli attributi/proprietà che possono essere:
+
+In generale condizione necessaria perché sia stabilito un sistema e sia
+mantenuto come tale (senza degenerare nell'insieme dei suoi componenti) è che
+i suoi elementi interagiscano tra loro. In grande approssimazione, più
+elementi sono detti interagire quando il comportamento dell'uno influenza
+quello dell'altro, ad esempio attraverso scambi di energia negli urti,
+svolgendo funzionalità diverse, ad esempio in un circuito elettronico, e
+scambiando informazioni come nei sistemi sociali.
+
+I sistemi non possiedono proprietà, ma ne acquisiscono continuamente,
+eventualmente le stesse, grazie all'opportuno continuo interagire funzionale
+dei componenti (es. dispositivi elettronici - sistemi artificiali - sistemi
+biologici - sistemi naturali). Quando i componenti cessano di interagire (ad
+esempio per mancanza di energia in un sistema elettronico), i sistemi
+degenerano in insiemi. Le proprietà sistemiche non sono il risultato di
+interazioni poi mantenute, come accade ad esempio in processi di miscelazione
+di acqua colorata o nel cucinare.
+
+La stabilità della proprietà è dovuta all'interazione continua. Un intervento
+sistemico, quindi, opera non sugli elementi, bensì, ad esempio, sulle
+interazioni, sulle relazioni, sull'energia fornita, sulle perturbazioni e
+sulle fluttuazioni o sulla somministrazione degli input. Gli interventi
+sistemici, cioè sulle proprietà del sistema, dipendono dal tipo di sistema.
+Gli interventi sopra citati vanno bene per sistemi non autonomi, come in
+fisica, mentre per quelli autonomi, dotati di sistema cognitivo, è importante
+agire sull'apprendimento, sul modello cognitivo, le informazioni disponibili,
+le rappresentazioni e la memoria. Riferito al lancio del dado (in latino «
+_alea_ » significa «dado»), il calcolo aleatorio, applicato alla sistemistica,
+indica il calcolo delle probabilità.
+
+Nell'ambito dell'elettronica e della fisica alcune classificazioni dei sistemi
+sono:
+
+Con il termine sistemica si fa riferimento ad un'estensione concettuale,
+metodologica e culturale, della teoria generale dei sistemi. Si riferisce in
+sostanza ai concetti, principi, applicazioni e metodi basati sul concetto di
+sistema, proprietà sistemiche, interazione, auto-organizzazione ed emergenza
+con riferimento alla scienza della complessità.
+
+Con il termine approccio sistemico ci si riferisce alla dimensione
+metodologica generale della sistemica, per cui, considerando un problema si
+valuta l'efficacia di modellare usando i sistemi che identificano il livello
+di descrizione più adeguato, come i componenti, la scalarità, le interazioni,
+il ruolo costruttivista dell'osservatore che inventa le variabili. Gli
+esperimenti sono come domande alla natura che risponde facendoli accadere: non
+vi sono risposte in natura senza domande, al più effetti che attendono una
+domanda adeguata per diventare risposta.
+
+In realtà non esiste una teoria nel senso compiuto del termine, ma diversi
+approcci teorici che usano il concetto di sistema in diversi contesti
+disciplinari come fisica, biologia, economia, ecologia e geologia. Oggi
+l'aspetto generale è considerato nelle teorie dell'emergenza.
+
+Intendendo contesti disciplinari, come in ingegneria, quali la teoria dei
+controlli, la teoria degli automi, la dinamica dei sistemi intesa come reti di
+feedback dei controlli tipiche dell'ingegneria e la teoria dei flow network.
+
+Possiamo rappresentare un sistema come una scatola nera con ingressi
+(solitamente indicati con  u ( t ) {\displaystyle u(t)}
+![u\(t\)](https://wikimedia.org/api/rest_v1/media/math/render/svg/b375df3b65d282f8715835dc91ccb22f46993959))
+ed uscite  y ( t ) {\displaystyle y(t)}
+![y\(t\)](https://wikimedia.org/api/rest_v1/media/math/render/svg/397de1edef5bf2ee15c020f325d7d781a3aa7f50).
+Lo stato del sistema è descritto da un insieme di variabili, dette appunto
+"variabili di stato", solitamente indicate con  x ( t ) {\displaystyle x(t)}
+![x\(t\)](https://wikimedia.org/api/rest_v1/media/math/render/svg/d54c275db3a1e620737b58e143b0818107fa5f5c),
+che definiscono la situazione in cui si trova il sistema in un certo istante
+temporale.
+
+Gli ingressi agiscono sullo stato del sistema e ne modificano le
+caratteristiche, ovvero i valori, in un dato istante temporale; le modifiche
+vengono registrate dalle variabili di stato. I valori delle uscite del
+sistema, solitamente le uniche variabili misurabili (ingressi esclusi),
+dipendono a loro volta dalle variabili di stato del sistema e dagli ingressi
+(in maniera più o meno diretta).
+
+Per lo studio del sistema si analizza e si fissa il lasso di tempo [T] nel
+quale sarà studiato. In questo lasso di tempo (insieme ordinato di istanti) si
+considera una serie di istanti particolari.
+
+«Ordinato» significa che prendendo due elementi qualsiasi possiamo stabilire
+con certezza quale dei due precede l'altro.
+
+Gli elementi necessari per studiare un sistema sono:
+
+t = t 0 , t 1 , . . . , t i {\displaystyle t={t_{0},t_{1},...,t_{i}}}
+![t={t_{0},t_{1},...,t_{i}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/635e4d03c55759a1707d4a589eac467ee4126043)//
+Insieme ordinato del tempo
+
+u = u 0 , u 1 , . . . , u i {\displaystyle u={u_{0},u_{1},...,u_{i}}}
+![u={u_{0},u_{1},...,u_{i}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/b47b1eb28c4afb26e4cd5067a83fff6f611bb3a7)
+// Insieme delle variabili di ingresso
+
+y = y 0 , y 1 , . . . , y i {\displaystyle y={y_{0},y_{1},...,y_{i}}}
+![y={y_{0},y_{1},...,y_{i}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/49afa387f3a79b5c32b35a03d42a20cb657feeab)
+// Insieme delle variabili di uscita
+
+x = x 0 , x 1 , . . . , x i {\displaystyle x={x_{0},x_{1},...,x_{i}}}
+![x={x_{0},x_{1},...,x_{i}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/415d6adbd1916ea0f975e4bb66d7b3fa8da8d9ba)
+// Insieme delle variabili di stato
+
+f = f ( t , u , y , x ) {\displaystyle f=f(t,u,y,x)}
+![f=f\(t,u,y,x\)](https://wikimedia.org/api/rest_v1/media/math/render/svg/cc752ae5d1a7dd0dd929d3d56edfc87eba63c243)
+// Equazione di stato
+
+g = g ( t , u , y , x ) {\displaystyle g=g(t,u,y,x)}
+![g=g\(t,u,y,x\)](https://wikimedia.org/api/rest_v1/media/math/render/svg/a9fbccdc096721ca576b5cfc29b6b495f5396f66)
+// Equazione di uscita
+
+L'equazione di stato _f_ serve a calcolare lo stato interno del sistema in un
+determinato istante, ovvero la sua evoluzione nel tempo:
+
+x ( t i ) = f ( x ( t 0 ) , u , [ t 0 , t i ] ) {\displaystyle
+x(t_{i})=f(x(t_{0}),u,[t_{0},t_{i}])}
+![x\(t_{i}\)=f\(x\(t_{0}\),u,\[t_{0},t_{i}\]\)](https://wikimedia.org/api/rest_v1/media/math/render/svg/3dddb3f7351b6d512f8bfa7b93408444bb6d817e)
+
+Si tiene conto, cioè, dello stato iniziale e di tutti gli ingressi fino a quel
+momento. Grazie a questa funzione possiamo studiare l'evoluzione dello stato
+interno di un sistema.
+
+L'equazione di uscita _g_ serve a calcolare l'uscita _y(t i)_ nell'istante _t
+i_:
+
+y ( t i ) = g ( x ( t i ) , u ( t i ) ) {\displaystyle
+y(t_{i})=g(x(t_{i}),u(t_{i}))}
+![y\(t_{i}\)=g\(x\(t_{i}\),u\(t_{i}\)\)](https://wikimedia.org/api/rest_v1/media/math/render/svg/327e4ee0ea555bf2be0b554a6ab529ff639534d9)
+
+Essa tiene conto, quindi, dello stato interno del sistema e degli ingressi
+dell'istante _t i_. Il sistema, quindi, dipende da questa sestupla di dati:
+
+S = ( t , u , y , x , f , g ) {\displaystyle S=(t,u,y,x,f,g)}
+![S=\(t,u,y,x,f,g\)](https://wikimedia.org/api/rest_v1/media/math/render/svg/51a19afc9a17d85268d422351d6caff7b456edd0)
+
+In ambito ingegneristico sono formalmente possibili tre diverse
+modellizzazioni matematiche equivalenti e interscambiabili di un sistema
+dinamico:
+
+Il modello ISU è quello che, tramite lo stato, mette in evidenza maggiori
+informazioni e proprietà del sistema; si ottiene direttamente dal sistema
+ingresso-uscita mettendone in evidenza le variabili di stato; queste in
+generale possono non essere univoche, ma la loro scelta è spesso dettata dalla
+ragionevolezza del caso in oggetto.
+
+Il modello ingresso-uscita ARMA si ottiene, invece, direttamente come
+equazione differenziale o integro-differenziale dalle equazioni di bilancio
+del sistema fisico in oggetto (meccanico, termodinamico, elettrico). In
+generale, da una modellizzazione ingresso-uscita differenziale lineare di
+ordine _n_ si ricavano _n_ equazioni differenziali lineari del primo ordine
+esprimibili poi in maniera compatta tramite il formalismo matriciale.
+
+L'analisi di tali sistemi può essere fatta tramite l'ottenimento della
+cosiddetta funzione di trasferimento ovvero il rapporto tra la Trasformata di
+Laplace dell'ingresso e la trasformata dell'uscita ovvero tramite la
+cosiddetta risposta impulsiva, antitrasformata della funzione di trasferimento
+ovvero risposta da un impulso semplice dove l'uscita viene computata nel
+dominio del tempo dalla convoluzione di tale risposta impulsiva con l'ingresso
+desiderato ovvero con il prodotto della funzione di trasferimento per
+l'ingresso trasformato e poi il tutto antitrasformatato. Altro modo di
+rappresentazione analogo è il modello autoregressivo ingresso-stato-uscita a
+media mobile (ARMA).
+
+Altri progetti
+

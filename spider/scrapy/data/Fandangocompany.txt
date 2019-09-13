@@ -1,0 +1,161 @@
+**Fandango Media, LLC** is an American ticketing company that sells movie
+tickets via their website as well as through their mobile app.
+
+Industry revenue increased rapidly for several years after the company's
+formation.[ _citation needed_ ] However, as the Internet grew in popularity,
+small and medium-sized movie-theater chains began to offer independent ticket
+sale capabilities through their own websites. In addition, a new paradigm of
+moviegoers printing their own tickets at home (with barcodes to be scanned at
+the theater) emerged, in services offered by **PrintTixUSA** and by point-of-
+sale software vendor operated websites like " **ticketmakers.com** " (and
+eventually Fandango itself). Finally, an overall slump in moviegoing continued
+into the 2000s, as home theaters, DVDs, and high definition televisions
+proliferated in average households, turning their homes into a preferred place
+to screen films.
+
+On April 11, 2007, Comcast acquired Fandango, with plans to integrate it into
+a new entertainment website called " **Fancast.com** ," set to launch the
+summer of 2007.[5] In June 2008, the domain Movies.com was acquired from
+Disney.[6] With Comcast's purchase of a majority stake in NBCUniversal in
+January 2011 (full ownership in 2013), Fandango and all other Comcast media
+assets were merged into the company.
+
+In March 2012, Fandango announced a partnership with Yahoo! Movies, becoming
+the official online and mobile ticketer for registered users of the Yahoo!
+service.[7] That October, Paul Yanover was named President of Fandango.[8]
+
+Fandango made its first international acquisition in September 2015 when it
+bought Brazilian ticketing company Ingresso, which provides ticketing to a
+variety of Brazilian entertainment events, including the biannual Rock in Rio
+festival.[9]
+
+On January 29, 2016, Fandango announced its acquisition of M-GO,[10] a joint
+venture between Technicolor SA and DreamWorks Animation (NBCUniversal acquired
+the latter company three months later)[11] which it would later rebrand as
+"FandangoNOW".[12]
+
+In February of that same year Fandango announced its acquisition of Flixster
+and Rotten Tomatoes from Time Warner's Warner Bros. Entertainment. As part of
+the deal, Warner Bros. would become a 30% shareholder of the combined Fandango
+company.[13][14]
+
+In December 2016, Fandango Media purchased Cinepapaya, a Peru-based website
+for purchasing movie tickets, for an undisclosed amount.[15]
+
+Fandango charges a premium to use its services, ranging from 75¢ to $2.50 (the
+additional surcharge for phone orders), which reserves a ticket to be printed
+out upon arrival at a movie theater, thereby avoiding lines. Initially,
+seating was promised for sold-out shows, but this feature was discontinued for
+most theaters, as not all were equipped to handle reserved seating and will
+call lines. With ticket prices in many areas exceeding US$10.00, purchasing
+tickets through Fandango and other ticketing websites can make movie-going an
+expensive proposition; however, procuring tickets to movies on their opening
+days by conventional means may be inconvenient and difficult (especially in
+large metropolitan areas) without utilizing services like Fandango.
+
+Fandango's advertisements play before previews at participating movie-theater
+chains and feature lunch bag puppets telling various one or two-line jokes and
+riddles centering on the company's name. The company also produced an
+advertising segment that is based on the song, "We are the World".
+
+Fandango's website also offers exclusive film clips, trailers, celebrity
+interviews, reviews by users, movie descriptions, and some web-based games to
+their members.
+
+As of March 5, 2015, Fandango provides customers with memberships the ability
+to refund or exchange their orders up to 2 hours before the showtime of their
+film.
+
+Fandango's Android app was listed among Techlands 50 Best Android Applications
+for 2013.[16]
+
+Fandango is one of three major online advance movie ticket sale sites, along
+with MovieTickets.com and Atom Tickets. Before being acquired by Comcast in
+April 2007, Fandango was privately owned, with the major stakeholder being the
+second largest movie-theater chain in the U.S., Regal Entertainment Group,
+including the United Artists and Hoyts theater chains. Along with other
+partners, Regal founded Fandango partly to prevent the older MovieTickets.com
+from establishing a monopoly on phone and online ticketing services.
+(MovieTickets.com was publicly owned and traded under the stock symbol HOLL.
+It was acquired by Fandango in 2017.[17]) It's advertising agency reportedly
+decided on its name because it sounded "fun, kinetic and smart," "easily
+pronounce[d] and remember[ed]--even though it really has nothing to do with
+movies."[18]
+
+Mergers of movie chains have complicated matters regarding which company
+provides online ticketing for a particular chain. Upon Regal's acquisition of
+Consolidated Theatres, that chain was under contract to MovieTickets.com; as
+such Fandango does not ticket those Regal theaters. On the other hand, Regal's
+acquisition of the Hoyts chain resulted in Fandango taking over their online
+ticketing.
+
+Prior to 2012, Fandango did not provide online ticketing for many AMC
+Theatres. However, it provided online ticketing for those AMC Theatres
+originally part of the Loews Cineplex Entertainment chain, due to contractual
+obligations in place prior to the 2005 merger of the two movie chains.[19]
+Loews had previously attempted to break the contract in 2002 under pressure of
+bankruptcy and from (then) AOL Moviefone and its partner, Loews' Cineplex
+subsidiary; Fandango successfully sued both Loews and Moviefone and retained
+Loews' business.[20] As of February 8, 2012, Fandango began providing
+ticketing for all AMC Theatres in the US,[21] after which MovieTickets.com's
+fellow shareholders sued AMC for breach of contract.[22] AMC and
+MovieTickets.com settled in 2013, with an agreement that the theater chain's
+online ticketing would be available on both Fandango and MovieTickets.com.[23]
+
+In May 2012, Fandango announced a partnership with Moviefone, former partner
+of MovieTickets.com.[24][25]
+
+Atom Tickets, a movie ticketing app and website that was launched in 2014, has
+been called a "serious competitor" for Fandango.[26][27]
+
+In July 2009, it was revealed that Fandango along with other websites,
+including buy.com and Orbitz, were linked with controversial Web loyalty
+programs, also known as post-transaction marketers. Fandango reportedly gave
+access to their customers' credit cards to the third party.[28]
+
+The company held a trademark dispute of the name in December 2013 when WWE
+tried to trademark it for professional wrestler Johnny Curtis.[29]
+
+In August 2014, the Federal Trade Commission ("FTC") approved a final orders
+settling charges against Fandango for misrepresenting to the public the
+security of their mobile app and also for failing to protect the transmission
+of their customers' sensitive personal information.[30] The Fandango mobile
+app assured consumers, during checkout, that their credit card information was
+stored and transmitted securely.[31] The FTC claims against Fandango focused
+on failures relating to both the implementation and testing of its Secure
+Sockets Layer "SSL" certificates for 4 years following the launch of the
+mobile app in March 2009. According to the FTC, Fandango commissioned security
+audits in 2011, but the audits were limited in scope and did not include a
+review of the security of the app's transmission of information. It was also
+alleged that Fandango did not implement effective channels for security
+complaints, and instead relied on its general customer service system to
+handle security vulnerability reporting.[32]
+
+In October 2015, FiveThirtyEight published a story and podcast calling
+Fandango's metrics on user ratings into question.[33][34] The investigation
+noted that due to how the site calculates ratings it was rare for a movie to
+ever get below an overall rating of three stars.[35] The problem seemingly
+extended from Fandango's habit of rounding ratings up to the nearest half.[36]
+Fandango, in response, noted that this was a glitch it was working to
+repair.[36] Nevertheless, Gizmodo cited the study after Fandango announced the
+purchase of Rotten Tomatoes over fears that the purchase would "ruin" the
+site.[37]
+
+In December 2017 Fandango received hundreds of complaints regarding its
+delivery of _Star Wars: The Last Jedi_ tickets. Issues began within hours of
+advanced sales becoming available for the new Star Wars film, with customers
+complaining of long wait times and website glitches as Forbes reported.[38]
+Troubles for the company continued as many complained that they had paid for
+tickets which they never received, including YouTube channel Red Letter Media,
+who referenced the complaint in their _The Last Jedi_ review multiple times.
+Customers found little to no support from Fandango's customer relations team
+who ignored complaints whilst continuing to take payments.
+
+In early 2016, Fandango acquired the movie streaming service M-GO.[10]
+Fandango re-branded M-GO to FandangoNow (stylized as FandangoNOW).[12]
+FandangoNow is compatible with both UltraViolet and Movies Anywhere, digital
+rights lockers for many large film studios.[40] FandangoNOW is the primary
+digital film service for Roku, and this includes a shortcut to the service on
+Roku's remote controls, along with prime placement on Roku's home menus and
+search services.
+

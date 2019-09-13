@@ -1,0 +1,181 @@
+**Centrino** (Intel Centrino Mobile Technology) è una tecnologia sviluppata da
+Intel (dalla fusione delle parole "centre" e "neutrino") specificamente
+pensata per l'utilizzo nell'ambito dei computer portatili e introdotta, nella
+sua prima versione, il 12 marzo 2003.
+
+Nel tempo, il marchio **Centrino** ha acquisito sempre maggiore importanza,
+soprattutto grazie alle ottime prestazioni e ai grandi investimenti in campo
+marketing operati dal produttore, fino a diventare quasi simbolo dell'hardware
+pensato per i dispositivi mobile, sebbene esistano in commercio anche
+soluzioni basate su prodotti non Intel.
+
+**Technology**
+
+Wireless
+
+Products
+
+Intel ha più volte ribadito che il marchio Centrino si riferisce ad un'intera
+piattaforma pensata per l'impiego in ambito mobile, non al nome del processore
+utilizzato in tali soluzioni. Si tratta di una confusione (o meglio di un
+errore) spesso alimentato anche dagli stessi produttori, che sfruttando la
+relativa "ignoranza" della gran parte del parco clienti, tendono a promuovere
+i propri prodotti come basati su un fantomatico " _processore Intel Centrino_
+", dato che tale target di mercato coglie più facilmente il messaggio
+pubblicitario se esso si riferisce al solo processore, invece che all'intera
+piattaforma.
+
+La piattaforma Centrino, così come è stata concepita da Intel, è composta
+invece dall'abbinamento di 3 componenti chiave (di seguito viene fatto
+riferimento soprattutto ai componenti della prima generazione della
+piattaforma, ma i concetti generali sono rimasti inalterati nel tempo):
+
+Tali componenti sono tutti espressamente progettati per l'impiego in ambito
+mobile e quindi avere come principale obiettivo il giusto bilanciamento tra
+prestazioni e consumi.
+
+Intel ha deciso che solo se un sistema integra tutti e 3 i componenti
+suggeriti dalla casa madre, esso può fregiarsi del "logo Centrino", mentre se
+un produttore decide di utilizzare solo la CPU suggerita ma una diversa scheda
+di rete wireless, esso potrà solo portare il logo relativo alla CPU impiegata
+e non quello dell'intera piattaforma.
+
+È chiaro che l'intenzione di Intel era quella di non prediligere alcun
+componente ma poter quindi trarre profitti dalla vendita di tutti e 3
+contemporaneamente, e di fatto tale intento è riuscito, sia per l'efficienza
+del progetto generale, che spesso non aveva niente da invidiare ad altre
+soluzioni alternative che sfruttavano solo uno dei 3 componenti, sia anche
+alla convinzione (peraltro errata) di molti consumatori che avevano ricevuto
+l'impressione che Centrino fosse l'unico mezzo per avere la possibilità di
+connettersi a reti wireless con un portatile. Inoltre, proprio la confusione
+dei consumatori che ritengono che Centrino sia il nome del processore e non
+della piattaforma, ha di fatto avvantaggiato Intel nella vendita dei 3
+componenti, data la generale diffidenza della clientela verso le soluzioni
+basate sul processore Pentium M (il processore alla base proprio della prima
+generazione di Centrino) ma che per i motivi sopra citati non potevano esporre
+il "logo Centrino".
+
+Dal 2003, anno dell'introduzione della nuova piattaforma, si sono succedute
+diverse generazioni di Centrino, ognuna indicata con un diverso nome in codice
+e basate su diverse generazioni dei 3 componenti sopra citati. Più avanti
+verranno illustrati dettagliatamente i componenti che hanno formato le varie
+generazioni e le evoluzioni dello stesso marchio Centrino.
+
+Il progetto Centrino rappresenta una pietra miliare nella storia di Intel, ed
+è stato proprio sulla scia del successo ottenuto grazie a questa piattaforma
+che successivamente il produttore ha deciso di svilupparne altre per altri
+settori di mercato (tra i quali si possono citare vPro e VIIV).
+
+Prima dell'introduzione, nel febbraio 2003, di tale piattaforma, i sistemi
+"mobile" si basavano su processori pensati per altri contesti (tipicamente
+derivati dal settore desktop) e modificati opportunatamente inserendo il
+supporto a tecnologie di risparmio energetico come la Intel SpeedStep che
+consente di regolare dinamicamente il clock del processore a seconda del
+carico richiesto dal software in esecuzione.
+
+Intel ha capito al momento giusto che era arrivato il momento di sviluppare
+tutta una serie di componenti espressamente ottimizzati per lavorare in
+maniera sinergica e tenendo in considerazione in primo luogo il contenimento
+dei consumi, da qui la scelta di sviluppare la prima generazione della
+piattaforma Centrino, per la quale sono stati investiti ben 300 milioni di
+dollari in campagne di marketing (solo per la prima generazione).
+
+Come detto sopra, nel tempo si sono succedute diverse generazioni di
+piattaforme Centrino. Di fatto, solo le prime 2 si chiamano effettivamente
+Centrino; a partire dalla terza generazione, il nome si è evoluto per
+evidenziare maggiormente le nuove caratteristiche del nuovo processore sul
+quale era basata, e nel corso del 2008 la quinta generazione ha cambiato
+nuovamente nome commerciale, sempre con l'intento di far percepire ai
+consumatori, nella maniera più efficace possibile, l'innovazione tecnologica.
+
+La prima generazione della piattaforma Centrino era conosciuta anche con il
+nome in codice Carmel. Di seguito i 3 componenti chiave della piattaforma:
+
+Un anno dopo la presentazione della prima generazione, a metà 2004 Intel
+presentò un'evoluzione del Pentium M, conosciuta come Dothan. Trattandosi di
+un aggiornamento della sola CPU la piattaforma di riferimento è rimasta ancora
+la Carmel, sebbene basata sul nuovo processore, e quindi rinominata
+formalmente "Carmel Refresh". Si tratta in effetti di un approccio che Intel
+ha poi utilizzato anche nel seguito per successive generazioni di Centrino.
+
+Il 19 gennaio 2005 arrivò l'atteso aggiornamento dell'intera piattaforma che
+prese il nome di Sonoma. Di seguito i 3 componenti chiave della piattaforma:
+
+Il nome "Centrino" vero e proprio è stato utilizzato da Intel solo per le
+prime 2 generazioni della piattaforma.
+
+Le generazioni successive, più precisamente la terza e la quinta, hanno
+portato anche ad una revisione del nome commerciale dell'intera piattaforma in
+modo che gli utenti potessero percepire più facilmente il salto generazionale
+delle tecnologie e venissero quindi spinte maggiormente all'aggiornamento dei
+propri sistemi.
+
+Il 5 gennaio 2006, ovvero giusto un anno dopo la presentazione della
+piattaforma Sonoma, Intel ha presentato la terza generazione della piattaforma
+Centrino, che era basata sul processore noto con il nome in codice Yonah. Tale
+processore, che all'inizio doveva prendere il nome commerciale di "Pentium M
+serie 8xx", venne poi rinominato a novembre 2005 in Core Duo, in modo da
+evidenziare maggiormente la caratteristica dual core che contraddistingueva il
+nuovo progetto. Allo stesso scopo, anche il marchio Centrino si è evoluto,
+diventando Centrino Duo, ovvero il nome commerciale di quella piattaforma che
+per più di un anno era stata chiamata Napa, costituita dal processore Core
+Duo, insieme al chipset i945 Calistoga e al modulo wireless Intel Pro Wireless
+3945 ABG Golan.
+
+In realtà, con l'avvento della terza generazione, il marchio Centrino vero e
+proprio non è scomparso completamente ma è stato solo relegato a particolari
+applicazioni. Alcune versioni del processore Yonah infatti, erano prodotte
+come CPU single core, e commercializzate con il nome di Core Solo alla base
+ancora di piattaforme Centrino "semplici" (sebbene con un logo modificato
+rispetto a quello utilizzato fino alla precedente Sonoma).
+
+A maggio 2007 è arrivata anche la quarta generazione, commercializzata ancora
+come Centrino Duo ma conosciuta con il nome in codice di Santa Rosa e basata
+sul processore Core 2 Duo Merom, il primo processore mobile ad essere basato
+sulla nuova architettura Intel Core Microarchitecture.
+
+La piattaforma Santa Rosa è stata commercializzata non solo sotto il nome di
+Centrino Duo ma anche con il nuovo Centrino Pro (poi rinominata in Centrino
+vPro per uniformità con l'altra piattaforma simile del settore desktop) che è
+in sostanza una particolare versione di Centrino Duo con l'aggiunta di alcune
+tecnologie che possono essere utili in ambito business, tra le quali la IAMT
+per l'amministrazione remota del sistema e il supporto BIOS alla tecnologia di
+virtualizzazione Vanderpool; si tratta di 2 caratteristiche mutuate dalla
+piattaforma desktop vPro.
+
+La quinta generazione della piattaforma Centrino è stata presentata nel
+secondo trimestre 2008 ed è conosciuta con il nome in codice di Montevina.
+Intel decise di aggiornare ancora una volta i nomi commerciali Centrino Duo e
+Centrino vPro, sempre allo scopo di evidenziare maggiormente i cambiamenti
+tecnologici. Il nuovo processore è stato l'evoluzione a 45 nm del Merom,
+Penryn, e tra le principali caratteristiche offerte dal nuovo chipset Cantiga,
+c'era il supporto alla memoria DDR3 e un comparto grafico decisamente più
+potente rispetto ai precedenti.
+
+Similmente a quanto fatto per il lancio della prima piattaforma Centrino Pro,
+anche la nuova Montevina portò con sé una revisione della piattaforma
+specificatamente orientata ai dispositivi di classe professionale, grazie
+all'utilizzo di particolari tecnologie di amministrazione. La nuova versione
+si chiamava Centrino 2 vPro.
+
+La piattaforma che andrà a sostituire Montevina non è ancora stata annunciata
+e non è dato sapere se si chiamerà ancora Centrino 2 o Centrino 3, ma da
+alcune dichiarazioni di Intel sembra che essa potrà essere quella conosciuta
+con il nome in codice di Calpella, basata sul successore del processore
+Penryn, ovvero la prima CPU mobile basata sulla futura architettura Nehalem.[
+_senza fonte_ ]
+
+Nel corso del 2007 Intel ha più volte ribadito che ritiene il settore dei
+sistemi UMPC e MID molto promettente per il futuro e, dato il successo
+ottenuto con la piattaforma Centrino che ha contribuito in maniera molto
+rilevante alla sempre maggior diffusione dei sistemi portatili rispetto a
+quelli desktop, è apparso subito naturale che il produttore decidesse di
+promuovere sempre più strenuamente questo nuovo settore, considerato come un
+potenziale nuovo mercato.
+
+A partire dalla terza generazione della piattaforma pensata per tali
+dispositivi, conosciuta come Menlow e basata sul nuovo processore Atom, Intel
+ha deciso di sfruttare la notorietà del marchio Centrino per promuovere
+adeguatamente il proprio progetto per i sistemi UMPC, rinominando la
+piattaforma Menlow in Centrino Atom.
+

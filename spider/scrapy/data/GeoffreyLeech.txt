@@ -1,0 +1,95 @@
+**Geoffrey Neil Leech** FBA (16 January 1936 – 19 August 2014) was a
+specialist in English language and linguistics. He was the author, co-author
+or editor of over 30 books and over 120 published papers.[1] His main academic
+interests were English grammar, corpus linguistics, stylistics, pragmatics and
+semantics.
+
+Leech was born in Gloucester, England on 16 January 1936. He was educated at
+Tewkesbury Grammar School, Gloucestershire, and at University College London
+(UCL), where he was awarded a BA (1959) and PhD (1968). He began his teaching
+career at UCL, where he was influenced by Randolph Quirk and Michael Halliday
+as senior colleagues. He spent 1964-5 as a Harkness Fellow at the
+Massachusetts Institute of Technology, Cambridge MA. In 1969 Leech moved to
+Lancaster University, UK, where he was Professor of English Linguistics from
+1974 to 2001. In 2002 he became Emeritus Professor in the Department of
+Linguistics and English Language,[2] Lancaster University. He was a Fellow of
+the British Academy, an Honorary Fellow of UCL and of Lancaster University, a
+Member of the Academia Europaea and the Norwegian Academy of Science and
+Letters, and an honorary doctor of three universities, most recently of
+Charles University, Prague (2012). He died in Lancaster, England on 19 August
+2014.[3]
+
+Leech's most important research contributions are the following:
+
+Leech contributed to three team projects resulting in large-scale descriptive
+reference grammars of English, all published as lengthy single-volume works:
+_A Grammar of Contemporary English_ (with Randolph Quirk, Sidney Greenbaum and
+Jan Svartvik, 1972); _A Comprehensive Grammar of the English Language_ (with
+Randolph Quirk, Sidney Greenbaum and Jan Svartvik, 1985); and the _Longman
+Grammar of Spoken and Written English_ (LGSWE) (with Douglas Biber, Stig
+Johansson, Susan Conrad and Edward Finegan, 1999). These grammars have been
+broadly regarded as providing an authoritative "standard" account of English
+grammar, although the rather traditional framework employed has also been
+criticised — e.g. by Huddleston and Pullum (2002) in their _Cambridge Grammar
+of the English Language_.
+
+Inspired by the corpus-building work of Randolph Quirk at UCL,[4] soon after
+his arrival at Lancaster, Leech pioneered computer corpus development.[5] He
+initiated the first electronic corpus of British English, completed in 1978 as
+the [Lancaster-Oslo-Bergen Corpus|Lancaster-Oslo/Bergen] (LOB) Corpus.[6]
+Later, in the 1990s, he took a leading role in the compilation of the British
+National Corpus (BNC). The Lancaster research group that he co-founded
+(UCREL[7]) also developed programs for the annotation of corpora: especially
+corpus taggers and parsers.[8] The term _treebank_ , now generally applied to
+a parsed corpus, was coined by Leech in the 1980s.[9] The _LGSWE_ grammar
+(1999) was systematically based on corpus analysis. Leech's more recent corpus
+research has centred on grammatical change in recent and contemporary
+English.[10]
+
+Leech has written extensively on the stylistics of literary texts. The two
+stylistic works for which he is best known are _A Linguistic Guide to English
+Poetry_ (1969)[11] and _Style in Fiction_ (1981; 2nd edn. 2007),[12] co-
+authored with Mick Short. The latter book won the PALA25 Silver Jubilee Prize
+for "the most influential book in stylistics" since 1980.[13] The approach
+Leech has taken to literary style relies heavily on the concept of
+foregrounding,[14] a term derived from P. L. Garvin's translation of the Czech
+term _aktualisace_ , referring to the psychological prominence (against the
+background of ordinary language) of artistic effects in literature.[15] In
+Leech's account, foregrounding in poetry is based on deviation from linguistic
+norms, which may take the form of unexpected irregularity (as in Dylan
+Thomas's _A grief ago_ ) as well as unexpected regularity (or parallelism – as
+in _I kissed thee ere I killed thee_ from _Othello_ ). Further, Leech has
+distinguished three levels of deviation:[16]
+
+Leech's interest in semantics was strong in the period up to 1980, when it
+gave way to his interest in pragmatics. His PhD thesis at London University
+was on the semantics of place, time and modality in English, and was
+subsequently published under the title _Towards a Semantic Description of
+English_ (1969). At a more popular level, he published _Semantics_ (1974,
+1981),[18] in which the seven types of meaning discussed in Chapter 2 have
+been widely cited: conceptual meaning, connotative meaning, social meaning,
+affective meaning, reflected meaning, collocative meaning, thematic meaning.
+
+In the 1970s and 1980s Leech took a part in the development of pragmatics as a
+newly emerging subdiscipline of linguistics deeply influenced by the ordinary-
+language philosophers J. L. Austin, J. R. Searle and H. P. Grice. In his main
+book on the subject, _Principles of Pragmatics_ (1983),[19] he argued for a
+general account of pragmatics based on regulative principles following the
+model of Grice's (1975) Cooperative principle (CP), with its constitutive
+maxims of Quantity, Quality, Relation and Manner. The part of the book that
+has had most influence is that dealing with the Principle of Politeness, seen
+as a principle having constituent maxims like Grice's CP. The politeness
+maxims Leech distinguished are: the Tact Maxim, Generosity Maxim, Approbation
+Maxim, Modesty Maxim, Agreement Maxim and Sympathy Maxim. This Gricean
+treatment of politeness has been much criticised: for example, it has been
+criticised for being "expansionist" (adding new maxims to the Gricean model)
+rather than "reductionist" (reducing Grice's four maxims to a smaller number,
+as in Relevance theory, where the Maxim of Relation, or principle of
+relevance, is the only one that survives).[20][21] Leech is also criticised
+for allowing the addition of new maxims to be unconstrained (in defiance of
+Occam's Razor), and for his postulation of an "absolute politeness" which does
+not vary according to situation, whereas most politeness theorists maintain
+that politeness cannot be identified out of context. In his article
+"Politeness: Is there an East-West divide?" (2007),[22][23] Leech addresses
+these criticisms and presents a revision of his politeness model.
+

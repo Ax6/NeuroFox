@@ -1,0 +1,697 @@
+Per **moneta** si intende tutto quello che viene utilizzato come mezzo di
+pagamento e intermediario degli scambi e che svolge le funzioni di:
+
+La funzione "centrale" della moneta è quella di strumento di pagamento, visto
+che le altre funzioni sono o conseguenza di essa o condizione favorevole per
+il suo svolgimento. La distinzione tra unità di conto e mezzo di pagamento era
+più evidente nelle economie antiche, quando esistevano monete "virtuali", oggi
+si direbbe scritturali, (come il talento, la lira medioevale ecc.) che non
+esistevano fisicamente e non venivano coniate, ma servivano solo per contare e
+stipulare i contratti (unità di conto); le monete reali (mezzi di pagamento)
+si usavano per saldare l'obbligazione.
+
+Scrive il premio Nobel Samuelson:
+
+«La moneta, in quanto moneta e non in quanto merce, è voluta non per il suo
+valore intrinseco, ma per le cose che consente di acquistare.»
+
+Mentre nell'antichità esistevano soltanto le monete metalliche, consistenti
+solitamente in dischi di varie dimensioni e composizione, usati come strumenti
+di pagamento o tesaurizzati, nelle economie moderne alla moneta metallica si è
+affiancata o sostituita la moneta cartacea, più facile ed economica da
+produrre e utilizzare, nonché diversi altri tipi di "monete" immateriali, a
+cominciare dal deposito bancario (in quest'ultimo caso si parla di "moneta"
+intesa in senso lato, come strumento di pagamento complementare rispetto alla
+moneta in senso stretto). Il concetto di moneta è ampiamente studiato
+nell'ambito dell'economia monetaria, mentre in ambito applicativo si parla
+comunemente di politica monetaria dove il diritto di emissione di moneta
+appartiene solitamente ad uno Stato e va sotto il nome di sovranità monetaria.
+
+Nella nostra esperienza quotidiana la moneta è essenzialmente uno strumento di
+pagamento, un mezzo di scambio con cui paghiamo e siamo pagati.
+
+In realtà la moneta ha avuto ed ha anche altre funzioni, ma nessuna di queste
+può essere rintracciata dall'etimo del suo nome che risulta particolarmente
+affascinante e che si deve alla famosa storia delle oche del Campidoglio.
+
+Nel 390 a.C. Roma si trovava sotto l'assedio dei Galli di Brenno; sulla
+cittadella del Campidoglio vi era il tempio di Giunone dove venivano allevate
+delle oche sacre alla dea.
+
+Una notte, al sopraggiungere dei Galli, le oche presero a starnazzare e
+svegliarono l'ex-console Marco Manlio che diede l'allarme. L'attacco fu quindi
+sventato grazie alle oche sacre. Manlio aggiunse al suo nome il cognomen
+_Capitolinus_.
+
+Da quel momento la dea Giunone acquisì l'appellativo di _Moneta_ , dal verbo
+latino _monere_ che sta per avvertire, ammonire, in quanto si credeva che
+avesse lei destato le oche per avvertire dell'arrivo dei Galli.
+
+Successivamente, verso il 269 a.C., in prossimità del tempio di Giunone Moneta
+sul Campidoglio venne edificata la zecca che venne messa proprio sotto la
+protezione della Dea Moneta. A quel punto fu il linguaggio popolare a
+trasmettere l'appellativo della Dea dapprima alla zecca e poi a ciò che lì si
+produceva.
+
+Il _nomisma_ dei greci ed il _nummus_ dei latini divenne quindi moneta.
+
+La zecca si trovava dove oggi sorge la Basilica di Santa Maria in Aracoeli.
+
+È necessario fare un'importante distinzione tra il concetto di denaro e quello
+di moneta.
+
+Il _denaro_ è il circolante accettato del mercato, ossia da tutti, in un
+distinto periodo storico. I gettoni telefonici, i miniassegni degli anni
+settanta, le caramelle date di resto al bar, le hours di Ithaca (New York)
+sono un esempio di denaro. In antichità, prima della nascita della moneta in
+senso stretto, il denaro era costituito da oggetti di vario genere e non solo:
+semi di cacao, conchiglie, barrette di ferro, spiedi, sale (da cui _salario_
+), bestiame (da cui _pecunia_ ) e così via.
+
+La _moneta_ (in senso stretto) è il circolante emesso dallo Stato in un
+distinto periodo storico. Fa parte della categoria del _denaro_ fino a quando
+viene accettata dal mercato: le monete fuori corso e le monete svalutate non
+sono più _denaro_ in quanto nessuno le accetta.
+
+La moneta vera e propria è un'invenzione relativamente recente, ponendosi
+attorno alla metà del VII sec a.C. Prima della comparsa della moneta le
+transazioni economiche venivano effettuate tramite il baratto, poi moneta
+naturale o moneta-merce, ed infine metallo-utensile.[1]
+
+Si ritiene che sia stata la necessità di gestire commerci sempre più intensi a
+determinare la diffusione finale della moneta, ma non tutti però condividono
+questa visione "rettilinea" della nascita della moneta in seguito alle
+esigenze dell'economia di scambio/mercato.
+
+In assenza di moneta lo scambio di beni e servizi comporta il ricorso al
+baratto. Lo scambio di beni o servizi contro altri beni o servizi tipicamente
+risulta funzionale in economie caratterizzate da ridotta frequenza delle
+transazioni.
+
+Qualora il venditore non desiderasse ricevere, in cambio del bene ceduto, il
+bene che gli viene proposto, può rifiutare lo scambio oppure accettare il bene
+proposto per poi rivenderlo ad altri in cambio di un bene gradito oppure di un
+bene che a sua volta consenta di ottenere quanto desiderato.
+
+Così il venditore può ottenere il bene desiderato solo dopo una serie di
+scambi (baratto multiplo), che non facilitano la compravendita di beni e
+servizi: l'assenza di un mezzo di pagamento di diffusa accettazione frena
+certamente gli scambi (scarsa efficienza allocativa), impedendo così anche
+l'evoluzione della specializzazione produttiva e il conseguente aumento di
+produttività (scarsa efficienza nella produzione).
+
+Inoltre in assenza di moneta è quasi impossibile il risparmio. Chi produce un
+bene deve consumarlo o venderlo prima che deperisca (si pensi ai generi
+alimentari) e solo una piccola parte dei beni può essere conservata e
+consumata in futuro.
+
+Inoltre il baratto diventa difficile da realizzare per beni indivisibili. Un
+esempio può essere offerto dai capi di bestiame vivo.
+
+Con la nascita di economie agricole, la maggiore sedentarietà ed
+organizzazione del lavoro resero sempre più evidente la necessità di un
+sistema di commercio più articolato del baratto.[1] All'aumentare della
+frequenza degli scambi, diventa perciò necessario che subentri in gioco uno
+strumento accettato in pagamento da tutti gli operatori economici, consistente
+di fatto in beni con un proprio valore intrinseco: Tale moneta merce (o merce-
+campione o moneta naturale) poteva essere estremamente varia ma doveva
+assolvere per fungere da mezzo di scambio (e quindi "moneta" in senso lato)
+alcune specifiche caratteristiche:[1]
+
+Tali caratteristiche sono comuni a vari beni che sono stati usati come mezzi
+di pagamento anche fino alla metà del Novecento dai popoli senza scrittura:
+vari tipi di metalli (non solo oro ed argento, ma anche rame e ferro), il
+sale, le conchiglie nell'area del Pacifico (cauri),[2] il tè, pezze di
+tessuto, pietre in diverse forme (nel mediterraneo neolitico, l'ossidiana era
+il più diffuso mezzo di scambio).
+
+Anche alcune grandi civiltà o comunque civiltà dotate di scrittura hanno
+continuato a utilizzare beni come moneta fino a tempi recenti o quando forme
+di monetazione alternative esistevano. Nel mondo latino aveva grande
+importanza il bestiame; in Giappone, dove il riso è rimasto l'unità di conto
+dei grandi feudi fino all'abolizione degli stessi; nel 1868, in Islanda, di
+ogni merce si stabiliva l'equivalente in pesce secco fino al XIX secolo[2]; ma
+anche la Cina ha utilizzato dei veri e propri lingotti, i tael d'argento, fino
+agli anni trenta del Novecento.
+
+La moneta dunque è una forma di pagamento astratta ed evoluta, ovvero una
+contropartita di un bene o servizio che sostituisce il baratto e offre al
+contempo un'ampia flessibilità d'acquisto di qualsiasi altro tipo di bene,
+anche frazionario, al prezzo del suo rispettivo valore, che è determinato
+dall'interazione di quattro fattori: costo di produzione, utilità, domanda e
+offerta.
+
+Nel sistema di scambio in merce assumono importanza i metalli i quali hanno
+una notevolissima resistenza rispetto al trascorrere del tempo, sono
+frazionabili a piacere mantenendo le stesse caratteristiche fisiche ed hanno
+un uso industriale di rilievo. Inizialmente i metalli utilizzati come moneta
+merce nella forma di lingotti o sbarre, od anche polvere; gli Ebrei usano dal
+II millennio a.C. come unità di peso il _kikkar_ (anello), e verso la seconda
+metà del millennio apparvero i pani di rame egeo-cretesi, all'inizio
+rettangolari e poi più simili a una "doppia ascia", che circolarono fino al X
+sec. a.C. grazie agli scambi marittimi nel Mediterraneo orientale.[3]
+
+Il sistema di pagamenti in metallo dà luogo a due inconvenienti. Innanzitutto
+chi riceve il lingotto in pagamento si deve accertare che esso abbia il peso
+dichiarato. E perciò si deve sempre portare dietro una bilancia per effettuare
+il controllo. Inoltre c'è il rischio che il metallo non sia puro e perciò chi
+riceve il pagamento deve altresì portarsi dietro una "pietra di paragone" od
+altro strumento per verificare la purezza del metallo.
+
+Nelle economie del Mediterraneo antico e dell'India i metalli preziosi si sono
+affermati come strumenti di pagamento, in particolare con la loro
+trasformazione in monete d'oro, d'argento e di rame.
+
+La tradizione vuole che la moneta sia stata coniata per la prima volta da
+Creso, re di Lidia, nel VII secolo a.C. Nel secolo successivo l'uso di coniare
+monete si è diffuso nell'Impero Persiano e nelle città greche. Quindi,
+attraverso i Greci, l'uso della moneta è stato introdotto nel Mediterraneo
+Occidentale. Infine al tempo di Alessandro Magno si è diffuso anche in India.
+
+In alcune civiltà si è usato uno solo dei due metalli preziosi poiché per la
+legge di Gresham «In un Paese con due monete legali in circolazione, la
+cattiva scaccia la buona, quando il rapporto reale tra esse viene a mutare».
+Ad esempio in Cina, India, Russia, Persia si usavano solo monete d'argento.
+Nel Mediterraneo, unificato a partire dall'Impero Romano, prevalse invece la
+monetazione aurea. Il rame si usava in tutti questi territori per le monete di
+minor valore.
+
+Nel Medioevo, sia nell'Europa Occidentale sia nel mondo Islamico, si affermò
+il bimetallismo. In tale sistema le monete di maggior valore erano quelle
+auree e venivano spesso tesaurizzate. Le monete d'argento, di valore
+intermedio, erano utilizzate per le grandi transazioni commerciali. Le monete
+di rame erano infine usate per il commercio al dettaglio. Era lo Stato che
+stabiliva il rapporto di scambio fra oro ed argento. Tale rapporto variava in
+conseguenza della scoperta di nuove miniere di oro o di argento, oscillando
+generalmente fra 1:10 ed 1:12.
+
+La moneta, in questa lunga fase storica, non è altro che un lingotto recante
+il punzone del re o della repubblica. Ciò permette di evitare il controllo del
+peso e del titolo della moneta ad ogni passaggio. Infatti lo Stato, punzonando
+il lingotto, promette che lo accetterà come mezzo di pagamento (tipicamente
+delle imposte) e pertanto, anche se il peso risultasse inferiore (a causa
+delle "tosature"), o se il titolo risultasse inferiore al dovuto (perché la
+zecca stessa tende a coniare moneta "di bassa lega") chi ha in mano una moneta
+sa che lo Stato non gliela può rifiutare.
+
+Se lo Stato non può rifiutare di accettare la propria moneta, lo possono
+invece fare i privati. Chi deve ricevere un pagamento potrà rifiutare sia le
+monete "tosate", ovvero a cui i precedenti possessori hanno limato via qualche
+grammo di metallo prezioso; oppure potrà rifiutare monete di lega "cattiva".
+D'altra parte chi deve fare un pagamento sceglierà, per farlo, fra tutte le
+monete che ha, quelle più "tosate" o di minor saggio metallico. E tenderà a
+tesaurizzare le monete di peso e titolo più pregiati (è la cosiddetta "legge
+di Gresham").
+
+Si comprende quanto fosse importante la zecca, in quanto dava corso legale a
+quei lingotti metallici che sono le monete metalliche. Aveva una funzione di
+garanzia per chi utilizzava le monete e li esonerava dai controlli. Tuttavia
+la zecca si prestava ad operazioni poco corrette, quando le casse dello Stato
+erano vuote. Infatti il principale responsabile della svalutazione monetaria
+rimaneva comunque lo Stato, che nei momenti di difficoltà economica, per
+rimpinguare le proprie casse, ordinava alla zecca di mescolare il metallo
+prezioso con quantità sempre maggiori di metallo vile (generalmente rame) fino
+a quando i mercanti non se ne accorgevano e rifiutavano la nuova moneta o
+l'accettavano solo per il suo valore intrinseco, inferiore a quello nominale.
+E ciò provocava inflazione.
+
+Nelle economie rinascimentali chi dispone di metallo prezioso (oro o argento)
+può portarlo alla zecca, gestita da chi esercita il potere politico, perché
+diventi moneta. La zecca trattiene parte delle monete coniate per coprire le
+spese di coniazione e come signoraggio.
+
+Il signoraggio e le spese di coniazione impediscono che il valore nominale
+delle monete coincida con il valore intrinseco, che dipende dalla quantità di
+metallo prezioso (spesso l'oro) in esse contenuto; ciò serve anche a
+proteggere la moneta dal pericolo d'essere usata come metallo e non come
+valuta.
+
+L'impiego di monete metalliche d'oro o d'argento consente di regolare
+facilmente gli scambi internazionali perché i metalli preziosi sono accettati
+ovunque. Chi riceve in pagamento la moneta di un paese straniero può usarla
+anche nel proprio, se è accettato l'uso della moneta straniera, oppure fondere
+il metallo prezioso e usarlo per coniare monete accettate nel proprio paese.
+
+L'impiego di monete metalliche d'oro o d'argento presenta tuttavia due limiti
+insormontabili.
+
+Il primo limite riguarda la possibilità di controllare l'offerta di moneta.
+
+La moneta è infatti un mezzo di scambio che serve a regolare gli scambi. Più
+grande è il prodotto interno lordo di un paese, più numerosi sono gli scambi e
+maggiore è la quantità di moneta necessaria a regolarli. L'offerta di metalli
+preziosi non è una variabile che si possa controllare facilmente, dipendendo
+dalla produzione delle miniere e dagli afflussi e dai deflussi di metallo
+prezioso da e verso l'estero, per esempio attraverso il regolamento dei saldi
+commerciali.
+
+L'uso di monete in metallo prezioso ha inoltre effetti potenzialmente
+destabilizzanti sull'economia. Se la quantità di moneta cresce troppo, per
+effetto di un surplus commerciale o della scoperta di nuovi giacimenti di
+metallo prezioso, si produce un aumento della domanda di beni e servizi
+rispetto all'offerta (nelle economie che usano monete di metallo la crescita è
+in genere assai limitata) e quindi aumentano i prezzi (inflazione). In caso
+contrario si assiste al calo dei prezzi (deflazione).
+
+Il secondo limite riguarda i trasferimenti di denaro.
+
+L'uso di monete metalliche comporta notevoli problemi di sicurezza nel
+trasferimento di grandi somme di denaro, sia per il rischio di furti sia per
+quello di perdite, ad esempio nei commerci via nave. È quindi opportuno usare
+strumenti di pagamento differenti, di tipo cartaceo, che trasformano la moneta
+metallica in banconota o in ordine di pagamento.
+
+I primi ad emettere moneta cartacea furono i Cinesi durante il Medioevo.
+Tuttavia con l'avvento della dinastia Ming il Celeste Impero abbandonò la
+stampa di cartamoneta.
+
+Intanto, durante il Trecento, i banchieri italiani e fiamminghi a fronte dei
+depositi in oro effettuati presso le banche stesse, cominciarono ad emettere
+titoli rappresentativi del credito in oro nei loro confronti, attribuendo al
+depositante/possessore del titolo il potere di scambiare queste cosiddette
+"lettere di cambio" presso un altro banchiere collegato col primo da legami
+d'affari, evitando così le spese e i rischi connessi al trasporto della moneta
+metallica (in genere i banchieri distribuiscono strategicamente la loro
+attività nei più importanti luoghi dove si concentrano gli scambi di merci),
+oppure il potere di utilizzare direttamente le monete cartacee come strumenti
+di pagamento (purché vi sia la fiducia del venditore nei confronti della
+solvibilità del banchiere emittente, e la verificabilità della veridicità del
+titolo stesso). Un'altra ragione era che le monete di rame erano divenute
+troppo grandi e pesanti da poter portare con sè.
+
+Una volta all'anno i banchieri regolavano i rapporti fra di loro, trasferendo
+solo la quantità d'oro corrispondente al saldo fra tutte le operazioni
+intercorse. Questa prima forma di stanza di compensazione era rappresentata
+dalle fiere di Champagne nel Trecento, dalle fiere di Besanzone nel
+Quattrocento, dalle fiere di Piacenza nel Cinquecento.
+
+A partire dal Settecento e soprattutto nell'Ottocento, dopo l'affermazione del
+sistema aureo, le banche centrali cominciano ad "emettere" moneta cartacea,
+ovvero iniziano a stampare banconote in serie (titoli di credito nei confronti
+dei depositi in oro detenuti dalla banca) per un ammontare maggiore rispetto
+alla capacità di copertura aurea delle banconote stesse. Questa procedura (per
+certi versi rischiosa, dal punto di vista della solvibilità) è incoraggiata
+fondamentalmente da due fattori:
+
+Con l'avvento dell'era industriale diventa importante disporre di monete in
+quantità sufficiente a soddisfare le esigenze di economie in forte crescita.
+Contemporaneamente il diffondersi del benessere amplia il numero di chi può
+risparmiare.
+
+Conseguentemente, intorno al 1870, nascono le cosiddette "banche commerciali",
+aperte al pubblico ed organizzate in società per azioni, che raccolgono il
+pubblico risparmio e prestano denaro, sotto forma di depositi bancari oltre
+che di banconote.
+
+L'oro si trasforma gradualmente in riserva, uscendo dai commerci per entrare
+nei forzieri delle banche centrali. Viene usato per regolare i deficit delle
+bilance commerciali. Poco per volta si fa strada la regola secondo cui le
+autorità monetarie possono emettere moneta fino ad un valore massimo pari ad
+alcune volte il valore dell'oro detenuto. L'argento perde importanza come
+metallo monetario e diventa un bene rifugio per i privati.
+
+Le autorità monetarie possono così regolare la quantità di moneta in funzione
+dei propri obiettivi di politica monetaria, mentre le riserve di metalli
+preziosi servono a regolare i saldi nella bilancia dei pagamenti.
+
+Tale sistema, noto come sistema aureo (o _tallone aureo_ o _gold standard_ ),
+viene adottato in un congresso internazionale nel 1867 da tutte le principali
+economie occidentali.
+
+Tale sistema ha il vantaggio di rendere più flessibile la creazione di moneta
+e tuttavia ha il limite che, in presenza di un Paese con una bilancia dei
+pagamenti costantemente in deficit, devono essere presi provvedimenti per
+evitare che si esauriscano le riserve di tale Paese.
+
+Il ricorso alla svalutazione è la risposta, che però si ripercuote anche sul
+valore delle altre monete, provocando situazioni di instabilità che si
+diffondono rapidamente dall'economia in difficoltà alle economie ad essa
+collegate.
+
+Tuttavia, gradualmente alcune monete diventano riferimento per le altre. Le
+banche centrali di molte Nazioni, cioè, operano in modo da mantenere un cambio
+stabile con la valuta di riferimento. In particolare si forma un'area della
+sterlina, che si estende su cinque continenti. Altre monete forti, quali il
+marco, il dollaro e lo yen, rimangono estranee all'area della sterlina e
+creano proprie aree monetarie, di più ridotte dimensioni. Infine, varie
+nazioni dell'Europa sudoccidentale si allacciano al franco francese e danno
+vita alla maggiore area indipendente dalla sterlina: l'Unione monetaria
+latina, composta da Francia, Italia, Spagna, Belgio, Svizzera, Grecia, cui si
+aggiunsero molti altri paesi.
+
+La sequenza di svalutazioni prodottesi per fronteggiare la crisi del 1929
+mette in crisi il sistema aureo e le aree monetarie che esso aveva creato.
+
+La soluzione che viene escogitata durante la Conferenza di Bretton Woods del
+1944 durante la fase di creazione dell'Organizzazione delle Nazioni Unite,
+consiste nel prevedere finanziamenti da parte dei paesi in surplus (primo fra
+tutti, gli USA) a favore dei paesi in deficit.
+
+Le riserve in oro delle singole banche centrali perdono il ruolo di primo
+piano giocato fino a quel momento e lasciano spazio al dollaro, come moneta
+alla base del sistema monetario internazionale. Pertanto le riserve delle
+banche centrali saranno da allora in poi costituite soprattutto da riserve
+valutarie (prevalentemente in dollari) nonché da titoli di stato esteri.
+
+A sua volta, però, il dollaro rimane convertibile in oro e la Federal Reserve
+conserva buona parte delle riserve auree mondiali nel "forziere-fortezza" di
+Fort Knox, nel Kentucky.
+
+Anche il sistema di Bretton Woods non regge alla prova del mercato e di una
+economia che diventa sempre più complessa e nella quale operano interessi
+sempre più consistenti. La fine della convertibilità del dollaro in oro viene
+decretata dal presidente statunitense Nixon quando appare chiaro che il
+sistema è troppo oneroso per gli USA.
+
+Si passa così nel 1971 ad un sistema di cambi flessibili: i deficit non
+generano più flussi di oro o di altri beni a favore del paese in surplus, ma
+danno luogo a svalutazioni delle monete.
+
+Teoricamente qualunque metallo può essere riserva o materiale di conio della
+moneta. Quando la moneta inizia a essere stampata su carta o su un supporto
+metallico che non ha un valore (se fuso e rivenduto) pari a quello nominale,
+quantità dello stesso materiale vengono accumulate a riserva. Il passaggio
+alle riserve si ha quando l'oro o il metallo di conio non è disponibile in
+quantità sufficienti per le monete che si vogliono emettere.
+
+Dapprima si coniano monete con una quantità di metallo inferiore al valore
+nominale, progressivamente ridotta. I forzieri e le riserve non sono
+accessibili pubblicamente e non è possibile accertare il loro ammontare
+effettivo.
+
+Le autorità monetarie possono quindi emettere moneta nella quantità desiderata
+e non più in base alla quantità di oro o di altri metalli preziosi presenti
+nei propri forzieri.
+
+Con riferimento a questi strumenti di pagamento, privi di qualsiasi
+contropartita in beni, si usa l'espressione moneta legale (o _moneta a corso
+legale_ ), in contrapposizione al concetto di moneta merce.
+
+Per misurare la quantità di moneta presente in un sistema economico, si
+utilizzano gli aggregati monetari: M0, M1, M2, M3.
+
+Per **valore** o **potere d'acquisto** della moneta si intende _la quantità di
+beni e servizi che con essa si possono acquistare_.
+
+Il _valore intrinseco_ di una moneta è il valore dello strumento (per esempio
+la moneta metallica o la banconota) usato come moneta. Esso dipende dal valore
+del bene che compone la moneta. Una _moneta cartacea_ , come un biglietto da €
+10, ha un valore intrinseco pari al costo per produrlo, vale a dire pari al
+costo degli inchiostri, della stampa, del trasporto dalla stamperia alla
+banca, dei diritti sul sistema anti-falsificazione, ecc. Allo stesso modo una
+_moneta metallica_ , come la moneta da € 1, ha un valore intrinseco pari al
+costo per coniarla.
+
+Il valore intrinseco dello strumento non supera mai il valore nominale, per
+evitare un signoraggio negativo, un costo di produzione della moneta maggiore
+del ricavo che si ha spendendola, e perché gli utilizzatori sarebbero
+incentivati a fonderle per recuperarne il metallo, ovvero a usarle per uno
+scopo diverso dallo scambio.
+
+Il costo di una _moneta elettronica_ dipende dalla necessità di addebitare ad
+un conto bancario e accreditare ad un altro una certa somma di denaro.
+
+Se la moneta ha un valore intrinseco non troppo distante dal suo valore
+nominale, conserva maggiormente il proprio valore nel tempo. Una moneta
+coniata con metalli preziosi è più stabile e meno soggetta ad inflazione. Alla
+crescita di moneta corrisponde un'analoga crescita della ricchezza reale,
+almeno pari alla quantità di metallo prezioso messo in circolazione con la
+valuta stessa, per cui l'emissione di moneta con valore intrinseco sarebbe
+priva di effetti inflativi. La _fiat money_ , non legata al possesso di
+riserve per il conio o la conversione delle monete, priverebbe i cittadini di
+una tutela contro l'abuso del potere di coniare moneta e contro i rischi di
+inflazione che ciò comporta, che la coniazione sia gestita direttamente dal
+potere politico oppure da istituti privati di diritto pubblico. Tuttavia,
+l'inflazione è correlata non solo alla quantità di moneta emessa, ma al
+rapporto di questa con la ricchezza reale prodotta, che non è misurabile in
+termini di riserve in oro o metalli preziosi, ma di presenza di beni e
+servizi. La quantità di metallo prezioso estraibile non è correlata alla
+ricchezza prodotta, né un Paese è ricco perché possiede molte riserve, o
+necessariamente è obbligato a tenerne in proporzione alla sua crescita
+economica. L'assenza di un obbligo di riserva, per evitare abusi
+nell'emissione di moneta, è compensata da un sistema di _governance_ che
+affida la coniazione ad autorità indipendenti, che hanno il compito di
+regolarla in modo da evitare l'inflazione.
+
+Di solito si tratta di costi modesti. Il valore intrinseco delle monete
+moderne è quindi assai basso, con l'eccezione delle monete che assumono un
+interesse numismatico per le quali il valore intrinseco resta basso, ma la
+rarità, il desiderio di collezionarle e tutto quanto alimenta l'interesse dei
+numismatici contribuiscono a dare ad esse un valore.
+
+Il passaggio graduale dall'uso delle monete in metallo prezioso a monete
+immateriali ha abbattuto il valore intrinseco della moneta e conseguentemente
+anche i costi per produrla. La riduzione dei costi è avvenuta
+contemporaneamente alla crescita dell'economia che ha reso necessario l'uso di
+quantitativi sempre più grandi di moneta.
+
+Se non si fosse verificata la diminuzione dei costi per emettere moneta, al
+crescere della domanda di moneta sarebbe cresciuto il costo totale di
+emissione. Di conseguenza si sarebbe dovuta destinare una parte consistente
+della maggiore ricchezza alla creazione dello strumento monetario. La riserva,
+sia essa un metallo o un altro bene, in quanto è solo una parte della
+ricchezza prodotta, che però deve fornire una base monetaria per consentire
+gli scambi commerciali dell'intera ricchezza esistente, è una risorsa scarsa o
+destinata a diventare tale nel tempo perché è presente in quantità finite in
+natura, e che deve coprire una domanda molto più grande. La crescita
+dell'economia sarebbe stata limitata dalla quantità estratta e dalla
+reperibilità di nuove riserve.
+
+Altra cosa è il _valore nominale_ delle monete. Il valore di ciascuna moneta è
+quello segnato sulla moneta stessa. È indispensabile nelle economie moderne
+disporre di mezzi di pagamento nella quantità necessaria a regolare flussi di
+scambi sempre maggiori. Questo implica per le autorità monetarie la libertà di
+emettere moneta nella quantità che esse ritengono adeguata ad un buon
+funzionamento del sistema dei pagamenti.
+
+La moneta non viene emessa a fronte di riserve di oro detenute dalla banca
+centrale, come avveniva in passato, né quindi può essere ceduta alla banca
+emittente in cambio di oro o di un altro bene.
+
+La circolazione della moneta e quindi il riconoscimento del suo valore
+nominale dipendono solo dalla fiducia che chi riceve in pagamento una certa
+quantità di denaro ha di poter cedere a sua volta tale denaro ad altri
+soggetti in cambio di altri beni e servizi. Questo "meccanismo fiduciario"
+garantisce che il valore nominale sia anche il valore reale della moneta.
+
+A rafforzare tale meccanismo basato sulla fiducia reciproca intervengono
+naturalmente tutti i sistemi anticontraffazione, che offrono ai cittadini una
+elevata probabilità che al denaro posseduto (e ricevuto da altri) sia
+riconosciuto il valore nominale riportato su banconote e monete e non il
+valore intrinseco di biglietti e monete prive di valore legale.
+
+Ma soprattutto il meccanismo fiduciario viene integrato dall'obbligo legale di
+accettare in pagamento la moneta legale del proprio paese e dalla regola,
+contenuta nel codice civile, che afferma che una volta effettuato il pagamento
+l'obbligazione si estingue, liberando per sempre il debitore.
+
+L'uso affidabile e duraturo della moneta come mezzo di compravendita è
+garantito dunque dal valore stabile della moneta che a sua volta è garantito
+da una convenzione intrinseca o accordo fiduciario collettivo, regolato e
+riconosciuto dalla legge, che tutti hanno accettato perché a tutti conviene
+avere una moneta di scambio, perché essa è non riproducibile (cioè
+falsificabile) e perché il valore stesso non è dato a piacimento dal singolo
+cittadino, ma è dato dal valore stampato sulla moneta: se così non fosse il
+gioco di scambio tra bene e moneta non funzionerebbe perché, in un continuo
+gioco al rialzo tra valore nominale della moneta e beni e servizi, si
+alimenterebbe in brevissimo tempo una svalutazione della moneta ed una
+conseguente spirale inflazionistica.
+
+In altri termini possiamo dire che una banconota da 20 € vale 20 € perché
+chiunque, accettandola in pagamento, è sicuro che altre persone, alle quali a
+sua volta verrà ceduta la banconota, riconosceranno (per volontà propria e
+perché obbligati dalla legge) che tale banconota vale 20 €.
+
+Potrebbero riconoscere ad essa un valore diverso solo se la banconota fosse
+falsa (e in questo caso il valore sarebbe vicino allo zero) o se la banconota
+avesse valore in quanto interessante per i numismatici.
+
+In sintesi, le monete cartacee oggi usate (totalmente svincolate dalle
+quantità di metalli preziosi) hanno valore in quanto mezzo di pagamento
+stabile riconosciuto nell'economia di un certo paese:
+
+In pratica, nessuno di noi accetterebbe un "pezzo di carta" in cambio di un
+bene, se quel pezzo di carta non ci consentisse di acquistare altri beni, se
+esso perdesse il suo valore nell'intervallo di tempo in cui lo deteniamo prima
+di scambiarlo con un altro bene, se esso attribuisse un potere d'acquisto
+puramente formale in un'economia di fatto improduttiva e inesistente.
+
+La _svalutazione_ è la perdita di valore di una moneta nei confronti di beni e
+servizi, comprese altre monete.
+
+In passato, quando le monete erano composte da metalli preziosi, il valore
+nominale poteva essere più o meno vicino a quello del metallo prezioso
+contenuto. La svalutazione della moneta dipendeva da iniziative di
+manipolazione del sovrano e dell'autorità politica. Avveniva attraverso due
+meccanismi[4]:
+
+Ai nostri giorni non si usano più monete composte da metalli preziosi e le
+ragioni della perdita di valore di una moneta sono da attribuirsi all'operare
+della domanda e dell'offerta delle monete che servono a regolare le
+transazioni economiche (essa può anche essere indotta dall'uso della politica
+monetaria come strumento di politica economica da parte della banca centrale:
+una _svalutazione competitiva_ per favorire la domanda di beni nazionali).
+
+La svalutazione rende più costose le merci e le materie prime importate e di
+conseguenza può avere effetti sull'inflazione del paese che svaluta
+(cosiddetta _inflazione importata_ ). Inoltre, rende più convenienti, sui
+mercati esteri, i prodotti del paese che svaluta, da cui l'attributo
+_competitiva_ all'inflazione.
+
+Normalmente gli strumenti impiegati come moneta non sono beni di consumo per
+chi li riceve. Questo vale per la carta-moneta (un biglietto da 50 euro ha un
+valore come banconota, mentre come pezzo di carta non ha praticamente nessun
+utilizzo), ma anche per l'oro, il cui impiego come bene intermedio o di
+consumo è assai limitato.
+
+La ragione per la quale queste monete vengono accettate in pagamento risiede
+nella fiducia di chi le riceve che altri faranno altrettanto, accettando in
+pagamento monete, banconote, depositi bancari o titoli di stato.
+
+Senza tale fiducia difficilmente una moneta sarebbe accettata in pagamento e
+neppure il corso legale di una moneta, ovvero l'obbligo di accettarla in
+pagamento, potrebbe molto contro il rischio di trovarsi in mano carta straccia
+o un deposito bancario inutilizzabile.
+
+Si spiega quindi l'impiego nell'antichità dell'oro come mezzo di pagamento.
+L'oro era accettato ovunque perché tutti ritenevano che altri avrebbero
+accettato di essere pagati in oro. La stessa caratteristica è oggi posseduta
+dal dollaro e da altre monete e da alcuni beni.
+
+Fino all'Ottocento circolavano quasi esclusivamente monete metalliche coniate
+impiegando metalli preziosi. Si creava moneta portando il metallo grezzo
+presso la zecca, solitamente di proprietà o autorizzata dallo Stato, dove
+venivano coniate le monete. Il metallo prezioso proveniva dalle miniere e
+dall'estero, in seguito a saldi commerciali positivi, regolati usando metalli
+preziosi.
+
+La quantità di moneta circolante nell'economia poteva quindi aumentare o
+diminuire, nel caso di deficit commerciali regolati cedendo metalli preziosi,
+non compensati dalle nuove estrazioni minerarie. Le variazioni della quantità
+di monete aveva effetti sui prezzi. I prezzi aumentavano o diminuivano
+(deflazione) con la quantità di moneta e con effetti che si ripercuotevano su
+salari e occupazione.
+
+L'evoluzione dell'economia porta nel tardo Medioevo alla creazione, accanto
+alle monete metalliche, della moneta bancaria (da non confondere con la moneta
+bancaria intesa come il complesso degli strumenti di pagamento forniti oggi
+dalle banche, in aggiunta alla moneta legale in circolazione). Il deposito
+dell'oro in sovrappiù presso gli orafi, alcuni dei quali si trasformano in
+banchieri e prestano il metallo prezioso ricevuto e non trattenuto come
+riserva, favorisce la nascita di un sistema creditizio, nel quale le passività
+dei banchieri diventano moneta. Ogni banca finisce per emettere una propria
+moneta, che è accettata in pagamento, solo se la banca è ritenuta solvibile.
+
+La molteplicità delle monete e degli emittenti, fonte di instabilità e di
+periodiche crisi finanziarie, viene affrontata a partire dal Seicento
+decidendo di concentrare il potere di emettere moneta nelle mani di un unico
+soggetto, la banca centrale.
+
+In tal modo si limita il potere di erogare credito da parte delle banche, che
+non possono superare il limite imposto loro dall'obbligo di detenere parte
+della raccolta sotto forma di riserve (oggi non più in oro, ma in attività
+estremamente liquide), e si attribuisce alla banca centrale il potere di
+rifinanziare le banche, quando occorra. Tale potere serve sia a far crescere
+l'offerta di moneta, attraverso l'aumento della base monetaria da parte della
+banca centrale, sia a garantire la solvibilità delle banche.
+
+«Il biglietto di banca rappresenta un debito dell'istituto che lo emette e
+naturalmente un credito per chi lo possiede... È un'idea che pare semplice, ma
+che ha richiesto alcuni secoli per essere messa a punto»
+
+La banca centrale emette moneta acquistando titoli di debito di stati, banche
+o imprese. È bene sottolineare che le banche centrali non acquistano titoli di
+stato direttamente dallo Stato, tramite aste, ma da chi li ha acquistati
+precedentemente, sul cosiddetto "mercato secondario", e intende rifinanziarsi
+cedendo i titoli posseduti.
+
+Nella contabilità della banca centrale la scrittura contabile relativa
+all'acquisto dei titoli è la seguente:
+
+titoli @ moneta 100
+
+La banca centrale acquista i titoli da una banca ordinaria che li possiede
+direttamente o per conto dei propri clienti.
+
+L'acquisto di titoli viene registrato in dare di una voce che appartiene allo
+stato patrimoniale della banca centrale, mentre in avere di una voce allo
+stato patrimoniale si registra il debito nei confronti del venditore, la banca
+ordinaria.
+
+A sua volta la banca ordinaria registrerà la seguente scrittura contabile:
+
+moneta @ titoli 100
+
+La banca ordinaria ha infatti un credito in moneta nei confronti della banca
+centrale per aver venduto i titoli, la cui cessione comporta una registrazione
+in avere del conto titoli.
+
+La banca centrale può regolare il debito nei confronti della banca ordinaria
+versando ad essa banconote oppure riconoscendogli un credito di conto
+corrente. Credito per la banca ordinaria cui corrisponde un debito per la
+banca centrale.
+
+La moneta, in senso lato (da non confondersi con le sole banconote o con le
+monete metalliche, che sono solo una piccola parte della moneta) è dunque
+nella contabilità della banca centrale un debito verso la banca ordinaria
+dalla quale sono stati acquistati i titoli.
+
+Poiché solo una parte modesta dell'enorme massa di transazioni delle economie
+moderne avviene con l'uso di banconote, le banche ordinarie che cedono i
+titoli propri o della clientela alla banca centrale usufruiscono per lo più
+degli accrediti in conto corrente presso la Banca Centrale.
+
+Alla scadenza dei titoli, la Banca Centrale li rivende all'emittente (può
+venderli anche prima della scadenza, se lo ritiene conveniente).
+
+La moneta emessa in precedenza ritorna alla Banca Centrale, che tuttavia, se
+non ha l'obiettivo di ridurre la quantità di moneta in circolazione
+nell'economia, emette nuova moneta acquistando altri titoli.
+
+Il processo di emissione di moneta acquistando nuovi titoli in sostituzione di
+quelli rimborsati è senza fine e man mano che l'economia cresce, cresce anche
+la massa di titoli acquistati e quindi di moneta emessa.
+
+La moneta infatti è uno strumento, essenziale per il funzionamento
+dell'economia e spetta alla Banca Centrale regolarne la quantità in
+circolazione, attraverso l'emissione di moneta a fronte della quale vengono
+acquistati titoli, per lo più di stato (BOT, CCT, ecc).
+
+Nei sistemi monetari attuali il potere di produzione della moneta appartiene
+esclusivamente alla banca centrale, tuttavia le banche ordinarie continuano
+comunque, in un certo senso, a "produrre moneta" (in senso lato, ovviamente):
+non certo stampando banconote proprie (come facevano i banchieri del passato,
+a fronte di una copertura non totale in oro), ma emettendo strumenti di
+pagamento bancari (moneta bancaria, nel senso odierno del termine) a fronte
+dei depositi in moneta legale ricevuti (senza però tenere totalmente
+immobilizzati questi depositi), grazie alla loro elevata e professionale
+capacità di gestione della liquidità (di fatto "moltiplicando" la "liquidità"
+presente nell'economia). Questa cosiddetta moltiplicazione della moneta, viene
+effettuata utilizzando la riserva frazionaria.
+
+Per decenni le banche centrali hanno operato seguendo le direttive dei
+rispettivi governi, che hanno promosso la creazione di moneta per finanziare
+l'eccedenza di spesa pubblica che non poteva essere coperta dall'imposizione
+fiscale. L'obbligo di sottoscrivere i titoli non collocati ha gravato fino al
+1981 sulla Banca d'Italia. Gli aumenti della base monetaria sono stati
+all'origine di forti aumenti dei prezzi. Il tasso di inflazione ha raggiunto,
+tra la fine degli anni settanta e l'inizio degli anni ottanta, anche livelli
+del 20-25% annuo.
+
+Per comprendere meglio la differenza tra moneta in senso stretto e moneta in
+senso lato vedi:
+
+Per comprendere meglio alcune differenze terminologiche vedi:
+
+Per approfondire il funzionamento dei sistemi monetari vedi:
+
+Per approfondire il funzionamento della politica monetaria della banca
+centrale vedi:
+
+Per comprendere caratteristiche tecniche e materiale utilizzato per realizzare
+una moneta:
+
+Per conoscere le origini antiche del denaro:
+
+Altri progetti
+

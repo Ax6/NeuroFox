@@ -1,0 +1,63 @@
+**Napster** era un programma di file sharing creato da Shawn Fanning e Sean
+Parker[1] e attivo dal giugno 1999[2] fino al luglio 2001. Si diffuse su larga
+scala a partire dal 2000. Adesso è un servizio legalizzato a pagamento con una
+prova gratuita di 30 giorni acquistato dalla Roxio.
+
+Napster fu il primo sistema di peer-to-peer di massa e divenne disponibile
+nell'estate del 1999. Tuttavia non era un peer-to-peer puro in quanto
+utilizzava un sistema di server centrali che mantenevano la lista dei sistemi
+connessi e dei file condivisi, mentre le transazioni vere e proprie avvenivano
+direttamente tra i vari utenti. Questo è un sistema molto simile al
+funzionamento dell'instant messaging. Tuttavia già esistevano dei mezzi
+relativamente popolari che facilitavano la condivisione dei file, per esempio
+IRC, Hotline e Usenet.
+
+I sostenitori di Napster furono sconcertati quando fu messo sotto processo. Ad
+essi sembrava che il file sharing rappresentasse la caratteristica principale
+di Internet e consideravano Napster essenzialmente un motore di ricerca. Molti
+notarono che qualsiasi tentativo di chiudere Napster avrebbe spinto gli utenti
+ad utilizzare altri mezzi per lo scambio di file su internet, ciò che è
+puntualmente avvenuto mediante software peer-to-peer come Kazaa, WinMX, eMule
+e BitTorrent. Al contrario i _media_ descrivevano il servizio come se fosse un
+sito web invece che un programma e questo faceva credere che Napster fosse
+esso stesso un distributore di file musicali protetti da copyright, piuttosto
+che un programma che facilitava la condivisione degli stessi.
+
+Nel luglio 2001 un giudice ordinò ai server Napster di chiudere l'attività a
+causa della ripetuta violazione di copyright. Il 24 settembre 2001 la sentenza
+fu parzialmente eseguita. L'accordo prevedeva che Napster pagasse 26 milioni
+di dollari come risarcimento per i danni del passato, per utilizzo non
+autorizzato di brani musicali e 10 milioni di dollari per royalties future.
+Per poter pagare queste parcelle, Napster tentò di convertire il servizio da
+gratuito a pagamento. Un prototipo fu testato nella primavera del 2002, ma non
+fu mai reso pubblicamente disponibile.
+
+Il 17 maggio 2002 Napster venne acquistato da Bertelsmann AG per 8 milioni di
+dollari. Secondo i termini dell'accordo il 3 giugno 2002 Napster chiese
+l'applicazione della procedura concorsuale nota come "Chapter 11" (Capitolo
+11) al fine di mettersi sotto protezione delle leggi degli USA. Il 2 settembre
+2002 un giudice fallimentare bloccò la vendita a Bertelsmann imponendo a
+Napster di liquidare i suoi _asset_ secondo le disposizioni contenute nel
+"Chapter 7" che regolano i casi di fallimento negli USA. La maggior parte dei
+dipendenti di Napster venne licenziata e il sito web chiuse affiggendo la
+scritta: "Napster era qui".
+
+Dopo la chiusura di Napster vennero prodotti diversi programmi peer-to-peer di
+condivisione file, tra i quali Morpheus e Kazaa.
+
+Nonostante il programma Napigator permettesse al software di Napster di
+collegarsi con dei server non ufficiali, il server centrale utilizzato da
+Napster divenne un obiettivo perseguibile legalmente in quanto su di esso
+operava un'attività illegale, rendendo Napster colpevole di negligenza per non
+aver effettuato i relativi controlli per evitarla. Altri sistemi ibridi come
+KaZaA e Audiogalaxy sono stati colpiti dall'industria discografica, invece
+sistemi peer-to-peer puri come Morpheus e LimeWire basati sul protocollo
+Gnutella hanno dimostrato la difficoltà a chiuderli da parte delle major, a
+causa della loro distribuzione su server decentralizzati.
+
+Dopo l'offerta di 2,23 milioni di dollari alla Private Media Group, il marchio
+Napster e il logo sono stati acquistati dalla Roxio, che ha rilanciato il
+servizio di download di musica come _Napster 2.0_ , a pagamento.
+
+Altri progetti
+

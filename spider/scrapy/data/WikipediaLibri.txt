@@ -1,0 +1,46 @@
+  
+
+Gestisci il tuo libro: aiuto per principianti | aiuto per esperti | FAQ |
+feedback | esplora i libri | naviga nella categoria
+
+Libri di Wikipedia
+
+Questa pagina elenca i libri creati dalla comunità a partire dalle voci
+dell'enciclopedia e fornisce spunti per costruire un buon libro.
+
+I libri mantenuti dalla comunità sono nella lista dei libri della comunità.
+
+Tutti i libri salvati dagli utenti sono elencati nella categoria
+Wikipedia:Libri.
+
+Elenco alfabetico dei libri  
+0 1 2 3 4 5 6 7 8 9 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
+
+Portale:Libri di Wikipedia
+
+  
+
+Non c'è limite alla creazione di libri con contenuto tratto dalle voci di
+Wikipedia. Ad ogni modo, un buon libro dovrebbe focalizzarsi su un dato
+argomento e analizzarlo quanto più esaurientemente possibile.
+
+Un titolo chiaro e immediato potrebbe aiutare gli altri a capire di cosa
+effettivamente tratta quel libro.
+
+Un libro dovrebbe contenere un numero ragionevole di voci. Una sola voce è
+troppo poco, mentre un PDF da 500 pagine è probabilmente troppo grande (e
+potrebbe dare problemi a chi ha un computer troppo vecchio).
+
+Qualsiasi libro può essere modificato per comprendere una premessa, che può
+per esempio essere contenuta in una sottopagina del libro. Vedi la pagina di
+aiuto per esperti per capire come puoi inserire manualmente delle pagine
+aggiuntive.
+
+In cima a tutte le sottopagine libro è incluso automaticamente un template,
+che può essere usato anche per segnalare di quante pagine sarà il PDF finale.
+
+Se crei un libro interessante, considera la possibilità di aggiungerlo alla
+lista di libri della comunità. Puoi costruirlo direttamente tramite
+Speciale:Raccolta, salvandolo come sottopagina di _Wikipedia:Libri_ oppure
+spostarlo dal namespace utente.
+

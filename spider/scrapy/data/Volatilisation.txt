@@ -1,0 +1,27 @@
+**Volatilization** is the process whereby a dissolved sample is vaporised. In
+atomic spectroscopy this is usually a two-step process. The analyte is turned
+into small droplets in a nebuliser which are entrained in a gas flow which is
+in turn volatilised in a high temperature flame in the case of AAS or
+volatilised in a gas plasma torch in the case of ICP spectroscopy.
+
+**Herbicide volatilisation** refers to evaporation or sublimation of a
+volatile herbicide. The effect of gaseous chemical is lost at its intended
+place of application and may move downwind and affect other plants not
+intended to be affected causing crop damage. Herbicides vary in their
+susceptibility to volatilisation. Prompt incorporation of the herbicide into
+the soil may reduce or prevent volatilisation. Wind, temperature, and humidity
+also affect the rate of volatilisation with humidity reducing in. 2,4-D and
+dicamba are commonly used chemicals that are known to be subject to
+volatilisation[1] but there are many others.[2] Application of herbicides
+later in the season to protect herbicide-resistant genetically modified plants
+increases the risk of volatilisation as the temperature is higher and
+incorporation into the soil impractical.[1]
+
+Herbicide applied as a powder or a mist can also drift in the wind in solid
+form as dust or liquid form as tiny drops. However, a transformation of known
+herbicides, such as glyphosate, dicamba or MCPA, into the form of herbicidal
+ionic liquids proved to be a solution to this particular problem[3], since
+herbicidal ionic systems express lower susceptibility to volatilisation. [4]
+
+  
+

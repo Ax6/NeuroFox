@@ -1,0 +1,314 @@
+Con il termine **clavicembalo** (altrimenti detto **gravicembalo** ,
+arpicordo, cimbalo, cembalo) si indica una famiglia di strumenti musicali a
+corde, dotati di tastiera: tra questi, anzitutto lo strumento di grandi
+dimensioni attualmente chiamato clavicembalo, ma anche i più piccoli virginale
+e spinetta.
+
+Questi strumenti generano il suono pizzicando la corda, anziché colpendola
+come avviene nel pianoforte o nel clavicordo. La famiglia del clavicembalo ha
+probabilmente avuto origine quando una tastiera è stata adattata ad un
+salterio, fornendo così un mezzo per pizzicare le corde. Il termine stesso,
+che compare per la prima volta in un documento del 1397[1], deriva dal latino
+_clavis_ , chiave (intesa come il meccanismo che utilizza il movimento del
+tasto per azionare il leveraggio retrostante), e _cymbalum_ , termine che
+designava nel medioevo gli strumenti musicali con corde parallele tese su una
+cassa poligonale e senza manico, come i salteri e le cetre. In ogni caso, la
+più antica descrizione nota del clavicembalo risale al 1440 circa[2]. I
+costruttori di clavicembali e strumenti simili sono detti **cembalari** o
+**cembalai**[3].
+
+L'età del clavicembalo copre un arco temporale di circa tre secoli (dal XVI al
+XVIII secolo), periodo in cui sono sorte diverse scuole di tutta Europa,
+sequenzialmente:
+
+Nei secoli XVII e XVIII il clavicembalo fu uno degli strumenti più utilizzati
+nella prassi musicale. I maggiori compositori di quei secoli hanno scritto
+opere specificamente destinate al clavicembalo come strumento solista
+(particolarmente famose, già all'epoca, le opere di William Byrd, Girolamo
+Frescobaldi, Jan Pieterszoon Sweelinck, François Couperin, Jean-Philippe
+Rameau, Johann Sebastian Bach, Georg Friedrich Händel, Alessandro e Domenico
+Scarlatti), ma l'impiego più frequente dello strumento era quello della
+realizzazione del basso continuo, presente nella quasi totalità delle
+composizioni musicali strumentali e vocali fino alla seconda metà del secolo
+XVIII. Nello stesso periodo il clavicembalo - come avverrà nei secoli
+successivi per il pianoforte - fu lo strumento più diffuso anche fra i
+musicisti dilettanti, ai quali furono destinate innumerevoli edizioni a stampa
+di una vasta letteratura. Il celebre matematico Eulero (1707 - 1783), ad
+esempio, _amava rilassarsi suonando il suo clavicembalo_.[4]
+
+A: Somiere  
+B: Tavola frontale  
+C: Fascia dorsale (o fascia lunga)  
+D: Fascia caudale  
+E: Fascia curva  
+F: Fascia corta  
+G: Controsomiere  
+H: Traversa principale  
+I: Traverse del fondo  
+J: Barre superiori  
+K: Controfasce  
+L: Tavola armonica  
+M: Supporto delle punte d'attacco del 4 piedi  
+N: Grande catena diagonale  
+O: Catene  
+P: Rosetta
+
+A: Somiere  
+B: Tavola frontale  
+C: Fascia dorsale (o fascia lunga)  
+D: Fascia caudale  
+E: Fascia curva  
+F: Fascia corta  
+L: Tavola armonica  
+P: Rosetta  
+Q: Ponticello dell'8 piedi  
+R: Ponticello del 4 piedi  
+  
+_Notare sulla fascia corta_  
+_le caviglie che la fissano_  
+_al somiere e al controsomiere_
+
+Tutti i tipi di clavicembalo hanno un funzionamento simile:
+
+Se lo strumento possiede due tastiere si può azionare un dispositivo che
+permette di far suonare una tastiera insieme all'altra. I meccanismi possono
+essere di due tipi:
+
+Questi due tipi di meccanismo, i cui scopi musicali sono differenti, per
+principio non possono trovarsi contemporaneamente sullo stesso strumento.
+
+Nei secoli XVII e XVIII esistevano numerosi tipi di clavicembalo, diversi per
+dimensioni, forma della cassa, posizione della tastiera rispetto alle corde,
+numero di tastiere ed estensione delle medesime. Queste differenze
+corrispondono a esigenze musicali diverse. Si deve notare che, a parte le
+differenze più evidenti (fra una spinetta italiana e un clavicembalo francese
+a due manuali, ad esempio), anche fra strumenti di forma apparentemente simile
+(come un clavicembalo italiano e uno fiammingo del XVII secolo) vi è
+differenza nel modo in cui la lunghezza delle corde varia dalle note più gravi
+alle più acute: ad esempio, in un clavicembalo italiano, in confronto agli
+strumenti fiamminghi e francesi, le corde più gravi sono più lunghe e quelle
+più acute sono più corte. Questo è determinato dalla forma dei ponti dal lato
+opposto a quello dei salterelli, e produce sensibili differenze nel timbro
+degli strumenti, anche perché lunghezze diverse rendono necessario l'uso di
+materiali diversi per le corde (ferro, ottone giallo, ottone rosso).
+
+Nell'accezione moderna, il termine clavicembalo può indicare sia tutti gli
+strumenti della famiglia, sia - più specificamente - lo strumento più grande
+della famiglia, con una cassa di forma poligonale (con un solo lato curvo) in
+cui la tastiera è posizionata sul lato corto, perpendicolarmente alle corde.
+La cassa è più stretta (circa 90–100 cm) e più allungata (anche 272 cm) di
+quella di un pianoforte moderno, particolarmente negli strumenti di scuola
+italiana. Un clavicembalo ha generalmente una o due corde per ciascun tasto.
+Negli strumenti a due manuali, è possibile accoppiare questi ultimi in modo
+che un solo tasto faccia suonare tre corde; in questo caso, una delle tre è da
+4 piedi, ossia è accordata un'ottava più in alto di quella normale da 8 piedi.
+Le tastiere a singolo manuale sono la regola negli strumenti di fattura
+italiana, mentre negli altri paesi europei si producevano anche numerosi
+strumenti a due manuali.
+
+Virginale è il nome generico di una famiglia di strumenti dalla forma
+genericamente rettangolare, più piccoli e semplici rispetto al clavicembalo e
+dotati di una sola corda per ciascuna nota, disposta parallelamente
+(virginale) o angolata (spinetta) rispetto alla tastiera, lungo il lato più
+esteso dello strumento. L'origine del termine non è chiara, ma spesso viene
+collegata al fatto che lo strumento fosse suonato di frequente dalle donne
+giovani in ambito famigliare, non sempre dai concertisti, i quali utilizzavano
+i virginali per la loro facile trasportabilità, oppure perché già presenti là
+dove venivano chiamati[ _senza fonte_ ]; un'altra ipotesi vedrebbe il nome
+_virginale_ come un'abbreviazione di _clavicordo virginale_ , ossia un
+clavicordo dotato di _verghe_ , cioè di salterelli, identificando nello stesso
+tempo l'origine dello strumento nel clavicordo, da cui sarebbe derivata anche
+la forma rettangolare[7].
+
+Si noti che la parola "virginale" nel periodo elisabettiano era utilizzata per
+designare qualsiasi tipo di clavicembalo. Così i capolavori di William Byrd e
+dei suoi contemporanei erano spesso concepiti per clavicembali di grandi
+dimensioni, di fattura italiana, e non solamente su quelli che oggi chiamiamo
+virginali.
+
+Una classificazione moderna più precisa è data nel _New Grove Dictionary of
+Music and Musicians_ , che definisce virginale «uno strumento in cui le corde
+sono disposte ad angolo retto rispetto ai tasti, piuttosto che parallelamente
+(clavicembalo) o angolate (spinetta)».
+
+I virginali possono essere suddivisi in spinetta (il tipo più diffuso,
+soprattutto in Italia) e muselar o muselaar.
+
+Strumento di dimensioni ridotte, chiamato così forse dal nome del costruttore
+veneziano J. Spinetus. Questo è il tipo più diffuso di virginale e consiste in
+uno strumento a corde con le corde impostate ad un angolo con la tastiera di
+circa 30°. In questo strumento le corde sono troppo vicine per avere un
+attuatore normale: le corde sono gestite a coppia, con gli attuatori che
+pizzicano l'una o l'altra con un movimento in direzioni opposte.
+
+Le spinette vengono classificate in base alla forma della cassa: sono inoltre
+possibili classificazioni che prendono in considerazione differenze nella
+meccanica, quali la lunghezza dei legni dei tasti (leve) ed altri particolari.
+
+Il nome "spinetta" è più spesso riservato alla spinetta inglese, di forma
+triangolare, mentre il virginale più comune in Italia è il virginale
+napoletano o veneziano di forma rettangolare: questi strumenti venivano
+chiamati spesso spinette, ma la disposizione delle corde fa sì che essi siano
+in realtà da classificare come virginali.
+
+Costruttore di spinette e virginali fu Bartolomeo Cristofori, la cui fama è
+soprattutto associata all'invenzione del pianoforte. Notevole una sua
+_spinetta ovale_ (costruita attorno al 1690) di forma del tutto particolare:
+la cassa, riccamente intarsiata, è resa ovale aggiungendo, ai lati di un corpo
+rettangolare, due cuspidi a forma di arco gotico; anche in questo caso la
+disposizione delle corde dovrebbe far classificare lo strumento come
+virginale.
+
+Nel virginale di tipo _muselar_ la cassa è rettangolare e la disposizione
+della tastiera solitamente è a destra. Inoltre la disposizione delle corde è
+leggermente obliqua e queste vengono pizzicate al centro della loro lunghezza.
+Ciò rende il suono più caldo e ricco, ma con alcune importanti limitazioni:
+l'azione della mano sinistra è al centro della cassa di risonanza, quindi
+anche i rumori meccanici vengono amplificati, inoltre la resa sonora delle
+corde più lunghe e dal suono basso è penalizzata. Un commentatore del XVIII
+secolo scrisse che il _muselar_ "grugnisce nei bassi come un maialino".
+Nonostante tutto i _muselar_ furono popolari, soprattutto nei paesi di lingua
+fiamminga.
+
+Non è una sorpresa che uno strumento costruito in un certo numero di esemplari
+nell'arco di oltre tre secoli, presenti delle variazioni e modifiche anche di
+una certa importanza.
+
+Oltre alla varietà nelle forme e nelle dimensioni, si registrano anche
+disposizioni o regolazioni differenti nella meccanica e quindi anche nella
+resa sonora.
+
+Generalmente i primi clavicembali hanno minore estensione, più avanti nel
+tempo l'estensione aumenta, anche se esistono ovviamente delle eccezioni.
+Abbiamo così clavicembali con appena quattro ottave, mentre quelli più grandi
+ne hanno cinque o poco più. Spesso, alle tastiere più corte, veniva adattato
+il sistema dell'"ottava corta".
+
+Si associa facilmente l'idea del clavicembalo a quella di una tastiera dove i
+tasti diatonici sono neri e quelli cromatici bianchi, cioè colori invertiti
+rispetto a quelli del pianoforte. Questa pratica di colorazione appartiene
+soprattutto alla scuola francese e si ritrova anche in molti esemplari della
+scuola fiamminga rimodernati o riadattati dagli artigiani francesi.
+
+Nelle altre scuole non ci furono regole precise in tal senso e si possono
+trovare antichi strumenti con i tasti dello stesso colore di tutto lo
+strumento oppure con tasti fabbricati in legno di colore più o meno chiaro.
+Occasionalmente sono state usate per la fabbricazione dei tasti anche materie
+più pregiate come la madreperla.
+
+Quando i tasti cromatici sono bianchi è solo la loro parte superiore che
+riceve un placcaggio in avorio o in osso; i tasti integralmente in detti
+materiali sono molto rari. I tasti diatonici sono invece generalmente ornati,
+nella parte anteriore rivolta allo strumentista, di ricopertura in legno duro
+finemente cesellato o intarsiato.
+
+Molte delle modifiche che si tentò di apportare alla struttura originaria
+dello strumento nel corso dei secoli ebbero vita breve, e produssero strumenti
+curiosi, di diffusione limitata. Di questi strumenti sopravvivono oggi
+pochissimi o nessun esemplare.
+
+Fra gli strumenti a tastiera, se si eccettua l'organo, il clavicembalo era
+certamente il più diffuso in Europa prima dell'avvento del pianoforte. Nell'
+_Encyclopédie_ di Diderot e d'Alembert, ad esempio, il clavicembalo è definito
+semplicemente come "strumento musicale in cui le corde sono fatte suonare
+mediante una tastiera, simile a quella dell'organo" (a questa definizione
+segue una dettagliatissima descrizione della costruzione di un tipico
+clavicembalo francese a due manuali del XVIII secolo)[10]. Tuttavia nei secoli
+XVI-XVIII coesistevano con il clavicembalo altri strumenti a corde dotati di
+tastiera, con un diverso meccanismo di produzione del suono.
+
+Il più diffuso era il clavicordo, esteriormente simile a una spinetta, in cui
+però le corde erano percosse da lamelle metalliche (dette _tangenti_ , le
+quali al tempo stesso fungevano da capotasto[11]), anziché essere pizzicate.
+Un significativo confronto delle caratteristiche del clavicordo rispetto al
+clavicembalo si trova nel trattato di Carl Philipp Emanuel Bach (1753), dove
+si legge:
+
+«Fra i vari tipi di strumenti a tastiera, alcuni dei quali rimangono
+sconosciuti perché difettosi e altri perché non ancora introdotti dappertutto,
+due in particolare hanno riscosso finora il maggior plauso: il clavicembalo e
+il clavicordo. Il primo si adopera generalmente per composizioni complesse,
+l'altro da solo. [...] Ogni cembalista dovrebbe avere un buon clavicembalo e
+un buon clavicordo per poter suonare entrambi gli strumenti alternativamente.
+Chi suona bene il clavicordo riuscirà bene anche al clavicembalo, ma non
+viceversa. Si deve quindi usare il clavicordo per raffinare l'interpretazione
+e il clavicembalo per rinforzare le dita. Chi suona esclusivamente il
+clavicordo incontra molte difficoltà se suona il clavicembalo. Gli riesce
+perciò faticoso accompagnare altri strumenti al clavicembalo, cosa che è
+peraltro impossibile sul clavicordo, data l'esile voce. [...] L'uso esclusivo
+del clavicembalo, invece, abitua a suonare in un colore uniforme; e quelle
+varietà di tocco che può produrre un buon clavicordista vengono a mancare. Ciò
+sembrerà strano, poiché si crede che un clavicembalo debba produrre sempre lo
+stesso tipo di suono con qualsiasi tocco. Si può facilmente fare una prova:
+chiedete a due persone, di cui una suoni bene il clavicordo e l'altra sia un
+semplice clavicembalista, di suonare a turno su quest'ultimo strumento lo
+stesso pezzo con i medesimi abbellimenti, e giudicate poi se entrambi hanno
+ottenuto lo stesso effetto.»
+
+Una terza modalità di produzione del suono si incontra in uno strumento a
+tastiera di scarsissima diffusione, il _Geigenwerk_ , in cui le corde sono
+sfregate da ruote di legno messe in rotazione da un pedale. Come nella
+ghironda, quando si preme un tasto la corda corrispondente viene avvicinata
+alla ruota, producendo un effetto analogo agli strumenti ad arco. Questo
+strumento fu descritto per la prima volta da Leonardo da Vinci, ma ne furono
+prodotti esemplari anche nel XVII secolo.
+
+Il clavicembalo continuò ad essere usato come strumento di accompagnamento
+nell'opera lirica fino alla prima metà del XIX secolo, ma come strumento
+solista fu abbandonato dai compositori in favore del pianoforte.
+
+Nel XX secolo, con il crescente interesse per la musica antica e la ricerca di
+diverse sonorità, alcuni nuovi pezzi sono stati scritti per questo strumento.
+Alcuni concerti furono scritti da Francis Poulenc (il _Concert champêtre_ ),
+Manuel de Falla e Henryk Górecki. Bohuslav Martinů ha scritto sia un concerto
+che una sonata, mentre il _Concerto Doppio_ di Elliott Carter è per
+clavicembalo, pianoforte e orchestra da camera. György Ligeti ha composto un
+certo numero di opere per lo strumento _solo_ (tra cui _Continuum_ ). Tra i
+compositori italiani, Goffredo Petrassi ha scritto diverse composizioni per
+clavicembalo, tra le altre la _Sonata da Camera_ , per clavicembalo e 10
+strumenti, e la _Serenata_ , per 5 strumenti. Nel 1958 Ennio Porrino compone
+Sonar per musici, visionario Concerto per orchestra d'archi e clavicembalo.
+Tra gli 8 dialoghi di Gian Francesco Malipiero, il sesto è dedicato al
+clavicembalo, quasi ad omaggiare l'antica civiltà strumentale italiana del
+'600 e '700 tanto amata dal compositore veneziano. Da ricordare anche
+_Doubles_ (1961) e _Portrait_ per clavicembalo e orchestra (1977) di Franco
+Donatoni, oltre a _Mordenti_ di Ennio Morricone. Più di recente, il
+clavicembalista Hendrik Bouman ha composto in stile barocco 32 assoli, 1
+Concerto per clavicembalo e 2 composizioni di musica da camera con
+clavicembalo obbligato.
+
+Un primo recupero del clavicembalo nell'esecuzione del repertorio
+originariamente destinato a questo strumento (nel corso del XIX secolo le
+opere per tastiera di Bach, Haendel e Domenico Scarlatti erano eseguite al
+pianoforte) si ebbe all'inizio del Novecento, soprattutto per iniziativa della
+clavicembalista polacca Wanda Landowska (1879-1959). La Landowska utilizzava
+un clavicembalo costruito da Pleyel, piuttosto somigliante ad un pianoforte.
+Strumenti come questo, anche se oggi considerati non appropriati per la musica
+del XVII e del XVIII secolo, conservano un'importanza per la musica che è
+stata composta, nella prima metà del Novecento e fino agli anni '60,
+appositamente per quel tipo di clavicembalo.
+
+Una svolta si ebbe negli anni '60 del Novecento con la nascita, in Europa e
+nel Nordamerica, di una nuova prassi esecutiva basata sulla ricerca
+filologica, per la quale l'uso di strumenti d'epoca (o di copie di strumenti
+originali), a fianco della conoscenza diretta delle fonti trattatistiche e
+delle partiture originali, costituisce un elemento irrinunciabile per
+l'interpretazione della musica del passato. I primi strumenti realizzati
+secondo le tecniche costruttive antiche e copiando fedelmente strumenti
+originali si ebbero grazie alla pionieristiche iniziative di costruttori del
+mondo anglosassone, come Frank Hubbard e William Dowd, e tedesco, come Martin
+Skowroneck, seguiti in anni più recenti da un gran numero di costruttori.
+Negli stessi anni, interpreti come Gustav Leonhardt, Kenneth Gilbert, Ralph
+Kirkpatrick sono stati i capostipiti di generazioni di esecutori, sempre più
+numerose nei decenni successivi, che hanno ulteriormente approfondito lo
+studio della prassi esecutiva e delle fonti dell'epoca e hanno riportato in
+luce un repertorio sempre più vasto.
+
+Anche se il suo impiego nella musica leggera, come quello di tutti gli
+strumenti antichi, è piuttosto limitato, viene usato con una certa frequenza
+nel baroque pop (chiamato anche baroque rock), genere che, derivando da una
+fusione tra il rock e la musica classica barocca, utilizza strumenti tipici di
+quest'ultima (un esempio è _Because_ dei Beatles).
+
+Altri progetti
+

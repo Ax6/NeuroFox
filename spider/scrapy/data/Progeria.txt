@@ -1,0 +1,127 @@
+La **progeria** (dal greco _πρό_ , "prima" e _γέρων_ , "vecchio, anziano") o
+**sindrome di Hutchinson-Gilford** , è una malattia rara che causa
+l'invecchiamento precoce anche se non altera la mente, che resta l'unico
+indice della vera età del malato. Causa nel bambino l'insorgere di malattie
+tipiche degli anziani, quali la malattia coronarica, e porta l'individuo ad
+una morte precoce. I nati con progeria tipicamente hanno un'aspettativa di
+vita pari a vent'anni.[1][2] Si tratta di una malattia genetica che si
+verifica per una mutazione _de novo_ e raramente viene ereditata, infatti i
+pazienti con queste patologie non vivono tanto da potersi riprodurre. Anche se
+il termine progeria viene applicato in senso stretto a tutte le malattie
+caratterizzate da sintomi di invecchiamento precoce, viene spesso applicata in
+particolare riferimento a sindrome di Hutchinson-Gilford (HGPS). Gli
+scienziati sono particolarmente interessati allo studio della progeria perché
+potrebbe rivelare indizi sul normale processo di invecchiamento.[3][4][5]
+
+Fu descritta per la prima volta da Jonathan Hutchinson nel 1886 e da Hastings
+Gilford nel 1904. Una variante della sindrome, descritta da Alexandre-Achille
+Souques e dal suo mentore Jean-Martin Charcot, è chiamata geroderma infantilis
+o geroderma di Souques-Charcot. La progeria di Hutchinson-Gilford viene oggi
+definitivamente classificata come una delle varie forme di laminopatie
+(malattie dovute ad alterazioni della lamìna A o di proteine che sono
+collegate alla lamìna A)[6].
+
+Uno studio olandese ha mostrato un'incidenza di 1 su 4 milioni di nascite.[7]
+Attualmente, ci sono 100 casi noti in tutto il mondo. In realtà nella storia
+della medicina sono soltanto 140 i casi segnalati.[8] La progeria è causata da
+una mutazione sporadica prodotta durante le prime fasi dello sviluppo
+embrionale. Raramente è trasmessa dal genitore affetto al figlio, perché i
+bambini affetti raramente vivono abbastanza a lungo per avere dei figli. Ci
+sono stati solo due casi di persone conosciute come portatrici sane della
+mutazione che causa LMNA (Lamin A/C) progeria.[ _non chiaro_ ] Questi vettori
+sono stati identificati perché le mutazioni venivano ereditate dalla
+progenie.[9] Una famiglia in India ha cinque bambini con progeria, anche se
+non il tipo HGPS classico: questa famiglia è stata oggetto di un documentario
+del 2005 intitolato _The 80 Year Old Children_. La famiglia Vandeweert del
+Belgio ha due figli, Michiel e Amber, con HGPS classico.[10] Il primo caso di
+un bambino di colore con progeria è stato identificato nel settembre 2011: una
+bambina sudafricana, di nome Ontlametse Phalatse, è nata nel 1999[11] e morta
+nell'aprile del 2017.[12]
+
+Nelle cellule umane, il nucleo è delimitato dall'involucro nucleare costituito
+da una membrana nucleare esterna (strutturalmente e funzionalmente simile alla
+membrana del reticolo endoplasmatico), una membrana nucleare interna e dalla
+lamina nucleare, legata alla membrana interna tramite proteine[13]. Tale
+lamina è costituita da un reticolo fibroso formato dall'associazione di
+_lamine_ , un tipo di proteine fibrose che si aggregano a formare strutture
+più complesse, similmente a quello che accade per i filamenti intermedi del
+citoscheletro[13].
+
+Nei mammiferi esistono almeno sette tipi di lamine che sono codificate da tre
+geni (A, B, e C)[13]. Il gene implicato nella malattia è il LMNA (locus
+1q21.2), che codifica per la prelamina A. Tale proteina, all'estremità
+C-terminale, presenta delle cisteine che vengono prenilate con l'aggiunta di
+un gruppo funzionale farnesilico (trasformandosi in lamina A) permettendo alla
+lamina di ancorarsi alla membrana nucleare interna[14]. La sua successiva
+rimozione permette l'effettiva associazione con la membrana, senza che vi sia
+un legame permanente che ostacola la formazione della lamina nucleare in toto.
+
+Prima del tardo XX secolo, si avevano pochissime informazioni sulla Sindrome
+di Hutchinson-Gilford. Nel 2003[15], la causa di progeria è stata scoperta
+essere una mutazione puntiforme in posizione 1824 del gene LMNA, in cui una
+citosina viene sostituita da una timina. Questa mutazione crea un sito di
+splicing con l'esone 11[16], determinando un breve e anomalo mRNA maturo. In
+fase di traduzione, viene prodotta una variante anomala della proteina
+prelamina il cui gruppo farnesile non può essere rimosso: denominata
+_progerin_. Quest'ultima non diventa parte della lamina nucleare, essendo
+fissata alla membrana nucleare interna. Senza lamina A, la lamina nucleare non
+è in grado di fornire alla membrana nucleare un adeguato supporto strutturale,
+provocando l'assunzione di una forma anomala.[17] L'indebolimento della lamina
+nucleare limita la capacità della cellula di dividersi.[18]
+
+Ad oggi sono noti oltre 1.400 SNPs del gene LMNA. Possono manifestarsi in
+cambiamenti a livello del mRNA, dello splicing o proteine (ad esempio
+Arg471Cys,[19] Arg482Gln, Arg482Gln,[20] Arg527Leu,[21] Arg527Cys,[22]
+Ala529Val).
+
+Progerin può anche svolgere un ruolo nel normale invecchiamento umano, dal
+momento che la sua produzione si attiva nelle cellule di tipo selvatico
+senescenti.
+
+A differenza delle "malattie da invecchiamento accelerato" (come la sindrome
+di Werner, la sindrome di Cockayne o xeroderma pigmentoso), la progeria non è
+causata da riparazione del DNA difettoso. Visto che queste malattie provocano
+cambiamenti in diversi aspetti dell'invecchiamento, ma mai in tutti, sono
+spesso chiamati "segmental progerias"[23].
+
+I bambini con progeria di solito sviluppano i primi sintomi durante i primi
+mesi di vita: essi possono includere un difetto nella crescita e sclerodermia
+localizzata. Ulteriori condizioni si manifestano di solito circa dopo 18-24
+mesi: crescita limitata, alopecia (perdita di capelli), e un aspetto
+caratteristico (un piccolo viso con una mascella poco prominente e un naso
+schiacciato) sono tutte caratteristiche di progeria. Segni e sintomi di questa
+malattia progressiva tendono a diventare più marcati con gli anni: la sindrome
+causa la pelle rugosa, arterosclerosi, insufficienza renale, perdita della
+vista e problemi cardiovascolari. La sclerodermia, un indurimento della pelle
+sul tronco e sulle estremità del corpo, è prevalente. Le persone con diagnosi
+di questo disturbo di solito hanno corpi fragili e piccoli, proprio come
+quelli degli anziani. La faccia è solitamente rugosa, con una testa più grande
+rispetto al corpo e una faccia stretta. Le vene del cranio sono rese più
+evidenti dalla alopecia. La degenerazione del sistema muscolo-scheletrico
+provoca la perdita di grasso corporeo e muscolare, rigidità articolare,
+lussazioni dell'anca e altri sintomi generalmente assenti nella popolazione
+non anziana. Gli individui di solito mantengono il normale sviluppo mentale e
+motorio.
+
+Fra i segni maggiori si riscontrano l'insufficiente crescita del bambino
+durante il primo anno di vita, tutti gli individui affetti sono bassi di
+statura, quasi affetti da nanismo, e appaiono magri. Inoltre hanno la testa
+molto più grande rispetto al corpo, calvizie, il viso si deforma apparendo
+rugoso e stretto e si ha un rapido invecchiamento della pelle.
+
+Si verificano inoltre:
+
+Deve essere distinta da altre sindromi progeroidi, tra cui la sindrome di
+Werner che si distingue per una minore espressività clinica ed un esordio più
+tardivo. Tuttavia oggi è nota una forma atipica della sindrome di Werner
+(atypical Werner Syndrome, aWS) che è causata da una mutazione del gene LMNA,
+il medesimo gene mutato nella Progeria di Hutchinson-Gilford. La diagnosi
+viene costruita in base ai segni e sintomi, quali sclerodermia, la crescita
+abnorme e perdita di capelli. Un test genetico per mutazioni al gene LMNA sono
+in grado di confermare la diagnosi di progeria.
+
+I pazienti muoiono generalmente entro i 20 anni a causa di cardiopatia,
+infarto o ictus.
+
+Altri progetti
+

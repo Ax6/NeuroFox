@@ -1,0 +1,438 @@
+The **Fernald Feed Materials Production Center** (commonly referred to simply
+as **Fernald** or later **NLO** ) is a Superfund site located within Crosby
+Township in Hamilton County, Ohio, as well as Ross Township in Butler County,
+Ohio.[1] It was a uranium processing facility located near the rural town of
+New Baltimore, about 20 miles (32 km) northwest of Cincinnati, which
+fabricated uranium fuel cores for the U.S. nuclear weapons production complex
+from 1951 to 1989. During that time, the plant produced 170,000 metric tons
+uranium (MTU) of metal products and 35,000 MTU of intermediate compounds, such
+as uranium trioxide and uranium tetrafluoride.
+
+Fernald came under criticism in 1984 when it was learned that the plant was
+releasing millions of pounds of uranium dust into the atmosphere, causing
+major radioactive contamination of the surrounding areas.[2][3]
+
+In 1948 the Atomic Energy Commission, predecessor to the U.S. Department of
+Energy, established "a large scale integrated facility for the production of
+fabricated uranium fuel cores by chemical and metallurgical techniques." The
+plant was known as the Feed Materials Production Center since the uranium fuel
+cores it produced were the 'feed' for the AEC's plutonium production reactors.
+[4]
+
+These nuclear reactors were located at Oak Ridge, Tennessee, the Savannah
+River Site in South Carolina and at Hanford in the state of Washington. The
+uranium metal produced was in the form of derbies, ingots, billets and fuel
+cores.[4] The FMPC also served as the country's central repository for another
+radioactive metal, thorium.[5][6]
+
+The plant was located in the rural town of Fernald, which is about 20 miles
+(32 km) northwest of Cincinnati, Ohio, and occupies 1,050 acres (425
+hectares). This location was chosen because it was between the uranium ore
+delivery ports of New York and New Orleans, and it was accessible to the other
+main AEC sites. In addition, the site was close to Cincinnati's large labor
+force, the landscape was level making the site's construction easy, it was
+isolated, which provided safety and security, and it was located 30 to 50 feet
+above a large water aquifer, which supplied the water needed for uranium metal
+processing. From 1951 to 1989 Fernald converted uranium ore into metal, and
+then fabricated this metal into target elements for nuclear reactors. Annual
+production rates ranged from a high in 1960 of 10,000 metric tons to a low in
+1975 of 1,230 metric tons. Refining uranium metal was a process requiring a
+series of chemical and metallurgical conversions that occurred in nine
+specialized plants at the site.[7]
+
+Releases from the Fernald site to the surrounding area resulted in exposure to
+community residents included ionizing radiation, soluble and insoluble forms
+of uranium, and various other hazardous chemicals. The Centers for Disease
+Control and Prevention (CDC) has conducted a historical exposure
+characterization and developed dose estimation models through the Fernald Dose
+Reconstruction Project, with an endpoint of developing an algorithm to
+estimate doses to individual persons who lived within the exposure assessment
+domain (the area within a ten kilometer radius from the center of the plant
+site). In addition to radioactive materials, many other non-radiological toxic
+substances were present in the production area as materials, by-products or
+products. Workers were exposed to chlorinated and non-chlorinated solvents,
+metals and metal salts, and nuisance dusts. Community residents may have been
+exposed to these substances through ground water pathways, soil contamination,
+and air dispersion of emissions from the site.[8]
+
+Two separate medical surveillance programs, for former workers and community
+residents, have been funded by settlements of class action litigation against
+National Lead of Ohio, a contractor for the Department of Energy. These
+Fernald Settlement Funds are administered by a US Federal Court, which
+maintains oversight of the Fernald Medical Monitoring Programs. The Fernald
+(Residents) Medical Monitoring Program (FMMP) is a voluntary ongoing medical
+surveillance program for community residents living within five miles of the
+perimeter of the Fernald site, and the Fernald Workers Medical Monitoring
+Program (FWMMP) is a program for former workers who were employed when
+National Lead of Ohio was the contractor. Activities of the medical monitoring
+programs include both periodic medical examinations and diagnostic testing and
+yearly questionnaire data collection. In January 2007, there were 9,764
+persons enrolled in the FMMP and 2716 former workers enrolled in the FWMMP.
+The FMMP has an extensive computer database available for research studies.
+Samples of whole blood, serum, plasma and urine were obtained from all FMMP
+participants at the time of the initial examination, and over 100,000 one-ml
+aliquots of these biospecimens have been stored at −80 °C since then.[9]
+
+In June 1984, 39-year-old pipe fitter, David "Dave" Bocks disappeared on shift
+and was reported missing. A witness reported seeing Bocks and a supervisor
+inside of a vehicle at about 4:00 AM with the windows rolled up on a hot night
+having a serious discussion. At 5:00 AM, the witness reported seeing Bocks and
+speaking with him, who stated he was putting up his tools and headed toward
+Plant 4.[10] His remains were later discovered inside a uranium processing
+furnace located in Plant 6; a sudden 28-degree drop in furnace temperature
+(which was kept at a constant 1300 degrees F) had been recorded at 5:15 AM
+during the night of Bocks' disappearance.[11] The investigations found
+insufficient evidence that foul play was involved. However, some, including
+Bocks' family, believed that he was murdered by one or more coworkers who
+suspected him of being a whistleblower in the 1984 nuclear emissions
+scandal.[12][13]
+
+The production process at the Fernald Feed Materials Production Center begins
+at **Plant 1** , also known as the **Sampling Plant**. The principal function
+of the Sampling Plant was to obtain representative samples of the large
+quantities of incoming ore concentrates. This plant was divided into two main
+processing lines, one for Q-11 and one for INX. Q-11 was the term used to
+refer to radium bearing ores primarily mined in the Belgian Congo while INX
+was a non-radium concentrate. The problem with handling radium bearing ores
+was that one of radium's daughter particles is radon: an invisible radioactive
+gas.
+
+Q-11 was received in 55-gallon drums. The drums were deheaded before
+processing and were conveyed through a thawing tunnel, which also provided
+surge capacity of deheaded drums. The drums were lifted to the top of the
+building by a skip hoist where they were emptied into a surge hopper that
+feeds the magnetic separator and jaw crusher. From the jaw crusher, the one-
+half inch material passes through a rotary drum dryer to a system of
+conveyors, which conveys the material to a surge hopper that feeds the ring
+roll mill. The particle size output from the mill was controlled to about 100
+mesh by an air classifier mounted directly on the mill. The undersized
+material was blown to a cyclone separator that was mounted directly above the
+first Gallagher sampler. The three Gallagher samplers in series each took a
+10% cut of the stream fed to it, producing a sample approximately 0.1% of the
+original lot size. The main stream was conveyed to a drumming station where it
+was packaged in 55-gallon or 30-gallon drums for use in the Refinery. The
+official weight was taken at this point.
+
+The INX line was similar to the Q-11 line except that the thawing tunnel has
+been omitted and a hammer mill and bucket elevator replaces the jaw crusher,
+rotary dryer, ring roll mill, air classifier, and cyclone separator.
+
+In addition to sampling incoming ores this plant reconditions 30 and 55 gallon
+drums used to transport and store radioactive materials onsite. It also
+contains a safe-geometry digestion system used to process enriched uranium
+materials assaying up to 5% 235U. This digester was so named because the
+piping was of such a diameter and distance between pipes making a criticality
+incident nigh impossible.[ _citation needed_ ]
+
+**Plant 2/3** was known as the **Ore Refinery & Denitration Plant**. It was
+called Plant 2/3 because two separate functions occur in the same building.
+Here uranium values were recovered from feed materials (i.e., ores,
+concentrates and residues) and were converted to concentrated uranium
+trioxide, also called orange salt. In addition to uranium, the Refinery was
+capable of extracting and purifying a number of different materials. The Ore
+Refinery consists of three major process areas designated digestion (Plant 2),
+extraction and denitration (Plant 3). Support areas include nitric acid
+recovery, raffinate treatment and refinery sump. The digestion, extraction,
+and raffinate areas included 'hot' and 'cold' sides. To provide radiation
+protection from the radium-bearing Q-11 ore [the "hot" material], concrete
+shielding was provided around appropriate process equipment and the 'hot' side
+of each area was enclosed by concrete walls.
+
+The principal function of Plant 2/3 was uranium purification and conversion of
+uranium bearing materials into uranium trioxide (UO3), or orange oxide. There
+are three principal forms of uranium residues, each having a separate
+processing route for putting the uranium into solution. Uranium oxides are
+dissolved in 6000 gallon vats of pure nitric acid in the Oxide Digester (also
+known as the west metal dissolver), miscellaneous residues that required
+filtration were dissolved in the Slag Leach Digester, and metals were
+dissolved in the Metal Dissolver. If the ore was poured too rapidly into the
+nitric acid vats a condition known as a "boilover" results. The reaction
+generates so much gas that it becomes a foam and boils over the sides of the
+vat. Many workers were told to not step in any puddles on the floor as they
+were probably nitric acid left from one of these "boilover" incidents.[ _who?_
+] The site employed their own cobblers just to repair work boots that had been
+exposed to too much acid. Another hazard was the nitrogen dioxide fumes coming
+off the nitric acid vats. There were so many fumes that on high humidity days
+during the summer there appeared to be an orange cloud encasing this building
+and anyone just walking past would experience a sensation as if he had
+wandered into a swarm of bees.[ _dubious – discuss_]
+
+The resulting "UNH" (uranium nitrate hexahydrate) material pumped out of the
+vats was then processed through extraction to purify the solution. The UNH
+solution was passed through a multistage liquid-liquid counter current tower
+with tributyl phosphate and kerosene to extract the uranyl nitrate. The
+impurities exit the tower as the raffinate stream for further processing. The
+extract solution was passed through another counter current extraction tower
+to re-extract the uranyl nitrate from the kerosene into deionized water. The
+kerosene was then processed through a wash to be recycled back through the
+extraction process. The resulting UNH solution was now ready for further
+concentrating and thermal denitration.
+
+The UNH solution was concentrated through a process known as "boildown". In
+this process, heat was applied to the solution from steam coils inside the
+boildown tanks. The water was removed through evaporation, thus concentrating
+the solution. The solution was concentrated from 90 grams uranium per liter to
+1300 grams uranium per liter in two stages.
+
+The concentrated solution now in 250 gallon batches was further heated, in a
+process known as Pot Denitration, to thermally denitrate the UNH to uranium
+trioxide. The uranium trioxide material was then pneumatically removed from
+the denitration pots and packaged out in hoppers with a capacity of 3.6 metric
+tons or 55 gallon drums. This pneumatic transfer of the product was known as
+Gulping.[ _citation needed_ ]
+
+The **Green Salt Plant** , the common name for **Plant 4** , produced "green
+salt" (uranium tetrafluoride) from UO3. Green salt was the key intermediate
+compound in the overall process of producing uranium metal. This plant
+contains 12 banks of furnaces for the conversion of uranium trioxide to
+uranium tetrafluoride. Each bank consists of four furnaces in series. The
+first furnace was constructed of stainless steel for the hydrogen reduction of
+orange oxide to uranium dioxide, by the reaction: UO3 \+ H2 → UO2 \+ H2O. The
+UO2 was then fed directly to the first of the next three furnaces in series.
+These furnaces were constructed of Inconel for the hydrofluorination of
+uranium dioxide to green salt. The reaction was: UO2 \+ 4HF → UF4 \+ 2H2O.
+
+Orange oxide was received from the Refinery in five-ton mobile hoppers, which
+were mounted on seal hoppers to feed the reduction furnace at a rate of
+approximately 375 pounds per hour for producing metal grade UF4. The powder
+was agitated and carried through the reduction furnace by a ribbon flight
+screw. Dissociated ammonia was metered to the reduction reactors and passed
+counter-currently to the bed of uranium oxide within the chemical reactor. The
+off-gases from the reduction reactors were passed to a hydrogen burner where
+the excess hydrogen was burned and then passed through a dust collector to
+remove any entrained uranium dioxide that might have been present. The UO2 in
+the reduction furnace passed through a seal hopper and a feed screw to the
+first of the three hydrofluorination furnaces. The bed of UO2 was moved
+through the hydrofluorination furnace by ribbon flight screws and contacted
+counter-currently by hydrofluoric acid vapors. The UF4 was removed from the
+third furnace and conveyed to a packaging station where the product was
+packaged in 10-gallon pails for use in the Metal Plant, or in 5-ton containers
+for shipment to the cascades. The off-gases containing water vapor formed in
+the reaction and excess hydrofluoric acid was removed from the first furnace
+and were sent to hydrofluoric acid recovery. The gases first passed to a
+partial condenser that removed all of the water in the form of 70% aqueous
+hydrofluoric acid. The remainder of the gases was then passed to a total
+condenser, which condenses the remainder of the acid as anhydrous hydrofluoric
+acid. The gases at this point contain only the nitrogen from seals and purge
+gases and small amounts of hydrofluoric acid that did not condense in the
+total condenser. These were passed through potassium hydroxide scrubbers to
+remove the last traces of acid and then discharged to the atmosphere.[
+_citation needed_ ]
+
+**Plant 5** , the **Metals Production Plant** main process equipment consisted
+of eleven jolters, five filling machines, forty-four reduction furnaces, two
+breakout stations in the Reduction Area and twenty-eight vacuum casting
+furnaces in the Recast Area.
+
+The conversion of UF to metal was accomplished by the thermite reduction of
+green salt with magnesium in a refractory lined steel reaction vessel. 450
+pounds of green salt were blended with approximately 72 pounds of magnesium.
+The resulting mixture was uniformly packed into the reduction "bomb", which
+has previously been lined with refractory slag in a jolting apparatus.
+Following these steps, the bomb was capped with refractory, sealed, and placed
+in one of 49 electric muffle furnaces. The furnace temperature was raised to
+approximately 1,225 °F and after about four hours the thermite type reduction
+reaction occurs: UF4 \+ 2Mg → 2MgF2 \+ U (metal). The charge was then allowed
+to separate and cool in the furnace for 10 minutes, after which it was removed
+and cooled to room temperature. Finally, the solidified uranium metal (derby)
+was separated from the slag and liner materials in a sequence of manual and
+mechanical operations that take place at the breakout station. The yields
+expected from this operation were about 95%. There are many documented
+explosions of these furnaces due to improperly packed refractory lining or a
+magnesium flare. Whatever the cause, the building would fill with radioactive
+smoke along with a real probability that molten uranium metal would come
+pouring out of the bottom of the furnace.[ _dubious – discuss_]
+
+The MgF2 slag from the breakout station was conveyed to the slag recycling
+plant, where it was stored awaiting processing for reuse as refractory liner.
+The slag recovery process consists of crushing, pulverizing, and classifying
+the slag, which was then transferred back to the reduction area for use.
+
+The next step in the plant consists of melting massive uranium metal and
+casting an ingot. Graphite crucibles were loaded with a charge of derbies and
+solid recycle scrap. The loaded crucibles were then mechanically positioned in
+induction melting and casting furnaces that were designed to give a maximum of
+flexibility and a minimum of human exposure to radioactivity. The uranium
+metal was melted under high vacuum to minimize contamination of the melt with
+atmospheric gases and to permit purification of the metal by distillation of
+volatile contaminants. At approximately 2,550 °F, the molten metal was poured
+into a graphite mold and the ingot was allowed to cool and solidify.
+Additional equipment was provided for the ingot to be removed from the mold,
+weighed, cropped, sampled, and stored for further processing in the Metals
+Fabrication Plant [Plant 6]. The ingot was approximately 7" in diameter, by
+45" long, and weighs about 1,200 pounds.[ _citation needed_ ]
+
+**Plant 6** was known as the **Metals Fabrication Plant**. "Ingots from Plant
+5 and MCW Mallinckrodt Chemical Works were bloomed into billets and then
+rolled into rods that were straightened and machined to finished reactor slug
+dimensions. The finished product consists of either hollow or solid uranium
+slugs, designed for both internal and external cooling during pile
+irradiation. The product shipped from Plant 6 must pass rigid inspection for
+dimensional tolerances, metal quality, and surface conditions."
+
+Uranium ingots were charged into an automated ingot preheat furnace where they
+were lowered into a Li2CO3-K2CO3 molten salt to be heated to 1,150–1,200 °F
+before being discharged singly to the mill table. The ingot was passed back
+and forth through the blooming mill until it was reduced to an oval billet
+approximately 2" to 2½". The ends of the billet were then cut off by a
+cropping shear before it was pushed into an equalizing furnace. The billet was
+reheated to 1,150–1,200 °F in the equalizing furnace and was then discharged
+into the finishing mill. The finishing mill consists of six stands that reduce
+the rod to the final diameter of 1.43" for Hanford rods, and 1.12" for
+Savannah River rods.
+
+The rods were cut into 22-foot lengths as they leave the last stand by means
+of a flying shear. The Savannah rods were air cooled to room temperature on
+the cooling bed and then were cold straightened in a Medart Straightener. Rods
+to be beta heat treated by-pass the cooling bed and were lifted into the beta
+heat treating furnace by means of a hoist, to be held at 1,320–1,365 °F for
+11–20 minutes and then quenched in cold water. After quenching, these rods
+were conveyed to the Medart straightener for straightening. The rods were
+located in ​2 5⁄8-inch Acme-Gridley automatic screw machines where slugs were
+cut from the rods. The Hanford slugs were then placed in the Heald machine,
+which cuts the slugs to desired lengths and finishes and radiuses the ends.
+The Savannah River slugs were reduced to exact dimensions of size, surface,
+and straightness on a centerless grinder after which a contour was placed on
+the surface by a thread rolling machine. The slugs were numbered and put on a
+basket on a conveyor that passes through a degreasing tank, pickling tank, two
+rinse tanks and a hot air dryer before depositing the slug basket in the
+Inspection Department. The slugs were inspected for seams, striations,
+dimensions and handling defects with the good slugs being packed for shipment.
+
+In addition to the solid slugs produced in Plant 6, hollow fuel element
+production was started about January 1, 1956. Hollow slug blanks were produced
+oversize on a 2⅝" RB-6 Acme-Gridley machine and were centerless ground before
+the drilling operation. The oversize slug blank was then loaded into a
+magazine loader on a 1⅝" Acme and thence through a four-step drilling
+operation making a hole halfway through the blank. The blank was then reversed
+and again placed in the magazine loader. After a four-step drilling sequence
+produces a hole all the way through the blank, a reamer was passed through
+this hole in the final position. The oversize Outer Diameter was turned
+concentric with the finished Inner Diameter on an automatic Sundstrand lathe.
+Subsequent operations were the same as those for the solid slug.[ _citation
+needed_ ]
+
+**Plant 7** was known as the **6 to 4 Plant** because UF6 was converted to UF4
+here. It was basically a high-temperature gas-to-solid reactor system that
+only operated for two years: 1954–1956. To produce UF4, the uranium
+hexafluoride was first heated to form a gaseous compound and was then reduced
+to UF4. The reduction occurs in a reaction with hydrogen. UF6 vapor and
+hydrogen will be mixed at the top of each reactor by means of a cyclonic type
+mixer. The bulk of the reduction reaction will occur at the top of the
+reactor. The UF4 formed will be a powdery solid that falls like snow to the
+bottom of the reactor.[ _citation needed_ ]
+
+The **Scrap Recovery Plant** , the name given to **Plant 8** , process
+primarily involves upgrading uranium recycle materials from FMPC and off-site
+operations to prepare feed materials for head-end processing in the Refinery.
+Operations include drum washing, filtering Refinery tailings, operation of
+rotary kiln, box, muffle, and oxidation furnaces, and screening of furnace
+products.
+
+Bomb liner material received from Plant 5 in mobile hoppers was emptied at an
+unloading station and elevated to a surge hopper. Material as needed was sent
+from the surge hopper through a jaw crusher and into a shelf type oxidation
+furnace. Here the metallic uranium was oxidized to triuranium octoxide (U3O8).
+The material discharged from the furnace was lifted to a surge hopper and then
+as needed was sent through a roll mill and ground to -325 mesh size. It was
+then fed into carbon brick digestion tanks where the uranium was dissolved in
+hydrochloric acid containing a little sodium chlorate. The undissolved solids
+were filtered off and dumped into a truck, which hauls the spent material to a
+scrap dump. Uranium in the filtrate was sent to a precipitation tank and
+precipitated with ammonium hydroxide (NH4OH), in presence of phosphoric acid
+to form UAP (uranyl ammonium phosphate). The resulting slurry was filtered and
+the uranium bearing cake was introduced to a drying furnace. The dried UAP was
+sent to the refinery. In addition to the wet system described, several
+furnaces were installed in the plant for massive metal oxidation,
+pyrohydrolysis, drying, chip and sludge combustion, etc. Most of the furnaces
+can be used for more than one of the above operations.
+
+During the summer of 1962, a new facility was started in Plant 8 for the
+production of UF4 by an aqueous precipitation technique known as the Winlo
+process. The Winlo process was developed for the low-cost chemical conversion
+of relatively pure uranium concentrates to green salt by a hydrometallurgical
+process. The feed to the plant Winlo system was made up of a combination of
+black oxide (U3O8) generated by burning metallic residues, uranyl chloride
+solutions generated by dissolving massive metal residues in hydrochloric acid,
+and UAP produced from low-grade residues in the hydrometallurgical recovery
+system.[ _citation needed_ ]
+
+A brief description of the Winlo process follows:
+
+The primary purpose of **Plant 9** , the **Special Products Plant** was to
+process slightly enriched uranium and to cast larger ingots than those
+produced in Plant 5. The plant contains facilities for producing derbies,
+ingots, slugs, and washers of various enrichments. Construction of the plant
+as a thorium metal production process was completed in 1954 and the thorium
+process was begun in October 1954. Plant 9 was originally designed and
+constructed as a thorium metal production plant, yet had to be regarded as a
+semi-development works because of a lack of process information. The two basic
+processes, hydrofluoric acid precipitation of thorium fluoride and induction
+de-zincing and melting, which were used to start the plant, were not able to
+produce a pure metal. However, improvement in production techniques permitted
+the eventual development of an oxalate precipitation process capable of
+producing pure thorium metal. Interest in this item declined during the
+1956–1957 period and the plant operations evolved to the casting of enriched
+uranium ingots larger than those being processed in the Metals Production and
+Metals Fabrication Plants. Ingots were cast up to 13-inch diameter, 38-inch
+length and having a weight approaching 2,000 pounds. As such the processes and
+equipment used were almost identical to those of Plants 5 and 6.[ _citation
+needed_ ]
+
+The **Pilot Plant** consists of small size equipment for piloting refinery
+operations, hexafluoride reduction, derby pickling, ingot casting, and other
+equipment for special purposes. This plant was used for numerous process
+testing and experimental operations as well as being employed as a production
+facility for various processes. In the early years, derbies were produced
+there, in the manner described in Plant 5. Another process operated on a
+production scale was the direct conversion of uranium hexafluoride to green
+salt. This production process was operated with UF6 that contained as much as
+2.5% U235. A two-step procedure was used. First was the vaporization of UF6:
+solid UF6 in large 10 or 14 ton cylinders were heated in autoclaves at
+approximately 110 °C to produce gaseous UF6. The next step was the reduction
+of the UF6 gas, which involved mixing it with hydrogen gas at 480–650 °C in
+metal reactors to produce UF4 powder. Hydrogen fluoride was a valuable
+byproduct of the reaction, which was: UF6 \+ H2 → UF4 \+ 2HF. In addition,
+most of the thorium production activity at the FMPC took place inside the
+Pilot Plant. Thorium production activities began in 1964 and continued until
+1980.[ _citation needed_ ]
+
+The Pilot Plant met the needs of development projects and special orders. Some
+of the equipment that was available for and had been used in enriched
+processing was as follows:
+
+The Fernald Closure Project is a program run by the United States Department
+of Energy to clean up the former uranium processing site Fernald Feed
+Materials Production Center.
+
+In 1990, Congress approved closure of the site approved environmental cleanup
+of the facility. Fluor Fernald, part of the Fluor Corporation, was awarded the
+contract in 1992 for cleanup of the site. Fluor Fernald completed their
+portion of the cleanup in October 2006, 12 years ahead of schedule and 7.8
+billion dollars below the original cost estimate.[14][15] The waste was
+permanently buried at Waste Control Specialists.
+
+The site is permanently unfit for human habitation, according to federal
+scientists, and "will have to be closely monitored essentially forever."[16]
+
+Cleanup costs were estimated at $1 billion over 10 years.[17]
+
+The $4.4 billion cleanup of the surface areas was completed in December 2006,
+and the site was turned into the Fernald Preserve nature preserve. Thousands
+of tons of contaminated concrete, sludge, liquid waste, and soil were removed
+from the site and replaced with man-made wetlands and greenery.
+
+Ongoing cleanup operations include routine monitoring of the environmental
+conditions with test wells, including the uranium groundwater plume extending
+south of the plant area, storage of residual waste onsite, and filtering of
+uranium contamination from the Great Miami River aquifer. These cleanup
+operations, along with restrictions on establishing new wells in areas
+exceeding water contaminant limits, will continue for the foreseeable
+future.[18]
+
+The following are links that provide additional information about the Fernald
+site and the health risks associated with its processes:
+
+Coordinates: 39°17′53″N 84°41′27″W﻿ / ﻿39.29806°N 84.69083°W﻿ / 39.29806;
+-84.69083
+

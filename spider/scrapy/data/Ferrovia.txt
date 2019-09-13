@@ -1,0 +1,263 @@
+Con il termine **ferrovia** (o **strada ferrata** ) s'intende generalmente
+l'infrastruttura di trasporto terrestre, idonea alla circolazione di treni.
+Per estensione, la medesima parola assume anche il significato di "linea
+ferroviaria" o di "sistema ferroviario", indicando in quest'ultimo caso tutte
+le infrastrutture, la tecnologia ed il personale, necessari a garantire la
+circolazione dei treni sulle linee ferroviarie.
+
+Il termine fu coniato intorno alla metà del XIX secolo[1]. In precedenza
+questa infrastruttura era denominata _strada ferrata_ o _strada di ferro_.
+
+Le origini della ferrovia si individuano tradizionalmente in Inghilterra, dove
+venivano utilizzate ferrovie con trazione a cavalli, sia nelle zone minerarie
+per l'asportazione del minerale estratto che nelle grandi città con funzioni
+di trasporto pubblico.
+
+Nel 1804, Richard Trevithick, utilizzò per la prima volta una locomotiva a
+vapore, e la prima ferrovia pubblica fu il Stockton & Darlington Railway
+inaugurata nel Regno Unito nel 1825.
+
+Tuttavia è di norma dare come inizio delle ferrovie la famosa gara di Rainhill
+in Inghilterra per individuare la futura locomotiva adatta a percorrere la
+linea Liverpool - Manchester. L'ing. George Stephenson costruì la Rocket nel
+1829, considerata capostipite delle locomotive poiché unisce i meccanismi
+fondamentali come la caldaia tubolare e il tiraggio del camino. Con essa
+Stephenson raggiunse i 48 km/h e i 28 km/h con un convoglio di 17 tonnellate.
+In Inghilterra le ferrovie si svilupparono e contribuirono allo sviluppo della
+rivoluzione industriale. Sin da allora le linee ferroviarie britanniche
+usarono assegnare dei nomi specifici alle varie relazioni.
+
+Nei decenni dopo la seconda guerra mondiale, i miglioramenti di automobili,
+strade e autostrade nonché aerei hanno reso questi mezzi più pratici e
+convenienti per una sempre più larga schiera di utenti. In particolare negli
+Stati Uniti gli investimenti mirarono al miglioramento di autostrade ed
+aeroporti, delegando alla ferrovia il trasporto delle merci e trascurando per
+lungo tempo il trasporto di massa in ambito urbano. Lo stesso accadde per
+motivi diversi in Europa e in Giappone, dove furono necessari ingenti mezzi
+finanziari per la ricostruzione delle reti ferroviarie gravemente danneggiate
+dalla guerra, distogliendo così molte risorse dallo studio e sviluppo di nuove
+linee.
+
+Viaggiare su rotaia diviene più conveniente solo in aree con maggiore densità
+di popolazione o quando il costo del carburante supera i costi richiesti dai
+treni, che sono in grado di trasportare molte più persone e cose a parità di
+potenza impegnata. Queste condizioni non sussistono negli Stati Uniti
+d'America dove, a causa delle grandi distanze, risulta più conveniente il
+trasporto aereo.
+
+La prima ferrovia italiana fu la Napoli-Portici, nel Regno delle Due Sicilie,
+che fu inaugurata il 3 ottobre 1839 dal re Ferdinando II di Borbone[2]. Essa
+costituiva il primo tratto della futura Napoli-Salerno. La lunghezza di questo
+primo tronco era di circa 7.640 metri (altre fonti danno 7.250 m). La
+locomotiva Bayard raggiungeva la velocità di 60 km/h (50 km/h trainando un
+convoglio ferroviario).
+
+Elenco delle prime linee ferroviarie per nazione:
+
+L'infrastruttura ferroviaria è costituita dalla via e dalle relative opere
+civili, nonché dagli impianti tecnologici per i sistemi di trazione,
+segnalamento e sicurezza.
+
+La via è formata da due guide metalliche di acciaio chiamate rotaie, mantenute
+parallele tra loro fissandole a traverse (in legno, acciaio o cemento armato
+precompresso), o piattaforme di cemento armato precompresso, mediante
+"chiavarde", grosse viti o con attacchi elastici denominati "pandrol", più
+moderni e di più facile messa in opera. La struttura formata dalle rotaie e
+dalle traverse (o dalle piattaforme) viene detta binario; la distanza fra le
+due rotaie (misurata tra le facce interne delle teste delle rotaie stesse) è
+detta scartamento. Lo scartamento ordinario misura 1435 mm ed è quello
+adottato dalla maggior parte delle linee ferroviarie. Un binario con
+scartamento inferiore a quello ordinario, è detto "a scartamento ridotto". Il
+binario a sua volta è fissato al suolo tramite una struttura detta
+massicciata, formata da pietrisco di grande pezzatura, a spigoli vivi e
+costituito da rocce resistenti allo sgretolamento; la massicciata, infine è
+poggiata sul corpo stradale della linea ferroviaria. In caso di utilizzo di
+piattaforme in cemento armato precompresso, queste sono direttamente fissate
+al corpo stradale. Molto importanti sono le strutture di drenaggio che servono
+ad espellere le acque piovane che altrimenti deteriorerebbero presto la
+massicciata.
+
+La manutenzione oggi è svolta con l'ausilio di macchine operatrici
+specializzate come:
+
+Le opere civili, quali ad esempio ponti e gallerie, consentono alla via di
+inserirsi nel territorio secondo il tracciato prestabilito; in gergo
+ferroviario vengono complessivamente chiamate "opere d'arte".
+
+Sin dall'epoca pionieristica della ferrovia, le opere civili ferroviarie sono
+state tra le opere umane più imponenti ed impegnative. Basti pensare al
+traforo del Frejus, il primo traforo transalpino, la cui costruzione fu
+avviata nel 1857, o alla linea dei Giovi, inaugurata nel 1854 e costituita da
+una livelletta alla pendenza costante del 35 per mille, o al Severn Tunnel,
+galleria subalvea inglese di 7008 m aperta nel 1886.
+
+A differenza della strada in cui i veicoli circolano "a vista", una ferrovia
+richiede sistemi di distanziamento dei treni indipendenti dalla mutua
+visibilità dei veicoli, poiché gli spazi di frenatura sono solitamente molto
+maggiori della distanza di visibilità stessa.
+
+In ferrovia gli aspetti relativi alla sicurezza sono fin dall'origine ritenuti
+fondamentali. Le tecnologie relative ai "sistemi di sicurezza" sono in parte
+coincidenti con i già citati "sistemi di esercizio", e possono essere così
+raggruppate:
+
+Le diverse modalità con le quali viene gestita la circolazione in ferrovia
+sono chiamate "sistemi di esercizio". Elementi caratterizzanti dei sistemi di
+esercizio sono il sistema di dirigenza, ed il tipo di regime di circolazione
+(sistema "di blocco", "a spola", o altro).
+
+Sono "reti ferroviarie" gli insiemi di linee fra loro interconnesse affidate
+alla medesima società di gestione dell'infrastruttura o di esercizio, o
+ricadenti sul territorio di uno Stato o di un Ente territoriale.
+
+Le reti esistenti in Italia comprendono circa 16.000 km di linee a scartamento
+normale e ridotto, e la loro gestione è affidata alla società Rete Ferroviaria
+Italiana (pubblica statale) per tutte le tratte di proprietà dello Stato, ed a
+società minori (private o di enti locali) per le tratte di proprietà
+regionale, ad esempio le Rete di Ferrovienord in Lombardia, FER in Emilia,
+FSE-Ferrovie del Sud-Est in Puglia. La gestione dell'infrastruttura, e la sua
+attribuzione a società, è regolata da norme diverse a seconda della proprietà
+(statale o regionale) della tratta, come meglio spiegato di seguito.
+
+I sistemi per la trazione ferroviaria sono sempre stati uno degli elementi
+essenziali e caratteristici della ferrovia.
+
+I mezzi di trazione in ferrovia sono definiti locomotive se specializzati
+prevalentemente per il traino dei convogli o alle manovre pesanti e aventi
+potenza superiore a 200 CV; automotori se destinati alle manovre leggere e
+aventi potenza inferiore a 200 CV; per le locomotive elettriche e diesel è
+invalso l'uso del termine "locomotore". Un veicolo ferroviario destinato al
+trasporto dei passeggeri (e in alcuni rari casi delle merci) e dotato di
+motori di trazione è definito invece automotrice, anche se va precisato che
+benché tale termine non sia relativo solo ai veicoli a trazione termica,
+quando il veicolo è a trazione elettrica si preferisce usare il termine
+sostitutivo "elettromotrice". Diffusi inoltre, con analogo significato
+relativamente al sistema di trazione, i termini "autotreno" ed "elettrotreno",
+riferiti sia ai lunghi veicoli articolati sia a convogli a composizione
+bloccata: tuttavia il secondo termine è molto più diffuso del primo, a causa
+soprattutto del fatto che, in maggioranza, i convogli con tali caratteristiche
+hanno trazione elettrica.
+
+Viene definito treno un convoglio costituito da uno o più veicoli che si muove
+lungo una linea, dal momento in cui riceve l'ordine di partenza e fino al
+punto di normale fermata. Il movimento di un convoglio entro i segnali di
+protezione di una stazione viene definito manovra. L'insieme dei veicoli atti
+alla circolazione su ferrovia era definito materiale rotabile. Dal 2012, in
+base alle normative ANSF vigenti, ciascun mezzo circolante su ferrovia è
+definito veicolo.
+
+La classificazione più classica comprende le seguenti voci:
+
+La direttiva CEE n° 440 del 1991 ha posto le basi per una sostanziale
+riorganizzazione del sistema ferroviario europeo, la cui struttura era stabile
+da molti decenni e vedeva operare in ciascuna nazione aziende ferroviarie
+statali (e quindi monopoliste), spesso dipendenti dal Ministero dei Trasporti,
+affiancate da società private operanti su tratte minori spesso in regime di
+concessione.
+
+Questa struttura si era determinata agli inizi del XX secolo, perché da una
+parte l'importanza strategica (militarmente ed economicamente) del sistema
+ferroviario e dall'altra la difficoltà delle imprese private preesistenti a
+sostenersi con i soli ricavi da traffico, garantendo nel contempo un adeguato
+livello di manutenzione di infrastrutture e rotabili, avevano spinto gli stati
+a nazionalizzare le ferrovie.
+
+La direttiva invece, imponendo la separazione contabile tra la gestione
+dell'infrastruttura e quella dei servizi di trasporto, ha posto le basi per la
+liberalizzazione e l'apertura alla concorrenza del mercato del trasporto
+ferroviario.
+
+Lo stato Italiano ha recepito la direttiva, che ha portato alla separazione
+dei vari rami di attività di competenza delle Ferrovie dello Stato e alla
+cessione di molte tratte di proprietà delle ferrovie concesse a privati alle
+rispettive regioni di appartenenza, demandando ad esse non solo l'esercizio ma
+anche la relativa attività normativa. Anche alcune tratte ex-FS, perlopiù
+dismesse, sono state trasferite in proprietà alle regioni.
+
+La grande maggioranza delle tratte di proprietà FS è stata assegnata ad un
+gestore dell'infrastruttura, Rete Ferroviaria Italiana (RFI), che ha tra i
+suoi compiti principali la manutenzione, la gestione della circolazione,
+l'assegnazione della capacità ferroviaria (in termini di "tracce orarie" o
+_slot_ ), la riscossione dei diritti di circolazione e l'attività di controllo
+delle società operatrici di servizi (imprese ferroviarie') per ciò che
+concerne la sicurezza della circolazione.
+
+Per le Ferrovie dello Stato la gestione del servizio passeggeri è stata data
+in carico ad una società distinta, Trenitalia: sia Trenitalia che i vari
+gestori privati operanti sulle tratte ferroviarie sono tenuti a pagare dei
+diritti per l'utilizzo delle linee e dei servizi al gestore
+dell'infrastruttura.
+
+La liberalizzazione dei servizi su queste tratte è iniziata nel 2007 con il
+traffico merci e con il traffico passeggeri a corto raggio (regionale e
+locale), mentre a partire dal 2010 dovrà essere esteso anche alle tratte
+internazionali e nazionali.
+
+I servizi di trasporto locale su rete statale rimangono di competenza
+esclusiva delle regioni che li affidano in concessione a imprese ferroviarie
+(anche pubbliche e anche se già esercenti di tratte regionali, purché in
+possesso di licenza di esercizio e copertura finanziaria) mediante pubblica
+gara con contratti aventi durata pluriennale limitata. Solo alcune regioni
+tuttavia sono già migrate a questo nuovo sistema e hanno bandito gara, nelle
+altre il servizio viene provvisoriamente esercito da Trenitalia in quanto
+impresa ferroviaria "erede" dell'ex-monopolista.
+
+L'organizzazione del servizio merci e passeggeri non-locale è compito delle
+Imprese Ferroviarie, il cui status deve essere garantito dal possesso di una
+licenza ferroviaria e dalla disponibilità di materiale rotabile omologato e
+dotato di certificato di sicurezza.
+
+Nei tempi prestabiliti le varie imprese ferroviarie richiedono ai gestori
+dell'infrastruttura l'assegnazione di "capacità ferroviaria" per effettuare
+servizi merci o passeggeri non-locali. La capacità ferroviaria necessaria
+all'effettuazione di servizi di trasporto passeggeri locale non viene
+richiesta dall'impresa ferroviaria affidataria bensì dalla regione cui
+compete, preventivamente rispetto all'effettuazione della gara di affidamento.
+Eventuali conflitti nella richiesta di capacità vengono sciolti dal gestore
+dell'infrastruttura in base a criteri stabiliti per legge, per i servizi
+passeggeri locali in particolare possono essere previsti criteri di priorità
+differenziati per tratta e fascia oraria.
+
+Alcune società che gestiscono unitariamente infrastrutture di proprietà
+regionale (gestendone quindi sia infrastrutture che servizi) sono anche
+Imprese Ferroviarie licenziatarie per la rete statale, ove effettuano solo
+servizi (perlopiù merci, ma anche servizi passeggeri locali di affidamento
+regionale), in diversi casi con corse che si svolgono a cavallo tra tratte
+nazionali (RFI) e tratte regionali di competenza. Un esempio di gestione mista
+è quella di Ferrovie Nord Milano, che effettua servizio passeggeri su tratte
+sia concesse che statali, ed effettua servizio merci tramite una società
+controllata.
+
+La Ferrovia del Qingzang che collega Xining in Cina e Lhasa in Tibet è la più
+alta del mondo: arriva a 5072 metri e a 5068 metri si trova la stazione più
+alta del mondo, quella di Tanggula. Per più di 950 km i treni corrono oltre i
+quattromila metri: le carrozze sono pressurizzate, con maschere per l'ossigeno
+disponibili in caso di necessità. E, sempre in Cina, si trova il treno a
+levitazione magnetica più veloce: è il Transrapid di Shanghai che raggiunge i
+431 km/h e collega Shanghai al suo aeroporto. Altre due linee a levitazione
+magnetica si trovano in Giappone e Corea del Sud.
+
+La ferrovia a cremagliera che va più in alto si trova in Colorado: la Manitou
+and Pikes Peak Railway, inaugurata nel 1891, che si inerpica da Manitou
+Springs alla cima del Pikes Peak (4302 m). In Svizzera è collocata la stazione
+più alta d'Europa, quella della Ferrovia della Jungfrau, a 3454 metri. Si
+trova invece in Mauritania la linea sulla quale corrono treni tra i più lunghi
+al mondo, fino a due chilometri e mezzo, i quali, trainati da tre o quattro
+locomotive, attraversano il deserto dalle miniere di ferro di Zouérat al porto
+di Nouadhibou. La Ferrovia Transiberiana, lunga 9289 km., collega Mosca con
+Vladivostok e attraversa ben otto fusi orari.
+
+A Wuppertal, in Germania, fu costruita nel 1901 la Wuppertaler Schwebebahn,
+ferrovia sospesa ancor oggi in funzione, lunga 13,3 km con i convogli appesi
+alla monorotaia.[3]
+
+Il botanico svizzero Ernesto Schick dedicò alla flora che colonizza le
+infrastrutture ferroviarie il suo testo più noto, _Flora ferroviaria_. Le
+particolari condizioni ambientali come la presenza di pietre, il passaggio
+frequente di veicoli, l'uso massiccio di diserbanti, unite alla presenza di
+semi non autoctoni trasportati dai treni e dai viaggiatori, creano infatti in
+queste aree un singolare habitat in cui è possibile riscontrare una grande
+biodiversità.[4]
+
+Altri progetti
+

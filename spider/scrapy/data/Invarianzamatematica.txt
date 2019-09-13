@@ -1,0 +1,33 @@
+In matematica un oggetto (funzione, insieme, punto, ...) si dice **invariante
+rispetto** o **sotto unatrasformazione** se esso rimane inalterato dopo
+l'azione di tale trasformazione. Il concetto di invarianza è molto simile a
+quello di punto fisso.
+
+Altrimenti detto, dato un insieme  X {\displaystyle X}
+![X](https://wikimedia.org/api/rest_v1/media/math/render/svg/68baa052181f707c662844a465bfeeb135e82bab)
+con una relazione d'equivalenza, un invariante è una funzione  f : X → Y
+{\displaystyle f:X\to Y} ![{\\displaystyle f:X\\to
+Y}](https://wikimedia.org/api/rest_v1/media/math/render/svg/abd1e080abef4bbdab67b43819c6431e7561361c)
+che sia costante su ogni singola classe: il suo valore non dipende dal
+rappresentante scelto. Si dice anche che  f {\displaystyle f}
+![f](https://wikimedia.org/api/rest_v1/media/math/render/svg/132e57acb643253e7810ee9702d9581f159a1c61)
+può _scendere al quoziente_. Tale definizione generalizza la precedente, cui
+ci si può riportare ponendo come relazione d'equivalenza "c'è una
+trasformazione che porta l'elemento  a {\displaystyle a}
+![a](https://wikimedia.org/api/rest_v1/media/math/render/svg/ffd2487510aa438433a2579450ab2b3d557e5edc)
+nell'elemento  b {\displaystyle b}
+![b](https://wikimedia.org/api/rest_v1/media/math/render/svg/f11423fbb2e967f986e36804a8ae4271734917c3)".
+
+In teoria delle categorie, ogni funtore definisce un invariante, ma non ogni
+invariante è funtoriale.
+
+In analisi complessa ci sono delle definizioni accessorie: un insieme si dice
+**invariante in avanti** sotto la mappa  f {\displaystyle f}
+![f](https://wikimedia.org/api/rest_v1/media/math/render/svg/132e57acb643253e7810ee9702d9581f159a1c61)
+se  f ( X ) = X {\displaystyle f(X)=X} ![{\\displaystyle
+f\(X\)=X}](https://wikimedia.org/api/rest_v1/media/math/render/svg/b68563bf25d5ecb2a4dcc2769577eeab1e1ab955),
+**invariante all'indietro** se  f − 1 ( X ) = X {\displaystyle f^{-1}(X)=X}
+![{\\displaystyle
+f^{-1}\(X\)=X}](https://wikimedia.org/api/rest_v1/media/math/render/svg/9cf9fd789b56cd94a858281fc50140f731d2057e)
+e **completamente invariante** se è entrambe le cose.
+

@@ -1,0 +1,987 @@
+The **Auxilia** (Latin, lit. "auxiliaries") were introduced as non-citizen
+troops attached to the citizen legions by Augustus after his reorganisation of
+the Imperial Roman army from 30 BC.[1] By the 2nd century, the Auxilia
+contained the same number of infantry as the legions and, in addition,
+provided almost all of the Roman army's cavalry (especially light cavalry and
+archers) and more specialised troops. The _auxilia_ thus represented three-
+fifths of Rome's regular land forces at that time. Like their legionary
+counterparts, auxiliary recruits were mostly volunteers, not conscripts.
+
+The Auxilia were mainly recruited from the _peregrini_ , free provincial
+subjects who did not hold Roman citizenship and constituted the vast majority
+of the population in the 1st and 2nd centuries (c. 90% in the early 1st
+century). In contrast to the legions, which only admitted Roman citizens,
+members of the Auxilia could be recruited from territories outside of Roman
+control.
+
+Reliance on the various contingents of non-Italic troops, especially cavalry,
+increased when the Roman Republic employed them in increasing numbers to
+support its legions after 200 BC. The Julio-Claudian period (30 BC–68 AD) saw
+the transformation of the Auxilia from motley levies to a standing corps with
+standardised structure, equipment and conditions of service. By the end of the
+period, there were no significant differences between legionaries and
+auxiliaries in terms of training, and thus, combat capability.
+
+Auxiliary regiments were often stationed in provinces other than that in which
+they were originally raised, for reasons of security and to foster the process
+of Romanisation in the provinces. The regimental names of many auxiliary units
+persisted into the 4th century, but by then the units in question were
+different in size, structure, and quality from their predecessors.
+
+The mainstay of the Roman republic's war machine was the manipular legion, a
+heavy infantry unit suitable for close-quarter engagements on more or less any
+terrain, which was probably adopted sometime during the Samnite Wars (343–290
+BC).[2] Despite its formidable strength, the legion had a number of
+deficiencies, especially a lack of cavalry. Around 200 BC, a legion of 4,200
+infantry had a cavalry arm of only 300 horse (just 7% of the total force).[3]
+This was because the class of citizens who could afford to pay for their own
+horse and equipment – the equestrian order, the second rank in Roman society,
+after the senatorial order – was relatively small. In addition, the legion
+lacked missile forces such as slingers and archers.[4] Until 200 BC, the bulk
+of a Roman army's cavalry was provided by Rome's regular Italian allies (
+_socii_ ), commonly known as the "Latin" allies, which made up the Roman
+military confederation. This was Rome's defence system until the Social War of
+91–88 BC. The Italian forces were organised into _alae_ (literally: "wings",
+because they were generally posted on the flanks of the Roman line of battle).
+An allied _ala_ , commanded by 3 Roman _praefecti sociorum_ , was similar or
+slightly larger in infantry size (4–5,000 men) to a legion, but contained a
+more substantial cavalry contingent: 900 horse, three times the legionary
+contingent. Since a pre-Social War consular army always contained an equal
+number of legions and _alae_ , 75% of its cavalry was provided by the Latin
+allies. The overall cavalry element, c. 12% of the total force (2,400 out of a
+normal consular army of approximately 20,000 total effectives), was greater
+than in most peninsular Italian forces, but well below the overall 21% cavalry
+component that was typical of the Principate army (80,000 cavalry out of
+380,000 total effectives in the early 2nd century).[5][6]
+
+The Roman/Latin cavalry was sufficient while Rome was in conflict with other
+states in the mountainous Italian peninsula, which also disposed of limited
+cavalry resources. But, as Rome was confronted by external enemies that
+deployed far more powerful cavalry elements, such as the Gauls and the
+Carthaginians, the Roman deficiency in cavalry numbers could be a serious
+liability, which in the Second Punic War (218–202 BC) resulted in crushing
+defeats. Hannibal's major victories at the Trebia and at Cannae, were owed to
+his Spanish and Gallic heavy cavalry, which far outnumbered the Roman and
+Latin levies, and to his Numidians, light, fast cavalry which the Romans
+wholly lacked.[7] The decisive Roman victory at Zama in 202 BC, which ended
+the war, owed much to the Numidian cavalry provided by king Massinissa, which
+outnumbered the Roman/Latin cavalry fielded by 2 to 1.[8] From then, Roman
+armies were always accompanied by large numbers of non-Italian cavalry:
+Numidian light cavalry and, later, Gallic heavy cavalry. For example, Caesar
+relied heavily on Gallic and German cavalry for his Conquest of Gaul (58–51
+BC).[9]
+
+As the role of native cavalry grew, that of Roman/Latin cavalry diminished. In
+the early 1st century BC, Roman cavalry was phased out altogether. After the
+Social War, the _socii_ were all granted Roman citizenship, the Latin _alae_
+abolished, and the _socii_ recruited into the legions.[10] Furthermore, Roman
+equestrians were no longer required to perform cavalry service after this
+time.[11] The late Republican legion was thus probably bereft of cavalry (a
+tiny cavalry force of 120 men was probably added back to the legion under
+Augustus).[12]
+
+By the outbreak of the Second Punic War, the Romans were remedying the
+legions' other deficiencies by using non-Italian specialised troops. Livy
+reports Hiero of Syracuse offering to supply Rome with archers and slingers in
+217 BC.[13] From 200 BC onwards, specialist troops were hired as mercenaries
+on a regular basis: _sagittarii_ (archers) from Crete, and _funditores_
+(slingers) from the Balearic Isles almost always accompanied Roman legions in
+campaigns all over the Mediterranean.[14]
+
+The other main sources of non-Italian troops in the late Republic were subject
+provincials, allied cities and Rome's _amici_ (satellite kings). During the
+late Republic, non-Italian units were led by their own native chiefs, and
+their internal organisation was left to their own commanders. The units varied
+widely in dress, equipment, and weapons. They were normally raised for
+specific campaigns and often disbanded soon afterwards, in a similar manner to
+the earlier _socii_ militia legions.[15]
+
+It appears that not all indigenous units were disbanded at the end of the
+civil war period (31 BC). Some of the more experienced units were kept in
+existence to complement the legions, and became the core of the standing
+auxiliary forces that developed in the Julio-Claudian period.[16] During the
+early part of Augustus' rule (27 BC onwards), the corps of regular Auxilia was
+created. It was clearly inspired by the Latin forces of the pre-Social War
+Republic, as a corps of non-citizen troops parallel to the legions. But there
+were fundamental differences, the same as between Republican and Augustan
+legions. The Latin forces of the Republic were made up of part-time conscripts
+in units that would be raised and disbanded for and after particular
+campaigns. The Augustan Auxilia were mainly volunteer professionals serving in
+permanent units.[9]
+
+The unit structure of the Auxilia also differed from the Latin _alae_ , which
+were like legions with a larger cavalry arm. However, Augustus organised the
+Auxilia into regiments the size of cohorts (a tenth the size of legions), due
+to the much greater flexibility of the smaller unit size. Further, the
+regiments were of three types: _ala_ (cavalry), _cohors (peditata)_ (infantry)
+and _cohors equitata_ (mixed cavalry/infantry).[17]
+
+The evidence for the size of the Augustus' new units is not clearcut, with our
+most precise evidence dating to the 2nd century, by which time the unit
+strengths may have changed. _Cohortes_ were likely modelled on legionary
+cohorts i.e. six _centuriae_ of about 80 men each (total about 480 men).[18]
+_Alae_ were divided into _turmae_ (squadrons) of 30 (or 32) men, each under a
+_decurio_ (literally: "leader of ten").[19] This title derives from the old
+Roman cavalry of the pre-Social War republic, in which each _turma_ was under
+the command of three _decuriones_.[20] _Cohortes equitatae_ were infantry
+_cohortes_ with a cavalry contingent of four _turmae_ attached.[21]
+
+Auxiliary regiments were now led by a _praefectus_ (prefect), who could be
+either a native nobleman, who would probably be granted Roman citizenship for
+the purpose (e.g. the famous German war leader Arminius gained Roman
+citizenship probably by serving as an auxiliary prefect before turning against
+Rome); or a Roman, either of knightly rank, or a senior centurion.[22]
+
+At the start of Augustus' sole rule (30 BC), the original core auxiliary units
+in the West were composed of warlike tribesmen from the Gallic provinces
+(especially Gallia Belgica, which then included the regions later separated to
+form the provinces Germania Inferior and Germania Superior), and from the
+Balkan provinces (Dalmatia and Illyricum). By 19 BC, the Cantabrian and
+Asturian Wars were concluded, leading to the annexation of northern Hispania
+and Lusitania. Judging by the names of attested auxiliary regiments, these
+parts of the Iberian peninsula soon became a major source of recruits. Then
+the Danubian regions were annexed: Raetia (annexed 15 BC), Noricum (16 BC),
+Pannonia (9 BC) and Moesia (6 AD), becoming, with Illyricum, the Principate's
+most important source of auxiliary recruits for its entire duration. In the
+East, where the Syrians already provided the bulk of the Roman army's archers,
+Augustus annexed Galatia (25 BC) and Judaea: the former, a region in central
+Anatolia with a Celtic-speaking people, became an important source of
+recruits. In N. Africa, Egypt, Cyrene, and Numidia (25 BC) were added to the
+empire. Numidia (modern day Eastern Algeria) was home to the Numidians/Moors,
+the ancestors of today's Berber people. Their light cavalry ( _equites
+Maurorum_ ) was highly prized and had alternately fought and assisted the
+Romans for well over two centuries: they now started to be recruited into the
+regular Auxilia. Even more Mauri units were formed after the annexation of
+Mauretania (NW Algeria, Morocco), the rest of the Berber homeland, in 44 AD by
+emperor Claudius (ruled 41–54).[23]
+
+Recruitment was thus heavy throughout the Augustan period, with a steady
+increase in the number of units formed. By AD 23, the Roman historian Tacitus
+records that there were roughly the same numbers of auxiliaries in service as
+there were legionaries.[24] Since at this time there were 25 legions of c.
+5,000 men each, the Auxilia thus amounted to c. 125,000 men, implying c. 250
+auxiliary regiments.[25]
+
+During the early Julio-Claudian period, many auxiliary regiments raised in
+frontier provinces were stationed in or near their home provinces, except
+during periods of major crises such as the Cantabrian Wars, when they were
+deployed temporarily in theatre. This carried the obvious risk if their own
+tribe or ethnic group rebelled against Rome (or attacked the Roman frontier
+from outside the Empire), auxiliary troops could be tempted to make common
+cause with them. The Romans would then be faced by an enemy that included
+units fully equipped and trained by themselves, thus losing their usual
+tactical advantages over tribal foes.[26]
+
+The German leader Arminius is the classic example at an individual level:
+after several years of serving in Rome's forces as prefect of an auxiliary
+unit, he used the military training and experience he had gained to lead a
+confederacy of German tribes against Rome, culminating in the destruction of
+three Roman legions in the Teutoberg Forest in 9 AD, and the abandonment of
+Augustus' strategy of annexing Germany as far as the Elbe river. (This
+strategy was never revived by later emperors).[27]
+
+At a collective level, the risk was even greater, as the hugely dangerous
+Illyrian revolt proved. The central Illyrian tribes were tough and spartan
+shepherds of the Bosnian mountains and excellent soldier-material. Their
+territory formed part of the strategic province of Illyricum, recently
+expanded to include the territory of the Pannonii, Celticised Illyrian tribes
+based on the west bank of the Danube who were subjugated by Rome in 12–9 BC
+(the _Bellum Pannonicum_ ). By the start of the Common Era, they were an
+important recruitment base for the auxilia.[28] But discontent was festering
+among the Illyrian tribes, largely due to what they saw as the rapacity of
+Roman tax officials.[29] In AD 6, several regiments of Dalmatae, a warlike
+Illyrian tribe, were ordered to report to a designated location to prepare to
+join Augustus' stepson and senior military commander Tiberius in a war against
+the Germans. Instead, they mutinied at the assembly point, and defeated a
+Roman force sent against them.[30] The Dalmatae were soon joined by the
+Breuci, another Illyrian tribe that supplied several auxiliary regiments. They
+gave battle to a second Roman force from Moesia. They lost, but inflicted
+heavy casualties.[31] The rebels were now joined by a large number of other
+Illyrian tribes. The Dalmatae attacked the port of Salona and overran the
+Adriatic coast, defeating a Roman force and exposing the Roman heartland of
+Italy to the fear of a rebel invasion.[32]
+
+Augustus ordered Tiberius to break off operations in Germany and move his main
+army to Illyricum.[33] When it became clear that even Tiberius' forces were
+insufficient, Augustus was obliged to raise a second task force under
+Tiberius' nephew Germanicus, resorting to the compulsory purchase and
+emancipation of thousands of slaves to find enough troops, for the first time
+since the aftermath of the Battle of Cannae over two centuries earlier.[34]
+The Romans had now deployed no less than 15 legions and an equivalent number
+of auxilia.[35] This amounts to a total of c. 150,000 men, including at least
+50 auxiliary cohorts composed, exceptionally, of Roman citizens. These were
+men whose status or background was regarded by Augustus as unsuitable for
+recruitment into the legions: either natural-born citizens of the lowest
+category, including vagrants and convicted criminals, or the freed slaves
+(Roman law accorded citizenship to the freed slaves of Roman citizens). These
+special units were accorded the title _civium Romanorum_ ("of Roman
+citizens"), or _c.R._ for short. After the Illyrian revolt, these cohorts
+remained in being and recruited non-citizens like other auxiliary units, but
+retained their prestigious _c.R._ title.[17][36] In addition, the regular
+forces were assisted by a large number of allied troops from neighbouring
+Thrace deployed by their king Rhoemetalces I, a Roman _amicus_ (puppet
+king).[37]
+
+The Romans faced further reverses on the battlefield and a savage guerrilla
+war in the Bosnian mountains.[38] It took them three years of hard fighting to
+quell the revolt, which was described by the Roman historian Suetonius,
+writing in c. AD 100, as the most difficult conflict faced by Rome since the
+Punic Wars over two centuries earlier.[35] Tiberius finally succeeded in
+quelling the revolt in 9 AD. This was apparently lucky timing for the Romans:
+that same year Arminius destroyed Varus' three legions in Germany. The Roman
+high command had no doubt that Arminius would have formed a grand alliance
+with the Illyrians.[39]
+
+Despite the gravity of this rebellion, the Illyrians went on, alongside their
+neighbours the Thracians, to become the backbone of the Roman army. By the 2nd
+century, with roughly half the Roman army deployed on the Danube frontier, the
+auxilia and legions alike were dominated by Illyrian recruits. In the 3rd
+century, Illyrians largely replaced Italians in the senior officer echelons of
+_praefecti_ of auxiliary regiments and _tribuni militum_ of legions. Finally,
+from AD 268 to 379, virtually all emperors, including Diocletian and
+Constantine the Great were Romanised Illyrians from the provinces of Dalmatia,
+Moesia Superior and Pannonia. These were members of a military aristocracy,
+outstanding soldiers who saved the empire from collapse in the turbulent late
+3rd century.[40]
+
+Significant development of the Auxilia appears to have taken place during the
+rule of the emperor Claudius (41–54 AD).
+
+A minimum term of service of 25 years was established, at the end of which the
+retiring auxiliary soldier, and all his children, were awarded Roman
+citizenship.[41] This is deduced from the fact that the first known Roman
+military diplomas date from the time of Claudius. This was a folding bronze
+tablet engraved with the details of the soldier's service record, which he
+could use to prove his citizenship.[42] Claudius also decreed that prefects of
+auxiliary regiments must all be of equestrian rank, thus excluding centurions
+from such commands.[41] The fact that auxiliary commanders were now all of the
+same social rank as most _tribuni militum_ , (military tribunes, a legion's
+senior staff officers, all of whom only one, the _tribunus laticlavius_ , was
+of the higher senatorial rank), probably indicates that auxilia now enjoyed
+greater prestige. Indigenous chiefs continued to command some auxiliary
+regiments, and were probably granted equestrian rank for the purpose. It is
+also likely that auxiliary pay was standardised at this time, but we only have
+estimates for the Julio-Claudian period.[41]
+
+Auxiliary uniform, armour, weapons and equipment were probably standardised by
+the end of the Julio-Claudian period. Auxiliary equipment was broadly similar
+to that of the legions (see Section 2.1 below for possible differences in
+armour). By 68 AD, there was little difference between most auxiliary infantry
+and their legionary counterparts in equipment, training and fighting
+capability. The main difference was that auxilia contained combat cavalry,
+both heavy and light, and other specialized units that legions lacked.[43]
+
+Claudius annexed to the empire three regions that became important sources of
+auxiliary recruits: Britannia (43 AD), and the former client kingdoms of
+Mauretania (44) and Thracia (46). The latter became as important as Illyria as
+a source of auxiliary recruits, especially cavalry and archers. Britain in
+mid-2nd century contained the largest number of auxiliary regiments in any
+single province: about 60 out of about 400 (15%).[5] By the rule of Nero
+(54–68), auxiliary numbers may have reached, by one estimate, about 200,000
+men, implying about 400 regiments.[41]
+
+The Batavi, a Germanic tribe, inhabited the region today known as Gelderland
+(Netherlands), in the Rhine river delta, then known as the _Insula Batavorum_
+("Island of the Batavi", because surrounded by branches of the Rhine), part of
+the Roman province of Germania Inferior.[44] They were a warlike people,
+skilled horsemen, boatmen and swimmers. In return for the unusual privilege of
+exemption from _tributum_ (direct taxes on land and heads normally exacted
+from _peregrini_ ), they supplied a disproportionate number of recruits to the
+Julio-Claudian auxilia: one _ala_ and eight _cohortes_.[45] They also provided
+most of Augustus' elite personal bodyguard unit (the _Germani corpore
+custodes_ ), which continued in service until 68 AD. The Batavi auxilia
+amounted to about 5,000 men, implying that during the entire Julio-Claudian
+period, over 50% of all Batavi males reaching military age (16 years) may have
+enlisted in the auxilia.[46] Thus the Batavi, although just 0.05% of the total
+population of the empire of c. 70 million in 23 AD,[47] supplied about 4% of
+the total auxilia i.e. 80 times their proportionate share. They were regarded
+by the Romans as the very best ( _fortissimi_ , _validissimi_ ) of their
+auxiliary, and indeed all, their forces.[48] In Roman service, both their
+cavalry and infantry had perfected a technique for swimming across rivers
+wearing full armour and weapons.[49][50]
+
+Julius Civilis (literally: "Julius the Citizen", clearly a Latin name adopted
+on gaining Roman citizenship, not his native one) was a hereditary prince of
+the Batavi and the prefect of a Batavi cohort. A veteran of 25 years' service,
+he had distinguished himself by service in Britain, where he and the eight
+Batavi cohorts had played a crucial role in both the Roman invasion in 43 AD
+and the subsequent subjugation of southern Britain.[51]
+
+By 69, however, Civilis, the Batavi regiments and the Batavi people had become
+utterly disaffected with Rome. After the Batavi regiments were withdrawn from
+Britain to Italy in 66, Civilis and his brother (also a prefect) were arrested
+by the governor of Germania Inferior on a fabricated accusation of sedition.
+The governor ordered his brother's execution, while Civilis, who as a Roman
+citizen had the right to appeal to the emperor, was sent to Rome in chains for
+judgement by Nero.[52] He was released by Nero's overthrower and successor,
+Galba, but the latter also disbanded the imperial bodyguard unit for their
+loyalty to Nero. This alienated several hundred crack Batavi troops, and
+indeed the whole Batavi nation who regarded it as a grave insult.[53] At the
+same time, relations collapsed between the Batavi cohorts and the legion to
+which they had been attached since the invasion of Britain 25 years earlier (
+_XIV Gemina_ ). Their mutual hatred erupted in open fighting on at least two
+occasions.[54]
+
+At this juncture, the Roman empire was convulsed by its first major civil war
+since the Battle of Actium exactly a century earlier: the Year of the Four
+Emperors (69–70 AD). The governor of Germania Inferior, ordered to raise more
+troops, outraged the Batavi by attempting to conscript more Batavi than the
+maximum stipulated in their treaty. The brutality and corruption of the Roman
+recruiting-centurions (including incidents of sexual assault on Batavi young
+men) brought already deep discontent in the Batavi homeland to the boil.[55]
+
+Civilis now led his people in open revolt. Initially, he claimed he was
+supporting the bid for power of Vespasian, the general in command of the
+legions in Syria, whom Civilis had probably befriended when both were involved
+in the Roman invasion of Britain 25 years earlier (Vespasian was then
+commander of the legion _II Augusta_ ).[56] But the uprising soon became a bid
+for independence.[57] Civilis exploited the fact that some legions were absent
+from the Rhine area due to the civil war, and the rest under-strength. In
+addition, the Roman commanders and their rank-and-file soldiers were divided
+by loyalty to rival emperors.[58] Civilis quickly won the support of the
+Batavi's neighbours and kinsmen, the Cananefates, who in turn won over the
+Frisii. First the rebel allies captured two Roman forts in their territory,
+and a cohort of Tungri defected to Civilis.[59] Then two legions sent against
+Civilis were defeated when their companion Batavi _ala_ defected to his
+side.[44] The _Classis Germanica_ (Rhine flotilla), largely manned by Batavi,
+was seized by Civilis.[60] Most importantly, the 8 Batavi cohorts stationed at
+Mainz with _XIV Gemina_ mutinied and joined him, defeating at Bonn a Roman
+force that attempted to block their return to their homeland.[61] By now,
+Civilis commanded at least 12 regiments (6,000 men) of Roman-trained and
+equipped auxiliary troops, as well as a much larger number of tribal levies. A
+number of German tribes from beyond the Rhine joined his cause.[62] Several
+other German and Gallic units sent against him deserted, as the revolt spread
+to the rest of Gallia Belgica, including the Tungri, Lingones and Treviri
+tribes.[63] He was able to destroy the two remaining legions in Germania
+Inferior, ( _V Alaudae_ and _XV Primigenia_ ).[64]
+
+By this stage, Rome's entire position on the Rhine and even in Gaul was
+imperiled. Their civil war over, the Romans mustered a huge task force of
+eight legions (five dispatched from Italy, two from Spain and one from
+Britain) to deal with Civilis.[65] Its commander Petillius Cerialis had to
+fight two difficult battles, at Trier and Xanten, before he could overrun the
+Batavi's homeland.[66] Tacitus' surviving narrative breaks off as he describes
+a meeting on an island in the Rhine delta between Civilis and Cerialis to
+discuss peace terms.[67] We do not know the outcome of this meeting or
+Civilis' ultimate fate. But, in view of his former friendship with Vespasian,
+who had already offered him a pardon, and the fact that the Romans still
+needed the Batavi levies, it is likely that the terms were lenient by Roman
+standards.[68]
+
+Petilius Cerialis took a number of reconstituted Batavi units with him to
+Britain, and the Batavi regiments continued to serve with special distinction
+in Britain and elsewhere for the rest of the 1st century and beyond.[69] Even
+as late as 395, units with the Batavi name, although long since composed of
+recruits from all over the empire, were still classified as elite _palatini_ ,
+e.g. the _equites Batavi seniores_ (cavalry) and _auxilium Batavi seniores_
+(infantry).[70]
+
+The revolt of the Batavi appears to have led to a significant change in the
+Roman government's policy on deployment of Auxilia. The revolt proved that in
+times of civil strife, when legions were far from their bases campaigning for
+rival claimants to the imperial throne, it was dangerous to leave provinces
+exclusively in the hands of auxiliary regiments recruited from the indigenous
+nation. During the Julio-Claudian period, auxiliary regiments had often been
+deployed away from their original home province.[9] But in the Flavian period
+(69–96), this appears to have become standard policy.[26] Thus in AD 70, five
+reconstituted Batavi regiments (one _ala_ and four _cohortes_ ) were
+transferred to Britain under Petillius Cerialis, who had suppressed the
+Civilis revolt and then embarked on the governorship of the island.[71] The
+great majority of regiments probably founded in the 1st century were stationed
+away from their province of origin in the second e.g. of 13 British regiments
+recorded in the mid-2nd century, none were stationed in Britain.[72]
+Furthermore, it appears that in the Flavian era native noblemen were no longer
+permitted to command auxiliary units from their own tribe.[73]
+
+After a prolonged period in a foreign province a regiment would become
+assimilated, since the majority of its new recruits would be drawn from the
+province in which it was stationed, or neighbouring provinces.[26] Those same
+"British" units, mostly based on the Danube frontier, would by c. 150, after
+almost a century away from their home island, be largely composed of Illyrian,
+Thracian and Dacian recruits. However, there is evidence that a few regiments
+at least continued to draw some recruits from their original home provinces in
+the 2nd century e.g. Batavi units stationed in Britain.[74]
+
+The Flavian period also saw the first formation of large, double-size units,
+both infantry and cavalry, of a nominal strength of 1,000 men ( _cohors/ala
+milliaria_ ), though they were actually mostly smaller (720 for an _ala
+milliaria_ and 800 for a _cohors milliaria_ ).[41] These were the mirror image
+of the double-strength first cohorts of legions also introduced at this time.
+Such units remained a minority of the Auxilia: in the mid-2nd century, they
+constituted 13% of units, containing 20% of total manpower.[75]
+
+In 106 AD, emperor Trajan finally defeated the Dacian kingdom of Decebalus and
+annexed it as the Roman province of Dacia Traiana. By the mid-2nd century,
+there were 44 auxiliary regiments stationed there, about 10% of the total
+auxilia. In Britain, there were 60. Together, these two provinces contained
+about a quarter of the total auxiliary regiments.[5]
+
+There is considerable scholarly dispute about the precise size of the auxilia
+during the imperial era, even during the corp's best-documented period, the
+rule of Trajan's successor, Hadrian (117–138). This is evident if one compares
+calculations by Spaul (2000) and Holder (2003):
+
+NOTE: Manpower figures exclude officers (centurions and decurions), which
+would have numbered about 3,500 men overall.
+
+In addition, Holder believes that a further 14 _cohortes_ , which are attested
+under Trajan, immediately before Hadrian's rule, but not during or after it,
+probably continued in existence, giving a total of 381 units and 225,000
+effectives. The discrepancy between the two scholars is due to: (i)
+Interpretation of units with the same name and number, but attested in
+different provinces in the same period. Spaul tends to take a more cautious
+approach and to assume such are the same unit moving base frequently, while
+Holder tends to regard them as separate units which acquired the same number
+due to duplicated (or even triplicated) seriation. (ii) Assumptions about how
+many _cohortes_ were _equitatae_. Spaul accepts only those _cohortes_
+specifically attested as _equitatae_ i.e., about 40% of recorded units. Holder
+estimates that at least 70% of _cohortes_ contained cavalry contingents by the
+early 2nd century[78]
+
+Even according to the more conservative estimate, the auxilia were by this
+time significantly larger than the legions, which contained c. 155,000
+effectives (28 legions of 5,500 men each) at this time, of which just 3,360
+were cavalry. (For a detailed breakdown, see section 4: Auxilia deployment in
+the 2nd century, below).
+
+During the second half of the 2nd century, the Roman army underwent
+considerable further expansion, with the addition of five new legions (27,500
+men) to a Principate peak of 33.[79] A matching number of auxilia (i.e. c. 50
+regiments, although only the names of around 25–30 have survived in the
+epigraphic record) were probably added, possibly reaching a peak of c. 440
+regiments and around 250,000 effectives by the end of Septimius Severus's rule
+(211 AD).[6]
+
+The likely growth of the Roman auxilia may be summarised as follows:
+
+NOTE: Regular land forces only. Excludes citizen-militias, barbarian
+_foederati_ , and Roman navy effectives
+
+During the 2nd century, some units with the new names _numerus_ ("group") and
+_vexillatio_ ("detachment") appear in the diploma record.[93] Their size is
+uncertain, but was likely smaller than the regular _alae_ and _cohortes_ , as
+originally they were probably detachments from the latter, acquiring
+independent status after long-term separation. As these units are mentioned in
+diplomas, they were presumably part of the regular auxiliary organisation.[94]
+But _numeri_ was also a generic term used for barbarian units outside the
+regular auxilia. (see section 2.4 Irregular units, below).
+
+In 212, the _constitutio Antoniniana_ (Antonine decree) of emperor Caracalla
+granted Roman citizenship to all the free inhabitants of the Empire – the
+_peregrini_ – thus abolishing their second-class status.[95] But there is no
+evidence that the citizens-only rule for legions was also abolished at this
+time. The legions simply gained a much wider recruitment base, as they were
+now able to recruit any male free resident of the empire. Auxiliary units were
+now recruited mainly from Roman citizens, but probably continued to recruit
+non-citizen _barbari_ from outside the Empire's borders.[96] However, the
+citizens-only rule for legions appears to have been dropped some time during
+the 3rd century, as by the 4th-century Romans and barbarians are found serving
+together in all units.[97]
+
+In the mid to late 3rd century, the army was afflicted by a combination of
+military disasters and of pestilence, the so-called Crisis of the Third
+Century. In 251–271, Gaul, the Alpine regions and Italy, the Balkans and the
+East were simultaneously overrun by Alamanni, Sarmatians, Goths and Persians
+respectively.[98] At the same time, the Roman army was struggling with the
+effects of a devastating pandemic, probably of smallpox: the Plague of
+Cyprian, which began in 251 and was still raging in 270, when it claimed the
+life of emperor Claudius II Gothicus. The evidence for an earlier pandemic,
+the Antonine Plague (also smallpox) indicates a mortality of 15–30% in the
+empire as a whole.[99] The armies would likely have suffered deaths at the top
+end of the range, due to their close concentration of individuals and frequent
+movements across the empire.[100] This probably led to a steep decline in
+military numbers, which only recovered at the end of the century under
+Diocletian (r. 284–305).[101]
+
+The recruitment shortfall caused by the crisis seems to have led to
+recruitment of barbarians to the auxilia on a much greater scale than
+previously. By the 4th century, it has been estimated that some 25% of regular
+army recruits were barbarian-born. In the elite _palatini_ regiments, anywhere
+between a third and a half of recruits may have been barbarian.[97] This is
+likely a much greater proportion of foreigners than joined the auxilia in the
+1st and 2nd centuries.[102] In the 3rd century, a small number of regular
+auxiliary units appear in the record that, for the first time, bear the names
+of barbarian tribes from outside the empire e.g. the _ala I Sarmatarum_
+attested in 3rd-century Britain.[103] This was probably an offshoot of the
+5,500 surrendered Sarmatian horsemen posted on Hadrian's Wall by emperor
+Marcus Aurelius in c. 175.[104] This unit may be an early example of a novel
+process whereby irregular units of _barbari_ ( _foederati_ ) were transformed
+into regular auxilia. This process intensified in the 4th century: the
+_Notitia Dignitatum_ , a key document on the late Roman army, lists a large
+number of regular units with barbarian names.[105]
+
+In the 4th century, the Roman army underwent a radical restructuring. In the
+rule of Diocletian (284–305), the traditional Principate formations of
+_legiones_ , _alae_ and _cohortes_ appear to have been broken up into smaller
+units, many of which bore a variety of new names.[106] Under Constantine I (r.
+312–337) it appears that military units were classified into three grades
+based on strategic role and to some extent quality: _palatini_ , elite units
+normally part of the _exercitus praesentales_ (imperial escort armies);
+_comitatenses_ , higher-grade interception forces based in frontier provinces;
+and _limitanei_ , lower-grade border troops.[107] (See Late Roman army).
+
+The old Principate auxilia regiments provided the basis for units at all three
+grades. The _Notitia Dignitatum_ lists about 70 _alae_ and _cohortes_ that
+retained their 2nd-century names, mostly _limitanei_.[108] But traces of other
+auxilia regiments can be found in the _praesentales_ and _comitatenses_
+armies. For example, many of the new-style _auxilia palatina_ infantry
+regiments, considered among the best units in the army, were probably formed
+from old-style auxiliary _cohortes_ , which they appear to closely
+resemble.[109]
+
+The late 4th-century writer on military affairs Vegetius complains of
+contemporary young men joining the "auxilia" in preference to the "legions" to
+avoid the latter's tougher training and duties.[110] But it is unclear what
+types of units he was referring to. It is possible that those older terms were
+still popularly used (misleadingly) to mean _limitanei_ and _comitatenses_
+respectively. In any event, his quote in no way describes accurately the
+Principate auxilia, many of which were of very high quality.[17]
+
+The following table sets out the official, or establishment, strength of
+auxiliary units in the 2nd century. The real strength of a unit would
+fluctuate continually, but would likely have been somewhat less than the
+establishment most of the time.
+
+***** _tribunus militum_ in original c.R. _cohortes_[111]  
+****** _praefectus_ in Batavi and Tungri _cohortes milliariae_[111]
+
+NOTE: Opinion is divided about the size of an _ala_ _turma_ , between 30 and
+32 men. 30 was the size of a _turma_ in the Republican cavalry and in the
+_cohors equitata_ of the Principate auxilia. Against this is a statement by
+Arrian that an _ala_ was 512 strong.[112] This would make an ala _turma_ 32
+men strong.
+
+These all-infantry units were modelled on the cohorts of the legions, with the
+same officers and sub-units. They were typically considered to be more of a
+light infantry than proper legionaries. Some auxiliaries may however have been
+equipped with the _lorica segmentata_ , the most sophisticated legionary body-
+armour, although scholars dispute this.[113][114]
+
+There is no evidence that auxiliary infantry fought in a looser order than
+legionaries.[17] It appears that in a set-piece battle-line, auxiliary
+infantry would normally be stationed on the flanks, with legionary infantry
+holding the centre e.g. as in the Battle of Watling Street (AD 60), the final
+defeat of the rebel Britons under queen Boudicca.[115] This was a tradition
+inherited from the Republic, when the precursors of auxiliary _cohortes_ , the
+Latin _alae_ , occupied the same position in the line.[116] The flanks of the
+line required equal, if not greater, skill to hold as the centre.
+
+During the Principate period of the Roman Empire (30 BC – AD 284), the all-
+mounted _alae_ ("wings") contained the elite cavalry of the army.[17] They
+were specially trained in elaborate manoeuvres, such as those displayed to the
+emperor Hadrian during a documented inspection in Numidia. They were best-
+suited for large-scale operations and battle, during which they acted as the
+primary cavalry escort for the legions, which had almost no cavalry of their
+own. Roman alares were normally armoured, with mail or scale body armour, a
+cavalry version of the infantry helmet (with more protective features, such as
+completely covered ears) and oval shield or hexagonal. Their weapons could be
+a lance, javelins, or bow and arrow but all Roman horseman had a sword called
+a ( _spatha_ ) and the ubiquitous pugio. The elite status of an _alaris_ is
+shown by the fact that he received 20% more pay than his counterpart in an
+auxiliary cohort or a legionary infantryman.
+
+The favored sources of recruitment for the cavalry of the _auxilia_ were
+Gauls, Germans, Iberians and Thracians. All of these peoples had long-
+established skills and experience of fighting from horseback – in contrast to
+the Romans themselves. The _alae_ were better paid and mounted than the more
+numerous horsemen of the _cohortes equitatae_[117] (see below).
+
+These were _cohortes_ with a cavalry contingent attached. There is evidence
+that their numbers expanded with the passage of time. Only about 40% of
+attested _cohortes_ are specifically attested as _equitatae_ in inscriptions,
+which is probably the original Augustan proportion. A study of units stationed
+in Syria in the mid-2nd century found that many units that did not carry the
+_equitata_ title did in fact contain cavalrymen e.g. by discovery of a
+tombstone of a cavalryman attached to the cohort. This implies that by that
+time, at least 70% of _cohortes_ were probably _equitatae_.[78] The addition
+of cavalry to a cohort obviously enabled it to carry out a wider range of
+independent operations. A _cohors equitata_ was in effect a self-contained
+mini-army.[118]
+
+The traditional view of _equites cohortales_ (the cavalry arm of _cohortes
+equitatae_ ), as expounded by G.L. Cheesman, was that they were just a mounted
+infantry with poor-quality horses. They would use their mounts simply to reach
+the battlefield and then would dismount to fight.[119] This view is today
+discredited. Although it is clear that _equites cohortales_ did not match
+_equites alares_ ( _ala_ cavalrymen) in quality (hence their lower pay), the
+evidence is that they fought as cavalry in the same way as the _alares_ and
+often alongside them. Their armour and weapons were the same as for the
+_alares_.[120]
+
+Nevertheless, non-combat roles of the _equites cohortales_ differed
+significantly from the _alares_. Non-combat roles such as despatch-riders (
+_dispositi_ ) were generally filled by cohort cavalry.
+
+In the Republican period, the standard trio of specialised auxilia were
+Balearic slingers, Cretan archers and Numidian light cavalry. These functions,
+plus some new ones, continued in the 2nd-century auxilia.
+
+_Equites cataphractarii_ , or simply _cataphractarii_ for short, were the
+heavily armoured cavalry of the Roman army. Based on Sarmatian and Parthian
+models, they were also known as _contarii_ and _clibanarii_ , although it is
+unclear whether these terms were interchangeable or whether they denoted
+variations in equipment or role. Together with new units of light mounted
+archers, the _cataphractarii_ were designed to counter Parthian (and, in
+Pannonia, Sarmatian) battle tactics. Parthian armies consisted largely of
+cavalry. Their standard tactic was to use light mounted archers to weaken and
+break up the Roman infantry line, and then to rout it with a charge by the
+_cataphractarii_ concentrated on the weakest point.[121] The only special
+heavy cavalry units to appear in the 2nd-century record are: _ala I Ulpia
+contariorum_ and _ala I Gallorum et Pannoniorum cataphractaria_ stationed in
+Pannonia and Moesia Inferior respectively in the 2nd century.[122]
+
+From the Second Punic War until the 3rd century AD, the bulk of Rome's light
+cavalry (apart from mounted archers from Syria) was provided by the
+inhabitants of the Maghrebi provinces of Africa and Mauretania Caesariensis,
+the Numidae or Mauri (from whom derives the English term "Moors"), who were
+the ancestors of the Berber people of modern Algeria and Morocco. They were
+known as the _equites Maurorum_ or _Numidarum_ ("Moorish or Numidian
+cavalry"). On Trajan's Column, Mauri horsemen, depicted with long hair in
+dreadlocks, are shown riding their small but resilient horses bare-back and
+unbridled, with a simple braided rope round their mount's neck for control.
+They wear no body or head armour, carrying only a small, round leather shield.
+Their weaponry cannot be discerned due to stone erosion, but is known from
+Livy to have consisted of several short javelins.[123][124] Exceptionally fast
+and maneuverable, Numidian cavalry would harass the enemy by hit-and-run
+attacks, riding up and loosing volleys of javelins, then scattering faster
+than any opposing cavalry could pursue. They were superbly suited to scouting,
+harassment, ambush and pursuit.[125] It is unclear what proportion of the
+Numidian cavalry were regular auxilia units as opposed to irregular
+_foederati_ units.[126]
+
+In the 3rd century, new formations of light cavalry appear, apparently
+recruited from the Danubian provinces: the _equites Dalmatae_ ("Dalmatian
+cavalry"). Little is known about these, but they were prominent in the 4th
+century, with several units listed in the _Notitia Dignitatum_.
+
+A unit of _dromedarii_ ("camel-mounted troops") is attested from the 2nd
+century, the _ala I Ulpia dromedariorum milliaria_ in Syria.[127]
+
+A substantial number of auxiliary regiments (32, or about 1 in 12 in the 2nd
+century) were denoted _sagittariorum_ , or archer-units (from _sagittarii_
+lit. "arrow-men", from _sagitta_ = "arrow"). These 32 units (of which 4 were
+double-strength) had a total official strength of 17,600 men. All three types
+of auxiliary regiment ( _ala_ , _cohors_ and _cohors equitata_ ) could be
+denoted _sagittariorum_. Although these units evidently specialised in
+archery, it is uncertain from the available evidence whether all
+_sagittariorum_ personnel were archers, or simply a higher proportion than in
+ordinary units. At the same time, ordinary regiments probably also possessed
+some archers, otherwise their capacity for independent operations would have
+been unduly constrained. Bas-reliefs appear to show personnel in ordinary
+units employing bows.[128]
+
+From about 218 BC onwards, the archers of the Roman army of the mid-Republic
+were virtually all mercenaries from the island of Crete, which boasted a long
+specialist tradition. During the late Republic (88–30 BC) and the Augustan
+period, Crete was gradually eclipsed by men from other, much more populous,
+regions subjugated by the Romans with strong archery traditions. These
+included Thrace, Anatolia and, above all, Syria. Of the 32 _sagittarii_ units
+attested in the mid-2nd century, 13 have Syrian names, 7 Thracian, 5 from
+Anatolia, 1 from Crete and the remaining 6 of other or uncertain origin.[129]
+
+Three distinct types of archers are shown on Trajan's Column: (a) with scalar
+cuirass, conical steel helmet and cloak; (b) without armour, with cloth
+conical cap and long tunic; or (c) equipped in the same way as general
+auxiliary foot-soldiers (apart from carrying bows instead of javelins). The
+first type were probably Syrian or Anatolian units; the third type probably
+Thracian.[130] The standard bow used by Roman auxilia was the recurved
+composite bow, a sophisticated, compact and powerful weapon.[128]
+
+From about 218 BC onwards, the Republican army's slingers were exclusively
+mercenaries from the Balearic Islands, which had nurtured a strong indigenous
+tradition of slinging from prehistoric times. As a result, in classical Latin,
+_Baleares_ (literally "inhabitants of the Balearic Islands") became an
+alternative word for "slingers" ( _funditores_ , from _funda_ = "sling").
+Because of this, it is uncertain whether the most of the imperial army's
+slingers continued to be drawn from the Balearics themselves, or, like
+archers, derived mainly from other regions.
+
+Independent slinger units are not attested in the epigraphic record of the
+Principate.[128] However, slingers are portrayed on Trajan's Column. They are
+shown unarmoured, wearing a short tunic. They carry a cloth bag, slung in
+front, to hold their shot ( _glandes_ ).[130]
+
+_Exploratores_ ('reconnaissance troops', from _explorare_ = "to scout"). Two
+examples include _numeri exploratorum_ attested to in the 3rd century in
+Britain: _Habitanco_ and _Bremenio_ (both names of forts).[131] It is
+possible, however, that more than 20 such units served in Britain.[132] The
+literal translation of _numeri_ is 'numbers' and it was often used in the
+context of a generic title for any unit that was not of a standard size or
+structure. From the 2nd century onward they served as frontier guards, often
+supplied by the Sarmatians and the Germans.[133] Little else is known about
+such units.
+
+Throughout the Principate period, there is evidence of ethnic units of
+_barbari_ outside the normal auxilia organisation fighting alongside Roman
+troops. To an extent, these units were simply a continuation of the old
+client-king levies of the late Republic: _ad hoc_ bodies of troops supplied by
+Rome's puppet petty-kings on the imperial borders for particular campaigns.
+Some clearly remained in Roman service beyond the campaigns, keeping their own
+native leadership, attire and equipment and structure. These units were known
+to the Romans as _socii_ ("allies"), _symmachiarii_ (from _symmachoi_ , Greek
+for "allies") or _foederati_ ("treaty troops" from _foedus_ , "treaty"). One
+estimate puts the number of _foederati_ in the time of Trajan at about 11,000,
+divided into about 40 _numeri_ (units) of about 300 men each. The purpose of
+employing _foederati_ units was to use their specialist fighting skills.[134]
+Many of these would have been troops of Numidian cavalry (see light cavalry
+above).
+
+The _foederati_ make their first official appearance on Trajan's Column, where
+they are portrayed in a standardised manner, with long hair and beards,
+barefoot, stripped to the waist, wearing long trousers held up by wide belts
+and wielding clubs. In reality, several different tribes supported the Romans
+in the Dacian wars. Their attire and weapons would have varied widely. The
+Column stereotypes them with the appearance of a single tribe, probably the
+most outlandish-looking, to differentiate them clearly from the regular
+auxilia.[135] Judging by the frequency of their appearance in the Column's
+battle scenes, the _foederati_ were important contributors to the Roman
+operations in Dacia. Another example of _foederati_ are the 5,500 captured
+Sarmatian cavalrymen sent by Emperor Marcus Aurelius (r. 161–180) to garrison
+a fort on Hadrian's Wall after their defeat in the Marcomannic Wars.[136]
+
+The evidence for auxiliary ranks and pay is scant: even less exists than the
+patchy evidence for their legionary counterparts. There seems to be some
+consensus, however, that the auxiliary was paid one third of what a legionary
+received: 300 sesterces a year (400 after the reign of the emperor Commodus).
+Both auxiliaries and seamen received the _viaticum_ of 300 sesterces, although
+the various sources differ as to whether auxiliaries and sailors received the
+retirement bonus[137] known as the _honesta missio_ , or honorable
+discharge.[138][139]
+
+The available data may be broken down and summarised as follows:
+
+At the bottom end of the rank pyramid, rankers were known as _caligati_ (lit:
+"sandal men" from the _caligae_ or hob-nailed sandals worn by soldiers).
+Depending on the type of regiment they belonged to, they held the official
+ranks of _pedes_ (foot soldier in a _cohors_ ), _eques_ (cavalryman in a
+_cohors equitata_ ) and _gregalis_ ( _ala_ cavalryman).[141]
+
+During the Principate, recruitment into the legions was restricted to Roman
+citizens only. This rule, which derived from the pre-Social War Republican
+army, was strictly enforced. The few exceptions recorded, such as during
+emergencies and for the illegitimate sons of legionaries, do not warrant the
+suggestion that the rule was routinely ignored.[142]
+
+In the 1st century, the vast majority of auxiliary common soldiers were
+recruited from the Roman _peregrine_ (second-class citizens). In the Julio-
+Claudian era, conscription of _peregrini_ seems to have been practiced
+alongside voluntary recruitment, probably in the form of a fixed proportion of
+men reaching military age in each tribe being drafted.[143] From the Flavian
+era onwards, the auxilia were an all-volunteer force.[144] Although recruits
+as young as 14 are recorded, the majority of recruits (66%) were from the
+18–23 age group.[145]
+
+When it was first raised, an auxiliary regiment would have been recruited from
+the native tribe or people whose name it bore. In the early Julio-Claudian
+period, it seems that efforts were made to preserve the ethnic integrity of
+units, even when the regiment was posted in a faraway province. But in the
+later part of the period, recruitment in the region where the regiment was
+posted increased and became predominant from the Flavian era onwards.[143] The
+regiment would thus lose its original ethnic identity.[26] The unit's name
+would thus become a mere curiosity devoid of meaning, although some of its
+members might inherit foreign names from their veteran ancestors. This view
+has to be qualified, however, as evidence from military diplomas and other
+inscriptions shows that some units continued to recruit in their original home
+areas e.g. Batavi units stationed in Britain, where some units had an
+international membership.[74] It also appears that the Danubian provinces
+(Raetia, Pannonia, Moesia, Dacia) remained key recruiting grounds for units
+stationed all over the empire.[146][147]
+
+It appears that Roman citizens were also regularly recruited to the auxilia.
+Most likely, the majority of citizen recruits to auxiliary regiments were the
+sons of auxiliary veterans who were enfranchised on their fathers'
+discharge.[148] Many such may have preferred to join their fathers' old
+regiments, which were a kind of extended family to them, rather than join a
+much larger, unfamiliar legion. There are also instances of legionaries
+transferring to the auxilia (to a higher rank).[149] The incidence of citizens
+in the auxilia would thus have grown steadily over time until, after the grant
+of citizenship to all _peregrini_ in 212, auxiliary regiments became
+predominantly, if not exclusively, citizen units.
+
+Less clearcut is the question of whether the regular auxilia recruited
+_barbari_ (barbarians, as the Romans called people living outside the empire's
+borders). Although there is little evidence of it before the 3rd century, the
+consensus is that auxilia recruited barbarians throughout their
+history.[96][150] In the 3rd century, a few auxilia units of clearly barbarian
+origin start to appear in the record e.g. _Ala I Sarmatarum_ , _cuneus
+Frisiorum_ and _numerus Hnaufridi_ in Britain.[151][152]
+
+There existed a hierarchy of pay between types of auxiliary, with cavalry
+higher paid than infantry. One recent estimate is that in the time of
+Augustus, the annual pay structure was: _eques alaris_ ( _gregalis_ ) 263
+_denarii_ , _eques cohortalis_ 225, and _cohors_ infantryman 188.[153] The
+same differentials (of about 20% between grades) seem to have existed at the
+time of Domitian (r. 81–96).[154] However, Goldsworthy points out that the
+common assumption that rates of pay were universal across provinces and units
+is unproven. Pay may have varied according to the origin of the unit.[155]
+
+The remuneration of an auxiliary _pedes cohortalis_ may be compared to a
+legionary's as follows:
+
+Gross salary was subject to deductions for food, clothing, boots and hay
+(probably for the company mules). It is unclear whether the cost of armour and
+weapons was also deducted, or borne by the army. Deductions left the soldier
+with a net salary of 78 _denarii_. This sum was sufficient, on the basis of
+the food deduction, to amply feed an adult for a year. In 84 AD Domitian
+increased basic legionary pay by 33% (from 225 to 300 _denarii_ ): a similar
+increase was presumably accorded to auxiliaries, boosting their net income to
+140 _denarii_ , i.e. more than two food allowances.[157] It was entirely
+disposable, as the soldier was exempt from the poll tax ( _capitatio_ ), did
+not pay rent (he was housed in fort barracks) and his food, clothing and
+equipment were already deducted. It should be borne in mind that most recruits
+came from peasant families living at subsistence level. To such persons, any
+disposable income would appear attractive.[158] It could be spent on leisure
+activities, sent to relatives or simply saved for retirement.
+
+There is no evidence that auxiliaries received the substantial cash bonuses
+(donativum) handed to legionaries on the accession of a new emperor and other
+occasions.[159] Although irregular, these payments (each worth 75 _denarii_ to
+a common legionary) averaged once every 7.5 years in the early 1st century and
+every three years later. Duncan-Jones has suggested that _donativa_ may have
+been paid to auxiliaries also from the time of Hadrian onwards, on the grounds
+that the total amount of donative to the military increased sharply at that
+time.[160] A very valuable benefit paid to legionaries was the discharge bonus
+( _praemia_ ) paid on completion of the full 25 years' service. At 3,000
+_denarii_ , this was equivalent to ten years' gross salary for a common
+legionary after the pay increase of 84 AD. It would enable him to purchase a
+substantial plot of land. Again, there is no indication that auxiliaries were
+paid a discharge bonus. For auxiliaries, the discharge bonus was the grant of
+Roman citizenship, which carried important tax exemptions. However, Duncan-
+Jones argues that the fact that service in the auxilia was competitive with
+the legions (deduced from the many Roman citizens that joined the auxilia)
+that a discharge bonus may have been paid.[161]
+
+Below centurion/decurion rank, junior officers in the Roman army were known as
+_principales_. An auxiliary cohort's ranks appear the same as in a legionary
+_centuria_. These were, in ascending order: _tesserarius_ ("officer of the
+watch"), _signifer_ (standard-bearer for the _centuria_ ), _optio_
+(centurion's deputy) and _vexillarius_ (standard-bearer for the whole
+regiment, from _vexillum_ ). In the _turmae_ of _cohortes equitatae_ (and of
+_alae_?), the decurion's second-in-command was probably known as a _curator_ ,
+responsible for horses and caparison.[162] As in the legions, the
+_principales_ , together with some regimental specialists, were classified in
+two pay-scales: _sesquiplicarii_ ("one-and-a-half-pay men") and _duplicarii_
+("double-pay men").[153] These ranks are probably most closely resembled by
+the modern ranks of corporal and sergeant respectively.
+
+Besides combat effectives, regiments also contained specialists, the most
+senior of whom were _sesquiplicarii_ or _duplicarii_ , the rest common
+soldiers with the status of _milities immunes_ ("exempt soldiers" i.e. exempt
+from normal duties). Ranking specialists included the _medicus_ (regimental
+doctor), _veterinarius_ (veterinary doctor, in charge of the care of horses,
+pack animals and livestock), _custos armorum_ (keeper of the armoury), and the
+_cornicularius_ (clerk in charge of all the regiment's records and
+paperwork).[163]
+
+The limited evidence on auxiliary _centuriones_ and _decuriones_ is that such
+officers could be directly commissioned as well as promoted from the ranks.
+Many appear to have come from provincial aristocracies.[164] Those rising from
+the ranks could be promotions from the legions as well as from the regiment's
+own ranks. In the Julio-Claudian period auxiliary _centuriones_ and
+_decuriones_ were a roughly equal split between citizens and _peregrini_ ,
+though later citizens became predominant due to the spread of citizenship
+among military families.[149] Because _centuriones_ and _decuriones_ often
+rose from the ranks, they have often been compared to warrant officers such as
+sergeants-major in modern armies. However, centurions' social role was much
+wider than a modern warrant-officer. In addition to their military duties,
+centurions performed a wide range of administrative tasks, which was necessary
+in the absence of an adequate bureaucracy to support provincial governors.
+They were also relatively wealthy, due to their high salaries (see table
+above).[165] However, most of the surviving evidence concerns legionary
+centurions and it is uncertain whether their auxiliary counterparts shared
+their high status and non-military role.[164]
+
+There is little evidence about the pay-scales of auxiliary _centuriones_ and
+_decuriones_ , but these are also believed to have amounted to several times
+that of a _miles_.[165]
+
+Unlike a _legatus legionis_ (who had an officer staff of 6 _tribuni militum_
+and one _praefectus castrorum_ ), an auxiliary _praefectus_ does not appear to
+have enjoyed the support of purely staff officers. The possible exception is
+an attested _beneficiarius_ ("deputy"), who may have been the praefectus'
+second-in-command, if this title was a regular rank and not simply an _ad hoc_
+appointment for a specific task. Also attached to the _praefectus_ were the
+regiment's _vexillarius_ (standard-bearer for the whole unit) and _cornucen_
+(horn-blower).[162]
+
+From a survey by Devijver of persons whose origin can be determined, it
+appears that during the 1st century, the large majority (65%) of auxiliary
+prefects were of Italian origin. The Italian proportion dropped steadily, to
+38% in the 2nd century, and 21% in the 3rd century.[166] From the time of
+emperor Claudius (r. 41–54) only Roman knights were eligible to hold command
+of an auxiliary regiment. This status could be obtained either by birth (i.e.
+if the person was the son of a hereditary Roman knight; or by attaining the
+property qualification (100,000 _denarii_ , the equivalent of 400 years' gross
+salary for an auxiliary _alaris_ ); or by military promotion: the latter were
+the chief centurions of legions ( _centurio primus pilus_ ) who would normally
+be elevated to equestrian rank by the emperor after completing their single-
+year term as _primuspilus_.[167]
+
+Equestrians by birth would normally begin their military careers at c. 30
+years of age. An axillary had to do 25 years of service before joining the
+army. Commands were held in a set sequence, each held for 3–4 years: prefect
+of an auxiliary _cohors_ , _tribunus militum_ in a legion and finally prefect
+of an auxiliary _ala_. In Hadrian's time, a fourth command was added, for
+exceptionally able officers, of prefect of an _ala milliaria_. Like officers
+senatorial rank, hereditary equestrians held civilian posts before and after
+their decade of military service, whereas non-hereditary officers tended to
+remain in the army, commanding various units in various provinces. By the 3rd
+century, most auxiliary prefects had exclusively military careers.[167][168]
+
+The pay of a _praefectus_ of an auxiliary regiment in the early 2nd century
+has been estimated at over 50 times that of a _miles_ (common soldier).[111]
+(This compares to a full colonel in the British Army, who is currently paid
+about five times a private's salary).[169] The reason for the huge gap between
+the top and the bottom of the pyramid is that Roman society was far more
+hierarchical than a modern one. A _praefectus_ was not just a senior officer.
+He was also a Roman citizen (which most of his men were not) and, as a member
+of the equestrian order, an aristocrat. The social gulf between the
+_praefectus_ and a _peregrinus_ soldier was thus immense, and the pay
+differential reflected that fact.
+
+The nomenclature of the great majority of regiments followed a standard
+configuration: unit type, followed by serial number, followed by name of the
+_peregrini_ tribe (or nation) from whom the regiment was originally raised, in
+the genitive plural case e.g. _cohors III Batavorum_ ("3rd Cohort of Batavi");
+_cohors I Brittonum_ ("1st Cohort of Britons"). Some regiments combine the
+names of two _peregrini_ tribes, most likely after the merger of two
+previously separate regiments e.g. _ala I Pannoniorum et Gallorum_ ("1st Wing
+of Pannonii and Gauls"). A minority of regiments are named after an
+individual, mostly after the first prefect of the regiment, e.g. _ala
+Sulpicia_ (presumably named after a prefect whose middle ( _gens_ ) name was
+Sulpicius). The latter is also an example of a regiment that did not have a
+serial number.[170]
+
+Regiments were often rewarded for meritorious service by the grant of an
+honorific title. The most sought-after was the prestigious _c.R._ ( _civium
+Romanorum_ = "of Roman citizens") title. In the latter case, all the
+regiment's members at the time, but not their successors, would be granted
+Roman citizenship. But the regiment would retain the c.R. title in perpetuity.
+Another common title was the _gens_ name of the emperor making the award (or
+founding the regiment) e.g. _Ulpia_ : the _gens_ name of Trajan (Marcus Ulpius
+Traianus r.98–117). Other titles were similar to those given to the legions
+e.g. _pia fidelis_ ( _p.f._ = "dutiful and loyal").[171]
+
+The Roman army awarded a variety of individual decorations ( _dona_ ) for
+valour to its legionaries. _Hasta pura_ was a miniature spear; _phalerae_ were
+large medal-like bronze or silver discs worn on the cuirass; _armillae_ were
+bracelets worn on the wrist; and torques were worn round the neck, or on the
+cuirass. The highest awards were the _coronae_ ("crowns"), of which the most
+prestigious was the _corona civica_ , a crown made of oak-leaves awarded for
+saving the life of a Roman citizen in battle. The most valuable award was the
+_corona muralis_ , a crown made of gold awarded to the first man to scale an
+enemy rampart. This was awarded rarely, as such a man hardly ever
+survived.[159]
+
+There is no evidence that auxiliary common soldiers received individual
+decorations, although auxiliary officers did. Instead, the whole regiment was
+honoured by a title reflecting the type of award e.g. _torquata_ (awarded a
+torque) or _armillata_ (awarded bracelets). Some regiments would, in the
+course of time, accumulate a long list of titles and decorations e.g. _cohors
+I Brittonum Ulpia torquata pia fidelis c.R._.[171]
+
+Notes: (1) Table excludes about 2,000 officers (centurions and above). (2)
+Auxiliary cavalry nos. assumes 70% of _cohortes_ were _equitatae_
+
+**Analysis**
+

@@ -1,0 +1,152 @@
+**Windows Live** is a discontinued brand-name for a set of web services and
+software products from Microsoft as part of its software plus services
+platform. Chief components under the brand name included web services (all of
+which were exposed through corresponding web apps), several computer programs
+that interact with the services, and specialized web services for mobile
+devices.[2]
+
+According to Microsoft, Windows Live "is a way to extend the Windows user
+experience".[3] As such, Windows Vista's welcome screen provides a link to
+download Windows Live Messenger or to subscribe to Windows Live OneCare. Also,
+Windows Mail, Windows Photo Gallery and Windows Movie Maker were not offered
+with Windows 7 and became an exclusive part of Windows Live.[4] Microsoft
+announced that Windows 8 would see Windows Live apps included right out-of-
+the-box, and would include built-in synchronization technologies powered by
+OneDrive (then SkyDrive).[5] The Windows Live brand was phased out during
+August 2012, when Microsoft released Windows 8 to manufacturing. Active
+Windows Live services remained active but were gradually renamed. The "live"
+domain, however, continues to be used in URLs for many online Microsoft sites.
+
+In addition to Windows Live, which is mainly aimed at individuals,[6]
+Microsoft brands other properties as "Live", including:
+
+Windows Live was first announced on November 1, 2005. In its initial release,
+several Windows Live properties were rebranded and enhanced from Microsoft's
+MSN set of products and services. However, MSN still exists alongside Windows
+Live as a means of delivering content (as opposed to customized content and
+communications).[6] In May 2012 Microsoft began renaming Windows Live
+services, partly in anticipation of Windows 8, which integrates many of the
+Windows Live products and services into the operating system.[8]
+
+The following services were once part of Windows Live but are still online and
+some services still use the "Live" branding in the URL even though the brand
+name is dropped.
+
+**My Windows Phone** is a free online companion service for Windows Phone
+mobile devices that provides users with a free mobile phone back-up solution
+by wirelessly synchronizing contacts, calendar appointments, photos, and
+OneNote notebooks with a password-protected online portal. Users can access
+and manage their information stored on their Windows Phone devices via the
+online portal using their Microsoft account, as well as accessing a set of
+features for remotely ringing, locking, mapping, and erasing their lost
+phones. This service integrates tightly with other Windows Live services
+including People, Calendar, and SkyDrive.[10]
+
+Microsoft released a Windows Live Messenger application on the iOS App Store,
+which allows users on mobile devices running the iOS to communicate with their
+contacts via the Microsoft Messenger service. In addition to the instant
+messaging functionalities, the application also allows users to view their
+Messenger social feed, view their friends' Profile's, and integrate with
+Hotmail and Photos.
+
+Windows Live also provides customised services specifically created for
+feature phones. It is offered via three channels — through Client-based (for
+Windows Mobile and other supported mobile devices such as Nokia phones), Web-
+based (for WAP or GPRS-enabled mobile web browsers), or SMS-based
+services.[11]
+
+**Bing** , a replacement of the search engine _Live Search_ , was originally
+named **Windows Live Search** (and _MSN Search_ prior to that) and was once
+part of the Windows Live family of services. Windows Live Search once occupied
+the homepage of Live.com, the domain for all Windows Live services. However,
+on March 21, 2007, Microsoft decided to separate its search developments from
+its Windows Live services family, forming part of the _Live Search and Ad
+Platform_. As part of this reorganization, the new search brand, _Live Search_
+, was consolidated with Microsoft adCenter, a part of Microsoft's Platform and
+Systems division.[12] However, Microsoft recognised that there was a brand
+issue as the word "Live" continued to remain in the brand.[13] As an effort to
+create a new identity for Microsoft's search services, on June 3, 2009, Live
+Search was officially rebranded as Bing.[14]
+
+**Live Connect** is a collection of APIs and common controls that allow
+developers to have a deeper control and offers access to the core Windows Live
+services and data through open and easily accessible application programming
+interfaces (APIs). Live Connect is built on standard web technologies such as
+OAuth 2.0, Representational State Transfer (REST), and JavaScript Object
+Notation (JSON), and is designed to work with any technology or device. Live
+Connect unites the previously separate APIs of Windows Live into a single API
+that is based on industry standards and specifications.
+
+Microsoft has released several computer programs with "Windows Live" brand, a
+summary of which is included below. All except Windows Live OneCare are
+freeware and published in a software suite called Windows Essentials (formerly
+Windows Live Essentials). Essentials programs are designed to integrate well
+with each other, within Windows, and with other Windows Live services such as
+OneDrive and Outlook.com.[15] Windows Live OneCare on the other hand, was a
+commercial consumers utility marketed with a software as a service licensing
+model.
+
+The **Windows Live Butterfly** awards program (formerly the **MSN Butterfly**
+program) was a program whose members were given the benefit of new Microsoft
+software to test before the beta releases went public and they were in direct
+contact with the program managers for Windows Live products.
+
+Microsoft had initiated the Windows Live Butterfly program in order to
+recognize the contributions made by exemplary beta testers. Prospective
+'butterflies' were selected by the Windows Live product team and were
+nominated for a term of one year, after which they could be renominated.[18]
+
+The Windows Live Butterfly program was closed in June 2009.
+
+All Windows Live websites sport a common theme. Different themes have been
+used on the sites with each phase of product release, called "Waves." Each
+Wave has a set of online services and desktop programs (Windows Essentials).
+The web services are labelled by each Wave, for example, Hotmail Wave 4. The
+programs from Windows Essentials are usually called by a year number, for
+example, Windows Live Messenger 2011\.
+
+Most original Windows Live applications and services used a visual theme known
+as _Blue Vapor_ or _Flair_. This theme no longer exists on any of the current
+Windows Live properties.
+
+With the public beta release of the _Windows Live Wave 2 Suite_[19] ("Wave"
+refers to the group or wave of products to be released), a new visual theme
+was released to enable the Aero transparency effect in Windows Vista.[20] This
+theme no longer exists on any of the current Windows Live properties.
+
+Microsoft released a set of new themes for their Windows Live Wave 3 services,
+which allows users to customize their pages on Windows Live using a set of
+pre-selected background pictures. Several of these themes are dynamic and
+change according to the time of day and the current weather condition of the
+user.[21] This theme remains in use on sites such as Windows Live Admin
+Center.
+
+In addition to the themes provided in Windows Live Wave 3, the release of
+Windows Live Wave 4 provided additional themes for users to customise their
+pages on Windows Live, with several dynamic themes that changes according to
+the time of day and weather conditions at the user's location. Several of
+these newly added themes are similar to wallpapers originating from Windows
+7.[22] In addition, the Windows Live Wave 4 header features a reorganised
+dynamic navigation menu that displays the number of the user's current online
+contacts and the number of unread e-mails,[23] as well as an in-built Windows
+Live Web Messenger service allowing users to connect to the Microsoft
+Messenger service and Facebook chat service to chat with their online contacts
+while browsing any Windows Live properties using a web browser.[24] This theme
+remains in use on sites such as Family Safety.
+
+All Windows Live apps for Windows 8 are designed with a Metro-style user
+interface.[25] All web services also feature a new Metro-style user interface
+and stop using "Windows Live" in their names. The UI's header contains a pull-
+down element with allow users to easily switch to Outlook.com, People,
+Calendar, and OneDrive. The header's color also changes depending on the web
+service the user is using, with the exception of Outlook.com which allow users
+to customize the header's color according to their preference. The new
+interface also has an in-built Messaging sidebar that allow users to view
+presence of, instant message, audio call and video call their contacts on
+Messenger, Facebook chat, as well as Skype.
+
+In February 2014, Wave 5 services and Office Web Apps were consolidated and
+rebranded as Office Online.[26]
+
+The Windows Live services are renamed as listed:[16]
+

@@ -1,0 +1,138 @@
+In game theory, a **Perfect Bayesian Equilibrium** (PBE) is an equilibrium
+concept relevant for dynamic games with incomplete information (sequential
+Bayesian games). A PBE is a refinement of both Bayesian Nash equilibrium (BNE)
+and subgame perfect equilibrium (SPE). A PBE has two components - _strategies_
+and _beliefs_ :
+
+The strategies and beliefs should satisfy the following conditions:
+
+A PBE is always an NE but may not be an SPE.
+
+A signaling game is the simplest kind of a dynamic Bayesian game. There are
+two players, one of them (the "receiver") has only one possible type, and the
+other (the "sender") has several possible types. The sender plays first, then
+the receiver.
+
+To calculate a PBE in a signaling game, we consider two kinds of equilibria: a
+_separating equilibrium_ and a _pooling equilibrium_. In a separating
+equilibrium each sender-type plays a different action, so the sender's action
+gives information to the receiver; in a pooling equilibrium, all sender-types
+play the same action, so the sender's action gives no information to the
+receiver.
+
+Consider the following _game_ :[1]
+
+To analyze PBE in this game, let's look first at the following potential
+_separating equilibria_ :
+
+We conclude that in this game, there is _no_ separating equilibrium.
+
+Now, let's look at the following potential pooling equilibria:
+
+To summarize:
+
+In the following example, the set of PBEs is strictly smaller than the set of
+SPEs and BNEs. It is a variant of the above gift-game, with the following
+change to the receiver's utility:
+
+Note that in this variant, accepting is a dominant strategy for the receiver.
+
+Similarly to example 1, there is no separating equilibrium. Let's look at the
+following potential pooling equilibria:
+
+Note that option 3 is a Nash equilibrium! If we ignore beliefs, then rejecting
+can be considered a best-response for the receiver, since it does not affect
+their payoff (since there is no gift anyway). Moreover, option 3 is even a
+SPE, since the only subgame here is the entire game! Such implausible
+equilibria might arise also in games with complete information, but they may
+be eliminated by applying subgame perfect Nash equilibrium. However, Bayesian
+games often contain non-singleton information sets and since subgames must
+contain complete information sets, sometimes there is only one subgame—the
+entire game—and so every Nash equilibrium is trivially subgame perfect. Even
+if a game does have more than one subgame, the inability of subgame perfection
+to cut through information sets can result in implausible equilibria not being
+eliminated.
+
+To summarize: in this variant of the gift game, there are two SPEs: either the
+sender always gives and the receiver always accepts, or the sender always does
+not give and the receiver always rejects. From these, only the first one is a
+PBE; the other is not a PBE since it cannot be supported by any belief-system.
+
+For further examples, see signaling game#Examples. See also [2] for more
+examples.
+
+A multi-stage game is a sequence of simultaneous games played one after the
+other. These games may be identical (as in repeated games) or different.
+
+The following game[3]:section 6.2 is a simple representation of the free-rider
+problem. There are two players, each of whom can either build a public good or
+not build. Each player gains 1 if the public good is built and 0 if not; in
+addition, if player  i {\displaystyle i}
+![i](https://wikimedia.org/api/rest_v1/media/math/render/svg/add78d8608ad86e54951b8c8bd6c8d8416533d20)
+builds the public good, they have to pay a cost of  C i {\displaystyle C_{i}}
+![C_{i}](https://wikimedia.org/api/rest_v1/media/math/render/svg/cc49dc02c0ec8c86b67e7d10518ac791eda0bf22).
+The costs are _private information_ \- each player knows their own cost but
+not the other's cost. It is only known that each cost is drawn independently
+at random from some probability distribution. This makes this game a Bayesian
+game.
+
+In the one-stage game, each player builds if-and-only-if their cost is smaller
+than their expected gain from building. The expected gain from building is
+exactly 1 times the probability that the other player does NOT build. In
+equilibrium, for every player  i {\displaystyle i}
+![i](https://wikimedia.org/api/rest_v1/media/math/render/svg/add78d8608ad86e54951b8c8bd6c8d8416533d20),
+there is a threshold cost  C i ∗ {\displaystyle C_{i}^{*}} ![{\\displaystyle
+C_{i}^{*}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/040caa905f445f493a96313b27a9a991d44717da),
+such that the player contributes if-and-only-if their cost is less than  C i ∗
+{\displaystyle C_{i}^{*}} ![{\\displaystyle
+C_{i}^{*}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/040caa905f445f493a96313b27a9a991d44717da).
+This threshold cost can be calculated based on the probability distribution of
+the players' costs. For example, if the costs are distributed uniformly on  [
+0 , 2 ] {\displaystyle [0,2]}
+![\[0,2\]](https://wikimedia.org/api/rest_v1/media/math/render/svg/120ef5837b0c64a40a2333f5aefd3c36fc458e91),
+then there is a symmetric equilibrium in which the threshold cost of both
+players is 2/3. This means that a player whose cost is between 2/3 and 1 will
+not contribute, even though their cost is below the benefit, because of the
+possibility that the other player will contribute.
+
+Now, suppose that this game is repeated two times.[3]:section 8.2.3 The two
+plays are independent, i.e., each day the players decide simultaneously
+whether to build a public good in that day, get a payoff of 1 if the good is
+built in that day, and pay their cost if they built in that day. The only
+connection between the games is that, by playing in the first day, the players
+may reveal some information about their costs, and this information might
+affect the play in the second day.
+
+We are looking for a symmetric PBE. Denote by  c ^ {\displaystyle {\hat {c}}}
+![\\hat{c}](https://wikimedia.org/api/rest_v1/media/math/render/svg/8417e85ae7f4eaee7df31347ce488f85c8884b93)
+the threshold cost of both players in day 1 (so in day 1, each player builds
+if-and-only-if their cost is at most  c ^ {\displaystyle {\hat {c}}}
+![\\hat{c}](https://wikimedia.org/api/rest_v1/media/math/render/svg/8417e85ae7f4eaee7df31347ce488f85c8884b93)).
+To calculate  c ^ {\displaystyle {\hat {c}}}
+![\\hat{c}](https://wikimedia.org/api/rest_v1/media/math/render/svg/8417e85ae7f4eaee7df31347ce488f85c8884b93),
+we work backwards and analyze the players' actions in day 2. Their actions
+depend on the history (= the two actions in day 1), and there are three
+options:
+
+It is possible to calculate the expected payoff of the "threshold player" (a
+player with cost exactly  c ^ {\displaystyle {\hat {c}}}
+![\\hat{c}](https://wikimedia.org/api/rest_v1/media/math/render/svg/8417e85ae7f4eaee7df31347ce488f85c8884b93))
+in each of these situations. Since the threshold player should be indifferent
+between contributing and not contributing, it is possible to calculate the
+day-1 threshold cost  c ^ {\displaystyle {\hat {c}}}
+![\\hat{c}](https://wikimedia.org/api/rest_v1/media/math/render/svg/8417e85ae7f4eaee7df31347ce488f85c8884b93).
+It turns out that this threshold is _lower_ than  c ∗ {\displaystyle c^{*}}
+![c^{*}](https://wikimedia.org/api/rest_v1/media/math/render/svg/e0e1c40aab3bd8af2d5fc091d658f8e0034a635f)
+\- the threshold in the one-stage game. This means that, in a two-stage game,
+the players are _less_ willing to build than in the one-stage game.
+Intuitively, the reason is that, when a player does not contribute in the
+first day, they make the other player believe their cost is high, and this
+makes the other player more willing to contribute in the second day.
+
+In an open-outcry English auction, the bidders can raise the current price in
+small steps (e.g. in $1 each time). However, often there is jump bidding \-
+some bidders raise the current price much more than the minimal increment. One
+explanation to this is that it serves as a signal to the other bidders. There
+is a PBE in which each bidder jumps if-and-only-if their value is above a
+certain threshold. See Jump bidding#signaling.
+

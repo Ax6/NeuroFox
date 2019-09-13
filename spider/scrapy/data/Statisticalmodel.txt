@@ -1,0 +1,264 @@
+A **statistical model** is a mathematical model that embodies a set of
+statistical assumptions concerning the generation of sample data (and similar
+data from a larger population). A statistical model represents, often in
+considerably idealized form, the data-generating process.[1]
+
+A statistical model is usually specified as a mathematical relationship
+between one or more random variables and other non-random variables. As such,
+a statistical model is "a formal representation of a theory" (Herman Adèr
+quoting Kenneth Bollen).[2]
+
+All statistical hypothesis tests and all statistical estimators are derived
+via statistical models. More generally, statistical models are part of the
+foundation of statistical inference.
+
+Informally, a statistical model can be thought of as a statistical assumption
+(or set of statistical assumptions) with a certain property: that the
+assumption allows us to calculate the probability of any event. As an example,
+consider a pair of ordinary six-sided dice. We will study two different
+statistical assumptions about the dice.
+
+The first statistical assumption is this: for each of the dice, the
+probability of each face (1, 2, 3, 4, 5, and 6) coming up is 1/6. From that
+assumption, we can calculate the probability of both dice coming up 5: 1/6 ×
+1/6 = 1/36.  More generally, we can calculate the probability of any event:
+e.g. (1 and 2) or (3 and 3) or (5 and 6).
+
+The alternative statistical assumption is this: for each of the dice, the
+probability of the face 5 coming up is 1/8 (because the dice are weighted).
+From that assumption, we can calculate the probability of both dice coming up
+5: 1/8 × 1/8 = 1/64.  We cannot, however, calculate the probability of any
+other nontrivial event, as the probabilities of the other faces are unknown.
+
+The first statistical assumption constitutes a statistical model: because with
+the assumption alone, we can calculate the probability of any event. The
+alternative statistical assumption does _not_ constitute a statistical model:
+because with the assumption alone, we cannot calculate the probability of
+every event.
+
+In the example above, with the first assumption, calculating the probability
+of an event is easy. With some other examples, though, the calculation can be
+difficult, or even impractical (e.g. it might require millions of years of
+computation). For an assumption to constitute a statistical model, such
+difficulty is acceptable: doing the calculation does not need to be
+practicable, just theoretically possible.
+
+In mathematical terms, a statistical model is usually thought of as a pair ( S
+, P {\displaystyle S,{\mathcal {P}}} ![S,{\\mathcal
+{P}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/9784b686777a72057251f131599116cec9fb813e)),
+where  S {\displaystyle S}
+![S](https://wikimedia.org/api/rest_v1/media/math/render/svg/4611d85173cd3b508e67077d4a1252c9c05abca2)
+is the set of possible observations, i.e. the sample space, and  P
+{\displaystyle {\mathcal {P}}} ![{\\mathcal
+{P}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/10d6ec962de5797ba4f161c40e66dca74ae95cc6)
+is a set of probability distributions on  S {\displaystyle S}
+![S](https://wikimedia.org/api/rest_v1/media/math/render/svg/4611d85173cd3b508e67077d4a1252c9c05abca2).[3]
+
+The intuition behind this definition is as follows. It is assumed that there
+is a "true" probability distribution induced by the process that generates the
+observed data. We choose  P {\displaystyle {\mathcal {P}}} ![{\\mathcal
+{P}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/10d6ec962de5797ba4f161c40e66dca74ae95cc6)
+to represent a set (of distributions) which contains a distribution that
+adequately approximates the true distribution.
+
+Note that we do not require that  P {\displaystyle {\mathcal {P}}}
+![{\\mathcal
+{P}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/10d6ec962de5797ba4f161c40e66dca74ae95cc6)
+contains the true distribution, and in practice that is rarely the case.
+Indeed, as Burnham & Anderson state, "A model is a simplification or
+approximation of reality and hence will not reflect all of reality"[4]—whence
+the saying "all models are wrong".
+
+The set  P {\displaystyle {\mathcal {P}}} ![{\\mathcal
+{P}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/10d6ec962de5797ba4f161c40e66dca74ae95cc6)
+is almost always parameterized:  P = { P θ : θ ∈ Θ } {\displaystyle {\mathcal
+{P}}=\\{P_{\theta }:\theta \in \Theta \\}} ![{\\mathcal  {P}}=\\{P_{{\\theta
+}}:\\theta \\in \\Theta
+\\}](https://wikimedia.org/api/rest_v1/media/math/render/svg/45431a61a7243a2cdbdb8d68f0600594578ee0bf).
+The set  Θ {\displaystyle \Theta } ![\\Theta
+](https://wikimedia.org/api/rest_v1/media/math/render/svg/bc927b19f46d005b4720db7a0f96cd5b6f1a0d9b)
+defines the parameters of the model. A parameterization is generally required
+to have distinct parameter values give rise to distinct distributions, i.e.  P
+θ 1 = P θ 2 ⇒ θ 1 = θ 2 {\displaystyle P_{\theta _{1}}=P_{\theta
+_{2}}\Rightarrow \theta _{1}=\theta _{2}} ![P_{{\\theta _{1}}}=P_{{\\theta
+_{2}}}\\Rightarrow \\theta _{1}=\\theta
+_{2}](https://wikimedia.org/api/rest_v1/media/math/render/svg/3431a25f5a1c1ad4fd1766e503fb72749744af02)
+must hold (in other words, it must be injective). A parameterization that
+meets the requirement is said to be _identifiable_.[3]
+
+Suppose that we have a population of school children, with the ages of the
+children distributed uniformly, in the population. The height of a child will
+be stochastically related to the age: e.g. when we know that a child is of age
+7, this influences the chance of the child being 1.5 meters tall. We could
+formalize that relationship in a linear regression model, like this: height
+_i_ = _b_ 0 \+ _b_ 1age _i_ \+ ε _i_ , where _b_ 0 is the intercept, _b_ 1 is
+a parameter that age is multiplied by to obtain a prediction of height, ε _i_
+is the error term, and _i_ identifies the child. This implies that height is
+predicted by age, with some error.
+
+An admissible model must be consistent with all the data points. Thus, a
+straight line (height _i_ = _b_ 0 \+ _b_ 1age _i_ ) cannot be the equation for
+a model of the data—unless it exactly fits all the data points, i.e. all the
+data points lie perfectly on the line. The error term, ε _i_ , must be
+included in the equation, so that the model is consistent with all the data
+points.
+
+To do statistical inference, we would first need to assume some probability
+distributions for the ε _i_. For instance, we might assume that the ε _i_
+distributions are i.i.d. Gaussian, with zero mean. In this instance, the model
+would have 3 parameters: _b_ 0, _b_ 1, and the variance of the Gaussian
+distribution.
+
+We can formally specify the model in the form ( S , P {\displaystyle
+S,{\mathcal {P}}} ![S,{\\mathcal
+{P}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/9784b686777a72057251f131599116cec9fb813e))
+as follows. The sample space,  S {\displaystyle S}
+![S](https://wikimedia.org/api/rest_v1/media/math/render/svg/4611d85173cd3b508e67077d4a1252c9c05abca2),
+of our model comprises the set of all possible pairs (age, height). Each
+possible value of  θ {\displaystyle \theta } ![\\theta
+](https://wikimedia.org/api/rest_v1/media/math/render/svg/6e5ab2664b422d53eb0c7df3b87e1360d75ad9af)
+= ( _b_ 0, _b_ 1, _σ_ 2) determines a distribution on  S {\displaystyle S}
+![S](https://wikimedia.org/api/rest_v1/media/math/render/svg/4611d85173cd3b508e67077d4a1252c9c05abca2);
+denote that distribution by  P θ {\displaystyle P_{\theta }} ![P_{{\\theta
+}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/b182d5f3dbad882191525f97e9570d408a8adebe).
+If  Θ {\displaystyle \Theta } ![\\Theta
+](https://wikimedia.org/api/rest_v1/media/math/render/svg/bc927b19f46d005b4720db7a0f96cd5b6f1a0d9b)
+is the set of all possible values of  θ {\displaystyle \theta } ![\\theta
+](https://wikimedia.org/api/rest_v1/media/math/render/svg/6e5ab2664b422d53eb0c7df3b87e1360d75ad9af),
+then  P = { P θ : θ ∈ Θ } {\displaystyle {\mathcal {P}}=\\{P_{\theta }:\theta
+\in \Theta \\}} ![{\\mathcal  {P}}=\\{P_{{\\theta }}:\\theta \\in \\Theta
+\\}](https://wikimedia.org/api/rest_v1/media/math/render/svg/45431a61a7243a2cdbdb8d68f0600594578ee0bf).
+(The parameterization is identifiable, and this is easy to check.)
+
+In this example, the model is determined by (1) specifying  S {\displaystyle
+S}
+![S](https://wikimedia.org/api/rest_v1/media/math/render/svg/4611d85173cd3b508e67077d4a1252c9c05abca2)
+and (2) making some assumptions relevant to  P {\displaystyle {\mathcal {P}}}
+![{\\mathcal
+{P}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/10d6ec962de5797ba4f161c40e66dca74ae95cc6).
+There are two assumptions: that height can be approximated by a linear
+function of age; that errors in the approximation are distributed as i.i.d.
+Gaussian. The assumptions are sufficient to specify  P {\displaystyle
+{\mathcal {P}}} ![{\\mathcal
+{P}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/10d6ec962de5797ba4f161c40e66dca74ae95cc6)—as
+they are required to do.
+
+A statistical model is a special class of mathematical model. What
+distinguishes a statistical model from other mathematical models is that a
+statistical model is non-deterministic. Thus, in a statistical model specified
+via mathematical equations, some of the variables do not have specific values,
+but instead have probability distributions; i.e. some of the variables are
+stochastic. In the above example with children's heights, ε is a stochastic
+variable; without that stochastic variable, the model would be deterministic.
+
+Statistical models are often used even when the data-generating process being
+modeled is deterministic. For instance, coin tossing is, in principle, a
+deterministic process; yet it is commonly modeled as stochastic (via a
+Bernoulli process).
+
+Choosing an appropriate statistical model to represent a given data-generating
+process is sometimes extremely difficult, and may require knowledge of both
+the process and relevant statistical analyses. Relatedly, the statistician Sir
+David Cox has said, "How [the] translation from subject-matter problem to
+statistical model is done is often the most critical part of an analysis".[5]
+
+There are three purposes for a statistical model, according to Konishi &
+Kitagawa.[6]
+
+Those three purposes are essentially the same as the three purposes indicated
+by Friendly & Meyer: prediction, estimation, description.[7] The three
+purposes correspond with the three kinds of logical reasoning: deductive
+reasoning, inductive reasoning, abductive reasoning.
+
+Suppose that we have a statistical model ( S , P {\displaystyle S,{\mathcal
+{P}}} ![S,{\\mathcal
+{P}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/9784b686777a72057251f131599116cec9fb813e))
+with  P = { P θ : θ ∈ Θ } {\displaystyle {\mathcal {P}}=\\{P_{\theta }:\theta
+\in \Theta \\}} ![{\\mathcal  {P}}=\\{P_{{\\theta }}:\\theta \\in \\Theta
+\\}](https://wikimedia.org/api/rest_v1/media/math/render/svg/45431a61a7243a2cdbdb8d68f0600594578ee0bf).
+The model is said to be _parametric_ if  Θ {\displaystyle \Theta } ![\\Theta
+](https://wikimedia.org/api/rest_v1/media/math/render/svg/bc927b19f46d005b4720db7a0f96cd5b6f1a0d9b)
+has a finite dimension. In notation, we write that  Θ ⊆ R k {\displaystyle
+\Theta \subseteq \mathbb {R} ^{k}} ![{\\displaystyle \\Theta \\subseteq
+\\mathbb {R}
+^{k}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/f309b19bf10f097c61b8cdb76eac39dcb42f122e)
+where k is a positive integer ( R {\displaystyle \mathbb {R} } ![\\mathbb {R}
+](https://wikimedia.org/api/rest_v1/media/math/render/svg/786849c765da7a84dbc3cce43e96aad58a5868dc)
+denotes the real numbers; other sets can be used, in principle). Here, k is
+called the **dimension** of the model.
+
+As an example, if we assume that data arise from a univariate Gaussian
+distribution, then we are assuming that
+
+In this example, the dimension, k, equals 2.
+
+As another example, suppose that the data consists of points (x, y) that we
+assume are distributed according to a straight line with i.i.d. Gaussian
+residuals (with zero mean): this leads to the same statistical model as was
+used in the example with children's heights. The dimension of the statistical
+model is 3: the intercept of the line, the slope of the line, and the variance
+of the distribution of the residuals. (Note that in geometry, a straight line
+has dimension 1.)
+
+Although formally  θ ∈ Θ {\displaystyle \theta \in \Theta } ![\\theta \\in
+\\Theta
+](https://wikimedia.org/api/rest_v1/media/math/render/svg/bc76a89f6f175a02e371f31f86a8906fa3fd5e7e)
+is a single parameter that has dimension k, it is sometimes regarded as
+comprising k separate parameters. For example, with the univariate Gaussian
+distribution,  θ {\displaystyle \theta } ![\\theta
+](https://wikimedia.org/api/rest_v1/media/math/render/svg/6e5ab2664b422d53eb0c7df3b87e1360d75ad9af)
+is formally a single parameter with dimension 2, but it is sometimes regarded
+as comprising 2 separate parameters—the mean and the standard deviation.
+
+A statistical model is _nonparametric_ if the parameter set  Θ {\displaystyle
+\Theta } ![\\Theta
+](https://wikimedia.org/api/rest_v1/media/math/render/svg/bc927b19f46d005b4720db7a0f96cd5b6f1a0d9b)
+is infinite dimensional. A statistical model is _semiparametric_ if it has
+both finite-dimensional and infinite-dimensional parameters. Formally, if k is
+the dimension of  Θ {\displaystyle \Theta } ![\\Theta
+](https://wikimedia.org/api/rest_v1/media/math/render/svg/bc927b19f46d005b4720db7a0f96cd5b6f1a0d9b)
+and n is the number of samples, both semiparametric and nonparametric models
+have  k → ∞ {\displaystyle k\rightarrow \infty } ![k \\rightarrow
+\\infty](https://wikimedia.org/api/rest_v1/media/math/render/svg/612a3ec99f1c9f12de1cfab011e306ae799858ce)
+as  n → ∞ {\displaystyle n\rightarrow \infty } ![n\\rightarrow \\infty
+](https://wikimedia.org/api/rest_v1/media/math/render/svg/9702f04f2d0e5b887b99faeeffb0c4cfd8263eee).
+If  k / n → 0 {\displaystyle k/n\rightarrow 0} ![{\\displaystyle
+k/n\\rightarrow
+0}](https://wikimedia.org/api/rest_v1/media/math/render/svg/4a9ae788abb5e3dccbacfc18b9948ef57a29b0d2)
+as  n → ∞ {\displaystyle n\rightarrow \infty } ![n\\rightarrow \\infty
+](https://wikimedia.org/api/rest_v1/media/math/render/svg/9702f04f2d0e5b887b99faeeffb0c4cfd8263eee),
+then the model is semiparametric; otherwise, the model is nonparametric.
+
+Parametric models are by far the most commonly used statistical models.
+Regarding semiparametric and nonparametric models, Sir David Cox has said,
+"These typically involve fewer assumptions of structure and distributional
+form but usually contain strong assumptions about independencies".[8]
+
+Two statistical models are **nested** if the first model can be transformed
+into the second model by imposing constraints on the parameters of the first
+model. As an example, the set of all Gaussian distributions has, nested within
+it, the set of zero-mean Gaussian distributions: we constrain the mean in the
+set of all Gaussian distributions to get the zero-mean distributions. As a
+second example, the quadratic model
+
+has, nested within it, the linear model
+
+—we constrain the parameter _b_ 2 to equal 0.
+
+In both those examples, the first model has a higher dimension than the second
+model (for the first example, the zero-mean model has dimension 1). Such is
+often, but not always, the case. As a different example, the set of positive-
+mean Gaussian distributions, which has dimension 2, is nested within the set
+of all Gaussian distributions.
+
+Comparing statistical models is fundamental for much of statistical inference.
+Indeed, Konishi & Kitagawa (2008, p. 75) state the following.
+
+The majority of the problems in statistical inference can be considered to be
+problems related to statistical modeling. They are typically formulated as
+comparisons of several statistical models.
+
+Common criteria for comparing models include the following: _R_ 2, Bayes
+factor, and the likelihood-ratio test together with its generalization
+relative likelihood.
+

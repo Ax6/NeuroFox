@@ -1,0 +1,181 @@
+The **Tokamak Fusion Test Reactor** ( **TFTR** ) was an experimental tokamak
+built at Princeton Plasma Physics Laboratory (PPPL) circa 1980 and entering
+service in 1982. TFTR was designed with the explicit goal of reaching
+scientific breakeven, the point where the heat being released from the fusion
+reactions in the plasma is equal or greater than the heating being supplied to
+the plasma by external devices to warm it up.[1][2]
+
+The TFTR never achieved this goal, but it did produce major advances in
+confinement time and energy density. It was the world's first magnetic fusion
+device to perform extensive scientific experiments with plasmas composed of
+50/50 deuterium/tritium (D-T), the fuel mix required for practical fusion
+power production, and also the first to produce more than 10 MW of fusion
+power. It set several records for power output, maximum temperature, and
+fusion triple product.
+
+TFTR shut down in 1997 after fifteen years of operation. PPPL used the
+knowledge from TFTR to begin studying another approach, the spherical tokamak,
+in their National Spherical Torus Experiment. The Japanese JT-60 is very
+similar to the TFTR, both tracing their design to key innovations introduced
+by Shoichi Yoshikawa during his time at PPPL in the 1970s.
+
+In nuclear fusion, there are two types of reactors stable enough to conduct
+fusion: magnetic confinement reactors and inertial confinement reactors. The
+former method of fusion seeks to lengthen the time that ions spend close
+together in order to fuse them together, while the latter aims to fuse the
+ions so fast that they do not have time to move apart. Inertial confinement
+reactors, unlike magnetic confinement reactors, use laser fusion and ion-beam
+fusion in order to conduct fusion. However, with magnetic confinement reactors
+you avoid the problem of having to find a material that can withstand the high
+temperatures of nuclear fusion reactions.The heating current is induced by the
+changing magnetic fields in central induction coils and exceeds a million
+amperes. Magnetic fusion devices keep the hot plasma out of contact with the
+walls of its container by keeping it moving in circular or helical paths by
+means of the magnetic force on charged particles and by a centripetal force
+acting on the moving particles.[3]
+
+By the early 1960s, the fusion power field had grown large enough that the
+researchers began organizing semi-annual meetings that rotated around the
+various research establishments. In 1968, the now-annual meeting was held in
+Novosibirsk, where the Soviet delegation surprised everyone by claiming their
+tokamak designs had reached performance levels at least an order of magnitude
+better than any other device. The claims were initially met with skepticism,
+but when the results were confirmed by a UK team the next year, this huge
+advance led to a "virtual stampede" of tokamak construction.[4]
+
+In the US, one of the major approaches being studied up to this point was the
+stellarator, whose development was limited almost entirely to the PPPL. Their
+latest design, the Model C, had recently gone into operation and demonstrated
+performance well below theoretical calculations, far from useful figures. With
+the confirmation of the Novosibirsk results, they immediately began converting
+the Model C to a tokamak layout, known as the Symmetrical Tokamak (ST). This
+was completed in the short time of only eight months, entering service in May
+1970. ST's computerized diagnostics allowed it to quickly match the Soviet
+results, and from that point, the entire fusion world was increasingly focused
+on this design over any other.[5]
+
+During the early 1970s, Shoichi Yoshikawa was looking over the tokamak
+concept. He noted that as the size of the reactor's minor axis (the diameter
+of the tube) increased compared to its major axis (the diameter of the entire
+system) the system became more efficient. An added benefit was that as the
+minor axis increased, confinement time improved for the simple reason that it
+took longer for the fuel ions to reach the outside of the reactor. This led to
+widespread acceptance that designs with lower aspect ratios were a key advance
+over earlier models.[2]
+
+This led to the Princeton Large Torus (PLT), which was built in 1973. This
+system was successful to the point where it quickly reached the limits of its
+ohming heating system, the system that passed current through the plasma to
+heat it. Among the many ideas proposed for further heating, in cooperation
+with Oak Ridge National Laboratory, PPPL developed the idea of neutral beam
+injection. This used small particle accelerators to inject fuel atoms directly
+into the plasma, both heating it and providing fresh fuel.[2]
+
+After a number of modifications to the beam injection system, the newly
+equipped PLT began setting records and eventually made several test runs at 60
+million K, more than enough for a fusion reactor. To reach the Lawson
+criterion for ignition, all that was needed was higher plasma density, and
+there seemed to be no reason this would not be possible in a larger machine.
+There was widespread belief that break-even would be reached during the
+1970s.[5][2]
+
+After the success of PLT and other follow-on designs, the basic concept was
+considered well understood. PPPL began the design of a much larger successor
+to PLT that would demonstrate plasma burning in pulsed operation.[2]
+
+In July 1974, the Department of Energy (DOE) held a large meeting that was
+attended by all the major fusion labs. Notable among the attendees was
+Marshall Rosenbluth, a theorist who had a habit of studying machines and
+finding a variety of new instabilities that would ruin confinement. To
+everyone's surprise, at this meeting he failed to raise any new concerns. It
+appeared that the path to break-even was clear.[6]
+
+The last step before the attack on break-even would be to make a reactor that
+ran on a mixture of deuterium and tritium, as opposed to earlier machines
+which ran on deuterium alone. This was because tritium was both radioactive
+and easily absorbed in the body, presenting safety issues that made it
+expensive to use. It was widely believed that the performance of a machine
+running on deuterium along would be basically identical to one running on D-T,
+but this assumption needed to be tested. Looking over the designs presented at
+the meeting, the DOE team chose the Princeton design.[6]
+
+Bob Hirsch, who recently took over the DOE steering committee, wanted to build
+the test machine at Oak Ridge National Laboratory (ORNL), but others in the
+department convinced him it would make more sense to do so at PPPL. They
+argued that a Princeton team would be more involved than an ORNL team running
+someone else's design. If an engineering prototype of a commercial system
+followed, that could be built at Oak Ridge. They gave the project the name
+TFTR and went to Congress for funding, which was granted in January 1975.
+Conceptual design work was carried out throughout 1975, and detailed design
+began the next year.[6]
+
+TFTR would be the largest tokamak in the world; for comparison, the original
+ST had a plasma diameter of 12 inches (300 mm), while the follow-on PLT design
+was 36 inches (910 mm), and the TFTR was designed to be 86 inches (2,200
+mm).[2] This made it roughly double the size of other large-scale machines of
+the era; the 1978 Joint European Torus and roughly concurrent JT-60 were both
+about half the diameter.[7]
+
+As PLT continued to generate better and better results, in 1978 and 79,
+additional funding was added and the design amended to reach the long-sought
+goal of "scientific breakeven" when the amount of power produced by the fusion
+reactions in the plasma was equal to the amount of power being fed into it to
+heat it to operating temperatures. Also known as _Q_ = 1, this is an important
+step on the road to useful power-producing designs.[8] To meet this
+requirement, the heating system was upgraded to 50 MW, and finally to 80
+MW.[9]
+
+Construction began in 1980 and TFTR began initial operations in 1982. A
+lengthy period of break-in and testing followed. By the mid-1980s, tests with
+deuterium began in earnest in order to understand its performance. In 1986 it
+produced the first 'supershots' which produced many fusion neutrons.[10] These
+demonstrated that the system could reach the goals of the initial 1976 design;
+the performance when running on deuterium was such that if tritium was
+introduced it was expected to produce about 3.5 MW of fusion power. Given the
+energy in the heating systems, this represented a _Q_ of about 0.2, or about
+only 20% of the requirement for break-even.[8]
+
+Further testing revealed significant problems, however. To reach break-even,
+the system would have to meet several goals at the same time, a combination of
+temperature, pressure and the length of the pulse. In spite of considerable
+effort, the system could only demonstrate any one of these goals at a given
+time. In April 1986, TFTR experiments produced a fusion triple product of 1.5
+x 1014 seconds per cubic centimeter, which is close to the goal for a
+practical reactor and five to seven times what is needed for break-even.
+However, the temperature was far below what would be required. In July 1986,
+TFTR achieved a plasma temperature of 200 million kelvin (200 MK), at that
+time the highest ever reached in a laboratory. The temperature is 10 times
+greater than the center of the sun, and more than enough for breakeven.
+However, to reach these temperatures the triple product had been greatly
+reduced to 1013, two or three times too small for break-even.
+
+Major efforts to reach the conditions needed for break-even continued. Donald
+Grove, TFTR project manager, said they expected to achieve that goal in 1987.
+This would be followed with D-T tests that would actually produce break-even,
+beginning in 1989.[11] Unfortunately, the system was unable to meet any of
+these goals. The reasons for these problems were intensively studied over the
+following years, leading to a new understanding of the instabilities of high-
+performance plasmas that had not been seen in smaller machines. A major
+outcome of TFTR's troubles was the development of highly non-uniform plasma
+cross-sections, notably the D-shaped plasmas that now dominate the field.
+
+Although it became clear that TFTR would not reach break-even, experiments
+using tritium began in earnest in December 1993, the first such device to move
+primarily to this fuel. In 1994 it produced a then world-record of 10.7
+megawatts of fusion power from a 50-50 D-T plasma (exceeded at JET in the UK,
+which generated 16MW from 24MW of injected thermal power input in 1997, which
+is the current record). The two experiments had emphasized the alpha particles
+produced in the deuterium-tritium reactions, which are important for self-
+heating of the plasma and an important part of any operational design. In
+1995, TFTR attained a world-record temperature of 510 million °C - more than
+25 times that at the center of the sun. Also In 1995, TFTR scientists explored
+a new fundamental mode of plasma confinement -- enhanced reversed shear, to
+reduce plasma turbulence.[12]
+
+TFTR remained in use until 1997. It was dismantled in September 2002, after 15
+years of operation.[13]
+
+It was followed by the NSTX spherical tokamak.[14]
+
+  
+

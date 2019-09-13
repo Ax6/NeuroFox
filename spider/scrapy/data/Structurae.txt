@@ -1,0 +1,27 @@
+**Structurae** è una banca dati in linea contenente opere di ingegneria
+strutturale e civile di tutti i tipi, quali ponti, case a torre, torri, dighe,
+ecc. In aggiunta, la banca dati contiene informazioni su società e persone
+(ingegneri, architetti e costruttori) coinvolti nella progettazione o
+costruzione delle strutture. Il nome _Structurae_ è la forma plurale della
+parola latina _strūctūra_ (struttura).
+
+Structurae è sostenuta dai contributi di centinaia di volontari che
+condividono i loro dati, informazioni ed immagini per le varie voci. La
+maggior parte delle voci contiene riferimenti da riviste specializzate e altre
+fonti. Il fondatore, Nicolas Janberg, è un ingegnere edile e progettista di
+ponti franco-tedesco che decise di creare Structurae nel 1998, dopo aver
+sviluppato un progetto simile per un corso mentre era assistente al
+Dipartimento di Ingegneria civile dell'Università di Princeton. Structurae fu
+modellato come idea e strutture sulla banca dati di architettura archINFORM,
+che è considerato un progetto pionieristico nell'acquisizione e nella
+riproduzione di dati sugli edifici in Internet.
+
+La banca dati e il sito web di Structurae sono disponibili in tre lingue —
+inglese, francese e tedesco. Il progetto è finanziato attraverso pubblicità in
+linea, sponsorizzazioni, voci a pagamento per aziende e una banca dati di
+prodotti. Il sito web è composto da più di 100.000 pagine individuali
+programmate in ColdFusion e utilizzanti una banca dati MySQL.
+
+Nel marzo 2012, Structurae fu acquistato dalla Ernst & Sohn, una sussidiaria
+tedesca della casa editrice statunitense John Wiley & Sons, Inc.
+

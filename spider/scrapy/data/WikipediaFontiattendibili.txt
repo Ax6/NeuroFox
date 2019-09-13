@@ -1,0 +1,94 @@
+Le voci di Wikipedia devono essere basate su **fonti attendibili e
+pubblicate**. Questa pagina è una diretta conseguenza di quanto indicato nelle
+linee guida Wikipedia:Verificabilità e Wikipedia:Niente ricerche originali.
+
+Wikipedia:Verificabilità dice che qualsiasi contributo che possa anche solo
+potenzialmente essere messo in dubbio necessita di una fonte e di riferimenti,
+e la responsabilità di trovare tale fonte spetta a chi aggiunge o modifica il
+contributo in questione. A volte è meglio non avere un'informazione piuttosto
+che avere un'informazione senza una fonte. Wikipedia:Niente ricerche originali
+vieta invece l'inserimento di contributi, teorie, saggi, opinioni che non
+godano già di una adeguata diffusione tra le fonti terze e attendibili.
+
+Le fonti attendibili sono quelle pubblicate da editori o autori considerati
+affidabili e autorevoli _in relazione al soggetto in esame_ : questa
+precisazione è particolarmente importante, poiché una fonte (un sito, un
+libro, e così via) non va considerata attendibile in sé, ma in relazione a ciò
+per cui viene usata. Così, per esempio, il sito di un partito sarà (salvo casi
+particolari) fonte attendibile per lo statuto di quel partito, non lo sarà per
+la descrizione degli eventuali problemi giudiziari dei suoi membri.
+
+Le pubblicazioni attendibili sono quelle con una struttura definita che
+consente il controllo delle informazioni e le revisioni editoriali o dei pari.
+L'attendibilità di una fonte dipende poi dal contesto: un celebre astronomo
+non è una fonte attendibile per ciò che concerne la politica monetaria. In
+generale, una voce dovrebbe utilizzare fonti il più possibile attendibili,
+pubblicate e _appropriate_ per tentare di coprire la maggior parte dei punti
+di vista pubblicati (includendo proporzionalmente le minoranze significative),
+e rispettando sempre un punto di vista neutrale.
+
+**Una voce di Wikipedia non può essere considerata né utilizzata come fonte
+attendibile per un'altra voce** , anche quando proveniente da un'altra
+versione linguistica dell'enciclopedia o anche se si trattasse di una voce
+giudicata da vetrina (si rimanda a quanto scritto nelle avvertenze generali):
+ciò allo scopo di evitare autoreferenzialità (Wikipedia che cita come fonte
+Wikipedia), proliferazione di errori e facili abusi (un utente potrebbe
+inserire un'informazione in una voce della Wikipedia in portoghese e poi
+citarla su it.wiki a suo sostegno). Questo vale anche per qualunque altro sito
+che permetta a chiunque la libera modifica dei contenuti.
+
+Le tesi universitarie, spesso facilmente reperibili in rete, non sono
+accettabili come fonti autorevoli né attendibili essendo anche ricerche
+originali, non equiparabili a pubblicazioni scientifiche soggette a revisione
+paritaria; tuttavia la loro consultazione può essere utile per trovare
+indicazioni bibliografiche da consultare e utilizzare.
+
+Le fonti sono usate per:
+
+Se tutte le fonti fornite per un'affermazione o per un argomento trattato sono
+scarsamente attendibili, il materiale potrebbe non essere adatto ad essere
+presente su Wikipedia (si veda Wikipedia:Cosa Wikipedia non è e
+Wikipedia:Enciclopedicità).
+
+Dato che le fonti disponibili e utilizzabili sono molteplici, dai libri ai
+siti internet, dagli articoli di giornale alle pubblicazioni scientifiche di
+istituti internazionali fino alle riviste tematiche specializzate, è buona
+norma cercare sempre di **utilizzare le fonti più autorevoli a disposizione**
+in merito a un dato argomento. Per esempio:
+
+Più in generale: libri pubblicati da case editrici prestigiose hanno la
+precedenza su libri autopubblicati dall'autore; i siti internet "ufficiali"
+hanno la precedenza su quelli amatoriali; le testate giornalistiche di fama
+mondiale hanno la precedenza sulle testate giornalistiche locali e così via.
+In caso di posizioni contrastanti su di un determinato tema, è bene riportare
+tutte le posizioni rilevanti, cercando di riportarle proporzionalmente
+all'effettiva rilevanza di ciascuna (stabilita, come negli altri casi, per
+mezzo delle fonti più attendibili), evitando l'ingiusto rilievo.
+
+Le voci devono fondarsi, di norma, su fonti secondarie, perché _non spetta al
+wikipediano interpretare o rilevare l'importanza dellefonti primarie_ (si
+veda: niente ricerche originali).
+
+Le voci dovrebbero contare su fonti attendibili, pubblicate e di terze parti
+con una reputazione per controllo delle informazioni e accuratezza. Le fonti
+dovrebbero essere appropriate per le affermazioni pubblicate.
+
+Alcuni concetti particolarmente evidenti dovrebbero allertare gli utenti e
+spingerli a esaminare le fonti:
+
+Affermazioni eccezionali dovrebbero essere supportate da fonti multiple di
+alta qualità e affidabilità, specialmente in ambito scientifico, medico,
+storico, politico, religioso e nelle biografie.[1] Questo è anche previsto
+dalle linee guida sull'uso delle fonti.
+
+Le fonti per materiale riguardante persone viventi devono essere citate con
+molta cura. Senza fonti attendibili di terze parti si violano le linee guida
+sulla necessità di non pubblicare ricerche originali, sulla verificabilità,
+sul punto di vista neutrale e si rischia di pubblicare inoltre informazioni
+diffamatorie.
+
+Se le fonti per materiale riguardante persone viventi sono solo fonti non
+attendibili, dubbie, di scarsa rilevanza o che possono essere messe in
+discussione, esse non dovrebbero essere usate né come fonti, né come
+collegamenti esterni.
+

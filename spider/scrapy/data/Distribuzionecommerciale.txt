@@ -1,0 +1,155 @@
+Prodotto / Prezzo  
+Promozione / Distribuzione  
+Ricerche di mercato / Strategie di marketing  
+Marca / Gestione del marchio  
+
+Pubblicità / Sales promotion  
+Personal sales / Mailing  
+Pubbliche relazioni / Direct marketing  
+
+Comunicazione / Economia aziendale  
+Customer relationship management  
+
+La **distribuzione commerciale** è lo strumento attraverso il quale le aziende
+produttrici e distributrici immettono sul mercato beni e servizi.
+
+La distribuzione è anche una delle **4P** del _marketing mix_ , e si considera
+come un insieme di istituzioni indipendenti che operano per rendere un
+prodotto o servizio disponibile al consumatore per l'uso.
+
+Sebbene a volte utilizzati come sinonimi, commercializzazione e distribuzione
+sono due concetti diversi[1]. In generale, con il termine
+**commercializzazione** s'intende l'attività di vendita di merci acquistate
+come finite, ovvero non oggetto di produzione/trasformazione.
+
+La distribuzione, in genere, riguarda le imprese che realizzano prodotti
+propri: il variegato mondo delle imprese della subfornitura, per loro natura
+di fornitori di particolari su specifica per non parlare dei terzisti di
+lavorazioni su prodotti forniti dal cliente, non deve implementare articolati
+processi di distribuzione vera e propria.
+
+Nella distribuzione, gli intermediari tra produttore e cliente possono essere
+caratterizzati da:
+
+_Aziende mercantili che operano in nome e per conto proprio_
+
+_Aziende mercantili che operano in nome e per conto altrui (ausiliari del
+commercio)_
+
+Tali aziende non si legano all'acquirente ma promuovono unicamente una
+vendita. Il successivo contratto di compravendita vedrà coinvolte, come parti,
+unicamente il rivenditore e l'acquirente procacciato. Ricevono un compenso
+detto provvigione ed eventualmente uno star del credere dall'azienda
+rappresentata.
+
+_Aziende mercantili che operano in nome proprio ma per conto altrui (ausiliari
+del commercio)_
+
+Tali aziende, a differenza di quelle sopra riportate si legano all'acquirente
+o al venditore (potendo agire sia dal lato degli acquisti sia dal lato delle
+vendite). I successivi contatti di compravendita li vedranno menzionati fra le
+parti ed il cliente procacciato o il fornitore individuato potranno rivalersi
+su di loro in caso di diatriba. Agiscono a seguito di mandato da parte di un
+committente e ricevono, a livello di compenso, una commissione ed eventuali
+star del credere se stabiliti.
+
+Oltre a tali aziende, possono integrare l'anello della distribuzione, anche
+altre forme d'azienda come, ad esempio, i franchisee, costituitisi a seguito
+della stipulazione di un contratto di franchising.
+
+A seconda del numero di intermediari, esistono diversi tipi di canale di
+vendita (o canale distributivo) attraverso il quale un'azienda propone i
+propri prodotti sul mercato.
+
+È tipico delle aziende che hanno loro punti vendita (svolgendo attività sia di
+produzione diretta sia di produzione indiretta), delle aziende di produzione
+che vendono direttamente al consumatore tramite vendite per corrispondenza,
+vendite porta a porta, vendite tramite distributori automatici, vendite
+perfezionatesi per tramite del commercio elettronico. Tale canale è usato,
+quindi, dalle aziende industriali che si orientano ad una distribuzione _pull_
+(che attira il cliente a sé)
+
+È tipico dei dettaglianti costituiti sotto forma di gruppo d'acquisto che, per
+tramite dello stesso gruppo, saltano l'anello del grossista nonché degli
+attori della GDO costituiti sotto forma di catena con grosso potere d'acquisto
+che promuovono contatti diretti con le aziende di produzione al fine di curare
+lo smercio di quanto da esse prodotto. È sfruttato dalle aziende produttrici
+con orientamento _push_ alla distribuzione (che spinge il consumatore a
+rifornirsi dai distributori quali, ad esempio, i grossisti e i dettaglianti) e
+prevede, pertanto, conseguenti azioni di trade marketing.
+
+Induce inevitabili ricarichi di prezzo per il consumatore finale ma, in
+parecchi casi, esso risulta assolutamente necessario in quanto, la figura del
+grossista, funge da anello di spinta fondamentale alla vendita. Pure in questo
+caso il canale è sfruttato da aziende produttrici con orientamento _push_ alla
+distribuzione, prevedendo ingenti azioni di trade marketing dal momento che,
+in questo caso, il canale, non prevede unicamente la figura del dettagliante
+ma anche quella del grossista.
+
+Esistono fondamentalmente tre strategie di _market coverage_ :
+
+Le attività inerenti alla distribuzione commerciale implicano necessariamente
+la movimentazione della merce. Pertanto, la netta differenza tra la vendita al
+dettaglio e quella all'ingrosso è che in quest'ultima l'elemento
+diversificativo e indispensabile è il trasporto, mentre in quella al dettaglio
+l'elemento predominante è l'esposizione del prodotto.
+
+Il _channel management_ è la gestione del canale distributivo dei prodotti da
+parte di un'azienda. Corrisponde all'insieme delle relazioni instaurate fra
+intermediari commerciali e fornitori industriali. Di queste relazioni si
+distinguono tre tipi:
+
+A tal proposito, il _Trade marketing_ è una disciplina che si occupa di
+studiare e analizzare i complessi aspetti che intercorrono nel rapporto
+industria-distribuzione.
+
+Il _Channel Manager_ Alberghiero è un software utile ad unificare la
+distribuzione "elettronica" di un Hotel. Il proliferare di "agenzie di viaggi
+on-line", dette OTA, ha causato negli ultimi anni un incremento sensibile
+delle ore uomo necessarie a tenere aggiornati gli inventari di ciascuno di
+questi "canali". Disponibilità giornaliera, prezzi e variazioni. Un altro
+effetto della distribuzione internet sulla distribuzione alberghiera è una
+fortissima concorrenza sui prezzi. Questa concorrenza ha stressato ancor di
+più il mercato che quindi compete quotidianamente con variazioni di prezzo
+secondo la concorrenza. Questo ha causato un ulteriore problema, poiché
+obbliga gli Hotel a modificare le proprie tariffe e strategie di vendita anche
+più volte al giorno.
+
+Queste necessità hanno creato il bisogno di strumenti informatici utili nello
+stesso tempo a diminuire il tempo necessario all'aggiornamento degli inventari
+ed a controllare di più e meglio le proprie strategie tariffarie in un mercato
+estremamente competitivo.I Channel Manager hanno offerto una risposta a questa
+necessità.
+
+I _Channel Manager_ sono di 2 tipi.
+
+Nel primo caso, i _One Way_ , il software non fa altro che compilare uno
+"script" che viene inviato in modalità http verso gli _extranet_ delle OTA.
+Modalità piuttosto insicura ed illegale, contenendo infatti lo script le login
+e password dell'hotel per l'accesso all' _extranet_.
+
+Nel secondo caso, gli XML 2 _ways_ , la comunicazione, certificata, avviene in
+modalità protetta da _server_ a _server_. Dal _server_ del _Channel Manager_
+al _server_ della OTA. Esiste un accordo tra le due parti e lo scambio è
+bidirezionale. Ovvero il _Channel Manager_ riceve le prenotazioni e le
+modifiche delle stesse dalle OTA.
+
+I _Channel Manager_ nel settore alberghiero hanno preso piede negli ultimi
+anni a seguito della forte crescita della distribuzione online del prodotto
+Hotel. Le agenzie di viaggio on-line (O.T.A. On-Line Travel Agency) sono
+cresciute enormemente col crescere del mercato che è diventato il secondo
+mercato per transazioni di Internet. Gli alberghi devono aggiornare i propri
+contenuti all'interno dei database di queste O.T.A., in appositi _extranet_
+per la gestione degli inventari, ovvero Prezzi, Disponibilità, Regole della
+prenotazione. Col crescere di queste OTA si sono moltiplicati gli _extranet_
+da aggiornare costituendo un lavoro _time-consuming_ per gli hotels, e
+rischioso a causa della alta possibilità di errore nell'aggiornamento di tanti
+"inventari".
+
+I _Channel Manager_ si propongono di risolvere il problema attraverso un unico
+inventario centralizzato collegato in modalità Xml ai Server delle OTA. Il
+risultato è che l'hotel controlla di fatto un unico Extranet che
+ridistribuisce informazioni ed inventari ad N "Canali", ovvero le OTA.
+
+Altri progetti
+

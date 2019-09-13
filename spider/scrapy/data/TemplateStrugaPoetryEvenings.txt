@@ -1,0 +1,5 @@
+Questo template di navigazione appare inizialmente chiuso nelle voci perché
+generato da un Template:Navbox con valore _collapsed_ inserito nel parametro
+_state_. Solo in questa pagina il template appare di default aperto per
+facilitarne la consultazione.
+

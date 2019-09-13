@@ -1,0 +1,426 @@
+La **chitarra elettrica** è un tipo di chitarra in cui la vibrazione delle
+corde viene rilevata da uno o più pick-up; il segnale viene quindi prelevato
+all'uscita e convogliato in un amplificatore acustico affinché il suono sia
+udibile.
+
+Dal punto di vista organologico appartiene alla famiglia dei cordofoni (più
+precisamente fa parte dei liuti a manico lungo) e non è considerata un
+elettrofono[1][2] perché non genera il suono per via elettrica o elettronica
+mediante una circuiteria; l'elettronica non è tuttavia una componente
+accessoria, ma fa intrinsecamente parte dello strumento stesso partecipando in
+maniera imprescindibile all'emissione: quello che viene trasdotto in un
+segnale elettrico e amplificato non è il suono acustico, ma il campo
+elettromagnetico oscillante generato dalle corde vibranti[3].
+
+La chitarra elettrica è formata dalle parti seguenti:
+
+In una chitarra acustica, l'oscillazione delle corde induce una vibrazione
+della cassa acustica dello strumento. Questa risonanza amplifica dunque la
+vibrazione prodotta dalle corde e la diffonde nell'ambiente circostante. In
+una chitarra elettrica, invece, i pick-up magnetici generano un campo
+magnetico in prossimità della corda. Questa viene quindi magnetizzata e,
+vibrando, modifica a sua volta il campo magnetico. Queste oscillazioni del
+campo magnetico risultante creano una variazione di flusso attraverso le
+bobine che si trovano intorno al pick-up. Si genera quindi una corrente
+indotta all'interno di tali bobine. Questo segnale elettrico, che contiene
+quindi le caratteristiche della vibrazione della corda metallica in
+oscillazione (frequenza, ampiezza, ecc.), è troppo debole per essere udibile
+attraverso la riproduzione per mezzo di altoparlanti. Viene dunque inviato a
+un amplificatore, e solamente dopo essere stato opportunamente amplificato
+viene inviato a uno o più altoparlanti che trasformano il segnale elettrico in
+un segnale sonoro, udibile dall'orecchio umano. Spesso l'amplificatore e
+l'altoparlante sono integrati in un medesimo apparecchio, chiamato esso stesso
+"amplificatore" nel linguaggio comune. Sovente, prima di giungere
+all'amplificatore, il segnale elettrico viene processato da uno o più effetti
+che ne alterano le caratteristiche.
+
+La chitarra elettrica non ha pertanto bisogno di avere una cassa di risonanza:
+la chitarra elettrica _solid body_ è infatti uno strumento pieno e rigido.
+D'altra parte, dove una cassa di risonanza è presente (ossia nelle chitarre
+semiacustiche) questa dà allo strumento particolari caratteristiche timbriche
+ma non è essenziale al suo funzionamento.
+
+La chitarra elettrica può avere un corpo solido in cui il suono è totalmente
+amplificato da dispositivi elettronici (pickups) e si parla quindi di chitarra
+_solid body_ , oppure un corpo di tipo tradizionale presentante cassa armonica
+e si parla in questo caso di chitarra _semiacustica_. A loro volta le chitarre
+semiacustiche, a seconda della altezza del corpo e della tecnologia
+costruttiva, si definiscono come _hollow body_ (corpo cavo), con una
+profondità simile alla chitarra acustica e corpo completamente cavo, o con una
+profondità in genere pari a circa la metà di una chitarra acustica e con un
+blocco di legno solido posto in senso longitudinale tra il blocco del tacco
+anteriore e il blocco posteriore, da qui il termine _semi-hollow body_.
+
+Le più diffuse chitarre elettriche, le _solid body_ , letteralmente "corpo
+solido" (nel significato inglese di "massiccio"), non hanno una cassa di
+risonanza, ma un corpo di legno pieno (o, più raramente, di altri materiali
+quali resine sintetiche, resine acriliche, plexiglas). La forma del corpo, il
+legno con cui è realizzato e il tipo di pick-up usato sono determinanti ai
+fini della resa sonora dello strumento.
+
+Esistono tre principali tipi di solid body, che differiscono per il modo in
+cui il manico ed il corpo vengono uniti: bolt-on neck ("manico avvitato"),
+cioè con manico avvitato al corpo (es: Fender Stratocaster), neck-thru body
+("manico attraverso il corpo") cioè con manico che percorre l'intera lunghezza
+della chitarra, corpo compreso (es: Ibanez RGT), e set-in-neck (o "set-neck")
+("manico attaccato"), cioè con manico incollato al corpo della chitarra (es:
+Gibson Les Paul).
+
+Le chitarre a manico avvitato sono caratterizzate da un suono generalmente più
+ricco di alte frequenze, povero di quelle medie e scarso di bassi profondi;
+c'è tuttavia da precisare che, vista l'altissima influenza che la scelta dei
+materiali, la tecnica costruttiva e la mano del liutaio possono esercitare
+sullo strumento finito, non sono rari i casi di strumenti che contravvengono a
+queste "regole". Questo sistema, oltre a essere più economico, permette di
+effettuare delle lavorazioni, compreso il cambio del manico, in maniera più
+semplice. Jimi Hendrix era noto riassemblare le Fender Stratocaster che
+distruggeva durante i concerti recuperando pezzi sani da diverse chitarre.
+Anche la famosa _Blackie_ di Eric Clapton è il risultato di un corpo e un
+manico provenienti originariamente da diverse chitarre.
+
+Le chitarre con il manico passante nel corpo sono caratterizzate da un
+notevole sustain, da un buon bilanciamento di suoni fra alti, medi e bassi e
+da un perfetto allineamento tra manico e corpo. Secondo molti risultano
+particolarmente "comode" da suonare, in quanto normalmente si ha un accesso
+molto più facile ai tasti più vicini al corpo rispetto a strumenti in cui sono
+utilizzati gli altri due tipi di giunzione. Per motivi pratici non è possibile
+nelle chitarre con sistema _bolt-on_ fissare il manico troppo esternamente al
+corpo dello strumento (mentre in alcune chitarre con sistema set-in, il
+problema viene ovviato, ad esempio nella Gibson SG). Ha come lato negativo
+l'impossibilità di agire sull'attacco manico-corpo e di sostituire il manico,
+qualora fosse necessario; infatti, generalmente il manico, per garantire
+solidità, viene costituito da diverse parti di legno incollate tra loro
+longitudinalmente, rispetto alla chitarra, e più raramente al suo interno
+vengono incollate delle barre in fibra di carbonio (proprio per
+l'impossibilità di cambiare il manico in caso di rottura).
+
+Le chitarre con il manico incollato al corpo hanno in linea di massima le
+caratteristiche positive, in termini di sustain e bilanciamento delle
+frequenze, simili a quelle con il manico passante ma in queste chitarre
+risulta possibile operare sul manico. Ovviamente, visto che il sistema è
+incollato, il lavoro dovrà comunque essere fatto da un liutaio.
+
+I legni principalmente utilizzati sono: per bolt-on neck, ontano e tiglio per
+il corpo, acero per il manico, eventuale ricopertura in palissandro per la
+tastiera; per il neck-thru, mogano per il corpo, frassino o acero per il
+manico, palissandro per la tastiera; per il set-neck generalmente si utilizza
+mogano sia per il corpo che per il manico, e palissandro per la tastiera.
+Esistono tuttavia numerosissimi modelli che usano legni diversi da questi
+citati. Le chitarre costruite in Asia possono utilizzare legni locali, come
+l'agathis al posto dell'ontano e il nato al posto del mogano, che hanno rese
+acustiche simili. Anche il PVC è stato utilizzato per realizzare delle
+chitarre solid body, e più recentemente si stanno utilizzando materiali
+compositi con sagomature interne per replicare la timbrica dei vari legni.
+
+Le chitarre _hollow body_ presentano una parte o la totalità del corpo vuota,
+con uno o due tradizionali fori di espansione a forma di _f_ posti ai lati
+delle corde, similmente ai fori presenti su altri strumenti a corda, come il
+violino. Queste chitarre sono caratterizzate da un suono particolarmente dolce
+e poco aggressivo (come molti modelli Gibson, Epiphone, ecc. utilizzati
+principalmente per il jazz), oppure molto brillante e squillante (come i
+modelli Gretsch, spesso usati nel rockabilly). Le hollow body sono
+storicamente derivate dalle archtop (vedi sotto) e differiscono da queste
+perché la tavola armonica (e di solito anche il resto della cassa) è costruita
+in laminato e non in legno massello, per limitare il feedback acustico: la
+cassa vuota tende infatti a creare alcuni problemi a causa della risonanza
+delle vibrazioni, che si riflettono nei pickup, e ciò è meno evidente se la
+cassa è in laminato piuttosto che in massello. L'effetto di distorsione
+risulta in ogni caso difficile da ottenere e da controllare. Nel corso degli
+anni, tuttavia, sono stati realizzati modelli decisamente più "spinti" e con
+un suono molto più pieno i quali, attraverso alcuni espedienti tecnici (quali
+la particolare conformazione interna della cassa armonica), riescono ad
+ovviare a questo problema[ _senza fonte_ ].
+
+La ricerca di un compromesso tra le sonorità calde delle semiacustiche e il
+migliore controllo delle risonanze indesiderate agli alti volumi delle _solid
+body_ ha dato inoltre origine a un sottotipo delle semi-acustiche, le
+cosiddette _semi-hollow_. Queste chitarre adottano un corpo di minore spessore
+in cui, in luogo di un'unica cassa, sono presenti due (più raramente una)
+casse di ridotta entità ai lati, mentre la parte centrale del corpo è in legno
+pieno. Solitamente constano di due o tre pezzi incollati, raramente di un
+unico pezzo. Il legno più comunemente usato è l'ontano.
+
+Le chitarre a cassa parzialmente piena hanno trovato terreno fertile nel rock
+and roll e nel blues.
+
+Il primo e più famoso modello semi-hollow è la Gibson ES-335. Altre celebri
+chitarre di questo tipo sono la ES-355, le serie 300 e 600 della Rickenbacker,
+la G&L ASAT Classic _semi-hollow_ (basata sulla Fender Telecaster) e la Gibson
+Blueshawk (basata sulla Nighthawk) prodotta dal 1996 al 2006.
+
+La chitarra _archtop_ , come concepita da Orville Gibson e perfezionata per
+Gibson da Lloyd Loar, nasce come strumento acustico: è costruita infatti
+interamente in legno massello con la tecnica costruttiva propria degli
+strumenti ad arco e possiede una capacità di produrre suono propria ed
+autonoma, tipica degli strumenti acustici, che veniva sfruttata nella sezione
+ritmica delle big band prima dell'avvento dell'amplificazione elettrica, di
+cui però sono oggi provviste quasi tutte le archtop. Spesso, tuttavia,
+l'amplificazione viene eseguita applicando uno o due pickup sospesi (in
+inglese _floating_ , letteralmente "galleggianti") ed i controlli di
+tono/volume sul battipenna senza forare la tavola armonica, mantenendo così
+tutta l'acustica naturale dello strumento. Questo tipo di chitarra, il cui uso
+oggi è prevalente nel jazz e nel blues, è tipicamente costruito a mano,
+essendo la cassa armonica di solito intagliata, ma esistono anche modelli in
+massello pressato.
+
+La storia della chitarra elettrica inizia quando si avvertì l'esigenza di uno
+strumento che avesse alcune caratteristiche proprie della chitarra
+(specialmente per quanto attiene alle modalità di esecuzione), ma che potesse
+suonare insieme agli altri senza esserne sovrastato dal volume di suono. Con
+la nascita delle orchestre jazz e blues, ci si rese conto del problema della
+limitata amplificazione delle chitarre acustiche. Diversi costruttori
+cercarono di ovviare al problema costruendo strumenti che consentissero un
+volume maggiore, con un timbro simile a quello della chitarra acustica.
+
+Lloyd Loar, progettista alla Gibson dal 1920 al 1924, condusse i primi
+esperimenti mediante l'adozione di rilevatori in prossimità delle corde. Il
+concetto di chitarra elettrica deve però molto alle intuizioni di Adolph
+Rickenbacker, che nel 1931 realizzò il primo pick-up elettromagnetico (un
+dispositivo in grado di trasformare le vibrazioni delle corde in impulsi di
+tipo elettrico) ed iniziò ad applicarlo ai normali strumenti acustici, creando
+una chitarra lap steel chiamata _frying pan guitar_ , in due modelli (A22 e
+A25).
+
+Nel 1935 la Gibson iniziò la produzione del modello ES 150, una chitarra
+_semiacustica_ con cassa di risonanza, aperture a "f" sulla tavola e un unico
+pick-up. Il modello riscosse un grande successo. Finalmente la chitarra,
+grazie all'amplificazione, poteva inserirsi meglio nelle formazioni del tempo,
+senza essere sovrastata dal volume degli altri strumenti.
+
+Molti si cimentarono nella costruzione di chitarre elettriche, limitandosi di
+fatto ad amplificare il suono di strumenti acustici. Se da una parte la
+presenza di una cassa armonica combinata ad un pick-up produceva un suono
+pastoso e ricco di armoniche, dall'altra presentava una serie di svantaggi,
+tra cui il più fastidioso era l'effetto noto come feedback acustico. La cassa
+dello strumento entrava in risonanza (effetto Larsen) con il suono emesso
+dall'amplificatore, creando echi, armonici e fischi di difficile gestione, col
+risultato di un suono sgradevole di difficile definizione.
+
+Nel 1941 Les Paul, chitarrista e inventore, crea nei laboratori Epiphone un
+prototipo, detto _The Log_ , ideato per ovviare al problema del feedback. Esso
+consisteva in un manico di chitarra acustica attaccato a un blocco di legno
+massiccio su cui erano installate le parti elettriche, e ai cui lati erano
+fissate le due "ali" di una chitarra acustica a forma di otto. Les Paul
+propose l'idea alla Gibson, che però la rifiutò.
+
+Nel 1946 Paul Bigsby, estroso costruttore di motocicli passato a costruire
+chitarre, e Merle Travis, suo amico, costruiscono una chitarra molto
+innovativa. Anche se prodotto in modo classico, lo strumento presenta un corpo
+alto solo cinque centimetri, e un disegno molto originale sia del corpo stesso
+che della paletta. Il corpo, grazie ad un'asimmetria del disegno attorno al
+manico, permette di raggiungere agevolmente il ventesimo tasto, mentre la
+paletta monta chiavette per l'accordatura disposte solo sul lato superiore. Si
+risolvono quasi completamente i problemi di risonanze indesiderate. Inoltre,
+Bigsby introdurrà un'ulteriore innovazione inventando un sistema che consente
+di agire sulla intonazione delle corde mediante una leva la cui corsa è
+contrastata da una molla, ottenendo così l'effetto vibrato.
+
+Nel 1948 Leo Fender, tecnico progettista di amplificatori, dà una svolta
+definitiva e crea la Broadcaster (oggi conosciuta come Telecaster), una
+chitarra con due pick-up single coil miscelabili e con il corpo pieno in legno
+massiccio che annulla completamente le risonanze indesiderate e aumenta il
+sustain delle corde, sviluppando il concetto di chitarra _solid body_. La
+_Broadcaster_ , costruita inizialmente solo per presentare i propri
+amplificatori, attinge a molte delle innovazioni introdotte dalla chitarra di
+Bigsby e Travis, ma le fa sue migliorandole notevolmente. Il disegno del corpo
+e della paletta, anche se ispirato molto alla linea di Bigsby, è più sobrio e
+moderno, ma soprattutto più razionale. Inoltre lo strumento di Leo Fender
+presenta un vantaggio fondamentale: le fasi di costruzione e assemblaggio
+delle parti che compongono lo strumento sono molto semplificate. Questo si
+traduce nella possibilità di automatizzare il processo di produzione e di
+conseguenza produrre gli strumenti in serie, con costi notevolmente più
+contenuti. Il successo è enorme, tanto che la _Broadcaster_ , divenuta poi
+_Telecaster_ , viene prodotta dalla Fender ancor oggi.
+
+Nel 1950 Ercole Pace è il primo in Italia a richiedere il brevetto (poi
+concesso con il n. 462480 il 21 marzo 1951) per un _dispositivo magneto-
+dinamico, applicabile a strumenti a plettro in genere ed a chitarre in
+particolare, per amplificare il suono in collegamento con la presa fono di
+apparecchi radio_ che poi produrrà in serie in un piccolo laboratorio a Roma,
+in Trastevere. L'originale apparecchio fu acquistato dai più noti chitarristi
+dell'epoca e, non essendo stato poi rinnovato il brevetto, l'idea fu in
+seguito perfezionata da altri. Tale dispositivo differiva dall'analoga
+invenzione oltreoceano di Leo Fender di due anni prima (di cui Ercole Pace era
+ignaro), in quanto il pickup applicato prevedeva un più elaborato avvolgimento
+per ogni magnete, anziché un unico avvolgimento per tutti i magneti come il
+pickup di Fender; adottando appunto una bobina per ogni corda Ercole Pace
+mirava a rendere il rilevamento delle sei corde più bilanciato ed accurato.
+Sotto il profilo tecnico si trattava quindi di due brevetti diversi.
+
+Nel 1953 Leo Fender crea la chitarra che diverrà nel tempo una pietra miliare
+del settore e più in generale della musica rock/blues: la Stratocaster. _Solid
+body_ come la precedente, ha però un _design_ più innovativo e capace di
+restare moderno nel corso dei decenni: il corpo, di minor spessore rispetto
+alla Telecaster, è smussato nella parte posteriore per conferire un migliore
+comfort. I pick-up, single coil, sono tre e sono montati su un originale
+battipenna sul quale sono alloggiati, oltre al selettore per scegliere il
+pick-up desiderato, anche tre potenziometri: uno per regolare il volume e due
+di regolazione tono. Altro fattore rivoluzionario per quel tempo è la leva del
+vibrato, che Fender chiama con termine improprio _tremolo_ (si genera così una
+confusione terminologica che dura ancora oggi): a differenza delle altre
+dell'epoca poste tra l'attaccatura delle corde e il ponte, questa è un
+tutt'uno con il ponte stesso, evitando fastidiose scordature. Anche il ponte è
+innovativo: ogni corda appoggia su una sua "selletta" che dispone sia della
+regolazione in altezza sia in lunghezza, permettendo un'intonazione perfetta e
+una distanza delle corde dalla tastiera ( _action_ ), personalizzabile. La
+_Stratocaster_ viene prodotta ininterrottamente dal 1953; molto apprezzata per
+la sua versatilità, è utilizzata intensivamente sia nel rock, sia in altri
+generi.
+
+L'unica chitarra che ha potuto "competere" in termini di importanza e
+notorietà è la _Gibson Les Paul_ , che debuttò nel 1952 come la risposta di
+Gibson, che a tal fine aveva assunto Les Paul nel suo team di progettazione,
+alla Fender Telecaster. La Les Paul si avvicina di più al disegno di Bigsby-
+Travis, ma ha forme più fluide e meno spigolose. Caratteristica saliente è
+l'uso di due pick-up _humbucker_ , più potenti dei _single coil_ e dalla
+timbrica più "nasale". Le regolazioni di tono e volume sono affidate a due
+coppie di potenziometri e ad un selettore per miscelare il suono dei due pick-
+up. Il ponte non ha la leva del vibrato; la regolazione dell' _action_ delle
+corde avviene con due ghiere poste ai lati che sollevano o abbassano tutte e
+sei le corde contemporaneamente. L'intonazione invece può essere regolata
+singolarmente corda per corda.
+
+Lo strumento è rimasto sostanzialmente immutato rispetto alle intuizioni di
+Leo Fender, Ercole Pace e Les Paul; lo sviluppo attuale verte principalmente
+sull'acquisizione e manipolazione del suono da parte dei pick-up. Il bisogno
+di dialogare con interfacce digitali come il MIDI ha portato alla creazione di
+pick-up esafonici e convertitori analogico-digitali in grado di tradurre il
+segnale analogico in segnale digitale con accuratezza. Ottenuto un segnale in
+forma digitale lo si può immettere in un generatore di suoni campionati
+(expander) per avere a disposizione una varietà strumentale virtualmente
+infinita. Quest'utilizzo dello strumento è però oggetto di critiche da parte
+di chi vede gli expander e i campionatori come strumenti che, permettendo la
+riproduzione di qualsiasi tipo di strumento registrato in precedenza,
+snaturalizzano e avviliscono le peculiarità tipiche della chitarra.
+
+Roger Field ha inventato la _Foldaxe_ , una chitarra elettrica pieghevole che
+Field ha fatto realizzare per Chet Atkins. Un'ímmagine della Foldaxe si trova
+nel libro di Atkins _Me and My Guitars_.
+
+La qualità di una chitarra elettrica è data da molti parametri. Innanzitutto
+se la chitarra è stata fatta a mano o è un prodotto in serie. Nel primo caso
+incide molto sulla qualità anche la capacità del liutaio che la crea.
+
+In secondo luogo la scelta dei materiali è molto importante sia per quanto
+riguarda il corpo, sia per quanto riguarda tastiera e manico: più il legno è
+pregiato e privo di nodi più la qualità dello strumento aumenta. I due legni
+più diffusi nella realizzazione delle tastiere delle chitarre elettriche sono
+il palissandro l'ebano e l'acero, per il corpo l'ontano e il mogano, per il
+manico acero e mogano. Tuttavia oggi si stanno utilizzando nuovi materiali per
+la produzione del corpo come il plexiglas. .
+
+Un altro fattore che incide sulla qualità dello strumento è la qualità dei
+componenti tecnici aggiunti, il ponte utilizzato, la presenza di un
+bloccacorde o di un tremolo di qualità nonché le meccaniche e le elettroniche
+come i pick up di qualità e la precisione delle componenti che regolano il
+suono e i volumi.
+
+Tra gli altri fattori che determinano la qualità ci sono anche l'equilibratura
+o bilanciamento (capacità dello strumento di tenere una posizione comoda una
+volta indossata la tracolla o fascia) e la verniciatura. Tra le più famose c'è
+la cosiddetta colorazione sunburst, con la fascia più esterna nera che va a
+sfumare in colori lignei verso il centro, in genere più costosa delle
+verniciature monocolore coprenti.
+
+Al suono prodotto dalla chitarra elettrica vengono spesso applicati effetti
+che modificano il suono e lo rendono più adatto al genere musicale eseguito o
+al tipo di composizione. Fra questi la saturazione (overdrive), la distorsione
+e il fuzz, molto apprezzati nel rock e, in generale, nella pop music. Spesso
+ai precedenti si associa il pedale wah-wah, molto in voga negli anni settanta
+e ottanta. Fra gli altri effetti applicati con successo alla chitarra
+elettrica, si possono citare delay, riverbero, chorus, flanger, phaser,
+octaver, pitch shifter, tremolo che vanno inseriti quasi esclusivamente nel
+"Loop Effetti" dell'amplificatore (il "Loop Effetti" o la "Mandata e Ritorno"
+si colloca tra preamplificatore e finale di potenza); questi tipi di effetti
+sono sconsigliati in una mandata e ritorno di tipo "seriale", sono altrettanto
+consigliati se il proprio amplificatore dispone di una mandata e ritorno in
+"Parallelo". Anche alcuni processori dinamici come il compressore e il noise-
+gate vengono applicati al segnale della chitarra per modificare l'inviluppo
+del suono. L'utilizzo dei pedali al fine di effettuare il suono è una scelta
+strettamente correlata con lo stile del chitarrista in questione. Così come
+Jimi Hendrix usava molto nelle sue esecuzioni il wah-wah e il Dallas Arbiter
+Fuzz Face, David Gilmour in alcuni periodi ha fatto uso dello stesso Fuzz Face
+o del Big Muff modello Ram's Head, o Triangle, abbinandolo a particolari
+scelte nell'uso di delay dapprima a nastro come il Binson Echorec e poi
+digitali come l'MXR Digital Delay, il TC2290 prodotto dalla TC Electronics o
+il Tape Echo Simulator (T.E.S.) costruito da Pete Cornish a partire dal
+circuito del Boss DD2.
+
+Nonostante la presenza di un numero di effetti dei più svariati tipi,
+l'abilità del chitarrista resta l'elemento più importante nell'esecuzione
+delle varie tecniche, divenute nel corso del tempo parte integrante
+dell'istruzione musicale di coloro che si avvicinano a questo strumento. Fra
+le tecniche più famose e comuni vi sono: il bending, il vibrato, lo slide, il
+palm mute, il legato, hammer on e pull off, il tapping, gli armonici naturali
+e artificiali e lo sweep-picking.
+
+Sebbene sia molto limitativo elencare i marchi principali delle chitarre,
+visto anche che in questi ultimi anni il mercato delle chitarre si sta
+arricchendo di molti nuovi nomi, piccole industrie, o anche solo singoli
+liutai, così come vecchi marchi si stanno riaffacciando con successo dopo anni
+di inattività, si presenta un breve elenco di alcuni nomi particolarmente
+noti.
+
+Uno dei marchi principali sul mercato è sicuramente Fender, che costruisce
+bassi e chitarre elettriche sin dagli anni cinquanta; dopo essere stata
+sull'orlo del fallimento negli anni ottanta ora produce 2000 chitarre al
+giorno. La Fender Musical Instrument Corporation possiede inoltre altri marchi
+di chitarre come Gretsch, Guild e Jackson Guitars.
+
+Le chitarre Fender, principalmente i modelli Stratocaster e Telecaster, sono
+utilizzate praticamente in ogni stile, dal surf anni cinquanta, al country, al
+blues, al classico rock anni sessanta e all'heavy metal, come Dave Murray.
+Fender è ormai un simbolo della musica rock rimasto quasi inalterato anche
+negli anni settanta, ottanta e novanta. In questi ultimi anni molti
+chitarristi Indie, o in cerca di sonorità nuove, utilizzano spesso modelli di
+Fender ritenuti "minori" quali Jazzmaster, Jaguar e altri. Utilizzata in
+maniera minore nel jazz, in cui si preferiscono spesso modelli semiacustici.
+In particolare, il suo modello di punta, Stratocaster introdusse una serie di
+importanti innovazioni, tanto che alcuni la considerano la chitarra più
+influente mai prodotta. Molti chitarristi, infatti, come Jimi Hendrix, Eric
+Clapton o John Mayer hanno utilizzato o utilizzano chitarre Fender, per lo più
+Stratocaster. Sia di Mayer che di Clapton sono in vendita copie delle chitarre
+da loro usate (Stratocaster) su cui è stampata la loro firma.
+
+Concorrente diretta di Fender è Gibson, marca che produce chitarre largamente
+utilizzate in tutti i generi, dal jazz (in cui è da sempre leader), al blues,
+ai generi più duri come ad esempio l'hard rock (vedi AC/DC e Slash).
+Caratteristica principale di queste chitarre è soprattutto l'utilizzo dei
+pickup humbucker e di legni particolarmente pesanti. I modelli principali
+"solid body" della Gibson sono la Les Paul, la SG o "diavoletto", la Flying V,
+la Explorer e la Firebird. Particolarmente noti sono anche alcuni modelli
+"hollow body" come la L-5 e la ES-175 e "semi-hollow" come la ES 335. La
+Gibson è nota anche per molti modelli di chitarra acustica quale le J45, la
+Hummingbird e altre.
+
+Come Fender, anche Gibson ha acquisito altri marchi di chitarre. La Epiphone,
+ad esempio, è stata acquisita dalla Gibson negli anni sessanta proprio per
+limitare la concorrenza. In questi ultimi anni Epiphone fabbrica molti
+strumenti simili ai modelli Gibson ma in forma più economica. Si ricorda però
+che i Beatles hanno usato spesso modelli Epiphone che in quegli anni erano
+strumenti di notevole qualità. Modello di punta Epiphone è la Les Paul.
+Inoltre Epiphone continua a produrre modelli originali di chitarra di propria
+iniziativa, come la celebre Casino o la Epiphone Wilshire.
+
+Un'altra marca molto apprezzata è la Paul Reed Smith, (abbreviata spesso in
+PRS), con un sound molto versatile e adatto a numerosi generi musicali (dal
+blues rock, fino al metal). PRS è un marchio, in fondo, nuovo sul mercato ma è
+riuscito ad affermarsi ed a crearsi una nicchia di mercato molto interessante.
+Il chitarrista messicano Carlos Santana è stato, forse, il primo grande
+professionista ad usare chitarre PRS e a portarle di fronte al grande
+pubblico.
+
+Di notevole pregio sono anche la ESP Guitars, anch'essa produttrice di
+numerosi modelli, adatti soprattutto ai generi più "estremi" (Metallica,
+Slayer), il marchio giapponese Ibanez, che produce molti modelli di chitarre,
+di tutti i livelli, spesso utilizzate dai "virtuosi" o _shredder_ (ad esempio
+Steve Vai, Joe Satriani, ecc.,) ma produce anche chitarre adatte a blues come
+ad esempio il modello George Benson.
+
+Dean Guitars produce chitarre tradizionalmente utilizzate per il genere metal
+(vedi Pantera, Megadeth, Gwar, Michael Angelo Batio). Ma non solo, la Dean è
+nota anche per chitarre utilizzate da artisti che, seppure in ambito hard
+rock, hanno radici più blues (vedi ZZ Top).
+
+Altri progetti
+

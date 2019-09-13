@@ -1,0 +1,133 @@
+In telefonia, un **prefisso** o **indicativo telefonico** (un tempo 'prefisso
+teleselettivo') è un codice numerico anteposto al numero identificativo per
+specificarne la zona geografica (o l'operatore) oppure una data categoria di
+servizi.
+
+Tali prefissi servono a identificare una area geografica (Paese, provincia o
+comune), o a separare una rete telefonica secondo confini logici (ad esempio,
+i vari prefissi telefonici dei diversi operatori di telefonia cellulare);
+oltre a tornare utili per l'identificazione di speciali reti informative (o a
+pagamento) e di numeri di servizio.
+
+Ogni paese del mondo ha un suo prefisso telefonico internazionale, composto di
+una o più cifre; all'interno di ogni paese – come appena visto –esistono
+suddivisioni ulteriori per zona geografica o rete telefonica. A seconda dei
+casi, può essere necessario o meno usare un prefisso geografico se ci si trova
+già nell'area che viene selezionata (spesso i prefissi usano numeri speciali
+come lo zero, o comunque ben identificati da una convenzione).
+
+L'ortografia di un numero telefonico prevede che i prefissi – separati tra
+loro da un semplice spazio – siano divisi dai numeri identificativi da un
+trattino breve (senza spazi); in aggiunta, nessuna parte del numero dovrebbe
+contenere puntini né la barra [/].
+
+Il prefisso nazionale serve per indicare un'altra provincia (o contea o altra
+suddivisione regionale) nello stesso o in un altro Stato cui si vuole essere
+connessi e non occorre comporlo se ci si trova già al suo interno.
+
+Per connettersi a un'altra provincia però non basta il numero di telefono
+locale preceduto dal prefisso provinciale ma si digita anche un codice di
+accesso che di solito è lo **0** : al livello nazionale si suole riferirsi al
+prefisso di una provincia comprendendo questo codice di accesso, per cui per
+esempio il prefisso di Buenos Aires è abitualmente inteso come 011 e quello di
+Monaco di Baviera come 089.
+
+In Italia il prefisso telefonico è incorporato nel numero di telefono locale.
+Fino al 1998, tuttavia, per telefonare all'interno di un medesimo distretto
+non era necessario comporre il prefisso; il nuovo sistema è stato introdotto
+in via sperimentale il 19 giugno 1998 e in via definitiva il 18 dicembre dello
+stesso anno[1].
+
+In Nord America i prefissi telefonici constano di 3 cifre (ma sempre per un
+totale di 10 cifre compreso il numero locale) e oltrepassano per così dire le
+frontiere (valgono dal Canada agli Stati Uniti del Nord America fino ad alcuni
+Stati caraibici); la loro distribuzione ha ormai raggiunto una situazione
+caotica perché non si può più associare a un prefisso nazionale (area code)
+un'area geografica vera e propria (quella che in Italia è una provincia);
+inoltre per alcuni Stati il codice di accesso (che in questo caso è **1** ,
+non **0** ) è obbligatorio in altri no; per questo motivo è pianificato un
+riordino del sistema.
+
+Ai prefissi internazionali invece si accede per quasi tutti gli Stati con il
+doppio zero (che equivale al simbolo _+_ ). Ad esempio, per telefonare in
+Italia dall'estero si digita 0039 oppure +39 (codice d'accesso + prefisso
+internazionale); altri Stati come gli Stati Uniti d'America hanno _1_ come
+codice d'accesso alla rete nazionale (che include anche il Canada e la maggior
+parte degli stati caraibici) e _011_ per l'accesso a quella internazionale.
+
+Al prefisso internazionale segue il prefisso distrettuale (comprensivo di
+zero, per l'Italia). Talvolta, dopo il prefisso internazionale, uno 0 tra
+parentesi (es. +41 (0) 91 xxx xx xx) indica che per quel Paese - in questo
+caso la Svizzera - il prefisso distrettuale va digitato da parte di chi chiama
+all'interno dello Stato, mentre dall'estero va omesso lo 0 che precede il
+prefisso distrettuale (nell'esempio, +41 91 xxx xx xx).
+
+Anche se per la telefonia mobile si usano apparecchi portatili, il traffico
+generato viaggia attraverso la rete terrestre (ad esempio tramite ponti radio
+fra celle adiacenti, o collegamenti in fibra ottica di lungo raggio), mentre
+la rete mobile propriamente detta consiste solamente nel collegamento radio
+fra cellulare e cella, a distanze non superiori a qualche chilometro.
+
+Gli operatori di telefonia mobile possono associare alla loro utenza diversi
+prefissi nazionali che, diversamente dalla telefonia fissa, non hanno _di
+solito_ nulla a che vedere con l'area geografica dell'utenza stessa. I
+prefissi nazionali danno solo un'informazione sul _primo_ gestore che ha
+assegnato il numero e - parzialmente - sul costo della chiamata. Col fenomeno
+della portabilità del numero, non è detto infatti che l'utente abbia mantenuto
+lo stesso operatore iniziale. Si tratta di un modello di traffico soprattutto
+europeo. Negli Stati Uniti il prefisso può sì essere indipendente dalla città
+(per esempio uguale per tutto lo Stato) ma essere valido solo come prefisso
+urbano, nel senso che per telefonare a un altro cellulare in un'altra città
+bisogna inserire il prefisso nazionale corrispondente della rete fissa (come
+accade per esempio in Argentina), ma ci sono anche altri sistemi. Normalmente
+si deve digitare anche per la rete mobile un codice di accesso ( _0_ ), ma ci
+sono eccezioni: in Italia, dal 30 giugno 2001, si omette lo 0, che a sua volta
+è diventato un'esclusiva dei numeri locali di rete fissa (nonostante questo
+sia diventato parte integrante del numero, assieme al prefisso nazionale),
+mentre rimane solo un prefisso a 3 cifre, che comincia sempre con il numero 3.
+
+Il prefisso internazionale normalmente è lo stesso della telefonia fissa; in
+alcuni casi però è modificato aggiungendo una cifra (come nell'esempio
+dell'Argentina in cui si aggiunge il numero 9 dopo il prefisso
+internazionale). Questo dipende dal fatto che la telefonia mobile ha una rete
+propria solo per l'ultimo tratto, mentre il grosso del traffico viaggia sulla
+rete fissa e quindi vale il sistema della rete fissa.
+
+Sulla base della delibera n. 9/03/CIR del 3 luglio 2003 ( _Piano di
+numerazione nel settore delle telecomunicazioni e disciplina attuativa_ ), in
+Italia (il cui bacino d'utenza telefonico si estende a San Marino e Città del
+Vaticano ma non comprende il comune di Campione d'Italia) l'indicativo
+distrettuale o della rete mobile costituisce parte integrante del numero (dal
+1995) ed è possibile distinguere i prefissi in base al seguente elenco:
+
+L'indicativo geografico era un tempo noto come prefisso teleselettivo in
+quanto consentiva di chiamare un distretto diverso dal proprio, mediante la
+teleselezione, che consentiva di chiamare un altro distretto digitando il
+prefisso interurbano, 0, e l'indicativo distrettuale, seguito dal numero
+dell'abbonato, senza interventi da parte dell'operatore (in questo senso i
+prefissi dei radiomobili non erano teleselettivi).
+
+Con la riforma del 1995, il piano di numerazione è diventato nazionale e
+poiché la numerazione è divenuta univoca su tutto il territorio, in ogni
+numero le cifre che prima costituivano il prefisso sono divenute parte
+integrante del numero e devono essere composte anche nell'ambito del medesimo
+distretto. Tali cifre costituiscono adesso un indicativo geografico e non più
+un prefisso.
+
+La formazione dei numeri geografici rispetta il seguente schema
+esemplificativo:
+
+Per quanto concerne la telefonia mobile:
+
+Chiamate verso San Marino:
+
+Chiamate verso la Città del Vaticano:
+
+Malta, seppur compresa nella regione fisica italiana, è una repubblica
+indipendente e, in quanto tale, dispone di rete telefonica propria con
+prefisso internazionale **+356-**.
+
+Il Comune di Campione d'Italia, exclave italiana in territorio svizzero,
+utilizza la rete telefonica svizzera di cui usa il prefisso internazionale
+**+41-** , eccezion fatta per il centralino comunale ( _031272463_ ).
+

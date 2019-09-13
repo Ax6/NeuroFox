@@ -1,0 +1,35 @@
+**Radio New Zealand International** o **RNZI** è la radio nazionale
+neozelandese a diffusione internazionale. Trasmette su onde corte e su
+internet (in inglese. Alcune notizie vengono trasmesse anche in sette lingue
+dell'Oceano Pacifico.
+
+RNZI ha due trasmettitori, uno analogico da 100 kW e uno digitale.
+
+Le trasmissioni vengono irradiate a Rangitaiki, 41 km a est di Taupo nel
+centro dell'isola del Nord della Nuova Zelanda. Le coordinate sono 176,25E e
+38,505.
+
+L'audio è alimentato ai trasmettitori digitali da un canale digitale dagli
+studi di Wellington, 400 km a sud di Taupo. La trasmissione include una
+operazione di controllo e telemetria sul funzionamento del sistema attraverso
+una porta standard RS232 computer. Il sito non è presidiato, ed è controllato
+dallo Studio nella Nuova Zelanda Radio House di Wellington.
+
+Il trasmettitore digitale Thomson Broadcast and Multimedia è stato installato
+nel 2005. È utilizzato principalmente per fornire una buona qualità del
+segnale per relè da stazioni radio locali nel Pacifico.
+
+Il trasmettitore analogico è stato fabbricato da Thompson (Francia) ed
+installato nel 1990. Ha una potenza di uscita 100 kW ed è dotato di tre tubi
+di trasmissione; due TH581 con raffreddamento a vapore e uno TH581 con
+raffreddamento ad aria.
+
+Gli studi si trovano a sud della città di Wellington. All'inizio del 2000 la
+Radio è passata ad un nuovo sistema digitale che ha sostituito quasi
+completamente i nastri per tutti i programmi trasmessi.
+
+RNZI opera con due antenne ad alta frequenza e due antenne a banda bassa
+prodotte dalla TCI della California. Uno dei fasci ogni 35 gradi e uno di ogni
+fasci 325 gradi. Essi possono essere guidati individualmente, o se
+somministrate in parallelo amplia il raggio di 140 gradi.
+

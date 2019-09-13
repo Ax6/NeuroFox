@@ -1,0 +1,133 @@
+Il termine **1080p** indica una categoria di risoluzioni video, caratterizzate
+da una risoluzione verticale di 1080 linee e dalla scansione progressiva e non
+interlacciata[1]. Il 1080p è uno standard di alta definizione, caratterizzato
+da rapporto d'aspetto dell'immagine di 16:9 e quindi da una risoluzione
+orizzontale di 1920 pixel. La risoluzione di ogni fotogramma è quindi di 1920
+× 1080 pixel, 2 073 600 in totale. La cadenza di ripresa del formato può
+essere implicita o specificata dopo la lettera _p_ , con le consuete notazioni
+_1080p25_ o _1080p/25_ , indicando 25 Hz.
+
+In termini di marketing, il 1080p è chiamato spesso "Full High-Definition",
+nonostante non sia lo stesso significato. Strumenti di ripresa per
+cinematografia digitale 2K/4K sono comunemente disponibili in commercio, e la
+tecnologia _ultra-high definition video_ è in fase di ricerca.
+
+In aggiunta all'indicazione della risoluzione video, il termine **1080p** è
+usato anche, insieme a **1080i** , per indicare la modalità supportata da
+determinate apparecchiature. Per esempio, apparecchiature per alta definizione
+in grado di accettare risoluzioni inferiori e scalarle a 1080p sono indicate
+con questo termine, anche se il video così convertito ha una qualità
+differente da quella proveniente da una sorgente nativa 1080p. Viceversa,
+apparecchiature in grado di visualizzare segnali 1080i e 720p potrebbero non
+essere in grado di gestire lo standard superiore, e questo verrà normalmente
+convertito in un formato gestibile.
+
+Gli standard ATSC e DVB supportano il video 1080p, ma solo a cadenze di
+ripresa di 24, 25 e 30 fotogrammi al secondo ( **1080p24** , **1080p25** ,
+**1080p30** ) e le corrispondenti versioni 1000/1001 (cioè 29,97 al posto di
+30). Cadenze superiori, come **1080p50** e **1080p60** , richiedono molta più
+larghezza di banda o un codec con capacità superiori, tipo H.264/MPEG-4 AVC. È
+previsto che i formati 1080p50 e 1080p60 siano il futuro standard di
+produzione per le trasmissioni televisive.[2]
+
+Negli Stati Uniti, gli standard ATSC sono in fase di presunta revisione per
+permettere l'uso di nuovi codec, in maniera simile a quanto il consorzio _DVB
+Project_ ha già fatto con il DVB-S2.[3] Non ci si aspetta, tuttavia, una larga
+diffusione delle trasmissioni in 1080p60, dal momento che la maggior parte
+della base di televisori installati è in grado di decodificare solo il codec
+MPEG-2, mentre le limitazioni di banda non consentono di trasmettere due fasci
+sullo stesso canale, uno 1080i MPEG-2 e uno 1080p MPEG-4.
+
+L'industria cinematografica ha adottato il 1080p24 come formato di produzione
+sia nella versione 24p sia in quella 24PsF. Potrebbe trattarsi del primo
+standard video universale comune in tutti i continenti dopo la pellicola,
+unico mezzo finora adottato come standard in più continenti[4] Inserire un
+video progressivo in un flusso interlacciato permette il mantenimento del
+formato progressivo minimizzando nel contempo la larghezza di banda necessaria
+allo scopo utilizzando apparecchiature interlacciate.[5]
+
+Negli ambienti di produzione, il 1080p richiede il doppio di larghezza di
+banda rispetto al 1080i o al 720p, con la conseguente necessaria adozione di
+apparecchiature in grado di supportare il formato.[2][6] Per essere
+trasportato, un flusso 1080p richiede un'interfaccia seriale digitale secondo
+le specifiche Dual Link o 3G.
+
+È piuttosto comune, ma errata, la credenza che non sia possibile realizzare
+trasmissioni in alta definizione in 1080p. In realtà, gli standard ATSC
+Americani prevedono trasmissioni 1080p24 e 1080p30. Nella pratica, le
+emittenti usano un formato a 60 Hz nell'header MPEG-2, cioè 720p60 e 1080i35,
+ma questo indica solo l'uscita generata della decodifica MPEG-2, e non il
+reale modo di codifica.
+
+Lo standard MPEG-2 prevede di poter codificare materiale girato a 24 fps (come
+la pellicola) come 1080p24, indipendentemente dal formato di uscita. I
+fotogrammi progressivi sono contrassegnati con metadati (campi dell'header
+PICTURE) che indicano al decoder di effettuare un pulldown 3:2 per
+interlacciarli. Anche se da un punto di vista formale l'uscita del
+codificatore MPEG-2 è un flusso 1080i30, il contenuto reale è 1080p24 ed è
+possibile vederlo come tale. Vale a dire che 24 fotogrammi codificati
+progressivamente sono inseriti in un flusso dati che il decoder trasforma in
+60 semiquadri interlacciati al secondo. La rete NBC usa questo metodo con
+alcune stazioni.
+
+Anche per materiale non codificato con questo sistema, è comunque possibile
+estrarre i 24 fotogrammi originali da una trasmissione 1080i30, dal momento
+che il pulldown 3:2 effettuato dall'emittente non comporta perdita di
+informazioni (a differenza di quello effettuato dal lato ricevente).
+
+Alcuni esempi di contenuti disponibili in formato 1080p su internet includono
+gli Apple QuickTime Trailers in formato QuickTime HD 720p/1080p e il WMV HD
+Content Showcase che contiene clip sia nel formato 720p sia in 1080p. Un altro
+esempio di contenuto 1080p è il podcast MacBreak creato da Leo Laporte e Alex
+Lindsay. Questo podcast è distribuito tramite il protocollo BitTorrent per via
+delle grandi dimensioni dei file dovuti all'alto bitrate. BitTorrent contiene
+anche molti film in 1080p copiati da supporti Blu-ray o da nastri di classe
+broadcast. I film in alta definizione su internet sono spesso in formato
+MKV/MP4, in standard 1080p24/25/30 e molti computer non riescono a riprodurli
+fluidamente.
+
+Il settore delle apparecchiature di classe domestica con supporto a segnali
+1080p è in rapida crescita, con una diffusione crescente riscontrabile dal
+2005 in poi. La maggior parte dei produttori offre televisori al plasma e LCD
+con diverse tecnologie di schermo. I televisori più recenti hanno il supporto
+per il pulldown 3:2 inverso, in grado di produrre un segnale 1080p partendo da
+trasmissioni 1080i60.
+
+Alcuni monitor LCD in 16:9 hanno una risoluzione sufficiente per visualizzare
+nativamente il 1080p, per esempio quelli widescreen WUXGA che supportano una
+risoluzione di 1920 × 1200 pixel, superiore a quella richiesta, e disponibile
+su alcuni portatili con schermo da 15 o 17 pollici.
+
+Molti LCD da 23, 24 o 27 pollici hanno una risoluzione nativa di 1920 × 1200.
+Se il display ha una risoluzione nativa inferiore, il contenuto 1080p sarà
+visibile ma scalato per la risoluzione effettiva.
+
+I monitor per computer a tubo catodico sono da tempo disponibili con
+risoluzioni superiore a quanto richiesto per il 1080p. La maggior parte dei
+CRT, però, ha un rapporto d'aspetto di 4:3, di conseguenza il contenuto sarà
+visibile anamorfico oppure con l'aggiunta di bande nere sopra e sotto.
+
+Alcuni monitor che indicano una risoluzione massima di 1024×768 a 85 Hz sono
+in grado di accettare un segnale in ingresso di 1920x1080 a 60 Hz, dal momento
+che la circuiteria dei CRT permette di elaborare segnali con risoluzione
+superiore ma frequenza inferiore.
+
+Sono disponibili contenuti in 1080p sia su dischi Blu-ray sia HD DVD. I
+lettori Blu-ray più recenti sono in grado di eseguire il **pulldown inverso**
+per ricavare segnali 24p partendo da contenuti interlacciati.
+
+In ambito professionale, il 1080p è registrabile utilizzando formati come
+HDCAM SR e D6.
+
+Console come la Microsoft Xbox 360 e Xbox One e la Sony PlayStation 3[7] e
+PlayStation 4 sono in grado di visualizzare il 1080p tramite segnali video a
+componenti e HDMI.
+
+Il Nintendo Wii invece supporta l'EDTV a 480p solo collegando un cavo AV
+Component ma non arriva alla modalità High Definition.
+
+Wii U supporta la modalità 1080p con il cavo HDMI o Component, inoltre è
+compatibile con il cavo S-Video.
+
+Altri progetti
+

@@ -1,0 +1,45 @@
+**Howard Hathaway Aiken** (Hoboken, 8 marzo 1900 – Saint Louis, 14 marzo 1973)
+è stato un matematico statunitense.
+
+Aiken studiò alla University of Wisconsin–Madison e più tardi, nel 1939,
+ottenne la sua PhD in fisica alla Harvard University. Durante questo periodo
+ebbe a che fare con equazioni differenziali complesse, che poteva risolvere
+solo in modo numerico, ma trovava il processo troppo tedioso, così pensò ad un
+sistema elettro-meccanico in grado di svolgere questo lavoro al suo posto. Il
+computer fu originariamente chiamato ASCC (Automatic Sequence Controlled
+Calculator), mentre più tardi prese il nome di Harvard Mark I. Grazie all'alla
+cooperazione di ingegneri della IBM il progetto fu portato a termine e venne
+installato nel febbraio del 1944 ad Harvard. Richard Milton Bloch, Robert
+Campbell e Grace Hopper entrarono a far parte del progetto più tardi come
+programmatori. Nel 1947 Aiken completò la Harvard Mark II, più tardi lavorò
+alla Mark III e alla Harvard Mark IV, la quale era completamente elettronica.
+Aiken si ispirò alla macchina differenziale di Charles Babbage.
+
+Aiken accumulò molte onorificenze alla University of Wisconsin, Wayne State
+and Technische Hochschule, Darmstadt. Nel 1947 fu eletto Socio della American
+Academy of Arts and Sciences. Ricevette il premio Harry H. Goode Memorial nel
+1964 e nello stesso anno la medaglia John Price Wetherill ed infine nel 1970
+la medaglia IEE (Institute of Electrical and Electronics Engineers) Edison "
+Per una meritata carriera di pioniere nello sviluppo e applicazione dei
+computer digitali e per l'importante contributo all'educazione nel campo
+digitale".
+
+Un altro importante contributo di Aiken fu l'introduzione di un programma
+specializzato della scienza informatica all'università di Harvard nel 1947,
+pochi decenni più tardi il programma comparse in altre università.
+
+Howard Aiken si sposò tre volte: la prima con Louise Mancill, più tardi con
+Agnes Montgomery e infine con Mary McFarland. Con la prima moglie ebbe una
+bambina di nome Rachel Ann, con la seconda ebbe una figlia di nome Elizabeth
+(Betsy).
+
+Howard Aiken fu anche un Comandante nella United States Navy Reserve.
+
+All'età di 60 anni si ritirò in Fort Lauderdale, Florida, dove continuò a dare
+contributi alla tecnologia. Fondò la Howard Aiken Industries Incorporated, la
+quale offriva consultazioni aziendali per business in fallimento. Durante il
+suo soggiorno in Florida si adoperò come Distinto Professore di informatica
+alla Università di Miami. Infine divenne consulente per le compagnie Lockheed
+Martin e Monsanto. Il 14 Marzo del 1973 Aiken morì durante un viaggio a St.
+Louis, Missouri per una consulenza. Sua moglie Mary morì nel 2013.
+

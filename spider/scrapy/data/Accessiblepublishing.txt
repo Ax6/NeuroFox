@@ -1,0 +1,59 @@
+**Accessible publishing** is an approach to publishing and book design whereby
+books and other texts are made available in alternative formats designed to
+aid or replace the reading process. Alternative formats that have been
+developed to aid different people to read include varieties of larger fonts,
+specialised fonts for certain kinds of reading disabilities, Braille, e-books,
+and automated Audiobooks and DAISY digital talking books.
+
+Accessible publishing has been made possible through developments in
+technology such as Print on demand (POD), E-book readers, the XML structured
+data format, and the Internet.
+
+The aim of accessible publishing is to make reading easier for those who have
+difficulties doing so. This group includes people who are blind or visually
+impaired, people with learning disabilities, and people who are learning a
+second language. Accessible publishing also aims to allow people to read
+whichever format allows them to read fastest or allows them to absorb the
+information in a better way.
+
+In the twenty-first century, the accessible publishing aim is to make every
+book available in all formats so that every reader can read with ease and
+proficiency.
+
+Guidelines and techniques for publishing in accessible formats have been made
+available by several organisations and authors, including:
+
+Before the twenty-first century the publishing industry focused on the
+production of printed books. The predominant publishing theory, which stressed
+economy of scale, tended to make only one format of a given book available. In
+this way they could be mass-produced and made available for the general
+public. This model did not allow for any other format to be widely available,
+however.
+
+There were a number of developments in technology that increased the
+accessibility of books. The first of these was the development of the Braille
+language by Louis Braille in 1821.[7] Then there was the development of
+audiobooks which originated from the United States Congress in 1931[8] and
+became popularised by advances in recording and the use of voice actors.
+
+In 1980, Thorndike Press came into existence as a republisher of large print
+books.[9][10] Thorndike bought the rights for large print versions of books
+from publishers and then republished them in a larger and more accessible
+format for people with reading difficulties.
+
+New portable readers, such as the VictorReader Stream[11] and the Plextalk
+Pocket[12] handle talking books in a wide variety of formats including DAISY
+Digital Talking Book, MP3, text only, and many others.
+
+New technology, such as the Sony Reader[13] and Amazon’s Kindle, has the
+ability to alter the size of the font automatically. For example, the reader
+can choose from six different font size settings on the Kindle.[14] The large
+font sizes available allow for easier reading for the visually impaired.
+
+ReadHowYouWant is another leader in developing this technology.[15] It works
+in partnership with publishers to make books available in all formats all
+across the world.[16] This includes specially designed fonts for dyslexia,
+macular degeneration and line tracking problems.
+
+**Accessible publishers** :
+

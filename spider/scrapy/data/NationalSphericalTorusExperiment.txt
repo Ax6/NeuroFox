@@ -1,0 +1,61 @@
+The **National Spherical Torus Experiment** ( **NSTX** ) is a magnetic fusion
+device based on the _spherical tokamak_ concept. It was constructed by the
+Princeton Plasma Physics Laboratory (PPPL) in collaboration with the Oak Ridge
+National Laboratory, Columbia University, and the University of Washington at
+Seattle.
+
+The spherical tokamak (ST) is an offshoot of the conventional tokamak design.
+Proponents claim that it has a number of practical advantages over these
+devices, some of them dramatic. For this reason the ST has seen considerable
+interest since it was proposed in the late 1980s. However, development remains
+effectively one generation behind mainline efforts such as JET. Other major
+experiments in the field include the pioneering START and MAST at Culham in
+the UK.
+
+NSTX studies the physics principles of spherically shaped plasmas—hot ionized
+gases in which nuclear fusion will occur under the appropriate conditions of
+temperature and density, which are produced by confinement in a magnetic
+field.
+
+First plasma was obtained on NSTX on Friday, February 12, 1999 at 6:06 p.m.
+
+Magnetic fusion experiments use plasmas composed of one or more hydrogen
+isotopes. For example, in 1994, PPPL's Tokamak Fusion Test Reactor (TFTR)
+produced a world-record 10.7 megawatts of fusion power from a plasma composed
+of equal parts of deuterium and tritium, a fuel mix likely to be used in
+commercial fusion power reactors. NSTX was a "proof of principle" experiment
+and therefore employed deuterium plasmas only. If successful it was to be
+followed by similar devices, eventually including a demonstration power
+reactor (e.g. ITER), burning deuterium-tritium fuel.
+
+NSTX produced a spherical plasma with a hole through its center (a "cored
+apple" profile; see MAST), different from the doughnut-shaped (toroidal)
+plasmas of conventional tokamaks. The low aspect ratio _A_ (that is, an _R_ /
+_a_ of 1.31, with the major radius _R_ of 0.85 m and the minor radius _a_ of
+0.65 m) experimental NSTX device had several advantages including plasma
+stability through improved confinement. Design challenges include the toroidal
+and poloidal field coils, vacuum vessels and plasma-facing components. This
+plasma configuration can confine a higher pressure plasma than a doughnut
+tokamak of high aspect ratio for a given, confinement magnetic field strength.
+Since the amount of fusion power produced is proportional to the square of the
+plasma pressure, the use of spherically shaped plasmas could allow the
+development of smaller, more economical and more stable fusion reactors.
+NSTX's attractiveness may be further enhanced by its ability to trap a high
+"bootstrap" electric current. This self-driven internal plasma current would
+reduce the power requirements of externally driven plasma currents required to
+heat and confine the plasma.
+
+The NSTX-U (Upgrade) was completed in 2015. It doubles the toroidal field (to
+1 Tesla), plasma current (to 2 MA) and heating power. It increases the pulse
+duration by a factor of five.[1] To achieve this the central stack (solenoid)
+was widened.[2] [3]
+
+The NSTX-U (Upgrade) was stopped in late 2016 just after its update due to a
+particular dysfunction of its poloidal coils. The NSTX had been shut down
+since 2012 and only returned for 10 weeks at the end of 2016 just after it was
+updated. The origin of this failure is partly attributed to a non-compliance
+of the chilled copper winding, the manufacture of which had been sub-treated.
+After a diagnostic phase requiring the complete dismantling of the reactor and
+coils, a restarting plan is adopted in March 2018. Reactivation of the reactor
+is not planned until the end of 2020. [4] [5] [6]
+

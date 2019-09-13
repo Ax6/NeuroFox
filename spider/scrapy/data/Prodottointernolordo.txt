@@ -1,0 +1,247 @@
+In macroeconomia il **prodotto interno lordo** (abbreviato **PIL** ) misura il
+valore aggregato, a prezzi di mercato, di tutti i beni e i servizi finali
+(cioè destinati al consumo) prodotti sul territorio di un Paese in un dato
+periodo di tempo (normalmente si usa come riferimento l’anno ma anche altri
+archi temporali sono usati).[1][2]
+
+Il termine _interno_ indica che tale variabile comprende le attività
+economiche svolte all’interno del Paese; sono dunque esclusi i beni e servizi
+prodotti dalle imprese, dai lavoratori e da altri operatori nazionali
+all’estero; mentre sono inclusi i prodotti realizzati da operatori esteri
+all’interno del Paese. Sono escluse dal PIL anche le prestazioni a titolo
+gratuito o l’autoconsumo.[3]
+
+Il termine _lordo_ indica che il valore della produzione è al lordo degli
+ammortamenti, ovvero del naturale deprezzamento dello stock di capitale fisico
+intervenuto nel periodo; questo deprezzamento comporta che, per non ridurre
+tale dotazione a disposizione del sistema, parte del prodotto deve essere
+destinata al suo reintegro. Sottraendo dal PIL gli ammortamenti, si ottiene il
+PIN (prodotto interno netto).
+
+Il PIL si è guadagnato una posizione di preminenza circa la sua capacità di
+esprimere o simboleggiare il benessere di una collettività nazionale e il suo
+livello di sviluppo o progresso.
+
+Il concetto di PIL similare all'attuale fu espresso in modo completo
+dall'economista Adam Smith nella sua più celebre opera _La Ricchezza delle
+Nazioni_. Egli infatti ritiene che il capitale possa essere di due specie:
+_circolante_ e _fisso_.
+
+Il **capitale circolante** si caratterizza dal fatto che genera un profitto
+per chi lo possiede solo nel momento in cui il proprietario stesso lo cede e
+quindi se ne separa.
+
+Il **capitale fisso** , invece, genera profitto semplicemente dal suo
+possesso.
+
+Smith fa degli esempi per chiarire le sue posizioni. Ponendo caso vi sia un
+contadino che possiede del bestiame da lavoro. Il valore o prezzo del bestiame
+da lavoro costituisce un capitale fisso, infatti finché si possiede il
+bestiame si può trarne profitto, il prezzo del mantenimento invece è capitale
+circolante, la carne ad esempio che viene utilizzata per cibare il bestiame è
+utile solo nel momento in cui il proprietario decide di privarsene per darla
+ai suoi animali. Da notare che se invece il bestiame fosse posseduto da un
+mercante che lo vende, esso sarebbe da considerarsi come merce, e quindi come
+capitale circolante, solo separandosene il proprietario avrà un profitto. Un
+esempio ancora più attuale sempre di Smith può essere quello di una macchina
+agricola; il prezzo di esse è infatti capitale fisso, mentre il prezzo del
+mantenimento capitale circolante.
+
+Dopo aver fatto questa distinzione Smith spiega che la società (e l'individuo)
+divide il capitale in tre quote:
+
+Smith ritiene quindi che il reddito lordo di una nazione sia costituito
+dall'insieme di tutto quello prodotto dal lavoro e dalla terra. Il reditto
+netto si trova invece sottraendo al reddito lordo le spese per il mantenimento
+del capitale fisso e circolante. Considerando quindi in poche parole reddito
+netto unicamente la parte di reddito destinata all'immediato consumo (ovvero
+ad oggi i consumi). Chiarisce però Smith che dalla sottrazione delle spese per
+il mantenimento del capitale fisso e circolante bisognerà escludere la parte
+per il mantenimento di tutto il capitale circolante che non è moneta. Infatti
+Smith osserva che la parte di capitale circolante che non va a finire nel
+capitale fisso, accrescendolo, mantenendolo o migliorandolo (seguendo
+l'esempio del bestiame, il mantenimento del bestiame è inizialmente sia per
+chi lo vende al contadino, sia per il contadino stesso, capitale circolante,
+nel momento in cui nutre il capitale fisso, ovvero il bestiame, entra a far
+parte di esso, mantenendolo), bensì finisce nella quota di immediato consumo
+(le vesti vendute da un mercante sono capitale circolante per il mercante, ma
+prima o poi verranno acquistate da qualcuno che utilizzerà il vestito
+semplicemente per indossarlo) e per questo costituisce reddito netto.
+
+Invece la moneta è unicamente il mezzo attraverso il quale si scambiano i
+beni, e quindi non può essere conteggiata (sarebbe come conteggiare nel PIL,
+oltre alla macchina anche i soldi utilizzati per acquistarla). Adam Smith
+chiarisce anche che tutte le merci che rimangono invendute o le scorte possono
+essere anch'esse considerate parte del reddito netto; infatti, il loro valore
+è immediato consumo per chiunque le acquisterà in futuro, dunque Smith dà per
+scontato che ogni persona destinerà una quota del suo futuro reddito per
+l'immediato consumo e che la somma di tutte queste quote di ognuno sarà
+sufficiente ad acquistare tutte le merci rimaste invendute, e parte o tutte
+quelle dell'anno stesso .[4][5].
+
+Il PIL (prodotto interno lordo) può essere considerato come:
+
+Il PIL è detto interno in quanto comprende il valore dei beni e servizi
+prodotti all'interno di un paese (indipendentemente dalla nazionalità di chi
+li produce). Più precisamente (vedi anche il Sistema europeo dei conti
+nazionali e regionali), si considera la produzione di beni e servizi:
+
+Nel Sistema europeo dei conti nazionali e regionali si passa dal _Conto della
+produzione_ al _Conto della generazione dei redditi primari_ e al _Conto
+dell'attribuzione dei redditi primari_. Il saldo del primo è il risultato
+lordo di gestione (PIL meno redditi da lavoro dipendente dei residenti e meno
+imposte nette sui prodotti e sulla produzione), nel secondo si aggiungono al
+risultato lordo di gestione, tra l'altro:
+
+Si ottiene così il reddito nazionale lordo.
+
+Il PIL è detto _lordo_ perché è al lordo degli ammortamenti (per ammortamento
+si intende il procedimento con il quale si distribuiscono su più esercizi i
+costi di beni a utilità pluriennale, che possono essere di diversa natura).
+
+È una misura basilare usata in macroeconomia.
+
+A partire dal PIL è definibile il reddito pro-capite, pari al rapporto tra il
+PIL e la popolazione nazionale.
+
+Il PIL può essere misurato sia dal lato degli acquirenti (domanda) sia da
+quello dei produttori (offerta);[3] inoltre, esso può essere calcolato facendo
+riferimento ai redditi che esso remunera distribuendo il ricavato della
+vendita. La misurazione del PIL dal lato della domanda esplicita le diverse
+componenti della spesa. Nel conto delle risorse e degli impieghi il PIL si
+ottiene sommando i consumi, gli investimenti fissi lordi e le esportazioni
+nette, ovvero le esportazioni meno le importazioni, tecnicamente chiamato
+saldo commerciale (NX). Le importazioni ovviamente sarebbero ininfluenti nel
+conteggio del PIL, ma la necessità di sottrarle (diminuendo così le
+esportazioni totali) scaturisce dal fatto che all'interno dei consumi vi
+rientrano anche le importazioni, che appunto non possono far parte del PIL.
+Gli investimenti sono al lordo degli ammortamenti, ovvero includono la quota
+necessaria per conservare invariato lo stock di capitale a fine periodo; gli
+investimenti "netti" sono pari alla variazione dello stock di capitale
+dell’economia.
+
+La misurazione del PIL dal lato dell’offerta consiste nel sommare l’apporto al
+PIL del Paese fornito da tutte le imprese. Il PIL è infatti pari alla somma
+del valore aggiunto delle diverse unità produttive e stima gli scambi ai
+prezzi di mercato, comprensivi quindi delle imposte sulla produzione e
+dell’IVA.
+
+Infine, il PIL può essere calcolato come somma dei redditi da lavoro
+dipendente e del risultato lordo di gestione dell’economia, oltre alle imposte
+sulla produzione e all’IVA e al netto dei contributi alla produzione. Della
+misura del PIL devono far parte anche quelle parti di prodotto generate
+dall’economia sommersa. Tale quantità deve essere stimata e aggiunta a quella
+prodotta nel mercato regolare.
+
+Come ogni misurazione economica, il PIL può essere misurato in termini reali o
+termini nominali.
+
+Misurare il PIL in termini nominali vuol dire misurarlo nel suo valore
+espresso in moneta attuale, esprimerlo in termini reali vuol dire depurarlo
+delle variazioni dei prezzi dei beni prodotti. Dividendo il PIL nominale per
+il PIL reale si ottiene un indice chiamato "deflatore del PIL". Il PIL reale,
+al contrario di quello nominale, può essere confrontato fra anni
+diversi.[10][11] Da notare che il deflatore del PIL misura la variazione dei
+prezzi di tutti i beni _prodotti_ (siano essi beni di consumo o di
+investimento, siano essi consumati da residenti o esportati) ed è quindi
+diverso dal tasso di inflazione, che misura la variazione dei prezzi dei soli
+beni di consumo presenti sul mercato interno, compresi quelli importati.
+
+Il concetto di PIL, e anche il modo di calcolarlo, si è perfezionato nel tempo
+a partire dalla sua nascita e, nel corso del tempo, si è guadagnato una
+posizione di preminenza circa la sua capacità di esprimere o simboleggiare il
+benessere di una collettività nazionale. Ma non sono state risparmiate
+critiche, anche a partire da un'epoca in cui il concetto non era così noto e
+dominante.
+
+In generale, le principali critiche alle modalità di misurazione del prodotto
+interno lordo sono le seguenti:
+
+Il dibattito ha portato alla creazione di numerosi indici di benessere o di
+crescita alternativi al PIL, che però si sono dimostrati arbitrari o, al
+massimo, in grado di affiancarlo. Per esempio, il 19 e 20 novembre 2007 si è
+tenuta a Bruxelles la conferenza internazionale “Beyond GDP” (“Oltre il PIL”)
+organizzata dalla Commissione europea, dal Parlamento Europeo, dall'OCSE e dal
+WWF. La conferenza ha richiamato leader politici, rappresentanti di governo ed
+esponenti di istituzioni chiave come la Banca Mondiale e le Nazioni unite con
+l'obiettivo di chiarire quali possano essere gli indicatori più appropriati
+per misurare il progresso[19]. Sempre a testimoniare la crescente attenzione
+del mondo politico per il tema, il presidente francese Nicolas Sarkozy nel
+corso della conferenza stampa di inizio 2008, ha annunciato di aver incaricato
+tre personalità di alto rilievo, Jean-Paul Fitoussi e due premi Nobel per
+l'economia, lo statunitense Joseph Stiglitz e l'indiano Amartya Sen, di
+riflettere su come cambiare gli indicatori della crescita in Francia. «Bisogna
+cambiare il nostro strumento di misura della crescita», ha detto Sarkozy,
+convinto che contabilità nazionale e PIL abbiano «evidenti limiti» che non
+rispecchiano «la qualità della vita dei francesi».[20] Il risultato del loro
+lavoro, a capo della Commissione sulla misurazione delle performance
+economiche ed il progresso sociale è un rapporto uscito nel 2009.
+
+Il principale indicatore proposto come alternativa al PIL che tiene conto
+delle principali critiche poste ad esso, è il Genuine Progress Indicator
+(GPI), in italiano "indicatore del progresso reale". Il GPI ha come obiettivo
+la misurazione dell'aumento della qualità della vita (che a volte è in
+contrasto con la crescita economica, che invece viene misurata dal PIL), e per
+raggiungere questo obiettivo distingue con pesi differenti tra spese positive
+(perché aumentano il benessere, come quelle per beni e servizi) e negative
+(come i costi di criminalità, inquinamento, incidenti stradali). Simile a
+questo indice esiste un Prodotto interno lordo verde introdotto da alcune
+province cinesi.
+
+Un ulteriore indicatore, alternativo a GPI e PIL è la Felicità Nazionale Lorda
+(FIL) oppure, per valutare la qualità della vita dei cittadini dei paesi
+membri delle Nazioni Unite vi è l'Indice di sviluppo umano.
+
+Recentemente è stata sostenuta la proposta, ideata nel 1989 da Herman Daly e
+John Cobb, di utilizzare un indicatore alternativo al PIL: l'ISEW. In tale
+indicatore rientrano non solo il valore complessivo dei beni e dei servizi
+finali prodotti in un paese, ma anche i costi sociali e i danni ambientali a
+medio e lungo termine. In pratica, il calcolo dello sviluppo di un paese non
+si baserebbe più soltanto sulla mera crescita economica ma anche su fattori
+sociali ed ambientali che considerano la soglia dello Sviluppo Sostenibile. A
+questo riguardo, è recentemente stata pubblicata da Donzelli l'analisi
+condotta dall'Università di Siena sotto la direzione del professor Enzo
+Tiezzi: "La soglia della sostenibilità ovvero tutto quello che il Pil non
+dice".
+
+Un altro indicatore è il cosiddetto “subjective well-being” (SWB), vale a dire
+la percezione che gli individui hanno della propria vita e del grado di
+soddisfazione che provano per essa. Questo indicatore della felicità delle
+persone, per quanto sintetico, ha il vantaggio d'essere stato rilevato da
+diversi decenni e in molti paesi del mondo. Studi empirici evidenziano che il
+SWB stenta a crescere nel tempo in diversi paesi, come il Giappone, o
+diminuisce, come negli USA, nonostante il reddito pro-capite abbia avuto una
+evidente tendenza a crescere[21]. Ciò costituisce per gli economisti un
+paradosso, chiamato “paradosso della felicità” o "paradosso di Easterlin", in
+quanto gli economisti sono abituati a pensare al reddito come ad un buon
+indicatore di benessere.
+
+Tutti gli indicatori esaminati sopra hanno la comune caratteristica di
+riconoscere la limitata significatività del prodotto interno lordo e la sua
+inadeguatezza come dato espressivo del reale benessere di un Paese.[ _senza
+fonte_ ] In proposito, esistono tuttavia posizioni più “radicali”: quelle di
+chi reputa che gli indici, ovvero i numeri, siano ben poco espressivi del
+fatto economico e del valore. Di qui la scarsa attendibilità di tutti gli
+indicatori e il giudizio negativo sul sistema dei prezzi come sistema
+esclusivo di misurazione del valore e sull'economia vista come gara alla
+conquista di numeri sempre più grandi capaci di esprimere solo cifre sempre
+più grandi di denaro. Di qui, più in generale, i dubbi sulla possibilità di
+quantificare – qualunque sia il sistema adottato - la misura di variabili che
+presentano legami indissolubili con il tema della qualità della vita, ovvero
+di sottoporre il valore – che «ha un senso, non un prezzo» – a operazioni di
+misurazione in senso stretto[22].
+
+In realtà il problema di misurare il benessere nazionale è un problema
+insolubile, in quanto la misurazione del valore non può essere effettuata su
+base oggettiva. Il valore, come spiegato dalla Teoria soggettiva marginalista
+del valore, viene associato soggettivamente a ciascun bene dalla capacità che
+esso ha, nelle intenzioni d'uso del proprietario, di raggiungere i propri fini
+personali soggettivi. Rimane perciò chiaro che, dacché non è possibile
+misurare oggettivamente né concetti come "valore" e "ricchezza", né
+soprattutto "felicità", né "progresso reale", il PIL rimane un indicatore con
+scarsissimo senso economico, specie se applicato a gruppi di persone
+disomogenei, mentre le soluzioni alternative proposte sono semplicemente
+arbitrarie e irrealistiche.
+
+Altri progetti
+

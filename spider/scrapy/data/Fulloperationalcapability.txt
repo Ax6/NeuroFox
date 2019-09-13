@@ -1,0 +1,15 @@
+In military acquisition, **full operational capability (FOC)** is the
+completion of a development effort.
+
+For the United States Department of Defense military acquisition FOC is
+defined as " _in general attained when all units and/or organizations in the
+force structure scheduled to receive a system have received it and have the
+ability to employ and maintain it. The specifics for any particular system FOC
+are defined in that system’s Capability Development Document (CDD) and
+Capability Production Document (CPD)_."[1]
+
+FOC is a certification event marking completion of training, providing
+maintenance facilities, and end of planned production of the item. This does
+not preclude additional orders to obtain the item outside that contract or
+after that contract FOC.
+

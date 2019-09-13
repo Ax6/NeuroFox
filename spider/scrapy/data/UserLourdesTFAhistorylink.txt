@@ -1,0 +1,18 @@
+TFAhistorylink is a user script which adds a link to the top toolbar for
+viewing Special:History/Today's Featured Article in a Recent Changes format.
+It is primarily designed for featured article contributors and recent changes
+patrollers who track recent changes to today's featured article. The source
+can be found here.
+
+To install the script, simply copy the following into your common.js page.  
+  
+`importScript('User:Lourdes/TFAhistorylink.js'); // Linkback:
+[[User:Lourdes/TFAhistorylink.js]]`  
+  
+**Note** : You will need to manually bypass your cache after installation.
+Visit Wikipedia:Bypass your cache to see how to do this.
+
+The script is primarily designed for use by featured article contributors and
+recent changes patrollers. At the same time, any registered user can install,
+and use the script.
+

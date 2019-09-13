@@ -1,0 +1,226 @@
+**Chemical kinetics** , also known as **reaction kinetics** , is the branch of
+physical chemistry that is concerned with understanding the rates of chemical
+reactions. It is to be contrasted with thermodynamics, which deals with the
+direction in which a process occurs but in itself tells nothing about its
+rate. Chemical kinetics includes investigations of how different experimental
+conditions can influence the speed of a chemical reaction and yield
+information about the reaction's mechanism and transition states, as well as
+the construction of mathematical models that also can describe the
+characteristics of a chemical reaction.
+
+In 1864, Peter Waage and Cato Guldberg pioneered the development of chemical
+kinetics by formulating the law of mass action, which states that the speed of
+a chemical reaction is proportional to the quantity of the reacting
+substances.[1][2][3]
+
+Van 't Hoff studied chemical dynamics and in 1884 published his famous "Études
+de dynamique chimique".[4] In 1901 he was awarded by the first Nobel Prize in
+Chemistry "in recognition of the extraordinary services he has rendered by the
+discovery of the laws of chemical dynamics and osmotic pressure in
+solutions".[5] After van 't Hoff, chemical kinetics deals with the
+experimental determination of reaction rates from which rate laws and rate
+constants are derived. Relatively simple rate laws exist for zero order
+reactions (for which reaction rates are independent of concentration), first
+order reactions, and second order reactions, and can be derived for others.
+Elementary reactions follow the law of mass action, but the rate law of
+stepwise reactions has to be derived by combining the rate laws of the various
+elementary steps, and can become rather complex. In consecutive reactions, the
+rate-determining step often determines the kinetics. In consecutive first
+order reactions, a steady state approximation can simplify the rate law. The
+activation energy for a reaction is experimentally determined through the
+Arrhenius equation and the Eyring equation. The main factors that influence
+the reaction rate include: the physical state of the reactants, the
+concentrations of the reactants, the temperature at which the reaction occurs,
+and whether or not any catalysts are present in the reaction.
+
+Gorban and Yablonsky have suggested that the history of chemical dynamics can
+be divided into three eras.[6] The first is the van 't Hoff wave searching for
+the general laws of chemical reactions and relating kinetics to
+thermodynamics. The second may be called the Semenov\--Hinshelwood wave with
+emphasis on reaction mechanisms, especially for chain reactions. The third is
+associated with Aris and the detailed mathematical description of chemical
+reaction networks.
+
+The reaction rate varies depending upon what substances are reacting.
+Acid/base reactions, the formation of salts, and ion exchange are usually fast
+reactions. When covalent bond formation takes place between the molecules and
+when large molecules are formed, the reactions tend to be slower.
+
+The nature and strength of bonds in reactant molecules greatly influence the
+rate of their transformation into products.
+
+The physical state (solid, liquid, or gas) of a reactant is also an important
+factor of the rate of change. When reactants are in the same phase, as in
+aqueous solution, thermal motion brings them into contact. However, when they
+are in different phases, the reaction is limited to the interface between the
+reactants. Reaction can occur only at their area of contact; in the case of a
+liquid and a gas, at the surface of the liquid. Vigorous shaking and stirring
+may be needed to bring the reaction to completion. This means that the more
+finely divided a solid or liquid reactant the greater its surface area per
+unit volume and the more contact it with the other reactant, thus the faster
+the reaction. To make an analogy, for example, when one starts a fire, one
+uses wood chips and small branches — one does not start with large logs right
+away. In organic chemistry, on water reactions are the exception to the rule
+that homogeneous reactions take place faster than heterogeneous reactions.
+
+In a solid, only those particles that are at the surface can be involved in a
+reaction. Crushing a solid into smaller parts means that more particles are
+present at the surface, and the frequency of collisions between these and
+reactant particles increases, and so reaction occurs more rapidly. For
+example, Sherbet (powder) is a mixture of very fine powder of malic acid (a
+weak organic acid) and sodium hydrogen carbonate. On contact with the saliva
+in the mouth, these chemicals quickly dissolve and react, releasing carbon
+dioxide and providing for the fizzy sensation. Also, fireworks manufacturers
+modify the surface area of solid reactants to control the rate at which the
+fuels in fireworks are oxidised, using this to create different effects. For
+example, finely divided aluminium confined in a shell explodes violently. If
+larger pieces of aluminium are used, the reaction is slower and sparks are
+seen as pieces of burning metal are ejected.
+
+The reactions are due to collisions of reactant species. The frequency with
+which the molecules or ions collide depends upon their concentrations. The
+more crowded the molecules are, the more likely they are to collide and react
+with one another. Thus, an increase in the concentrations of the reactants
+will usually result in the corresponding increase in the reaction rate, while
+a decrease in the concentrations will usually have a reverse effect. For
+example, combustion will occur more rapidly in pure oxygen than in air (21%
+oxygen).
+
+The rate equation shows the detailed dependence of the reaction rate on the
+concentrations of reactants and other species present. Different mathematical
+forms are possible depending on the reaction mechanism. The actual rate
+equation for a given reaction is determined experimentally and provides
+information about the reaction mechanism. The mathematical expression of the
+rate equation is often given by
+
+Here  k {\displaystyle k}
+![k](https://wikimedia.org/api/rest_v1/media/math/render/svg/c3c9a2c7b599b37105512c5d570edc034056dd40)
+is the reaction rate constant,  c i {\displaystyle c_{i}}
+![c_{i}](https://wikimedia.org/api/rest_v1/media/math/render/svg/01acb7953ba52c2aa44264b5d0f8fd223aa178a2)
+is the molar concentration of reactant _i_ and  m i {\displaystyle m_{i}}
+![m_{i}](https://wikimedia.org/api/rest_v1/media/math/render/svg/95ec8e804f69706d3f5ad235f4f983220c8df7c2)
+is the partial order of reaction for this reactant. The partial order for a
+reactant can only be determined experimentally and is often different from its
+stoichiometric coefficient.
+
+Temperature usually has a major effect on the rate of a chemical reaction.
+Molecules at a higher temperature have more thermal energy. Although collision
+frequency is greater at higher temperatures, this alone contributes only a
+very small proportion to the increase in rate of reaction. Much more important
+is the fact that the proportion of reactant molecules with sufficient energy
+to react (energy greater than activation energy: _E_ > _E_ _a_ ) is
+significantly higher and is explained in detail by the Maxwell–Boltzmann
+distribution of molecular energies.
+
+The 'rule of thumb' that the rate of chemical reactions doubles for every 10
+°C temperature rise is a common misconception. This may have been generalized
+from the special case of biological systems, where the _α_ (temperature
+coefficient) is often between 1.5 and 2.5.
+
+A reaction's kinetics can also be studied with a temperature jump approach.
+This involves using a sharp rise in temperature and observing the relaxation
+time of the return to equilibrium. A particularly useful form of temperature
+jump apparatus is a shock tube, which can rapidly jump a gas's temperature by
+more than 1000 degrees.
+
+A catalyst is a substance that alters the rate of a chemical reaction but
+remains chemically unchanged afterwards. The catalyst increases the rate of
+the reaction by providing a different reaction mechanism to occur with a lower
+activation energy. In autocatalysis a reaction product is itself a catalyst
+for that reaction leading to positive feedback. Proteins that act as catalysts
+in biochemical reactions are called enzymes. Michaelis–Menten kinetics
+describe the rate of enzyme mediated reactions. A catalyst does not affect the
+position of the equilibrium, as the catalyst speeds up the backward and
+forward reactions equally.
+
+In certain organic molecules, specific substituents can have an influence on
+reaction rate in neighbouring group participation.[ _citation needed_ ]
+
+Increasing the pressure in a gaseous reaction will increase the number of
+collisions between reactants, increasing the rate of reaction. This is because
+the activity of a gas is directly proportional to the partial pressure of the
+gas. This is similar to the effect of increasing the concentration of a
+solution.
+
+In addition to this straightforward mass-action effect, the rate coefficients
+themselves can change due to pressure. The rate coefficients and products of
+many high-temperature gas-phase reactions change if an inert gas is added to
+the mixture; variations on this effect are called **fall-off** and **chemical
+activation**. These phenomena are due to exothermic or endothermic reactions
+occurring faster than heat transfer, causing the reacting molecules to have
+non-thermal energy distributions (non-Boltzmann distribution). Increasing the
+pressure increases the heat transfer rate between the reacting molecules and
+the rest of the system, reducing this effect.
+
+Condensed-phase rate coefficients can also be affected by (very high)
+pressure; this is a completely different effect than fall-off or chemical-
+activation. It is often studied using diamond anvils.
+
+A reaction's kinetics can also be studied with a pressure jump approach. This
+involves making fast changes in pressure and observing the relaxation time of
+the return to equilibrium.
+
+The activation energy for a chemical reaction can be provided when one
+reactant molecule absorbs light of suitable wavelength and is promoted to an
+excited state. The study of reactions initiated by light is photochemistry,
+one prominent example being photosynthesis.
+
+The experimental determination of reaction rates involves measuring how the
+concentrations of reactants or products change over time. For example, the
+concentration of a reactant can be measured by spectrophotometry at a
+wavelength where no other reactant or product in the system absorbs light.
+
+For reactions which take at least several minutes, it is possible to start the
+observations after the reactants have been mixed at the temperature of
+interest.
+
+For faster reactions, the time required to mix the reactants and bring them to
+a specified temperature may be comparable or longer than the half-life of the
+reaction.[7] Special methods to start fast reactions without slow mixing step
+include
+
+While chemical kinetics is concerned with the rate of a chemical reaction,
+thermodynamics determines the extent to which reactions occur. In a reversible
+reaction, chemical equilibrium is reached when the rates of the forward and
+reverse reactions are equal [the principle of dynamic equilibrium ] and the
+concentrations of the reactants and Products no longer change. This is
+demonstrated by, for example, the Haber–Bosch process for combining nitrogen
+and hydrogen to produce ammonia. Chemical clock reactions such as the
+Belousov–Zhabotinsky reaction demonstrate that component concentrations can
+oscillate for a long time before finally attaining the equilibrium.
+
+In general terms, the free energy change (ΔG) of a reaction determines whether
+a chemical change will take place, but kinetics describes how fast the
+reaction is. A reaction can be very exothermic and have a very positive
+entropy change but will not happen in practice if the reaction is too slow. If
+a reactant can produce two different products, the thermodynamically most
+stable one will in general form, except in special circumstances when the
+reaction is said to be under kinetic reaction control. The Curtin–Hammett
+principle applies when determining the product ratio for two reactants
+interconverting rapidly, each going to a different product. It is possible to
+make predictions about reaction rate constants for a reaction from free-energy
+relationships.
+
+The kinetic isotope effect is the difference in the rate of a chemical
+reaction when an atom in one of the reactants is replaced by one of its
+isotopes.
+
+Chemical kinetics provides information on residence time and heat transfer in
+a chemical reactor in chemical engineering and the molar mass distribution in
+polymer chemistry. It is also provides information in corrosion engineering.
+
+The mathematical models that describe chemical reaction kinetics provide
+chemists and chemical engineers with tools to better understand and describe
+chemical processes such as food decomposition, microorganism growth,
+stratospheric ozone decomposition, and the chemistry of biological systems.
+These models can also be used in the design or modification of chemical
+reactors to optimize product yield, more efficiently separate products, and
+eliminate environmentally harmful by-products. When performing catalytic
+cracking of heavy hydrocarbons into gasoline and light gas, for example,
+kinetic models can be used to find the temperature and pressure at which the
+highest yield of heavy hydrocarbons into gasoline will occur.
+
+Chemical Kinetics is frequently validated and explored through modeling in
+specialized packages as a function of ordinary differential equation-solving
+(ODE-solving) and curve-fitting.[16]
+

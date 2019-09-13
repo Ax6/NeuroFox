@@ -1,0 +1,703 @@
+«I molti automi dell'epoca presente sono collegati al mondo esterno sia per
+quanto riguarda la ricezione di impressioni, che per l'esecuzione di azioni.
+Essi contengono organi sensoriali, effettori, e l'equivalente di un sistema
+nervoso per il trasferimento dell'informazione dagli uni agli altri (...) Non
+è affatto miracoloso che possano essere trattati in un'unica teoria assieme
+con i meccanismi della fisiologia.»
+
+Il termine **cibernetica** indica un vasto programma di ricerca
+interdisciplinare, rivolto allo studio matematico unitario degli organismi
+viventi e, più in generale, di sistemi, sia naturali che artificiali. La
+cibernetica nacque durante gli anni della seconda guerra mondiale, su impulso
+di un gruppo di ricercatori, tra i quali ebbe una parte predominante il
+matematico statunitense Norbert Wiener.
+
+Questi, provenienti da diverse formazioni, erano uniti dall'interesse allo
+studio della vita e delle sue principali manifestazioni tramite gli strumenti
+concettuali sviluppati dalle nuove tecnologie dell'autoregolazione, della
+comunicazione e del calcolo automatico. Nel 1947 Wiener pubblicò un libro[2],
+che ottenne grande successo, nel quale definiva l'ambito di interesse e gli
+obiettivi della nuova disciplina, inaugurando anche l'uso del nuovo termine.
+
+La cibernetica è nata dunque come un campo di studi comune tra l'ingegneria,
+la biologia e le scienze umane. Già da questo si comprende l'importanza
+fondamentale per la cibernetica dell'interdisciplinarità[3], che può essere
+immediatamente confermata dall'esame dei _curricula_ estremamente variegati di
+tutti i suoi protagonisti. Un'altra caratteristica metodologica generale del
+metodo cibernetico è l'attenzione rivolta al comportamento (ed alla sua
+descrizione matematica) degli oggetti del suo studio, più che ai dettagli
+della loro struttura materiale. Da ciò deriverà una tendenza alla definizione
+concettuale e, molto spesso, anche alla realizzazione fisica di modelli
+artificiali della realtà biologica, grazie anche alle nascenti possibilità
+della tecnologia elettronica[4][5].
+
+L'interesse ad uno studio comparato di animale e macchina, o di conseguenza al
+rapporto tra naturale ed artificiale, rappresenta una caratteristica comune a
+tutti gli studiosi di cibernetica. L'ampiezza delle conseguenze di questo
+atteggiamento è tale da coinvolgere vari problemi di interesse filosofico; la
+cibernetica si caratterizza come una nuova forma di riduzionismo, innovatrice
+rispetto alle forme tradizionali di meccanicismo per aver messo in luce
+l'importanza del concetto di informazione nell'interpretazione dei fenomeni
+della vita[6].
+
+Per approfondire i contenuti della cibernetica al di là di queste sintetiche
+definizioni, bisogna ricorrere all'esame del suo effettivo sviluppo storico e
+delle diverse posizioni di chi ad essa si è richiamato, con una particolare
+attenzione al pensiero dello studioso che ha creato il nome della nuova
+disciplina. Si è trattato infatti di un fenomeno molto ampio, variegato ed
+interpretato spesso in modo diverso dai suoi protagonisti[7].
+
+Si può comunque dire che nel programma cibernetico si possono individuare tre
+nuclei, chiaramente rilevabili anche nell'impianto dell'omonimo
+libro[3][8][9].Il primo, che accompagna tutta l'opera di Wiener, e nel quale è
+fondamentale l'apporto del fisiologo A. Rosenblueth, consiste in un metodo di
+analisi dei fenomeni biologici basato sull'uso del concetto di retroazione e,
+più in generale, di scambio di informazione, sia all'interno dell'organismo,
+che tra questi e l'ambiente[10].
+
+Esso si basa sulla constatazione che l'uso di questi strumenti, nati per
+studiare il funzionamento di macchine costruite dall'uomo, può essere esteso
+alla spiegazione di alcuni tra gli attributi fondamentali del vivente, quali
+la tendenza al mantenimento della stabilità interna, la capacità di apprendere
+(ovvero di modificare i propri comportamenti in funzione dell'esperienza) e
+l'apparente orientamento ad uno scopo delle proprie azioni. In quest'ambito
+possono essere collocati anche i contributi del britannico W. Ross Ashby[11].
+Il secondo nucleo, che nasce tra il 1943 ed il 1945 con il contributo
+essenziale di J. von Neumann, W. McCulloch e W. Pitts, riguarda l'estensione
+di questo metodo di analisi alle funzioni cognitive del sistema nervoso
+centrale ed alle nuove macchine calcolatrici digitali, considerate in modo
+unitario dal punto di vista del concetto di computazione.
+
+Il terzo, il cui sviluppo è legato alle _Macy Conferences on Cybernetics_ ,
+tenute dal 1946 al 1953, vede l'estensione dei concetti cibernetici allo
+studio delle scienze sociali[12]. Wiener peraltro non contribuisce
+direttamente a questa estensione, dichiarandosi anche scettico sulla sua
+possibilità[13]; l'uso dei concetti cibernetici nelle scienze sociali verrà
+analizzato e promosso da studiosi provenienti da quel mondo, tra i quali
+Margaret Mead e Gregory Bateson. Soprattutto quest'ultimo ha esercitato, nei
+decenni successivi, un'influenza importante e duratura su varie discipline,
+basando sulla cibernetica, oltre che lo studio di temi di antropologia e
+psichiatria, una visione generale della realtà.
+
+Il grande dibattito innescato dalla pubblicazione del libro di Wiener e dalle
+_Macy Conferences_ durò alcuni anni, per poi spegnersi progressivamente.
+Alcuni dei motivi di questa evoluzione erano interni alla stessa proposta di
+Wiener; la sintesi che egli cercava si rivelò infatti sia prematura, in
+relazione alle conoscenze dell'epoca in alcuni campi (ad esempio, la
+fisiologia del sistema nervoso centrale), sia di ampiezza eccessiva per
+produrre strumenti di ricerca efficaci. Non fu poi d'aiuto il successo
+incontrato presso il pubblico dal nome e dalle idee della cibernetica, che
+portò ad un uso spesso improprio del termine e ad un suo discredito nel mondo
+della ricerca[14]. Altri ostacoli sorsero dalle divergenze, personali e
+scientifiche, che divisero i fondatori della nuova disciplina, impedendo lo
+stabilirsi di collaborazioni durevoli e di gruppi di lavoro
+strutturati[15][16]. Anzi, il movimento cibernetico si trovò ad affrontare la
+concorrenza di nuovi gruppi (ad esempio quello dell'Intelligenza Artificiale),
+con analoghi interessi, che tuttavia preferivano organizzarsi autonomamente,
+rivendicando anche una diversa visione su alcuni punti[17].
+
+Pur se oggi è impossibile parlare della cibernetica come di una disciplina
+attiva o di un movimento scientifico organizzato, le sue idee ed i problemi da
+essa posti restano ancora al centro del dibattito scientifico in molti ambiti.
+Il campo di studio delineato dalla cibernetica è oggi occupato da molte
+discipline autonome che, pur se in qualche modo discendenti da una comune
+radice, ne affrontano i temi con metodi non sempre conciliabili in un quadro
+unitario[18].
+
+La cibernetica può essere considerata il punto di arrivo di alcune linee di
+pensiero, sviluppatesi nei decenni precedenti gli anni '40 del secolo scorso,
+in discipline quali la matematica, la tecnologia, la fisiologia generale e del
+sistema nervoso, la psicologia. Ne ripercorriamo qui le tappe essenziali[19].
+
+La parola greca antica _kybernetes_ (κυβερνήτης) indica il pilota di una
+nave[20]. La radice _kyber_ sta per _"timone"_ e trova un parallelo nel latino
+_guber_ , che ritroviamo nel _gubernator_ , timoniere. _Kyber_ e _guber_ fanno
+evidente riferimento ad una comune progenitrice indoeuropea che significava
+timone. In ambedue le lingue il termine assume anche, per estensione, un
+significato metaforico che sta ad indicare colui che guida, o governa, una
+città o uno Stato: già nel greco di Platone[21] è attestata, in questo
+significato più ampio di _arte del governo_ , l'espressione _kybernetikès
+techne_.
+
+Nell'accezione politica di Platone, il termine viene ripreso nel 1834 da
+Ampère, nella sua ampia classificazione delle scienze, e qualche anno più
+tardi anche dal filosofo polacco Trentowski[22].
+
+Intanto, con la rivoluzione industriale, nasceva per la prima volta l'esigenza
+di costruire macchine che fossero in grado di regolare il proprio
+funzionamento in modo automatico, cioè senza l'intervento umano. L'esempio
+tipico è quello della macchine a vapore, che per le sue applicazioni
+industriali doveva stabilizzare la velocità di rotazione in condizioni di
+carico variabili. Questo problema di controllo fu risolto per primo nel 1789
+da James Watt, con il cosiddetto _regolatore centrifugo di velocità_; fu però
+necessario quasi un secolo, prima che James Clerk Maxwell, nel 1868,
+descrivesse matematicamente il funzionamento del regolatore, individuando le
+condizioni di un suo comportamento stabile. Maxwell introdusse in questa
+occasione il termine _governor_ , per indicare il meccanismo di
+regolazione[23].
+
+Indipendentemente da Platone ed Ampere, ma con un esplicito omaggio a Maxwell,
+il termine fu reintrodotto da Wiener nell'estate del 1947, anglicizzato in
+_cybernetics_ , nell'atto di dare il titolo al proprio libro pubblicato l'anno
+successivo: _Cybernetics or Control and Communication in the Animal and the
+Machine_[24]. Nelle intenzioni del suo autore, il libro proponeva un vasto
+programma di ricerca ed, in prospettiva, teneva a battesimo una nuova scienza,
+fondata appunto sullo studio unificato di animali e macchine dal punto di
+vista delle teorie del controllo automatico, della comunicazione e del calcolo
+automatico.
+
+Al momento della sua creazione, il termine conobbe un successo molto elevato,
+sia in ambito scientifico che presso il pubblico. Quest'ultimo continua ancora
+oggi, seppure in un senso improprio e lontano dal significato originale,
+attraverso l'uso del prefisso _"cyber-"_ (talvolta italianizzato in _"ciber-"_
+) ad indicare genericamente una connessione con la moderna tecnologia
+dell'informazione[25]. L'uso scientifico del termine è invece declinato,
+parallelamente alla vitalità del movimento, dopo la dispersione del gruppo
+originale dei primi scienziati raccolti attorno a Wiener e la morte di questi
+nel 1964.
+
+Molti degli strumenti di analisi della cibernetica derivano da alcune
+tecnologie, legate da un comune interesse nella elaborazione
+dell'informazione, che ricevettero un particolare impulso dallo sviluppo dei
+dispositivi elettronici durante la prima metà del XX secolo.
+
+L'evoluzione storica della teoria dei _sistemi di controllo
+automatico_[26][27][28] inizia praticamente con la regolazione del
+funzionamento dei motori a vapore. Sulla base del lavoro pionieristico di
+Maxwell alcuni matematici, tra i quali A. Hurwitz e E. Routh, definirono dei
+metodi di verifica della stabilità del sistema, pur se in una prospettiva che
+restava lontana dalla pratica di progetto. Le applicazioni crebbero molto nei
+decenni successivi, ma restarono sostanzialmente confinate allo sviluppo di
+servomeccanismi, nell'ambito dei campi di interesse dell'ingegneria meccanica,
+finché la nascente tecnologia elettronica non aprì ambiti applicativi
+totalmente nuovi. Nel 1927 Harold Black dei Bell Labs, per risolvere problemi
+di comunicazione telefonica a lunga distanza, progettò il primo amplificatore
+esplicitamente basato sull'uso della retroazione. In questo modo si poteva
+aumentare la larghezza di banda dell'amplificatore, al costo però di maggiori
+rischi di instabilità del sistema; l'attenzione su questi nuovi problemi
+favorì lo sviluppo di nuovi studi sulla stabilità, più vicini alle esigenze
+dei progettisti, quali quelli di Harry Nyquist e Hendrik Bode, anch'essi dei
+Bell Labs. La pubblicazione, a partire dalla seconda metà degli anni quaranta,
+dei primi trattati sui sistemi di controllo e la loro progettazione[29],
+decretò la nascita del controllo automatico come disciplina autonoma.
+
+Come quello dei controlli automatici, anche lo sviluppo delle _comunicazioni
+elettriche_ (dal telegrafo, introdotto da Samuel Morse nel 1837, al telefono,
+che Alexander Bell sperimentò con successo nel 1876, alle trasmissioni senza
+fili, che dai brevetti di Tesla (1896) e di Marconi (1897) portarono fino alla
+radio ed al radar) vide delle forti innovazioni tecnologiche, ma una relativa
+costanza dei problemi di base. Indipendentemente dalla tecnologia usata, è
+sempre necessario, infatti, da un lato _codificare_ un messaggio prima di
+inviarlo, al fine di migliorare la qualità della trasmissione attraverso un
+determinato canale; dall'altro, _filtrarlo_ in ricezione, per eliminare o
+ridurre il rumore indesiderato, inevitabilmente aggiunto dalla trasmissione.
+
+Le necessità belliche favorirono la progettazione di sistemi complessi, nei
+quali interagivano i problemi di controllo e quelli di comunicazione. Nei
+sistemi di puntamento antiaereo, ad esempio, la velocità di reazione richiesta
+dalla rapidità del volo aereo imponeva l'automazione di funzioni
+precedentemente svolte da operatori umani; ora la rilevazione della posizione
+del bersaglio era affidata al radar, mentre il puntamento delle armi veniva
+gestito da servomeccanismi. La velocità dei bersagli poneva anche il problema
+di dirigere il tiro in modo predittivo, cioè non verso la posizione attuale
+del bersaglio, ma verso quella nella quale, nel prossimo futuro, fosse massima
+la probabilita' di trovarlo al momento dell'impatto con il proiettile[30]. Sia
+il MIT che i Bell Labs lavorarono per il governo USA alla soluzione dei molti
+problemi tecnici posti dalla progettazione di questi apparati. Al MIT,
+all'inizio degli anni '40, Wiener affrontò il problema con la collaborazione
+dell'ingegnere J. Bigelow; da questa attività nacque la consapevolezza sulla
+pervasività della retroazione e sulla sua funzione nei meccanismi orientati al
+raggiungimento di un fine[31][32][33]. Per eliminare dai segnali ricevuti dal
+radar il rumore indesiderato ad esso sovrapposto, ed individuare la posizione
+futura del bersaglio mobile, sulla base delle informazioni deducibili dalla
+sua storia passata, Wiener sviluppò una teoria unificata di filtraggio e di
+predizione[34], poi pubblicata nel 1949[35].
+
+Questi risultati di Wiener risolvevano in modo generale il tipico problema di
+filtraggio della tecnica delle comunicazioni, inquadrandolo nell'ambito della
+teoria statistica. Negli stessi anni, sviluppando il lavoro già intrapreso dai
+suoi colleghi dei Bell Labs Nyquist ed Hartley, C. E. Shannon pubblicò i suoi
+due fondamentali articoli su _A Mathematical Theory of Communication_[36], che
+davano un fondamento quantitativo al concetto di informazione ed alle
+operazioni di codificazione, fondando la moderna teoria dell'informazione.
+Anche in questo lavoro la trasmissione viene considerata come una teoria
+statistica; lo stesso Shannon rese esplicitamente omaggio alla tradizione
+della meccanica statistica utilizzando il termine _"entropia"_[37] come
+sinonimo di "quantità di informazione". Questo risultato confermò Wiener nella
+convinzione che la teoria generale dei sistemi di comunicazione e controllo,
+sia naturali che artificiali, che egli voleva creare, non poteva che avere una
+base statistica[38].
+
+La nascita delle _macchine calcolatrici_ è un processo che ha avuto le sue
+radici concettuali nei secoli precedenti al novecento, ma che di fatto ha
+iniziato a produrre risultati significativi con la disponibilità dei primi
+dispositivi elettromeccanici e, soprattutto, elettronici a vuoto. Nei decenni
+tra le due guerre assistiamo ad uno sviluppo tecnologico impetuoso che portò
+alla costruzione, durante la II guerra mondiale, di macchine calcolatrici
+pienamente funzionanti, fondamentali per la soluzione di importanti problemi
+militari. Tuttavia, in questo processo un ruolo fondamentale fu svolto da una
+intuizione che proveniva da un ambito apparentemente lontano, quello delle
+ricerche sulla logica ed i fondamenti della matematica. Nel 1936, infatti,
+Alan Turing pubblicò il suo lavoro _On Computable Numbers, with an Application
+to the Entscheidungsproblem_ ,[39] nel quale definiva un modello di macchina
+calcolatrice, oggi nota come macchina di Turing, per analizzare il concetto
+logico-matematico di “computabilità”. Questa macchina, anche se di livello
+astratto, e pensata per scopi esclusivamente teorici, rappresenta tuttavia il
+modello del moderno calcolatore elettronico digitale. Questo può essere
+considerato definitivamente nato negli USA con le macchine ENIAC ed EDVAC; un
+report del 1945, redatto da John von Neumann[40], che descrive il
+funzionamento del secondo, definisce un modello di architettura, detto appunto
+di von Neumann[41], seguito da praticamente tutti gli elaboratori prodotti da
+allora[42]. È interessante notare come von Neumann fosse ben conscio
+dell'influenza del lavoro di Turing sullo sviluppo successivo delle macchine
+calcolatrici automatiche[43].
+
+La connessione tra calcolatori e logica fu ribadita nel 1937 da Shannon, che
+nella propria tesi di _Master_ al MIT _A Symbolic Analysis of Relay and
+Switching Circuits_[44] dimostrò come il calcolo delle proposizioni espresso
+dall'algebra di Boole potesse essere usato per analizzare e progettare l'
+_hardware_ di un calcolatore digitale.
+
+Nell'ambito della fisiologia, già nel secolo XIX Claude Bernard aveva
+identificato una delle caratteristiche fondamentali degli esseri viventi nella
+capacità di mantenere, nel proprio " _milieu intérieur_ " (o "ambiente
+interno", costituito dai fluidi circolanti nel corpo), la costanza nel tempo
+dei parametri che garantiscono la vita. Queste osservazioni vennero riprese
+dai fisiologi J. S. Haldane e L. J. Henderson all'inizio del secolo
+successivo, e finalmente sviluppate appieno dal fisiologo americano Walter
+Cannon, che nel suo libro _The wisdom of the body_ (1932), richiamandosi
+esplicitamente a Bernard, presentò una descrizione di vari sistemi di
+controllo presenti negli organismi viventi (quali quelli della composizione
+del sangue o della temperatura del corpo). Cannon chiamò omeostasi la capacità
+degli essere viventi di mantenere invariati i propri parametri vitali,
+reagendo ai disturbi esterni che tendono ad alterarli. In questo modo Cannon
+stabiliva esplicitamente, per la prima volta, un legame tra lo studio della
+fisiologia degli organismi e quello della stabilità delle macchine o, più in
+generale, di _"altri tipi di organizzazioni"_[45][46].
+
+L'interesse della cibernetica allo studio comparato di animali e macchine ha
+le sue radici nella lunga storia degli automi, cioè di macchine in grado di
+imitare funzioni tipiche degli esseri viventi. Chi ha ideato e costruito
+automi, dall'antichità classica in poi, si è sempre preoccupato delle funzioni
+meccaniche ed energetiche necessarie per dotarli della capacità di compiere
+azioni autonome. Dall'inizio del secolo XX il concetto di automa mostra una
+importante evoluzione; le loro funzioni iniziano ad includere in maniera
+crescente anche la capacità di interazione con l'ambiente circostante, dal
+quale la macchina può ricevere delle informazioni che, a loro volta,
+contribuiscono ad influenzarne il comportamento[47].
+
+Questo processo può essere esaminato nell'ambito della discussione tra
+fisiologi e psicologi, in atto dall'inizio del secolo scorso,
+sull'interpretazione dei fenomeni della vita. In un dibattito che coinvolgeva
+studiosi quali Loeb, Thorndike, McDougall, Meyer, Hull, Rashevsky, Craik, si
+confrontavano una concezione meccanicista e riduzionista dei fenomeni
+biologici, di origine positivista, ed una vitalistica. Per la prima volta la
+nascente tecnologia elettromeccanica permetteva di concepire, ed anche di
+costruire, macchine, sia pure rudimentali, che potevano essere usate per
+dimostrare come un oggetto inorganico potesse simulare una funzione tipica
+dell'animale, in quanto rivolta ad uno scopo, quale, ad esempio,
+l'orientamento verso la sorgente di uno stimolo, o intelligente, quali la
+memoria e l'apprendimento. Si trattava degli esordi di un riduzionismo di tipo
+nuovo, nel quale era fondamentale (anche se non sempre chiaramente
+riconosciuto ed enunciato) il concetto di scambio di informazioni tra automa
+ed ambiente[48].
+
+A partire da queste origini la progettazione, anche solo ideale, e la
+costruzione di automi, nello spirito indicato, è divenuto poi uno strumento
+costante di analisi della cibernetica. Tra gli esempi di automi più noti,
+concepiti dai principali esponenti della disciplina, si possono citare tra gli
+altri l' _”omeostato”_ di Ross Ashby[49], la _”tartaruga”_ di Grey Walter[50],
+il _”topo”_ solutore di labirinti di Shannon, la _”cimice"/"tignola”_ di
+Singleton e Wiener, che illustra i meccanismi neurologici del tremore degli
+arti[51], eccetera[52][53].
+
+Lo stesso Wiener fa risalire la nascita delle idee che condussero alla
+cibernetica ad un ciclo di incontri tenuti, a partire dagli anni '30 e fino al
+1944, presso la Harvard Medical School, dove medici e ricercatori discutevano
+con matematici, fisici ed ingegneri di problemi interdisciplinari e di metodo
+scientifico[3]. Wiener, all'epoca un matematico del MIT già affermato,
+incontrò qui il fisiologo messicano Arturo Rosenblueth, che conduceva gli
+incontri e che divenne poi suo collaboratore in varie ricerche sui meccanismi
+di controllo neuromuscolari, oltre che principale interlocutore sui problemi
+metodologici[54]. Rosenblueth era allievo di Cannon, che ad Harvard dirigeva
+il dipartimento di Fisiologia della Medical School[55][56].
+
+Successivamente, al MIT, Wiener si dedicò al progetto dei sistemi di
+puntamento antiaereo, lavorando con il matematico ed ingegnere Julian Bigelow,
+anche qui in un ambito interdisciplinare che coinvolgeva matematica e vari
+campi della tecnologia.
+
+La riflessione sulla retroazione sviluppata in queste esperienze condusse
+Wiener, con Rosenblueth e Bigelow, a proporre, nell'articolo del 1943
+_Behavior, Purpose and Teleology_[57], una forma di analisi basata, piuttosto
+che sulla struttura interna degli oggetti di studio, sui loro comportamenti (
+_behavior_ ) osservabili dall'esterno. Da questo punto di vista, macchine ed
+organismi viventi sono assimilabili, in quanto ambedue in grado di perseguire
+il raggiungimento di un obiettivo ( _purpose_ ), grazie all'uso di meccanismi
+di retroazione. Questa, nei casi più complessi, può essere _predittiva_ , in
+grado cioè di tenere conto dell'evoluzione temporale del suo obiettivo; ciò
+accade, ad esempio, in un animale che caccia una preda in movimento, o in un
+sistema di puntamento antiaereo, nel quale il tiro avviene verso la posizione
+stimata futura del bersaglio. I comportamenti _teleologici_ vengono quindi
+definiti come quelli orientati ad uno scopo e guidati dalla retroazione che in
+questo modo diviene, da concetto puramente tecnologico, lo strumento di una
+_"forma di analisi comune"_ che _"può essere usata per studiare i
+comportamenti sia delle macchine che degli organismi viventi,
+indipendentemente dalla loro complessità"_. Il mondo della biologia e
+dell'intelligenza diventa così comprensibile senza richiedere l'ipotesi
+dell'esistenza di una _causa finale_ , e quindi una visione metafisica o non
+deterministica della realtà[10][58].
+
+La modalità di analisi formalizzata nell'articolo sarà poi usata abitualmente
+in ambito cibernetico da vari autori: per evitare di dover studiare sistemi di
+struttura complessa o sconosciuta, ci si concentra invece sullo sviluppo di
+modelli, anche semplici, che mostrino però i tratti essenziali del
+comportamento di interesse[59][60].
+
+Proposte analoghe erano state avanzate in Gran Bretagna negli stessi anni da
+W. Ross Ashby[61] e da Kenneth Craik. Quest'ultimo, uno psicologo coinvolto
+anch'egli durante la guerra nell'analisi dei sistemi automatici di puntamento
+antiaereo, prematuramente scomparso nel 1945, può essere considerato un vero
+precursore della cibernetica, enunciatore di tesi simili a quelle di Wiener
+sullo studio unificato di animale e macchina. Nello scritto _The mechanism of
+human action_ (1943 - 1945, poi pubblicato postumo) aveva tracciato una
+distinzione nell'analisi psicologica tra metodi _analitico_ e _sintetico_[62],
+mostrando come modelli sintetici che impiegano la retroazione possono aiutare
+a superare la barriera tra mondo inorganico ed intelligenza invocata dal
+vitalismo.
+
+Negli Stati Uniti, il mondo della ricerca scientifica entrò in contatto con il
+calcolatore digitale negli anni della guerra ed in quelli immediatamente
+precedenti. Wiener racconta che il suo interesse per questa tecnologia nacque
+inizialmente dalla sua collaborazione con Vannevar Bush allo studio
+dell'analizzatore differenziale. Da quell'esperienza egli trasse la
+convinzione che fosse necessario passare ad una architettura di calcolatore
+completamente elettronico, digitale e basato sul sistema di numerazione
+binario[3]. Anche John von Neumann, uno dei maggiori matematici del XX secolo,
+membro del prestigioso IAS a Princeton, e già in contatto con Wiener, iniziò
+ad occuparsi attivamente di calcolo automatico nel suo ruolo di consulente del
+governo USA, per la risoluzione di problemi di calcolo numerico di interesse
+militare. Von Neumann aveva anche conosciuto Turing all'IAS già nel 1936, e
+gli aveva offerto una posizione nell'Istituto[63].
+
+Anche il mondo della neurofisiologia fu interessato nello stesso periodo da
+una svolta importante, impressa dal neurofisiologo Warren McCulloch. Wiener
+ebbe l'occasione di incontrarlo tramite Rosenblueth, e successivamente, nel
+1942, ad un convegno della Fondazione Macy[64] di New York. McCulloch lavorava
+ad un modello formale dell'attività neuronale, che non riusciva a completare a
+causa delle difficoltà tecniche dell'argomento. Egli poté superarle solo
+grazie all'incontro, a Chicago, con il giovanissimo logico e matematico Walter
+Pitts, che conosceva a fondo i sistemi logici di Carnap e Russell. Il loro
+lavoro diede luogo, nel 1943, al fondamentale articolo _A Logical Calculus of
+Ideas Immanent in Nervous Activity_[65]. Nello stesso anno, Wiener accolse
+Pitts nel suo gruppo di lavoro al MIT e, presumibilmente, lo mise in contatto,
+assieme a McCulloch, con von Neumann[3][66].
+
+Il risultato di McCulloch e Pitts resta la prima formalizzazione
+dell'equivalenza logica tra il sistema nervoso ed un calcolatore elettronico,
+e della possibilità di rappresentare ambedue con strumenti della logica
+formale. Gli autori mostrarono infatti che una rete neuronale può essere
+descritta dalla logica delle proposizioni e quindi dall'algebra di Boole,
+analogamente a quanto trovato sei anni prima da Shannon per i circuiti
+digitali. Von Neumann commentò: _"Si è sostenuto spesso che le attività e le
+funzioni del sistema nervoso umano siano così complesse da non poter essere
+eseguite da nessun meccanismo ... Il risultato di McCulloch e Pitts mette fine
+a tutto questo e prova che tutto ciò che può essere descritto completamente e
+senza ambiguità a parole, può essere ipso facto realizzato con una rete
+neurale finita"_[67]. Nel suo _"First Draft"_ del 1945 sull'architettura
+dell'EDVAC egli citò esplicitamente i risultati di McCulloch e Pitts, usandoli
+come modello (l'unico disponibile all'epoca) di un circuito digitale sincrono.
+Alcuni anni dopo, lo sviluppo del concetto formale di automa permise la
+costruzione di un modello che poteva descrivere in modo unitario il
+comportamento di sistemi diversi come la macchina di Turing, le reti neurali,
+i calcolatori digitali con il loro software, i circuiti elettronici
+digitali[68][69].
+
+Dopo l'articolo del 1943, McCulloch e Pitts pubblicarono anche altri rilevanti
+risultati. Nel 1947, ad esempio, in _On How We Know Universals: The Perception
+of Auditory and Visual Forms_[70], che Wiener cita estensivamente in _La
+cibernetica_[71], approfondirono i meccanismi neurofisiologici di costruzione
+degli universali dai dati della percezione. Dal loro modello di reti di
+neuroni nacque un filone di studi, ancora oggi fiorente, sullo sviluppo di
+modelli formali del sistema nervoso per lo studio teorico di processi come la
+percezione e l'apprendimento[69][72][73].
+
+Wiener avvertì la necessità di un approfondimento di questi temi, anche dal
+punto di vista delle sue tesi su teleologia e retroazione. Egli promosse
+quindi, assieme a von Neumann, un incontro che si tenne a Princeton,
+all'inizio del 1945, con la partecipazione, tra gli altri, di Wiener,
+McCulloch e Pitts, del neurofisiologo R. Lorente de Nò, del matematico ed
+esperto di calcolatori H. Goldstine[74]. Questo incontro costituì la prima
+occasione di contatto tra matematici, ingegneri del controllo e del calcolo
+automatico, e neurofisiologi, che rappresentavano le discipline sulle quali
+sarà costruito l'impianto de _La cibernetica_. Ci furono dei tentativi di
+organizzare tra i partecipanti all'incontro un gruppo di lavoro stabile, per
+il quale fu anche ipotizzato il nome di _Teleological Society_[75], e che si
+realizzerà poi nell'ambito delle _Macy Conferences on Cybernetics_ , che
+saranno promosse dalla Fondazione Macy a partire dal 1946.
+
+In seguito, von Neumann espresse scetticismo sulla possibilità di affrontare
+lo studio del funzionamento del cervello umano sulla base delle conoscenze di
+neurofisiologia allora disponibili, probabilmente ritenendo prematura la
+sintesi cercata in quest'ambito da Wiener[76]. Negli anni seguenti,
+utilizzando il concetto di automa, analizzò varie funzioni tipiche degli
+esseri viventi, quali la capacità di riproduzione[77] (fondando lo studio
+degli automi cellulari), o quella di fornire prestazioni affidabili partendo
+da componenti soggetti ad errori, come accade nel sistema nervoso animale[78].
+Questi documenti, rimasti allo stato di abbozzo anche a causa della prematura
+scomparsa dell'autore, avvenuta nel 1957, suggeriscono un suo piano per lo
+sviluppo di una propria teoria unitaria del cervello e delle macchine
+calcolatrici[79].
+
+Per Wiener ed il primo nucleo di cibernetici una importante occasione di
+discutere le proprie idee e stabilire nuovi contatti nacque dagli incontri
+interdisciplinari promossi dalla Fondazione Macy ed in particolare dal suo
+direttore Frank Fremont-Smith. La fondazione, che già aveva curato la
+conferenze del 1942 che vide il primo incontro tra Wiener e McCulloch,
+organizzò dal 1946 al 1953, con cadenza semestrale, dieci incontri
+interdisciplinari, inizialmente indicati come " _Conferenze sui meccanismi di
+retroazione e sui sistemi a causazione circolare nei sistemi biologici e
+sociali_ "[80], e più semplicemente, dal 1948 in poi, " _Conferenze sulla
+Cibernetica_ ". Tramite di esse vennero in contatto con le idee della
+cibernetica personalità quali Shannon, il neuroanatomista Gerhardt von Bonin,
+l'etologo Theodore C. Schneirla, gli psicologi Heinrich Klüwer, Kurt Lewin,
+Lawrence Kubie e Molly Hollower, il pedagogista Lawrence Frank, gli
+antropologi Margaret Mead e Gregory Bateson, il sociologo Paul Lazerfeld, il
+matematico e statistico Leonard Jimmie Savage, l'economista Oskar Morgenstern,
+il filosofo ed epistemologo Filmer C. S. Northrop, ed altri. Alle conferenze
+parteciparono i anche due cibernetici britannici, lo psichiatra W. Ross Ashby
+ed il neurologo William Grey Walter[81].
+
+È sotto l'impulso delle conferenze interdisciplinari dalla Fondazione, e nel
+clima di dialogo e confronto con gli altri partecipanti, che Wiener conia il
+neologismo cibernetica, e pubblica nel 1948 la sua opera omonima. Questa
+abbraccia un ambito interdisciplinare molto vasto, che comprende la matematica
+dei processi aleatori e dell'analisi armonica, la teoria del controllo e delle
+comunicazioni, la fisiologia generale e quella del sistema nervoso, la logica,
+la psicologia. L'obiettivo del lavoro è sempre quello duplice che ha sin qui
+motivato l'autore: usare i nuovi strumenti concettuali sviluppati nello studio
+delle macchine per arrivare ad una migliore comprensione degli esseri viventi,
+e progettare macchine in grado di emulare le prestazioni ed il comportamento
+degli animali. Nell'opera possono essere individuati alcuni temi prevalenti:
+
+I due capitoli IX e X, aggiunti con la seconda edizione, affrontano i temi
+dell'apprendimento, della auto-replicazione e dell'auto-organizzazione nei
+sistemi complessi.
+
+Il libro di Wiener e l'attività del gruppo delle Macy Conferences, che
+continuò a riunirsi fino al 1953, aiutarono a diffondere i principi del metodo
+cibernetico ed a far nascere varie iniziative scientifiche che ad esso si
+richiamarono esplicitamente. Grazie anche a questi contributi, tra la fine
+degli anni '40 e l'inizio del decennio successivo, la cibernetica conobbe un
+periodo di grande visibilità e di interesse, da parte sia del mondo della
+ricerca che di quello della cultura popolare[86].
+
+Successivamente iniziò un declino dovuto a vari fattori. Innanzitutto sorsero
+divergenze, sia personali che scientifiche, tra i protagonisti del movimento
+cibernetico. Dopo il 1951, né Wiener né von Neumann parteciparono più alle
+Conferenze Macy, la cui presidenza era tenuta da McCulloch. Wiener e von
+Neumann si erano allontanati per motivi sia di ordine ideologico (Wiener aveva
+maturato un pacifismo radicale, mentre von Neumann lavorava a contatto con il
+mondo della difesa USA[15]) che di diversa visione dei problemi di analisi
+della mente. Inoltre, Wiener vedeva con sospetto l'attività di McCulloch, nel
+frattempo trasferitosi al MIT, temendo che volesse appropriarsi della guida
+scientifica del movimento cibernetico; questa situazione esplose poi, nel
+1953, in una sua irreparabile rottura personale nei confronti sia di McCulloch
+che di Pitts[16]. In quel periodo Pitts stava sviluppando la sua tesi di
+dottorato in matematica sotto la guida di Wiener, per la quale aveva
+sviluppato un nuovo modello di rete neurale, basato su un ampio uso della
+meccanica statistica, più complesso rispetto a quello oggetto del suo articolo
+con McCulloch del 1943. A seguito della rottura, Pitts cessò ogni attività di
+ricerca e distrusse tutte le sue carte, inclusa la bozza di tesi, entrando in
+una lunga crisi personale dalla quale non riuscì più ad emergere[87]. Il
+gruppo di giovani neurofisiologi raccolto attorno a Wiener per iniziativa del
+presidente del MIT J. Wiesner, che comprendeva, oltre a Pitts, Jerome
+Lettvin[88], Oliver Selfridge[89] e Patrick Wall[90], si disperse, mettendo
+fine ad un ambiente nel quale si combinavano in modo unico conoscenze
+matematiche e biologiche.
+
+Inoltre, l'interesse per la cibernetica da parte di una vasta platea di
+discipline, in gran parte nell'ambito delle scienze umane e sociali, portarono
+ad un uso del termine sempre meno preciso e definito. Allo stesso modo,
+l'esplosione dell'interesse popolare e dei mezzi di comunicazione per la
+cibernetica, e la inevitabile banalizzazione del termine che ne seguì, erose
+la credibilità del programma, spesso associato ad iniziative e posizioni non
+scientifiche[91]. Nel 1956 Shannon usò l'espressione _bandwagon_[92] per
+descrivere un fenomeno analogo che avveniva per il termine _informazione_[93],
+con considerazioni che si sarebbero potute applicare allo stesso modo al
+termine cibernetica. Ciò comportò la tendenza, per gli studiosi di argomenti
+di interesse cibernetico, a usare altri termini per descrivere la propria
+attività.
+
+Infine, la nascita (tradizionalmente associata ad un seminario estivo tenutosi
+presso il Dartmouth College nel 1956) dell'intelligenza artificiale (IA) come
+movimento autonomo ed organizzato, ha rappresentato un altro motivo di
+indebolimento della cibernetica. Si trattava infatti di movimenti con
+obiettivi largamento coincidenti, ma animati da ricercatori in gran parte di
+diversa estrazione, e con un differente approccio ai problemi; l'IA era
+concentrata sull'analisi dell'intelligenza da un punto di vista
+computazionale, e trascurava sia il ruolo della retroazione che il
+parallelismo tra animali e macchine[19].
+
+In ogni caso, dopo la fine delle Conferenze Macy, vari autori, richiamandosi
+alla cibernetica, vi apportarono contributi personali originali, anche se
+spesso divergenti dall'impostazione degli iniziatori della disciplina. Il
+filosofo ed epistemologo americano di origine tedesca Ernst von Glasersfeld,
+psicologo di formazione, per un periodo collaboratore di Ceccato in Italia,
+elaborò una posizione filosofica da lui stesso indicata come _costruttivismo
+radicale_[94]. Contributi originali in campo psicologico vennero anche dal
+britannico, ingegnere di formazione, Gordon Pask.
+
+Gregory Bateson e Margaret Mead, ambedue membri del gruppo delle Conferenze
+Macy, lavorarono per incorporare le idee della cibernetica
+nell'antropologia[95]; in particolare, Bateson se ne servì per sviluppare un
+sistema multidisciplinare che includeva anche elementi tratti dalla
+psichiatria, la biologia e l'epistemologia[12]. Alcune sue opere, come _Steps
+to an ecology of mind_[96] (1972) o _Mind and Nature: A Necessary Unity_[97]
+(1979), hanno esercitato una vasta influenza e continuano ad essere lette
+ancora oggi.
+
+L'americano Jay Forrester ed il britannico Stafford Beer, provenienti da
+diverse discipline (rispettivamente, l'ingegneria elettronica e la ricerca
+operativa), si richiamarono ai principi della cibernetica lavorando
+nell'ambito dei sistemi complessi in ambito organizzativo ed economico. Il
+biologo cileno Humberto Maturana negli anni '50 fu collaboratore al MIT di
+Pitts e Lettvin, con i quali pubblicò alcuni importanti contributi di
+neurofisiologia della visione[98]. Successivamente, assieme al suo allievo
+Francisco Varela, elaborarò una teoria del mondo biologico basata sul concetto
+di _autopoiesi_[99].
+
+Heinz von Foerster, fisico di formazione, si occupò di elettronica,
+informatica e biofisica. Legato a McCulloch, fu uno dei frequentatori più
+assidui delle Conferenze Macy, delle quali curò la pubblicazione degli atti.
+Fondò nel 1958 il _Biological Computer Laboratory_ (BCL)[100] all'Università
+dell'Illinois, che fino al 1976 fu un centro di ricerca ed elaborazione per la
+seconda generazione di cibernetici, ed ospitò tra gli altri come docenti
+Ashby, Pask, Beer, Maturana, Varela, von Glasersfeld, J. Lilly. von Foerster
+propose il concetto di _cibernetica del secondo ordine_ , o _cibernetica della
+cibernetica_ , per indicare il proprio lavoro e quello di altri
+esponenti[101].
+
+In Italia le idee di Wiener si diffusero fortemente nella comunità accademica
+degli epistemologi e dei fisici. Precedentemente all'ultima riforma
+universitaria l'ordinamento accademico italiano prevedeva anche una laurea in
+_fisica-cibernetica_ e presso la facoltà di scienze fu istituita una cattedra
+in cibernetica, ancora oggi attiva in qualche facoltà ma con contenuti
+didattici molto variegati.
+
+Tra i principali gruppi di ricerca cibernetici che operarono in Italia vanno
+citate quello napoletano, quello genovese, e la _scuola operativa italiana_
+(SOI)[102].
+
+Il primo nacque dalla iniziativa del fisico teorico Eduardo Renato Caianiello,
+il quale fondo' nel 1957 l'Istituto di fisica teorica dell'Universita' di
+Napoli, e successivamente formo' al suo interno, in collaborazione con il CNR,
+un Gruppo di Cibernetica con sede a Pozzuoli. Caianiello si dedicò
+principalmente allo studio delle reti neurali; con lui collaborò sin
+dall'inizio Valentino von Braitenberg, neurofisiologo, e per un periodo anche
+il fisico, matematico e ingegnere Giacomo della Riccia[103], poi ultimo
+collaboratore di Wiener al MIT. Caianeillo, che conobbe personalmente Wiener
+nel 1954, e lo ricevette poi più volte a Napoli, mantenne relazioni di
+collaborazione con questi ed altri esponenti di primo piano della cibernetica.
+Tra i membri della scuola di Caianiello non possono essere dimenticati i
+fisici e matematici Luigi Maria Ricciardi[104], Francesco Lauria, Aldo De Luca
+e Settimo Termini.
+
+Anche il secondo gruppo nacque ad iniziativa del CNR, che creò il Laboratorio
+di cibernetica e biofisica di Genova, con sede a Camogli, particolarmente
+attivo, con il suo promotore, il biofisico Antonio Borsellino (1915-1992),
+Augusto Gamba (1923-1996), ed altri, nella ricerca sui sistemi adattivi di
+apprendimento e riconoscimento delle forme. Il sistema _PAPA_ (Programmatore
+ed Analizzatore Probabilistico Automatico), da essi proposto a partire dal
+1961, suscitò attenzione ed interesse a livello internazionale[105].
+
+Oggi il centro di Camogli costituisce, assieme ad altri laboratori del CNR a
+Milano, Pisa, Palermo e Trento, l'Istituto di Biofisica del CNR[106], che si
+occupa dello studio della struttura e dei meccanismi di funzionamento dei
+sistemi biologici con metodi interdisciplinari tipici della fisica e della
+matematica. Dal canto suo, l’attuale Istituto di cibernetica napoletano[107],
+accanto a progetti di bioinformatica e di reti neurali, ha sviluppato
+prevalentemente ricerche in fisica della superconduttività. Infine, sia
+nell’Università di Genova sia in quella di Napoli Federico II sono stati
+inaugurati importanti laboratori di robotica.
+
+La _scuola operativa italiana_ , fondata da Silvio Ceccato[108], operò
+principalmente in ambito linguistico. Con Ceccato collaborarono Giuseppe
+Vaccarino e Vittorio Somenzi. Di Somenzi va ricordata l'antologia _La
+filosofia degli automi_[109], che per prima presentò in italiano i testi
+classici della cibernetica. Egli fu poi docente di filosofia della scienza
+presso La Sapienza a Roma, ove nello studio metodologico e filosofico della
+cibernetica e dell'intelligenza artificiale gli è succeduto Roberto Cordeschi.
+
+Tra i cibernetici italiani si possono ricordare inoltre Giuseppe
+Trautteur[110], Giuseppe O. Longo.
+
+In Gran Bretagna viene spesso considerato un anticipatore dell'analisi
+cibernetica lo psicologo Kenneth Craik, prematuramente scomparso nel 1945. Più
+tardi, tra il 1949 ed il 1958, alcuni scienziati interessati alle relazioni
+tra macchine ed organismi naturali avevano dato vita ad un gruppo informale,
+noto come Ratio Club. Tra i suoi frequentatori sono da ricordare lo psichiatra
+W. Ross Ashby, il neurofisiologo William Grey Walter, il fisico e teorico
+dell'informazione Donald M. MacKay[111]. Lo stesso Turing, anch'egli membro
+del club, sviluppò dopo la guerra un interesse per l'analisi matematica di
+problemi biologici[112].
+
+Al di fuori del Ratio Club, il premio Nobel ungherese naturalizzato britannico
+Dennis Gabor, pur non aderendo al movimento cibernetico, perseguì interessi
+simili. Più tardi, Stafford Beer introdusse nell'ambito degli interessi
+cibernetici la ricerca operativa ed i problemi organizzativi.
+
+In Unione Sovietica, nonostante problemi ideologici e politici legati alla
+difficoltà dei rapporti con l'Occidente, gli studi cibernetici si diffusero
+ampiamente. Peraltro, la matematica sovietica (con studiosi quali Lyapunov,
+Markov, Kolmogorov, Khintchine, Stratonovich, Pontryagin, ed altri) era
+tradizionalmente impegnata in aree di interesse cibernetico, quali lo studio
+dei processi stocastici, le teorie dei segnali, dell'informazione e del
+controllo.
+
+In Cile va ricordata l'attività dei biologi Humberto Maturana, già
+collaboratore di McCulloch e Pitts, e Francisco Varela.
+
+Spentosi il clamore sulla cibernetica, dopo la fine degli anni Sessanta,
+subentrò l'ignoranza di cosa fosse stata nel dettaglio questa grandiosa
+esperienza scientifica, dove risiedono - come detto - molte delle radici delle
+scienze e tecnologie attuali. Ciò dipendeva anche dalla scarsa attenzione alla
+storia degli eventi tipica del mondo della ricerca, sempre proiettato verso il
+nuovo. Così ci ritrovammo senza cibernetica e senza sapere cosa fosse stata.
+
+Anche per l'effetto distanziante del tempo e ad opera soprattutto di
+_outsiders_ , a partire dal 1980 è nata una storiografia avvertita della
+cibernetica. Va citata innanzitutto quella che si è concentrata sulla figura
+di Wiener.
+
+Il primo ad inaugurare questa storiografia fu il fisico statunitense, Steve J.
+Heims, che aveva scoperto con meraviglia la complessa nebulosa cibernetica
+delle origini, e gli dedicò due ampie opere: una che confronta von Neumann e
+Wiener[15], l'altra dedicata alle _Macy Conferences on Cybernetics_[12].
+
+Gli fece seguito, nel 1990, un libro di Pesi R. Masani, matematico che aveva
+lavorato a fianco di Wiener negli ultimi anni della sua vita, e coglie
+globalmente la figura di Wiener entrando nei particolari della matematica
+wieneriana, cercando di renderla comprensibile ai più, e dando in proposito un
+contributo fondamentale[113].
+
+Nel 1994 ha cominciato a dedicarsi allo studio della figura di Wiener Leone
+Montagnini, che ha approfondito gli aspetti filosofici e sociologici della sua
+formazione (Wiener aveva un Ph.D. in filosofia) e della sua opera, nonché
+alcuni fondamentali snodi storiografici sull'evoluzione della cibernetica.
+Questi contributi sono confluiti, aggiornati e organicamente sistematizzati,
+nel volume _Le armonie del disordine_.[114]
+
+La cibernetica ha rappresentato un tentativo di sintesi tra diverse
+discipline, alcune delle quali, all'epoca, in fase nascente. Oggi il campo di
+interessi delineato da Wiener è occupato da varie discipline specialistiche,
+tutte in qualche modo discendenti da quell'esperienza originaria, nelle quali
+è però prevalente il momento analitico. I problemi da affrontare per arrivare
+ad una teoria unificata degli animali e delle macchine si sono rivelati,
+infatti, più complessi di quanto forse potessero apparire nel 1948.
+
+Tra le discipline il cui sviluppo è stato influenzato dall'esperienza
+cibernetica si devono citare almeno:
+
+Altri progetti
+

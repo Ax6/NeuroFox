@@ -1,0 +1,191 @@
+**Reaction–diffusion systems** are mathematical models which correspond to
+several physical phenomena: the most common is the change in space and time of
+the concentration of one or more chemical substances: local chemical reactions
+in which the substances are transformed into each other, and diffusion which
+causes the substances to spread out over a surface in space.
+
+Reaction–diffusion systems are naturally applied in chemistry. However, the
+system can also describe dynamical processes of non-chemical nature. Examples
+are found in biology, geology and physics (neutron diffusion theory) and
+ecology. Mathematically, reaction–diffusion systems take the form of semi-
+linear parabolic partial differential equations. They can be represented in
+the general form
+
+where _**q**_ ( _ **x**_ , _t_ ) represents the unknown vector function,
+_**D**_ is a diagonal matrix of diffusion coefficients, and _**R**_ accounts
+for all local reactions. The solutions of reaction–diffusion equations display
+a wide range of behaviours, including the formation of travelling waves and
+wave-like phenomena as well as other self-organized patterns like stripes,
+hexagons or more intricate structure like dissipative solitons. Such patterns
+have been dubbed "Turing patterns".[1] Each function, for which a reaction
+diffusion differential equation holds, represents in fact a _concentration
+variable_.
+
+The simplest reaction–diffusion equation is in one spatial dimension in plane
+geometry,
+
+is also referred to as the Kolmogorov–Petrovsky–Piskunov equation.[2] If the
+reaction term vanishes, then the equation represents a pure diffusion process.
+The corresponding equation is Fick's second law. The choice _R_ ( _u_ ) = _u_
+(1 − _u_ ) yields Fisher's equation that was originally used to describe the
+spreading of biological populations,[3] the Newell–Whitehead-Segel equation
+with _R_ ( _u_ ) = _u_ (1 − _u_ 2) to describe Rayleigh–Bénard
+convection,[4][5] the more general Zeldovich equation with _R_ ( _u_ ) = _u_
+(1 − _u_ )( _u_ − _α_ ) and 0 < _α_ < 1 that arises in combustion theory,[6]
+and its particular degenerate case with _R_ ( _u_ ) = _u_ 2 − _u_ 3 that is
+sometimes referred to as the Zeldovich equation as well.[7]
+
+The dynamics of one-component systems is subject to certain restrictions as
+the evolution equation can also be written in the variational form
+
+and therefore describes a permanent decrease of the "free energy"  L
+{\displaystyle {\mathfrak {L}}} ![{\\mathfrak
+{L}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/f1cc2d02222bcba1e741979a145f0317df3cda81)
+given by the functional
+
+with a potential _V_ ( _u_ ) such that _R_ ( _u_ ) = d _V_ ( _u_ )/d _u_.
+
+In systems with more than one stationary homogeneous solution, a typical
+solution is given by travelling fronts connecting the homogeneous states.
+These solutions move with constant speed without changing their shape and are
+of the form _u_ ( _x_ , _t_ ) = _û_ ( _ξ_ ) with _ξ_ = _x_ − _ct_ , where c is
+the speed of the travelling wave. Note that while travelling waves are
+generically stable structures, all non-monotonous stationary solutions (e.g.
+localized domains composed of a front-antifront pair) are unstable. For _c_ =
+0, there is a simple proof for this statement:[8] if _u_ 0( _x_ ) is a
+stationary solution and _u_ = _u_ 0( _x_ ) + _ũ_ ( _x_ , _t_ ) is an
+infinitesimally perturbed solution, linear stability analysis yields the
+equation
+
+With the ansatz _ũ_ = _ψ_ ( _x_ )exp(− _λt_ ) we arrive at the eigenvalue
+problem
+
+of Schrödinger type where negative eigenvalues result in the instability of
+the solution. Due to translational invariance _ψ_ = ∂ _x_ _u_ 0( _x_ ) is a
+neutral eigenfunction with the eigenvalue _λ_ = 0, and all other
+eigenfunctions can be sorted according to an increasing number of knots with
+the magnitude of the corresponding real eigenvalue increases monotonically
+with the number of zeros. The eigenfunction _ψ_ = ∂ _x_ _u_ 0( _x_ ) should
+have at least one zero, and for a non-monotonic stationary solution the
+corresponding eigenvalue _λ_ = 0 cannot be the lowest one, thereby implying
+instability.
+
+To determine the velocity c of a moving front, one may go to a moving
+coordinate system and look at stationary solutions:
+
+This equation has a nice mechanical analogue as the motion of a mass D with
+position _û_ in the course of the "time" ξ under the force R with the damping
+coefficient c which allows for a rather illustrative access to the
+construction of different types of solutions and the determination of c.
+
+When going from one to more space dimensions, a number of statements from one-
+dimensional systems can still be applied. Planar or curved wave fronts are
+typical structures, and a new effect arises as the local velocity of a curved
+front becomes dependent on the local radius of curvature (this can be seen by
+going to polar coordinates). This phenomenon leads to the so-called curvature-
+driven instability.[9]
+
+Two-component systems allow for a much larger range of possible phenomena than
+their one-component counterparts. An important idea that was first proposed by
+Alan Turing is that a state that is stable in the local system can become
+unstable in the presence of diffusion.[10]
+
+A linear stability analysis however shows that when linearizing the general
+two-component system
+
+a plane wave perturbation
+
+of the stationary homogeneous solution will satisfy
+
+Turing's idea can only be realized in four equivalence classes of systems
+characterized by the signs of the Jacobian _**R**_ ′ of the reaction function.
+In particular, if a finite wave vector _**k**_ is supposed to be the most
+unstable one, the Jacobian must have the signs
+
+This class of systems is named _activator-inhibitor system_ after its first
+representative: close to the ground state, one component stimulates the
+production of both components while the other one inhibits their growth. Its
+most prominent representative is the FitzHugh–Nagumo equation
+
+with  _f_ ( _u_ ) = _λu_ − _u_ 3 − _κ_ which describes how an action potential
+travels through a nerve.[11][12] Here, _d u_, _d v_, _τ_ , _σ_ and _λ_ are
+positive constants.
+
+When an activator-inhibitor system undergoes a change of parameters, one may
+pass from conditions under which a homogeneous ground state is stable to
+conditions under which it is linearly unstable. The corresponding bifurcation
+may be either a Hopf bifurcation to a globally oscillating homogeneous state
+with a dominant wave number _k_ = 0 or a _Turing bifurcation_ to a globally
+patterned state with a dominant finite wave number. The latter in two spatial
+dimensions typically leads to stripe or hexagonal patterns.
+
+Noisy initial conditions at _t_ = 0.
+
+State of the system at _t_ = 10.
+
+Almost converged state at _t_ = 100.
+
+For the Fitzhugh–Nagumo example, the neutral stability curves marking the
+boundary of the linearly stable region for the Turing and Hopf bifurcation are
+given by
+
+If the bifurcation is subcritical, often localized structures (dissipative
+solitons) can be observed in the hysteretic region where the pattern coexists
+with the ground state. Other frequently encountered structures comprise pulse
+trains (also known as periodic travelling waves), spiral waves and target
+patterns. These three solution types are also generic features of two- (or
+more-) component reaction–diffusion equations in which the local dynamics have
+a stable limit cycle[13]
+
+Rotating spiral.
+
+Target pattern.
+
+Stationary localized pulse (dissipative soliton).
+
+For a variety of systems, reaction–diffusion equations with more than two
+components have been proposed, e.g. as models for the regulation of
+lymphangiogenesis by VEGFC, MMP2, and collagen I;[14] the Belousov–Zhabotinsky
+reaction,[15] for blood clotting[16] or planar gas discharge systems.[17]
+
+It is known that systems with more components allow for a variety of phenomena
+not possible in systems with one or two components (e.g. stable running pulses
+in more than one spatial dimension without global feedback),.[18] An
+introduction and systematic overview of the possible phenomena in dependence
+on the properties of the underlying system is given in.[19]
+
+The challenges posed by multi-component systems are rooted in their
+analytically intractable nature; one solution is to explore the parametric
+space of such a model one point at a time and then solve the model
+numerically, as was done in a theoretical study about lymphangiogenesis.[14]
+
+In recent times, reaction–diffusion systems have attracted much interest as a
+prototype model for pattern formation.[20] The above-mentioned patterns
+(fronts, spirals, targets, hexagons, stripes and dissipative solitons) can be
+found in various types of reaction–diffusion systems in spite of large
+discrepancies e.g. in the local reaction terms. It has also been argued that
+reaction–diffusion processes are an essential basis for processes connected to
+morphogenesis in biology[21] and may even be related to animal coats and skin
+pigmentation.[22][23] Other applications of reaction–diffusion equations
+include ecological invasions,[24] spread of epidemics,[25] tumour
+growth[26][27][28] and wound healing.[29] Another reason for the interest in
+reaction–diffusion systems is that although they are nonlinear partial
+differential equations, there are often possibilities for an analytical
+treatment.[8][9][30][31][32][20]
+
+Well-controllable experiments in chemical reaction–diffusion systems have up
+to now been realized in three ways. First, gel reactors[33] or filled
+capillary tubes[34] may be used. Second, temperature pulses on catalytic
+surfaces have been investigated.[35][36] Third, the propagation of running
+nerve pulses is modelled using reaction–diffusion systems.[11][37]
+
+Aside from these generic examples, it has turned out that under appropriate
+circumstances electric transport systems like plasmas[38] or
+semiconductors[39] can be described in a reaction–diffusion approach. For
+these systems various experiments on pattern formation have been carried out.
+
+A reaction–diffusion system can be solved by using methods of numerical
+mathematics. There are existing several numerical treatments in research
+literature.[40][20][41] Also for complex geometries numerical solution methods
+are proposed.[42][43]
+

@@ -1,0 +1,107 @@
+I **popup di navigazione** sono delle finestre di interazione contestuale che
+offrono un accesso facile e immediato a numerose funzioni di Wikipedia: è
+sufficiente lasciare il puntatore del mouse su un wikilink per far apparire il
+popup.
+
+Se riscontri dei problemi prova a consultare le FAQ.
+
+Questo strumento serve per generare dei "popup di suggerimento" quando lasci
+il puntatore del mouse sopra a link o immagini.
+
+Molte delle funzionalità considerate più importanti possono essere comodamente
+usate dalla lista degli osservati speciali.
+
+Dovrebbero esserci anche alcuni "link di navigazione" che offrono l'accesso a
+diverse funzioni, compreso un rollback immediato, la modifica della pagina e
+così via. Potrebbero essere incluse direttamente nel template, o nascoste nel
+menu "azioni", a seconda del tuo browser e delle tue impostazioni.
+
+Nelle voci normali:
+
+Puoi cambiare l'aspetto dei popup tramite il tuo file CSS. Il tuo file CSS ha
+esattamente lo stesso nome del file javascript, con "css" invece di "js" alla
+fine. Quindi, per la maggior parte delle persone, il file da modificare è
+common.css.
+
+Quello che segue è un esempio che presenta un popup arancione con un bordo e
+cambia il font in uso. Il popup avrà un aspetto abbastanza stupido, ma è una
+dimostrazione del tipo di cose che si possono fare con un po' di voglia.
+
+Ci sono alcune opzioni che puoi personalizzare. Per farlo, modifica il tuo
+file javascript (ad esempio common.js) e aggiungi una linea del tipo
+
+dove `_opzione_` e `_valore_` sono scelti dalla tabella seguente. Per esempio,
+per evitare ogni tipo di download e mostrare i link per amministratori, avrai
+bisogno di una cosa del genere nel tuo file javascript:
+
+  
+
+  
+
+  
+
+  
+
+*I valori predefiniti sono elencati in grassetto 
+
+Potrebbero essere aggiunte altre opzioni, e le richieste di una maggiore
+flessibilità di configurazione sono più che benvenute.
+
+È possibile definire filtri personalizzati per le voci, funzioni javascript
+che vengono eseguite dopo che le statistiche della pagina sono state generate,
+e il loro output viene inserito (come HTML) in quella parte del popup. (Nota
+bene che se simplePopups è true o popupSummaryDaya è false, non verrà mostrato
+nulla).
+
+Per mettere su una cosa del genere, è necessario scrivere una funzione filtro
+che accetti una stringa (il wikitesto della voce) come input, e ritorni un
+frammento di HTML. Ripeti quante volte vuoi, poi crea un array
+`extraPopupFilters` che contenga tutte le funzioni, nell'ordine in cui vuoi
+che vengano eseguite.
+
+Per esempio, mettiamo che vuoi che ti venga detto ogniqualvolta il wikitesto
+di una voce contiene una tabella scritta utilizzando tag HTML piuttosto che il
+linguaggio wiki. Un modo per realizzarlo è aggiungere le seguenti linee al tuo
+file javascript:
+
+Dopodiché, quando un popup viene generato per una pagina contenente una
+tabella HTML, dovresti vedere <tabella> nel popup. (Potrebbe apparire anche
+per altre pagine, come questa. La correzione di tale difetto è lasciata al
+lettore come esercizio).
+
+La traduzione italiana è a cura di:
+
+Per ogni tipo di lamentele, complimenti, segnalazioni di bug e quant'altro
+potete alternativamente contattare Emc2 o Valepert, o (in inglese) Lupin, lo
+sviluppatore che ha reso possibile tutto ciò.
+
+Se sei un utente di Google Chrome e utilizzi l'estensione deprecata Virtual
+Keyboard (by Google) i popup potrebbero apparire nella posizione errata. Il
+problema è stato riscontrato nella versione 0.9.8.8. Si suggerisce di
+installare l'estensione Google Input Tools.
+
+Se sei un utente di Mozilla Firefox e utilizzi l'estensione AdBlock Plus
+potresti non visualizzare il popup di navigazione. Il problema può essere
+risolto aggiungendo un'eccezione alle regole sui filtri, disabilitando
+l'estensione su it.wikipedia.org.
+
+L'estensione Linky potrebbe entrare in conflitto con l'uso dei popup,
+provocando l'apertura di centinaia di schede. Si suggerisce di disabilitare i
+popup nel caso si voglia continuare ad utilizzare l'estensione.
+
+Le pagine che presentano "–" nel titolo potrebbero non essere visualizzate
+correttamente. Il bug non è presente in Internet Explorer 9\.
+
+I menu potrebbero non funzionare nelle vecchie versioni di Safari. È quindi
+consigliabile aggiornare il browser alla versione 3 o successiva.
+
+Le versioni più vecchie di Opera presentano alcuni bug che impediscono ai menu
+di funzionare correttamente. Alcuni dei problemi segnalati includono popup che
+non si caricano o che non scompaiono dopo aver spostato il mouse. L'utilizzo
+della versione corrente (11.0 o superiore) dovrebbe fornire menu perfettamente
+funzionanti.
+
+Questo strumento dipende dal lavoro di altre persone:
+
+Versioni più vecchie del programma usavano overlib di Erik Bosrup.
+

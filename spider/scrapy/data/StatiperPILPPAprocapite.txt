@@ -1,0 +1,16 @@
+Questa voce fornisce una **lista di stati del mondo** ordinata per il loro
+**prodotto interno lordo (PIL) PPA procapite**.
+
+Questo rappresenta il valore di tutti i prodotti finiti e servizi prodotti in
+uno stato in un dato anno diviso per la popolazione media dello stato per lo
+stesso anno.
+
+Essendo calcolate sul PIL adeguato alle parità dei poteri di acquisto e quindi
+tenendo conto del diverso costo della vita dei diversi paesi, questi valori
+meglio rappresentano la ricchezza dei diversi popoli dei diversi paesi
+rispetto alla lista di Stati per PIL (nominale) pro capite e permettono quindi
+di comparare più fedelmente, anche se non esaustivamente, il benessere
+relativo dei singoli paesi.
+
+Espressi in Dollaro Geary-Khamis (International Dollars).
+

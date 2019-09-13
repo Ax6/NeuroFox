@@ -1,0 +1,348 @@
+_**BANG!**_ è un gioco di carte con ambientazione western creato da Emiliano
+Sciarra ed edito dalla _daVinci Editrice_.
+
+Nel 2002 _BANG!_ vinse il premio Best of Show a Lucca Comics&Games nella
+sezione Miglior Gioco Italiano, mentre l'edizione statunitense pubblicata
+dalla Mayfair Games vinse nel 2004 l'Origins Award nelle categorie Best
+Traditional Card Game e Best Graphic Design of a Card Game or Expansion del
+2003.[1].
+
+La concezione originale di _BANG!_ risale a fine agosto 1999. A quel tempo
+Emiliano Sciarra stava cercando un gioco che riuscisse a coinvolgere i suoi
+parenti per le feste natalizie, e che quindi fosse semplice, coinvolgente e
+molto divertente[2]. Contemporaneamente, essendo un assiduo giocatore del
+gioco di carte collezionabile _Magic: The Gathering_ con i propri amici,
+cercava un modo per riuscire a giocare a squadre quando al tavolo sono
+presenti un numero dispari di giocatori. Nella concezione originale non
+c'erano i ruoli e lo scopo era di guadagnare taglie eliminando gli altri
+giocatori. Ma poi, dopo pochi mesi, i due percorsi di ricerca ludica si
+incrociarono generando a fine 1999 il primo prototipo del gioco, molto simile
+a quello pubblicato dalla daVinci. La prima partita in assoluto di _BANG!_ fu
+tenuta, secondo racconti dell'autore rilasciati pubblicamente più volte, il 6
+gennaio 2000 durante la festa per il compleanno del nonno, con alcuni parenti
+(fra cui la sorella Annalisa, che poi ricoprirà un ruolo organizzativo
+all'interno della daVinci) attorno a un tavolo appartato.
+
+Il gioco fu poi presentato, pochi giorni dopo, ai soci del Circolo
+Scacchistico Civitavecchiese "Luigi Valentini", di cui Sciarra era fra i
+fondatori. Il gioco piacque a tal punto che per il giorno seguente i soci
+continuarono a scambiarsi SMS con la scritta _BANG!_ a cui bisognava
+rispondere immediatamente con un altro SMS recante la dicitura _Schivata!_ (il
+nome originale delle carte _Mancato!_ ), in ossequio al meccanismo principale
+del gioco. Per due anni i soci furono presi a tal punto dal gioco da
+trascurare di dedicarsi agli Scacchi per intavolare interminabili serie di
+partite che si protraevano fino all'alba. Il nome originale che Sciarra diede
+al gioco era _Tombstone_ , ma il nome _BANG!_ , osteggiato inizialmente
+dall'autore, fu ritenuto così immediato ed evocativo che alla fine fu
+utilizzato ufficialmente.
+
+A partire da metà 2000 Sciarra iniziò a cercare editori disposti a pubblicare
+il gioco. Ma l'occasione si presentò solo nel dicembre 2001, quando Domenico
+Di Giorgio, già fondatore dell'Associazione Novecentonovanta e della fanzine
+_Un'Altra Cosa_ con cui collaborava spesso anche Sciarra, lo informò di aver
+fondato, assieme ad altri soci, una casa editrice di giochi da tavolo chiamata
+daVinci Editrice. Sciarra decise allora di proporre il suo gioco di carte.
+Secondo racconti dello stesso Di Giorgio e di Roberto Corbelli, allora
+presidente della daVinci, il gioco piacque a tal punto da scombussolare
+l'intero piano editoriale dell'azienda: fu deciso di fare di _Bang!_ il primo
+gioco della daVinci. Il direttore artistico della daVinci, Stefano De Fazi,
+incaricò il fumettista Alessandro Pierangelini dei disegni sulle carte.
+Pierangelini, De Fazi, Sciarra e Di Giorgio sono tutti di Civitavecchia e si
+conoscevano già prima della fondazione della daVinci per i comuni interessi.
+La revisione delle regole iniziò nel gennaio 2002. Il gioco fu disponibile al
+pubblico a partire da fine luglio dello stesso anno.
+
+Nel gennaio 2008 l'editore cinese YOKA games pubblica il gioco 三國殺T, 三国杀S,
+SānguóshāW, che utilizza le stesse meccaniche di _Bang!_ , ma che è
+tematicamente basato su _Il romanzo dei Tre Regni_ di Luo Guanzhong[3]. Il
+gioco ha un enorme successo vendendo per 20 milioni di yuan nel 2009 e 100
+milioni di yuan nel 2010 e viene ben presto esportato all'estero della
+Cina[3]. La dvGiochi, tenta inizialmente ma senza successo di comporre
+amichevolmente il problema con la YOKA games, quindi fa causa con successo,
+prima a Honk Kong e poi a Shangai, ma non può far nulla nella Cina
+continentale, dove il diritto d'autore sui giochi non viene riconosciuto[3].
+Quando la Yoka games esporta il gioco negli Stati Uniti, tenta nuovamente di
+bloccare la pubblicazione, ma il giudice ritenne la differenza d'ambientazione
+(da Far West alla Cina leggendaria) sufficiente a rendere _Legend of Three
+Kingdoms_ (nome dell'edizione statunitense) un gioco differente[3].
+
+Benché il funzionamento del prototipo originale sia molto simile al gioco
+pubblicato, ci sono nondimeno alcune differenze che mirarono a standardizzare
+il prodotto a un semplice mazzo di carte e semplificare il meccanismo. Ecco le
+principali differenze:
+
+Comincia a giocare lo sceriffo; e al proprio turno un giocatore pesca due
+carte e può giocare quante carte vuole, eccetto per le carte "Bang!" di cui se
+ne può giocare solo una. Gli effetti delle carte sono descritti mediante
+simboli e possono permettere di rubare una carta dalla mano di un giocatore,
+obbligare un giocatore a scartare una carta, mettere in prigione un
+personaggio, cambiare la distanza relativa rispetto agli altri giocatori
+oppure cambiare la distanza a cui si può sparare.
+
+Le carte "Bang!" permettono di sparare ad un altro giocatore purché sia nel
+raggio di tiro della propria arma. Ogni giocatore è considerato ad una
+distanza relativa di "1" rispetto ai due giocatori che gli siedono a fianco, a
+distanza relativa "2" rispetto a quelli che siedono al posto successivo e così
+via, sempre contando per la via più breve. Si possono colpire gli avversari a
+distanza "2" avendo un'arma con gettata superiore come la Schofield, o
+utilizzando carte come Mirino che riducono la distanza tra i giocatori. Ogni
+personaggio è sempre considerato come armato con una Colt. 45 che gli permette
+di colpire bersagli a distanza 1. Se il bersaglio ha una carta "Mancato" la
+può giocare ed evitare di essere colpito, altrimenti perde un proiettile (cioè
+un punto-vita). Quando un personaggio perde l'ultimo proiettile è eliminato
+dal gioco.
+
+La carta "Birra" può essere usata per recuperare un punto-vita. Un personaggio
+non può avere più punti vita di quelli con cui ha iniziato il gioco.
+
+Alla fine del proprio turno, un personaggio deve scartare le carte in eccesso
+del numero di pallottole che ha il suo personaggio in quel momento. Il gioco
+continua in senso orario fino a che lo Sceriffo è eliminato oppure fino a che
+tutti i fuorilegge e il rinnegato sono stati eliminati.
+
+Le carte personaggio presenti nel mazzo base sono:
+
+In totale ci sono 63 carte marroni nel mazzo base:
+
+In totale ci sono 17 carte blu nel mazzo base:
+
+Al gioco possono prendere parte da quattro a sette giocatori (che diventano da
+tre a otto, tramite l'espansione _Dodge City_ ). Ad ogni giocatore viene
+assegnata coperta una carta ruolo e una carta personaggio. I ruoli a seconda
+del numero di giocatori sono:
+
+Tutti i giocatori rivelano il proprio personaggio, ma mantengono segreto il
+loro ruolo, eccetto che per lo sceriffo. Ogni giocatore riceve un numero di
+proiettili pari a quello dei suoi punti vita, lo sceriffo ne riceve uno in
+più.
+
+Le condizioni di vittoria del gioco cambiano al variare del ruolo:
+
+I ruoli sono vice, fuorilegge e rinnegato e sono tutti visibili. Per vincere
+il vice deve eliminare il rinnegato, il rinnegato deve eliminare il fuorilegge
+ed il fuorilegge deve eliminare il vice. Il vice inizia il gioco. Si vince non
+appena si raggiunge il proprio obiettivo, ma si deve eliminare di persona il
+proprio bersaglio, altrimenti l'obiettivo per i sopravvissuti diventa quello
+di restare l'ultimo personaggio in vita.
+
+Quando si elimina un altro giocatore, si pescano subito 3 carte dal mazzo. La
+Prigione può essere giocata su chiunque. Come sempre la Birra non ha effetto
+quando si rimane solo in due.
+
+Ogni Rinnegato gioca per conto proprio e vince solo se rimane l'ultimo
+giocatore in vita, quindi se si arriva con lo sceriffo da solo contro i due
+rinnegati e lo sceriffo viene eliminato per primo, la vittoria va ai
+fuorilegge!
+
+Lo sceriffo deve ripulire la città dai fuorilegge e dal rinnegato. Il compito
+è relativamente semplice in una partita a 4 giocatori, poiché deve di fatto
+sparare a tutti gli altri, ma la cosa si fa più complicata quando i giocatori
+aumentano, ed entrano in gioco i vicesceriffi in incognito. Sparando nel
+gruppo si rischia adesso di accanirsi contro uno di loro, e lo Sceriffo,
+quando uccide un suo vice, perde, oltre ad un comodissimo alleato, tutte le
+sue carte, in mano e in gioco, per una regola speciale.
+
+I Fuorilegge possono adottare due tattiche diverse, entrambe efficaci ma molto
+rischiose. La prima consiste nel nascondersi nell'ombra, magari uccidendosi a
+vicenda per guadagnare taglie, e arrivare poi a freddare lo sceriffo da soli,
+senza alcun alleato. La seconda invece consiste nel fare l'esatto contrario:
+sparare allo sceriffo, e farsi subito riconoscere come fuorilegge,
+coalizzandosi con gli altri giocatori che ricoprono lo stesso ruolo contro il
+Rinnegato e il braccio armato della legge (lo sceriffo e i suoi vice, se ce ne
+fossero).
+
+I vicesceriffi devono ovviamente iniziare a sparare ai fuorilegge non appena
+questi si rivelano e proteggere lo sceriffo a tutti i costi, anche con la loro
+stessa vita, sfruttando il fatto di essere "in incognito" ma cercando di far
+capire subito allo sceriffo quello che sono, cioè i suoi alleati contro i
+fuorilegge.
+
+Il rinnegato vuole diventare il nuovo sceriffo, e per farlo deve rimanere
+l'ultimo in gioco, assieme allo sceriffo (altrimenti, anche se sono stati
+eliminati, vincono i fuorilegge) e ucciderlo. Ovviamente, ciò significa che
+deve fare il doppio gioco e possibilmente fingersi un "innocente"
+vicesceriffo, così da sparare sui fuorilegge senza attirarsi addosso il fuoco
+dello sceriffo.
+
+Le carte contenute nell'espansione High Noon sono:
+
+Un mazzo di 13 carte (più 2 carte speciali pubblicate successivamente
+nell'edizione della pallottola, per un totale di 15 carte) che vengono tenute
+dallo sceriffo. Le carte non sono fatte per essere giocate da un giocatore in
+particolare; lo sceriffo rivela la carta in cima al mazzo all'inizio di
+ciascuno dei propri turni, e gli effetti della carta si applicano a tutti i
+giocatori, fino al successivo turno dello sceriffo. Può succedere che i
+personaggi perdano le loro abilità speciali oppure i giocatori possano
+trovarsi a pescare una carta in meno all'inizio del turno. Oppure le carte
+"Bang!" possono essere vietate, come pure le carte "Birra";
+
+Un set di 15 nuovi personaggi e 40 nuove carte da giocare, vengono introdotte
+le carte a bordo verde e un secondo rinnegato, portando il totale dei
+giocatori massimi a otto, oltre a nuove regole per poter giocare in tre;
+
+Espansione simile a _High Noon_ , sono 15 nuove carte tenute dallo sceriffo.
+Ad ogni turno entra in gioco una carta, i cui effetti si applicano a tutti i
+giocatori. Alcune delle carte di questa espansione sono state create
+selezionando le idee proposte dai partecipanti ad un concorso pubblico
+appositamente indetto dalla casa editrice;
+
+Espansione uscita a maggio 2010 contenente 8 personaggi nuovi e 10 carte con
+uso simile ad "High Noon" ma differenti di attivazione (infatti non vengono
+attivate dallo sceriffo ad ogni giro ma da chiunque giochi una Diligenza o
+Wells Fargo non appena la gioca).
+
+Espansione presentata al Lucca Comics and Games 2011\. Questa espansione
+composta da 24 carte equipaggiamento e 8 personaggi introduce un negozio per
+comprare carte aggiuntive (attraverso l'uso di 30 pepite di plastica), ed un
+meccanismo per far giocare anche i giocatori eliminati fino a fine partita
+(pistoleri ombra);
+
+Espansione uscita inizialmente in esclusiva per la Repubblica Ceca e poi
+rivisitata dall'autore per il mercato internazionale. Composta da 8 nuovi
+personaggi e 16 carte da gioco è stata presentata in anteprima a Essen-
+Spiel'14 in Germania e poi uscita a novembre 2014 anche in Italia;
+
+Espansione uscita a settembre 2017 contenente 8 personaggi nuovi e 28 carte.
+Alcune carte hanno il bordo arancione e sono usate o potenziate con dei
+segnalini Carica (32 nella confezione);
+
+Carte eventi di colore verde scuro nell'edizione originale diventate arancioni
+nelle edizioni successive.
+
+Con questa espansione si può estendere il gioco da 3 a 8 giocatori
+(aggiungendo un altro rinnegato). Carte di colore Marrone:
+
+Carte di colore blu:
+
+Carte di colore verde:
+
+Carte personaggio
+
+Carte evento di colore blu scuro
+
+Carte personaggio
+
+Carte WWS (Wild West Show): Entrano in gioco parallelamente a quelle dei
+mazzetti _High Noon_ o _A Fistful of Cards_ , ma si mettono in campo solo
+quando un qualsiasi giocatore gioca una Diligenza o un Wells Fargo e il loro
+effetto rimane finché non vengono sostituite da un'altra carta WWS. L'ultima
+carta del mazzo deve essere la carta Wild West Show che dura fino a fine
+gioco.
+
+Introduce un mazzetto di carte equipaggiamento che viene tenuto separato dal
+mazzo normale di gioco. I giocatori possono comprare una delle tre carte
+equipaggiamento visibili pagandole con le "pepite d'oro", segnalini in
+plastica ambrata trasparente che possono essere ottenuti ferendo un altro
+giocatore o giocando una birra (in questo caso non si recuperano punti vita).
+In questo mazzetto sono presenti carte "equipaggiamento", alcune a bordo
+marrone, da giocare subito e scartare, e carte a bordo nero, da porre davanti
+a sé e tenerle fino a che non vengono scartate o pescate da un altro
+giocatore. Un altro giocatore può scartarle anche pagando il costo
+dell'equipaggiamento più una pepita
+
+Il gioco presenta anche la modalità "Pistoleri ombra", che permette ai
+giocatori eliminati di tornare momentaneamente in gioco, durante il loro
+turno, pescare due carte, giocarle, scartare le eventuali rimanenti in mano ed
+a terra (compresi eventuali equipaggiamenti), e uscire nuovamente dal gioco,
+permettendo alla distanza tra giocatori vivi di diminuire man mano i giocatori
+vengono eliminati. Le pepite non vengono scartate quando un giocatore muore.
+Il rinnegato, una volta eliminato, gioca per la fazione che ha più carte ruolo
+scoperte (la più debole), ed in caso di parità, con i fuorilegge. Una carta
+doubleface viene fornita allo scopo di identificare per chi gioca il
+rinnegato. Sono presenti inoltre 8 nuovi personaggi.
+
+Carte equipaggiamento di colore marrone
+
+Carte equipaggiamento di colore nero
+
+Personaggi
+
+La valle delle Ombre (in ceco: _Údolí Stínů_ ) è un'espansione creata
+appositamente per il mercato ceco e slovacco dal distributore ALBI e dai
+contributi di diversi autori, che hanno partecipato mediante concorso. Le
+carte, selezionate e testate da Martin Blažko ed Emiliano Sciarra, sono state
+pubblicate in un pacchetto da 20 carte. Le carte non avevano inizialmente una
+traduzione ufficiale, ma erano visionabili presso il sito dell'autore[9][10].
+Solo due personaggi (Colorado Bill e Henry Block) sono stati ufficialmente
+pubblicati in Italia, nell'edizione del decennale.
+
+Personaggi
+
+Carte di colore marrone
+
+Carte di colore Blu
+
+Nel 2007 è stata pubblicata una versione deluxe del gioco chiamata _BANG! La
+Pallottola!_ , contenente carte del set base e delle prime tre espansioni, due
+carte personalizzabili (di cui una per un personaggio) ed alcune carte extra,
+oltre ad una stella da sceriffo.
+
+Personaggi extra
+
+Carte extra per _High Noon_
+
+Al LuccaComics 2009 è stato annunciato lo sviluppo, da parte della software
+house SpinVector e dalla società di produzione Palzoun (che ha acquisito i
+diritti da DaVinci), del videogioco BANG![11]. Il prodotto, inizialmente
+previsto per l'inizio del 2010[12], venne poi ritardato e presentato per la
+prima volta al pubblico a Lucca Comics 2010 (dove erano giocabili le versioni
+PC, iPhone, iPad e Bada).
+
+Il videogioco è stato distribuito inizialmente solo in single-player e in
+inglese sulle prime piattaforme tra la fine 2010 e l'inizio del 2011: per
+iPhone & iPod touch e in versione HD per iPad (tramite App Store di Apple),
+per Samsung Bada (tramite Samsung Apps), per PC in direct download dal sito
+ufficiale e per Atom NetBook (tramite Intel AppUp) mentre a marzo 2011 è stata
+pubblicata la versione per Symbian^3 (Nokia) tramite Ovi Store. Un'anteprima
+PSN è stata presentata all'E3 2011[13]. È prevista l'uscita anche su altre
+piattaforme non ancora comunicate ufficialmente (probabilmente Android, Mac,
+Linux e una console). Il videogioco è attualmente disponibile in cinque lingue
+(inglese, italiano, francese, tedesco e spagnolo) e su Pc, Atom NetBook e iPad
+è possibile giocare fino a 8 giocatori (sulle altre piattaforme solo fino a 5
+anche se prevedono la modalità Pass-Play per permettere a più persone di
+giocare in locale) e con gli aggiornamenti avvenuti sulle varie piattaforme
+fra ottobre e novembre 2011 include anche le carte giocabili dell'espansione
+"Dodge City", obiettivi, un pacchetto di personaggi sbloccabili e soprattutto
+la giocabilità online "MultiCross", ossia la possibilità di giocare on-line
+fra le varie piattaforme (attualmente sono escluse dal Multi-Cross le versioni
+Symbian^3 e Bada) in modo del tutto invisibile per il giocatore.
+L'aggiornamento alla versione MultiCross per tutte le piattaforme per cui
+viene distribuito è gratuito, così come l'utilizzo del servizio di gioco
+online. Come si legge nelle FAQ del gioco, la politica di distribuzione delle
+espansioni sarà diversa da quella del gioco cartaceo: infatti, le carte
+giocabili di Dodge City sono incluse gratuitamente nell'aggiornamento
+MultiCross, mentre i personaggi sono stati riorganizzati in pacchetti-
+espansione più piccoli. Il primo pacchetto espansione di personaggi, incluso
+gratuitamente nell'aggiornamento MultiCross è denominato "Scavanger Pack" e
+include Greg Digger, Herb Hunter e Vulture Sam[14]. Il secondo pacchetto di
+espansione è uscito (gratuitamente) durante le vacanze natalizie 2011 sulle
+varie piattaforme su cui è già presente il Multi-Cross; contiene un tavolo
+speciale e il personaggio Claus The Saint. Questi personaggi (e il tavolo
+natalizio speciale) sono sbloccabili attraverso il conseguimento di
+particolari obiettivi.
+
+Inoltre, in occasione dei 150 dell'Unità d'Italia e della festa d'Indipendenza
+Americana sono state distribuite due versioni speciali lite del gioco (solo
+tramite AppStore) con dei personaggi speciali ma senza abilità (è presente
+solo la modalità facile e non è possibile il multi-player online).
+
+Nell'ottobre 2012 è stato pubblicato un nuovo gioco, _Samurai Sword_, basato
+sulle meccaniche di BANG! è ambientato nel Giappone medievale. _Samurai Sword_
+presenta alcune novità; l'innovazione principale è l'assenza di eliminazione:
+grazie al sistema dei "punti onore" i giocatori partecipano fino al termine
+della partita. Sempre nella linea BANG! Game System, a ottobre 2013, è stato
+pubblicato _BANG! The Dice Game_ , un gioco di dadi che sfrutta il sistema di
+gioco di BANG!, dando al gioco un ritmo veloce e serrato. Nell'ottobre 2015 si
+aggiunge un nuovo gioco alla linea: _Bang! The Duel_ , un gioco pensato per
+due giocatori e viene presentato _Bang! The Walking Dead_ , il gioco classico
+ambientato però nel mondo degli zombie del famoso fumetto The Walking Dead.
+Fra il 2016 e il 2017 vengono create le espansioni per BANG! The Dice Game
+_(BANG! Old Saloon)_ e per BANG! The Duel (dove vengono aggiunte le plance per
+il gioco base). Inoltre in occasione del decimo anniversario viene creata
+un'edizione speciale limitata che contiene le solite espansioni in aggiunta
+all'espansione del decimo anniversario. Inoltre esiste una versione di BANG
+che contiene solo pallottole e plance. Inoltre vi è un'edizione che contiene
+varie carte personalizzabili per il gioco.
+
+Altri progetti
+

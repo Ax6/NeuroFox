@@ -1,0 +1,106 @@
+A **direct numerical simulation (DNS)**[1] is a simulation in computational
+fluid dynamics in which the Navier–Stokes equations are numerically solved
+without any turbulence model. This means that the whole range of spatial and
+temporal scales of the turbulence must be resolved. All the spatial scales of
+the turbulence must be resolved in the computational mesh, from the smallest
+dissipative scales (Kolmogorov microscales), up to the integral scale L
+{\displaystyle L}
+![L](https://wikimedia.org/api/rest_v1/media/math/render/svg/103168b86f781fe6e9a4a87b8ea1cebe0ad4ede8),
+associated with the motions containing most of the kinetic energy. The
+Kolmogorov scale,  η {\displaystyle \eta } ![\\eta
+](https://wikimedia.org/api/rest_v1/media/math/render/svg/e4d701857cf5fbec133eebaf94deadf722537f64),
+is given by
+
+where  ν {\displaystyle \nu } ![\\nu
+](https://wikimedia.org/api/rest_v1/media/math/render/svg/c15bbbb971240cf328aba572178f091684585468)
+is the kinematic viscosity and  ε {\displaystyle \varepsilon } ![\\varepsilon
+](https://wikimedia.org/api/rest_v1/media/math/render/svg/a30c89172e5b88edbd45d3e2772c7f5e562e5173)
+is the rate of kinetic energy dissipation. On the other hand, the integral
+scale depends usually on the spatial scale of the boundary conditions.
+
+To satisfy these resolution requirements, the number of points  N
+{\displaystyle N}
+![N](https://wikimedia.org/api/rest_v1/media/math/render/svg/f5e3890c981ae85503089652feb48b191b57aae3)
+along a given mesh direction with increments  h {\displaystyle h}
+![h](https://wikimedia.org/api/rest_v1/media/math/render/svg/b26be3e694314bc90c3215047e4a2010c6ee184a),
+must be
+
+so that the integral scale is contained within the computational domain, and
+also
+
+so that the Kolmogorov scale can be resolved.
+
+Since
+
+where  u ′ {\displaystyle u'}
+![u'](https://wikimedia.org/api/rest_v1/media/math/render/svg/bee645f272e64333868e2baa275419eca4ee0718)
+is the root mean square (RMS) of the velocity, the previous relations imply
+that a three-dimensional DNS requires a number of mesh points  N 3
+{\displaystyle N^{3}}
+![N^{{3}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/0c55dcbd0d1893c037f846f52adda4f714b3f7d9)
+satisfying
+
+where  R e {\displaystyle \mathrm {Re} } ![{\\mathrm
+{Re}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/ce9a978f729af1a34028e60d45f484f0908e4be7)
+is the turbulent Reynolds number:
+
+Hence, the memory storage requirement in a DNS grows very fast with the
+Reynolds number. In addition, given the very large memory necessary, the
+integration of the solution in time must be done by an explicit method. This
+means that in order to be accurate, the integration, for most discretization
+methods, must be done with a time step,  Δ t {\displaystyle \Delta t}
+![\\Delta
+t](https://wikimedia.org/api/rest_v1/media/math/render/svg/8c28867ecd34e2caed12cf38feadf6a81a7ee542),
+small enough such that a fluid particle moves only a fraction of the mesh
+spacing  h {\displaystyle h}
+![h](https://wikimedia.org/api/rest_v1/media/math/render/svg/b26be3e694314bc90c3215047e4a2010c6ee184a)
+in each step. That is,
+
+( C {\displaystyle C}
+![C](https://wikimedia.org/api/rest_v1/media/math/render/svg/4fc55753007cd3c18576f7933f6f089196732029)
+is here the Courant number). The total time interval simulated is generally
+proportional to the turbulence time scale  τ {\displaystyle \tau } ![\\tau
+](https://wikimedia.org/api/rest_v1/media/math/render/svg/38a7dcde9730ef0853809fefc18d88771f95206c)
+given by
+
+Combining these relations, and the fact that  h {\displaystyle h}
+![h](https://wikimedia.org/api/rest_v1/media/math/render/svg/b26be3e694314bc90c3215047e4a2010c6ee184a)
+must be of the order of  η {\displaystyle \eta } ![\\eta
+](https://wikimedia.org/api/rest_v1/media/math/render/svg/e4d701857cf5fbec133eebaf94deadf722537f64),
+the number of time-integration steps must be proportional to  L / ( C η )
+{\displaystyle L/(C\eta )} ![L/\(C\\eta
+\)](https://wikimedia.org/api/rest_v1/media/math/render/svg/f41528fb7b31ca1249818d1c7952a97d98bd4e38).
+By other hand, from the definitions for  R e {\displaystyle \mathrm {Re} }
+![{\\mathrm
+{Re}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/ce9a978f729af1a34028e60d45f484f0908e4be7),
+η {\displaystyle \eta } ![\\eta
+](https://wikimedia.org/api/rest_v1/media/math/render/svg/e4d701857cf5fbec133eebaf94deadf722537f64)
+and  L {\displaystyle L}
+![L](https://wikimedia.org/api/rest_v1/media/math/render/svg/103168b86f781fe6e9a4a87b8ea1cebe0ad4ede8)
+given above, it follows that
+
+and consequently, the number of time steps grows also as a power law of the
+Reynolds number.
+
+One can estimate that the number of floating-point operations required to
+complete the simulation is proportional to the number of mesh points and the
+number of time steps, and in conclusion, the number of operations grows as  R
+e 3 {\displaystyle \mathrm {Re} ^{3}} ![{\\displaystyle \\mathrm {Re}
+^{3}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/2f795f5fc8fc60a155c4900319a3b516430f8283).
+
+Therefore, the computational cost of DNS is very high, even at low Reynolds
+numbers. For the Reynolds numbers encountered in most industrial applications,
+the computational resources required by a DNS would exceed the capacity of the
+most powerful computers currently available. However, direct numerical
+simulation is a useful tool in fundamental research in turbulence. Using DNS
+it is possible to perform "numerical experiments", and extract from them
+information difficult or impossible to obtain in the laboratory, allowing a
+better understanding of the physics of turbulence. Also, direct numerical
+simulations are useful in the development of turbulence models for practical
+applications, such as sub-grid scale models for large eddy simulation (LES)
+and models for methods that solve the Reynolds-averaged Navier–Stokes
+equations (RANS). This is done by means of "a priori" tests, in which the
+input data for the model is taken from a DNS simulation, or by "a posteriori"
+tests, in which the results produced by the model are compared with those
+obtained by DNS.
+

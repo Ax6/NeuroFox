@@ -1,0 +1,147 @@
+La **geotecnica** è la disciplina che si occupa di studiare la meccanica delle
+terre e delle rocce e la sua applicazione alla scala delle opere di ingegneria
+nonché a studi di carattere territoriale. La geotecnica è materia di
+competenza concorrente tra ingegneri e geologi.[1]
+
+Convenzionalmente, in geotecnica[2], il terreno viene suddiviso in classi
+granulometriche, definite in base al diametro delle particelle solide che lo
+compongono. Queste classi sono:
+
+La composizione granulometrica dei terreni influenza il comportamento
+meccanico e idraulico ed è determinata con la pratica del setacciamento
+(mediante vagli o stacci) o della sedimentazione (per la frazione fine) di
+campioni prelevati in sito.
+
+Le caratteristiche particolari di un terreno derivano dal fatto che:
+
+Allo scopo di determinare le caratteristiche di un terreno, di natura
+meccanica (resistenza e rigidezza) o idraulica (permeabilità), sono
+disponibili varie attrezzature di laboratorio:
+
+Vengono pure frequentemente utilizzate prove di caratterizzazione in sito che
+suppliscono l'impossibilità o la difficoltà di prelevare campioni in materiali
+che non presentano una coesione (vera o apparente):
+
+In generale è buona norma considerare i due tipi di prove (in laboratorio e in
+sito) complementari e non alternative, in modo da supplire alle carenze
+dell'uno con le capacità dell'altro.
+
+Tali indagini e prove, secondo il DM del 14/01/2008 del Ministero delle
+Infrastrutture e dei Trasporti (punto 6.2.2), _devono essere eseguite e
+certificate dai laboratori di cui all'art. 59 del DPR 6.6.2001, n. 380_.
+Questa norma è stata però abrogata con sentenza del TAR del Lazio pubblicata
+nel febbraio 2008 (quindi DOPO la pubblicazione del DM del 14-1-2008); al
+momento la Concessione (di fatto illegale secondo il TAR del Lazio) è stata
+tramutata in AUTORIZZAZIONE (con le Circolari del CLSP emesse in settembre
+2010); al momento (27-4-11) non sono ancora state emesse Autorizzazioni.
+
+La disciplina geotecnica permette di studiare i differenti tipi di terreni
+attraverso la definizione di una serie di indici, parametri e caratteri fisici
+ricavabili da prove in sito o da prove di laboratorio. Le indagini in sito
+permettono la raccolta di informazioni sul terreno nella sua condizione reale;
+mentre i test di laboratorio consentono di definire compiutamente la natura e
+le caratteristiche di resistenza, di compressibilità e di permeabilità dei
+terreni, ricostruendo in laboratorio, mediante tecnologie più o meno
+sofisticate, le condizioni fisiche e lo stato tensionale originario esistente
+in sito. Le prove di laboratorio vengono distinte in tre categorie
+fondamentali a seconda delle caratteristiche fisiche che si vogliono
+determinare. Si possono pertanto distinguere prove di identificazione (peso di
+volume, contenuto in acqua, densità, limiti di Atterberg, granulometria,
+equivalente in sabbia, classificazione), prove di permeabilità a carico
+variabile o costante e prove di resistenza meccanica per determinare le
+proprietà fisico-meccaniche dei terreni (prove di taglio, torsione,
+consolidazione edometrica, compattazione, compressione).
+
+Le prove geotecniche di laboratorio vengono condotte su campioni di terreno
+prelevati in sito, attraverso l'utilizzo di idonee attrezzature il cui
+corretto impiego, dipendente dalla capacità e dall'esperienza degli operatori,
+determina la classe di qualità più o meno elevata del campione ottenuto. Le
+Raccomandazioni sulla programmazione ed esecuzione delle indagini geotecniche
+(Associazione Geotecnica Italiana – A.G.I. 1977) individuano 5 classi di
+qualità: le classi 01, 02 e 03 comprendono campioni di tipo rimaneggiato, la
+classe 04 campioni con disturbo limitato (semidisturbati), la classe 05
+campioni indisturbati. Per la determinazione delle proprietà fisiche e
+meccaniche dei terreni devono essere utilizzati campioni che conservino la
+struttura, il contenuto d'acqua e i caratteri fisici propri dei sedimenti
+nella loro condizione sedimentologica naturale (campioni indisturbati). Con il
+termine indisturbato pertanto si indica un campione di terreno nel quale siano
+risultate minime, durante le fasi di prelievo, le alterazioni della struttura,
+tessitura, contenuto d'acqua e dei costituenti chimici originari. In base al
+grado di disturbo che i campioni presentano, ovvero in base alla quantità di
+informazioni geotecniche che da essi si possono ricavare, i campioni sono
+classificati come segue:
+
+Come detto l'impossibilità di prelevare campioni indisturbati di terreni
+incoerenti (sabbie e ghiaie) rende opportuna la caratterizzazione delle terre
+mediante prove eseguite in sito. Tali prove consentono di ricavare le
+proprietà meccaniche e idrauliche su volumi maggiori di terreno di quelli
+associati ai campioni di laboratorio e quindi sono spesso più significative in
+quanto tengono conto di dettagli e caratteri stutturali che influenzano il
+comportamento alla scala dell'opera di ingegneria e che non possono essere
+presenti in un campione di laboratorio. Ad esempio, la stima delle
+permeabilità in sito è spesso maggiormente significativa di quella in
+laboratorio perché tale proprietà è condizionata da dettagli stratigrafici
+(es. livelli di sabbia in un'argilla) che non possono essere inclusi in un
+provino di terra per le rpove di laboratorio.
+
+Inoltre la stima della rigidezza è particolarmente sensibile al disturbo del
+terreno che inevitabilmente caratterizza ogni campione di terra mentre questo
+problema non è ovviamente presente allorché si sottopone a prova il terreno
+nella sua sede naturale (in sito). Per contro la stima dei parametri
+geotecnici mediante prove in sito è spesso basata su correlazioni empiriche
+che rendono particolarmente incerta la valutazione. È bene ricordare che ogni
+prova in sito ha un suo campo di applicazione ideale sia per quanto riguarda i
+tipi di terreno sia per le proprietà geotecniche di interesse. Ad esempio le
+prove penetrometriche SPT sono più indicate per i terreni sabbiosi (meno per
+quelli argillosi) e decisamente più affidabile per la stima della resistenza
+che della rigidezza delle terre.
+
+Risulta di estremo interesse ai fini geotecnici delineare quali siano gli
+stati di alterazione tensionale cui va incontro un campione di terreno di
+massima qualità (Q5) durante le differenti fasi di campionamento, trasporto e
+preparazione propedeutiche e preliminari all'esecuzione dei test geotecnici in
+laboratorio. Di seguito sono stati riassunti i principali passi di questa
+filiera geotecnica:  
+a) fase di perforazione;  
+b) fase di campionamento geotecnico;  
+c) sigillatura, trasporto e conservazione del campione;  
+d) fase di estrusione dal campionatore;  
+e) fase di confezionamento del provino.
+
+Nella preparazione del provino parte fondamentale riveste l'estrusione del
+campione (Q5) dalla fustella di campionamento la cui attuazione deve avvenire
+secondo criteri di massima accuratezza giungendo altresì alla descrizione
+preliminare dettagliata del campione fornito. Tale fase di lavoro permette di
+evidenziare attraverso un semplice esame visivo macroscopico alcuni elementi
+di fondamentale importanza, la cui analisi preliminare può permettere di
+valutare anche il grado di validità e significatività del campione a
+disposizione. Difetti evidenti di campionamento in sito sono rappresentati da
+compressione e raccorciamento della carota (confronto tra quota di prelievo e
+lunghezza reale della carota, tipico in terreni molto soffici), irregolarità
+stratigrafiche all'interno di orizzonti omogenei (intercalazioni granulari
+grossolane in depositi coesivi), distruzione tessiturale del campione
+(frequente in depositi coesivi fortemente sovraconsolidati) oppure veri e
+propri errori di campionamento in foro (nuclei rimaneggiati convoluti,
+campionamento in orizzonti indesiderati, ecc.). L'apertura della fustella va
+quindi condotta secondo procedure di rilevazione standardizzate con
+compilazione di apposito certificato descrittivo.
+
+I test di laboratorio vengono distinti in tre categorie fondamentali sulla
+base delle caratteristiche proprie del campione che si vuole andare a
+determinare:
+
+Gli aspetti principali di cui si occupa sono:
+
+Molti studiosi si sono occupati di questa disciplina. Contributi pionieristici
+sono dovuti a Terzaghi (principio degli sforzi efficaci), considerato il
+fondatore della moderna geotecnica. Altri contributi indiretti sono stati
+forniti da Mohr e Coulomb, per quanto riguarda l'applicazione del criterio di
+resistenza alle terre, Rankine per il calcolo della spinta delle terre.
+
+In epoca più recente, grazie allo sviluppo delle teorie elastoplastiche,
+formulate in principio per i metalli, si menzionano Schofield e Wroth e la
+scuola di Cambridge (modello Cam-Clay), Alonso e la scuola di Barcellona
+(terreni non saturi), Bishop, Lade.
+
+Altri progetti
+

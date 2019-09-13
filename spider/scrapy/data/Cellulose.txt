@@ -1,0 +1,227 @@
+**Cellulose** is an organic compound with the formula (C  
+6H  
+10O  
+5)  
+n, a polysaccharide consisting of a linear chain of several hundred to many
+thousands of β(1→4) linked D-glucose units.[3][4] Cellulose is an important
+structural component of the primary cell wall of green plants, many forms of
+algae and the oomycetes. Some species of bacteria secrete it to form
+biofilms.[5] Cellulose is the most abundant organic polymer on Earth.[6] The
+cellulose content of cotton fiber is 90%, that of wood is 40–50%, and that of
+dried hemp is approximately 57%.[7][8][9]
+
+Cellulose is mainly used to produce paperboard and paper. Smaller quantities
+are converted into a wide variety of derivative products such as cellophane
+and rayon. Conversion of cellulose from energy crops into biofuels such as
+cellulosic ethanol is under development as a renewable fuel source. Cellulose
+for industrial use is mainly obtained from wood pulp and cotton.[6]
+
+Some animals, particularly ruminants and termites, can digest cellulose with
+the help of symbiotic micro-organisms that live in their guts, such as
+_Trichonympha_. In human nutrition, cellulose is a non-digestible constituent
+of insoluble dietary fiber, acting as a hydrophilic bulking agent for feces
+and potentially aiding in defecation.
+
+Cellulose was discovered in 1838 by the French chemist Anselme Payen, who
+isolated it from plant matter and determined its chemical formula.[3][10][11]
+Cellulose was used to produce the first successful thermoplastic polymer,
+celluloid, by Hyatt Manufacturing Company in 1870. Production of rayon
+("artificial silk") from cellulose began in the 1890s and cellophane was
+invented in 1912. Hermann Staudinger determined the polymer structure of
+cellulose in 1920. The compound was first chemically synthesized (without the
+use of any biologically derived enzymes) in 1992, by Kobayashi and Shoda.[12]
+
+Cellulose has no taste, is odorless, is hydrophilic with the contact angle of
+20–30 degrees,[13] is insoluble in water and most organic solvents, is chiral
+and is biodegradable. It was shown to melt at 467 °C in pulse tests made by
+Dauenhauer _et al._ (2016).[14] It can be broken down chemically into its
+glucose units by treating it with concentrated mineral acids at high
+temperature.[15]
+
+Cellulose is derived from D-glucose units, which condense through
+β(1→4)-glycosidic bonds. This linkage motif contrasts with that for
+α(1→4)-glycosidic bonds present in starch and glycogen. Cellulose is a
+straight chain polymer. Unlike starch, no coiling or branching occurs and the
+molecule adopts an extended and rather stiff rod-like conformation, aided by
+the equatorial conformation of the glucose residues. The multiple hydroxyl
+groups on the glucose from one chain form hydrogen bonds with oxygen atoms on
+the same or on a neighbor chain, holding the chains firmly together side-by-
+side and forming _microfibrils_ with high tensile strength. This confers
+tensile strength in cell walls where cellulose microfibrils are meshed into a
+polysaccharide _matrix_. The high tensile strength of plant stems and of the
+tree wood also arises from the arrangement of cellulose fibers intimately
+distributed into the lignin matrix. The mechanical role of cellulose fibers in
+the wood matrix responsible for its strong structural resistance, can somewhat
+be compared to that of the reinforcement bars in concrete, lignin playing here
+the role of the hardened cement paste acting as the "glue" in between the
+cellulose fibers.
+
+Compared to starch, cellulose is also much more crystalline. Whereas starch
+undergoes a crystalline to amorphous transition when heated beyond 60–70 °C in
+water (as in cooking), cellulose requires a temperature of 320 °C and pressure
+of 25 MPa to become amorphous in water.[16]
+
+Several different crystalline structures of cellulose are known, corresponding
+to the location of hydrogen bonds between and within strands. Natural
+cellulose is cellulose I, with structures Iα and Iβ. Cellulose produced by
+bacteria and algae is enriched in Iα while cellulose of higher plants consists
+mainly of Iβ. Cellulose in regenerated cellulose fibers is cellulose II. The
+conversion of cellulose I to cellulose II is irreversible, suggesting that
+cellulose I is metastable and cellulose II is stable. With various chemical
+treatments it is possible to produce the structures cellulose III and
+cellulose IV.[17]
+
+Many properties of cellulose depend on its chain length or degree of
+polymerization, the number of glucose units that make up one polymer molecule.
+Cellulose from wood pulp has typical chain lengths between 300 and 1700 units;
+cotton and other plant fibers as well as bacterial cellulose have chain
+lengths ranging from 800 to 10,000 units.[6] Molecules with very small chain
+length resulting from the breakdown of cellulose are known as cellodextrins;
+in contrast to long-chain cellulose, cellodextrins are typically soluble in
+water and organic solvents.
+
+Cellulose contains 44.44% carbon, 6.17% hydrogen, and 49.39% oxygen. The
+chemical formula of cellulose is (C6H10O5)n where n is the degree of
+polymerization and represents the number of glucose groups.[18]
+
+Plant-derived cellulose is usually found in a mixture with hemicellulose,
+lignin, pectin and other substances, while bacterial cellulose is quite pure,
+has a much higher water content and higher tensile strength due to higher
+chain lengths.[6]:3384
+
+Cellulose is soluble in Schweizer's reagent, cupriethylenediamine (CED),
+cadmiumethylenediamine (Cadoxen), _N_ -methylmorpholine _N_ -oxide, and
+lithium chloride / dimethylacetamide.[19] This is used in the production of
+regenerated celluloses (such as viscose and cellophane) from dissolving pulp.
+Cellulose is also soluble in many kinds of ionic liquids.[20]
+
+Cellulose consists of crystalline and amorphous regions. By treating it with
+strong acid, the amorphous regions can be broken up, thereby producing
+nanocrystalline cellulose, a novel material with many desirable
+properties.[21] Recently, nanocrystalline cellulose was used as the filler
+phase in bio-based polymer matrices to produce nanocomposites with superior
+thermal and mechanical properties.[22]
+
+Given a cellulose-containing material, the carbohydrate portion that does not
+dissolve in a 17.5% solution of sodium hydroxide at 20 °C is _α cellulose_ ,
+which is true cellulose.[ _clarification needed_ ] Acidification of the
+extract precipitates _β cellulose_. The portion that dissolves in base but
+does not precipitate with acid is _γ cellulose_.[ _citation needed_ ]
+
+Cellulose can be assayed using a method described by Updegraff (1969),[4]
+where the fiber is dissolved in acetic and nitric acid to remove lignin,
+hemicellulose, and xylosans. The resulting cellulose is allowed to react with
+anthrone in sulfuric acid. The resulting coloured compound is assayed
+spectrophotometrically at a wavelength of approximately 635 nm.
+
+In addition, cellulose can be represented by the difference between acid
+detergent fiber (ADF) and acid detergent lignin (ADL).[ _citation needed_ ]
+
+Luminescent conjugated oligothiophenes can also be used to detect cellulose
+using fluorescence microscopy or spectrofluorometric methods.[23]
+
+In plants cellulose is synthesized at the plasma membrane by rosette terminal
+complexes (RTCs). The RTCs are hexameric protein structures, approximately 25
+nm in diameter, that contain the cellulose synthase enzymes that synthesise
+the individual cellulose chains.[24] Each RTC floats in the cell's plasma
+membrane and "spins" a microfibril into the cell wall.
+
+RTCs contain at least three different cellulose synthases, encoded by _CesA_ (
+_Ces_ is short for "cellulose synthase") genes, in an unknown
+stoichiometry.[25] Separate sets of _CesA_ genes are involved in primary and
+secondary cell wall biosynthesis. There are known to be about seven
+subfamilies in the plant _CesA_ superfamily, some of which include the more
+cryptic, tentatively-named _Csl_ (cellulose synthase-like) enzymes. These
+cellulose syntheses use UDP-glucose to form the β(1→4)-linked cellulose.[26]
+
+Bacterial cellulose is produced using the same family of proteins, although
+the gene is called _BcsA_ for "bacterial cellulose synthase" or _CelA_ for
+"cellulose" in many instances.[27] In fact, plants acquired _CesA_ from the
+endosymbiosis event that produced the chloroplast.[28] All cellulose synthases
+known belongs to glucosyltransferase family 2 (GT2).[27]
+
+Cellulose synthesis requires chain initiation and elongation, and the two
+processes are separate. Cellulose synthase ( _CesA_ ) initiates cellulose
+polymerization using a steroid primer, sitosterol-beta-glucoside, and UDP-
+glucose. It then utilizes UDP-D-glucose precursors to elongate the growing
+cellulose chain. A cellulase may function to cleave the primer from the mature
+chain.[29]
+
+Cellulose is also synthesised by tunicate animals, particularly in the tests
+of ascidians (where the cellulose was historically termed "tunicine"
+(tunicin)).[30]
+
+Cellulolysis is the process of breaking down cellulose into smaller
+polysaccharides called cellodextrins or completely into glucose units; this is
+a hydrolysis reaction. Because cellulose molecules bind strongly to each
+other, cellulolysis is relatively difficult compared to the breakdown of other
+polysaccharides.[31] However, this process can be significantly intensified in
+a proper solvent, e.g. in an ionic liquid.[32]
+
+Most mammals have limited ability to digest dietary fiber such as cellulose.
+Some ruminants like cows and sheep contain certain symbiotic anaerobic
+bacteria (such as _Cellulomonas_ and _Ruminococcus_ spp.) in the flora of the
+rumen, and these bacteria produce enzymes called cellulases that help the
+microorganism to digest cellulose; the breakdown products are then used by the
+bacteria for proliferation.[33] The bacterial mass is later digested by the
+ruminant in its digestive system (stomach and small intestine). Horses use
+cellulose in their diet by fermentation in their hindgut via symbiotic
+bacteria which produce cellulase to digest cellulose.[ _citation needed_ ]
+Similarly, some termites contain in their hindguts certain flagellate protozoa
+producing such enzymes, whereas others contain bacteria or may produce
+cellulase.[34]
+
+The enzymes used to cleave the glycosidic linkage in cellulose are glycoside
+hydrolases including endo-acting cellulases and exo-acting glucosidases. Such
+enzymes are usually secreted as part of multienzyme complexes that may include
+dockerins and carbohydrate-binding modules.[35]
+
+At temperatures above 350 °C, cellulose undergoes thermolysis (also called
+‘pyrolysis’), decomposing into solid char, vapors, aerosols, and gases such as
+carbon dioxide.[36] Maximum yield of vapors which condense to a liquid called
+_bio-oil_ is obtained at 500 °C.[37]
+
+Semi-crystalline cellulose polymers react at pyrolysis temperatures (350–600
+°C) in a few seconds; this transformation has been shown to occur via a solid-
+to-liquid-to-vapor transition, with the liquid (called _intermediate liquid
+cellulose_ or _molten cellulose_ ) existing for only a fraction of a
+second.[38] Glycosidic bond cleavage produces short cellulose chains of two-
+to-seven monomers comprising the melt. Vapor bubbling of intermediate liquid
+cellulose produces aerosols, which consist of short chain anhydro-oligomers
+derived from the melt.[39]
+
+Continuing decomposition of molten cellulose produces volatile compounds
+including levoglucosan, furans, pyrans, light oxygenates and gases via primary
+reactions.[40] Within thick cellulose samples, volatile compounds such as
+levoglucosan undergo ‘secondary reactions’ to volatile products including
+pyrans and light oxygenates such as glycolaldehyde.[41]
+
+Hemicelluloses are polysaccharides related to cellulose that comprise about
+20% of the biomass of land plants. In contrast to cellulose, hemicelluloses
+are derived from several sugars in addition to glucose, especially xylose but
+also including mannose, galactose, rhamnose, and arabinose. Hemicelluloses
+consist of shorter chains – between 500 and 3000 sugar units.[42] Furthermore,
+hemicelluloses are branched, whereas cellulose is unbranched.
+
+The hydroxyl groups (-OH) of cellulose can be partially or fully reacted with
+various reagents to afford derivatives with useful properties like mainly
+cellulose esters and cellulose ethers (-OR). In principle, though not always
+in current industrial practice, cellulosic polymers are renewable resources.
+
+Ester derivatives include:
+
+The cellulose acetate and cellulose triacetate are film- and fiber-forming
+materials that find a variety of uses. The nitrocellulose was initially used
+as an explosive and was an early film forming material. With camphor,
+nitrocellulose gives celluloid.
+
+Ether derivatives include:
+
+The sodium carboxymethyl cellulose can be cross-linked to give the
+croscarmellose sodium (E468) for use as a disintegrant in pharmaceutical
+formulations.
+
+Cellulose for industrial use is mainly obtained from wood pulp and cotton.[6]
+The kraft process is used to separate cellulose from lignin, another major
+component of plant matter.
+

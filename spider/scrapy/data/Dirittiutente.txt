@@ -1,0 +1,4 @@
+Appartiene al gruppo: Utenti autoverificati
+
+Membro implicito di: Utenti autoconvalidati
+

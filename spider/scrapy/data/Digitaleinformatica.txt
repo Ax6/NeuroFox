@@ -1,0 +1,70 @@
+Con **digitale** o **numerico** ,[1] in informatica ed elettronica, ci si
+riferisce a tutto ciò che viene rappresentato con numeri o che opera
+manipolando numeri.
+
+Il termine deriva dall'inglese _digit_ , che significa cifra, che in questo
+caso si tratta del codice binario, ovvero un sistema numerico che contiene
+solo i numeri 0 e 1, che a sua volta deriva dal latino _digitus_ , che
+significa "dito": con le dita infatti si contano i numeri.
+
+Un determinato insieme di informazioni viene rappresentato in forma digitale
+come sequenza di numeri presi da un insieme di valori discreti, ovvero
+appartenenti a uno stesso insieme ben definito e circoscritto. Attualmente
+"digitale" può essere considerato come sinonimo di "numerico", e si
+contrappone invece alla forma di rappresentazione dell'informazione detta
+analogica, che non è analizzabile entro un insieme finito di elementi.
+
+Ciò che è digitale è contrapposto a ciò che invece è analogico, cioè non
+numerabile, non analizzabile all'interno di un insieme discreto di elementi.
+Digitale è riferito dunque alla matematica del discreto che lavora con un
+insieme finito di elementi, mentre ciò che è analogico viene modellizzato con
+la matematica del continuo che tratta un'infinità (numerabile o non
+numerabile) di elementi.
+
+È possibile convertire un segnale analogico in uno equivalente digitale,
+costituito da una serie di numeri; questo processo è chiamato conversione
+analogico-digitale. A seconda degli scopi a cui è destinata la conversione,
+questa può essere effettuata in modo grossolano e approssimativo oppure in
+modo molto accurato e preciso. In ogni caso, il segnale digitalizzato perde
+sempre qualcosa rispetto all'originale analogico, quindi non sarà mai
+identico.
+
+Un tipico esempio è la conversione di un'onda sinusoidale (più o meno
+regolare): se il circuito di conversione usa un numero di bit insufficienti,
+sarà visibile geometricamente una differenza fra il segnale analogico, una
+curva, e il segnale digitalizzato, un insieme di spezzate (tratti costanti ai
+valori dell'insieme discreto, 0 e 1).
+
+L'uso attuale più comune del digitale è nel campo audio, in cui un segnale
+analogico può venire approssimato sufficientemente bene. In alcune
+applicazioni la qualità del segnale digitale riprodotto risulta
+indistinguibile dall'originale analogico. Tale conversione è frequente quanto
+la discretizzazione di variabili continue in matematica o statistica (aspetto
+più generale di un problema soprattutto pratico).
+
+Per esempio, un orologio con le lancette è analogico, perché la posizione di
+ognuna delle sue 3 lancette (ore, minuti e secondi) può indicare uno qualsiasi
+degli infiniti punti che formano la circonferenza del quadrante dell'orologio
+stesso, punti che quindi non sono numerabili. Al contrario in un orologio
+digitale le cifre che compongono l'ora, i minuti e i secondi indicano solo gli
+86.400 possibili momenti in cui può essere suddiviso, in secondi, un giorno
+(24 ore x 60 minuti x 60 secondi).
+
+Un oggetto viene digitalizzato, cioè reso digitale, se il suo stato originario
+(analogico) viene "tradotto" e rappresentato mediante un insieme numerabile di
+elementi. Per esempio una foto, normalmente formata da un infinito numero di
+punti ognuno dei quali formato da un'infinita gamma di colori, viene
+digitalizzata, e quindi tradotta in foto digitale, allorché la sua superficie
+la si rappresenti divisa in un numero discreto di "punti" (in genere piccoli
+quadrati o rettangoli detti pixel) ognuno dei quali formato di un colore tra i
+16 777 216 possibili (se codificati in RGB, e cioè in una combinazione di 256
+sfumature di rosso, 256 di verde e 256 di blu), ovvero 8 bit per colore.
+
+Molte tecnologie ricorrono al digitale per ottenere la riproduzione di un'onda
+(sonora o luminosa) che è analogica; il modem converte un segnale analogico
+inviabile attraverso i doppini telefonici in un segnale richiesto dal pc o
+altro dispositivo elettronico che funziona tramite bit (0/1) e richiede un
+segnale digitale. I moderni televisori LCD funzionano principalmente con
+segnali digitali, mentre i televisori della precedente generazione CRT avevano
+un funzionamento basato primariamente su segnali analogici.
+

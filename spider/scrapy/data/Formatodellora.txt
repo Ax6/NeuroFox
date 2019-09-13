@@ -1,0 +1,31 @@
+Il **formato dell'ora** è la convenzione simbolica per esprimere un istante
+(detto anche **orario** ) in ore, minuti ed eventualmente secondi.
+
+Il formato prescritto a livello internazionale (secondo la norma ISO 8601) e
+ormai ampiamente conosciuto e utilizzato è del tipo [hh]:[mm]:[ss] ove [hh]
+indica l'ora, [mm] i minuti, [ss] i secondi, espressi con due cifre. Ad
+esempio, 18:35:26 indica le ore 18, 35 minuti e 26 secondi; 04:09:01 indica le
+ore 4, 9 minuti e 1 secondo.
+
+Un formato molto diffuso è quello senza secondi ovvero [hh]:[mm] (le ore 18 e
+35 minuti).
+
+Si noti che grazie alla grande diffusione dei display di dispositivi
+elettronici o apparecchi informatici (che esprimono l'ora in digitale e non
+con le lancette dell'orologio analogico) il formato dell'ora, soprattutto
+quello senza secondi, è entrato nell'uso comune.
+
+Tra le impostazioni degli orologi digitali c'è quasi sempre anche quella del
+formato: solitamente la scelta è tra la modalità "24 ore" e quella "12 ore".
+La prima mostra l'orario secondo il modello standard (ad esempio: le ore
+14:45); con l'altra, invece, le ore sono espresse avendo come "fondo scala" 12
+(nell'esempio precedente: le ore 2:45). È chiaro che il formato "12 ore"
+lascia un'ambiguità sulla parte del giorno cui si riferisce l'orario (può
+essere le 2:45 del giorno o le 2:45 della notte).
+
+Per evitare questo dubbio, negli Stati Uniti, così come in altri paesi di
+derivazione anglosassone e in molti paesi del Sudamerica si usa il formato
+[hh]:[mm]:[ss] AM/PM, con AM _ante meridiem_ e PM _post meridiem_. Le 2:45 AM
+saranno quindi le 2:45 del mattino, mentre le 2:45 PM saranno le 14:45 (le
+2:45 del pomeriggio).
+

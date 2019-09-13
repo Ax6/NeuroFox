@@ -1,0 +1,227 @@
+The **Boeing EA-18G Growler** is an American carrier-based electronic warfare
+aircraft, a specialized version of the two-seat F/A-18F Super Hornet. The
+EA-18G replaced the Northrop Grumman EA-6B Prowlers in service with the United
+States Navy. The Growler's electronic warfare capability is primarily provided
+by Northrop Grumman. The EA-18G began production in 2007 and entered
+operational service with the US Navy in late 2009. Australia has also
+purchased twelve EA-18Gs, which entered service with the Royal Australian Air
+Force in 2017.
+
+On 15 November 2001, Boeing successfully completed an initial flight
+demonstration of F/A-18F "F-1" fitted with the ALQ-99 electronic warfare
+system to serve as the EA-18 Airborne Electronic Attack (AEA) concept
+aircraft.[4] In December 2003, the US Navy awarded a development contract for
+the EA-18G to Boeing. As primary contractor, Boeing was to construct the
+forward fuselage, wings and perform the final assembly. Northrop Grumman was
+the principal airframe subcontractor and they would supply the center and aft
+fuselage as well as the principal electronic combat system.[1][5] In 2003, the
+Navy expected to receive 90 EA-18Gs.[6]
+
+The first EA-18G test aircraft entered production on 22 October 2004.[7] The
+first test aircraft, known as EA-1, was rolled out on 3 August 2006, before
+making its maiden flight at St. Louis on 15 August 2006; it was later ferried
+to Naval Air Station Patuxent River, Maryland on 22 September 2006.[8][9] EA-1
+primarily supports ground testing in the Air Combat Environment Test and
+Evaluation Facility (ACETEF) anechoic chamber.
+
+The second aircraft (EA-2) first flew on 10 November 2006,[10] and was
+delivered to NAS Patuxent River on 29 November 2006.[11] EA-2 is an AEA flight
+test aircraft, initially flying on Pax River's Atlantic Test Range (ATR) for
+developmental test of the AEA system before transitioning to the Electronic
+Combat Range (ECR, or 'Echo Range') in Naval Air Weapons Station China Lake in
+California. Both aircraft are assigned to VX-23 "Salty Dogs". EA-1 and EA-2
+are F/A-18Fs F-134 and F-135, pulled from the St. Louis production line and
+modified by Boeing to the EA-18G configuration. However, since they were not
+built initially as Growlers, the Navy has designated these two test aircraft
+as NEA-18Gs.[12] There were five Growlers flying in the flight test program as
+of June 2008.[13]
+
+In an April 2006 report, the U.S. Government Accountability Office expressed
+concerns. The GAO felt the electronic warfare systems on the EA-18G were not
+fully mature so there is a risk of "future cost growth and schedule delays".
+The report recommended that the DoD consider purchasing additional ICAP III
+upgrades for EA-6Bs to fill any current and near-term capability gaps and
+restructure the initial EA-18G production plans so that procurement takes
+place after the aircraft has "demonstrated full functionality".[14] In a 2008
+GAO report, the director of the DoD's Operational Test and Evaluation
+department questioned the workload on the two-person Growler crew to replace
+the Prowler's crew of four.[15]
+
+The U.S Navy has ordered a total of 57 aircraft to replace its in-service
+EA-6B Prowlers, most of which will be based at NAS Whidbey Island. The US DoD
+gave approval for the EA-18G program to begin low-rate initial production in
+2007.[16] The EA-18G was scheduled to finish flight testing in 2008.[17] The
+Navy planned to buy approximately 85 aircraft in 2008.[18] Approval for full-
+rate production was expected in the third quarter of 2009,[19] and was given
+on 23 November 2009. Boeing planned to ramp up production to 20 aircraft per
+year.[20] On 9 July 2009, General James Cartwright told the United States
+Senate Committee on Armed Services that the choice had been to continue the
+F/A-18 production line because the warfighting commanders needed more aerial
+electronic warfare capability that only the EA-18G could provide.[21]
+
+The Navy's submission for the 2011 defense budget put forth by the Obama
+Administration calls for four EA-18G Growler squadrons to be added to the
+fleet.[22] On 14 May 2010, Boeing and the US Department of Defense reached an
+agreement for a multi-year contract for an additional 66 F/A-18E/Fs and 58
+EA-18Gs over the next four years. This will raise the total to 114 EA-18Gs on
+order.[23]
+
+The Pentagon's Director of Operational Test and Evaluation determined that the
+EA-18G was "still not operationally suitable" in February 2011. Prime
+contractor Boeing is working to address issues with software updates.[24] In
+December 2011, Operational Test and Evaluation concluded that the EA-18G
+software was "operationally effective and suitable".[25]
+
+On 19 December 2014, the Navy publicly reported that it wants to modify the
+production contract with Boeing to slow production of the Growler from three
+airplanes per month to two. It will also purchase an additional 15 Growlers,
+funded by a spending bill that will go to President Obama for signature in
+late December 2014. Boeing would then be able to continue running the St.
+Louis production line through 2017. Boeing has said it cannot sustain the
+production line at fewer than two airplanes per month.[26]
+
+The Growler's flight performance is similar to that of the F/A-18E/F. This
+attribute enables the Growler to perform escort jamming as well as the
+traditional standoff jamming mission (Radar jamming and deception). Growlers
+are able to accompany F/A-18s during all phases of an attack mission.[27] In
+order to give the Growler more stable flight for the electronic warfare
+mission, Boeing changed the leading edge fairings and wing fold hinge
+fairings, and added wing fences and aileron "tripper strips".[28]
+
+The Growler has more than 90% in common with the standard Super Hornet,
+sharing airframe, Raytheon AN/APG-79 AESA radar and weapon systems such as the
+AN/AYK-22 stores management system. Most of the dedicated airborne electronic
+attack equipment is mounted in the space that used to house the internal 20 mm
+cannon and on the wingtips. Nine weapons stations remain free to provide for
+additional weapons or jamming pods.[29] The added electronics include
+AN/ALQ-218 wideband receivers on the wingtips and ALQ-99 high and low-band
+tactical jamming pods. The ALQ-218 combined with the ALQ-99 form a full
+spectrum electronic warfare suite that is able to provide detection and
+jamming against all known surface-to-air threats.[27] However, the current
+pods may be inadequate against emerging threats.[30]
+
+The EA-18G can be fitted with up to five ALQ-99 jamming pods and will
+typically add two AIM-120 AMRAAM or AGM-88 HARM missiles.[5] The EA-18G will
+also use the INCANS Interference Cancellation system that will allow voice
+communication while jamming enemy communications, a capability not available
+on the EA-6B.[31] In addition to the radar warning and jamming equipment, the
+Growler possesses a communications receiver and jamming system that will
+provide suppression and electronic attack against airborne communication
+threats.[29]
+
+The poor reliability of the ALQ-99 jammer pod and frequent failures of the
+Built-In Test (BIT) have caused the crew to fly missions with undetected
+faults. The ALQ-99 has also interfered with the aircraft's AESA radar and has
+imposed a high workload on the two-man crew, along with reducing the Growler's
+top speed.[32]
+
+Boeing is looking into other potential upgrades; the ALQ-99 radar jamming pod
+may be replaced in the future, and the company is looking into adding weapons
+and replacing the satellite communications receiver. The Growler is the
+initial platform for the Next Generation Jammer (NGJ) which uses Active
+electronically scanned array (AESA) technology to focus jamming power exactly
+where needed. The NGJ was to be implemented on the F-35.[6] However, in May
+2012, the U.S. Navy decided to focus NGJ integration on the EA-18G for an
+expected in-service date of 2020, and defer work for the F-35.[33] Boeing is
+also looking at exporting a Growler Lite configuration without the jamming
+pods for electronic awareness rather than electronic attack.[34]
+
+Three Growlers networked together can generate targeting tracks for hostile
+radio-frequency sources in real time, but this is difficult to arrange with
+the current minimum strength US Navy squadrons.[35] Utilizing faster data-
+links, the Growler could use its EW pods to accurately locate signal sources.
+In a group of three planes, when one detects a signal from a source such as a
+cell phone, the other two can also listen for the same signal, all three
+measuring the amount of time taken for transmissions to travel from the source
+to each aircraft to triangulate the location in "a very, very small area."[36]
+By early 2015, the Navy had demonstrated this concept using EA-18s equipped
+with Rockwell Collins' tactical targeting network technology (TTNT) and
+ALQ-218 receivers to acquire emissions from a target vessel and target it from
+a stand-off range without using their own detectable radar emissions.[37]
+Boeing announced on 1 December 2015 that they would upgrade Navy EA-18Gs with
+the TTNT datalink.[38]
+
+Following U.S. Navy missions in Operation Odyssey Dawn during the 2011 Libyan
+Revolution, the Royal Australian Air Force decided to add the Raytheon ATFLIR
+(forward looking infrared) pod to their order of 12 Growler aircraft. When
+Navy EA-18Gs' radar and radar detectors located possible targets, they passed
+the information through datalinks to strike fighters. However, the Growlers
+themselves lacked the ability to visually confirm what it detected, so adding
+a FLIR pod gives it visual acuity to see targets and shorten the kill chain;
+it is not known if the U.S. Navy will also add a FLIR pod. Australian EA-18Gs
+will also be equipped with the AIM-9X Sidewinder missile.[39]
+
+The first Growler for fleet use was officially accepted by VAQ-129 "Vikings"
+at NAS Whidbey Island, on 3 June 2008.[18] The Navy planned to buy
+approximately 85 aircraft to equip 11 squadrons as of 2008.[18] The EA-18G
+completed operational evaluation in late July 2009. The Growler was rated
+operationally effective and suitable for operational use.[19][40] On 5 August
+2009, EA-18G Growlers from Electronic Attack Squadron 129 (VAQ-129) and
+Electronic Attack Squadron 132 (VAQ-132) completed their first at-sea carrier-
+arrested landing aboard the USS _Harry S. Truman_ (CVN-75).[41]
+
+The first deployable EA-18G squadron was VAQ-132 "Scorpions", which reached
+operational status in October 2009.[42] The first Growler operational
+deployment was announced on 17 February 2011.[43] In service, the EA-18's
+radio name during flight operations will be "Grizzly". The "Growler" nickname
+sounded too much like the EA-6B's "Prowler" name, so "Grizzly" will be used to
+avoid confusion.[44] By May 2011, 48 Growlers had been delivered to the U.S.
+Navy.[29]
+
+With the termination of the EB-52H standoff jammer, the Growler became the
+sole remaining manned tactical jammer. Air Staff requirements director Maj.
+Gen. David Scott has indicated that the USAF will seek to provide electronic
+warfare officers to fly on U.S. Navy Growlers, without providing funding to
+purchase additional aircraft.[45] U.S. Air Force personnel of 390th Electronic
+Combat Squadron stationed at NAS Whidbey Island have been supporting and
+flying the Growler.[46]
+
+The EA-18G was first used in combat during Operation Odyssey Dawn, enforcing
+the UN no-fly zone over Libya in 2011.[47][48] Five EA-18Gs were redeployed
+from Iraq to support operations in Libya in 2011.[49]
+
+In 2008, the Australian Government requested export approval from the US
+government to purchase up to six EA-18Gs,[50] which would be part of the order
+for 24 F/A-18F Super Hornets.[51]
+
+On 27 February 2009, Defence Minister Joel Fitzgibbon announced that 12 of the
+24 Super Hornets on order would be wired on the production line for future
+fit-out as EA-18Gs. The additional wiring would cost A$35 million.[52][53] On
+23 August 2012, the Australian Government announced that 12 RAAF Super Hornets
+would be fitted with Growler capability at a cost of $1.5 billion,[54] making
+the Royal Australian Air Force the only military other than the U.S. to
+operate the Growler's electronic jamming equipment.[55]
+
+On 3 May 2013, the Australian Government announced that it will buy 12 new-
+build Growlers to supplement the existing Super Hornet fleet.[56] Australia
+took delivery of the first of 12 Growlers on 29 July 2015.[57] Uniquely,
+Australian Growlers will be equipped with the AN/ASQ-228 ATFLIR targeting pod
+and will also have additional air-to-air weapons in the form of the AIM-9X
+missile.[58] The aircraft will be operated by No. 6 Squadron RAAF.[59] On 7
+July 2017, the RAAF completed delivery of the 12 EA-18G Growlers with the
+arrival of the last Growler at RAAF Base Amberley, home of No. 6 Squadron
+RAAF.[60] One of the Australian EA-18Gs was written off following an engine
+fire in January 2018, leaving the force with 11 of the type.[61]
+
+On 29 January 2018, an Australian EA-18G caught fire after an aborted takeoff
+from Nellis Air Force Base, Nevada while participating in Exercise Red Flag
+2018\. The crew were able to exit the jet on the ground unharmed without
+ejecting.[64] The aircraft was withdrawn from service and written off on 15
+August 2018.[65]
+
+_Data from_ Boeing brochure[66] and U.S. Navy F/A-18E/F fact file.[67]
+
+ **General characteristics**
+
+**Performance**
+
+**Armament**  
+
+**Avionics**  
+
+**Related development**
+
+**Aircraft of comparable role, configuration and era**
+
+**Related lists**
+

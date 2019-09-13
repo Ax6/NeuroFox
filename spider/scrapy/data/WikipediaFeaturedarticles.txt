@@ -1,0 +1,36 @@
+Featured articles in Wikipedia
+
+Featured articles are considered to be some of the best articles Wikipedia has
+to offer, as determined by Wikipedia's editors. They are used by editors as
+examples for writing other articles. Before being listed here, articles are
+reviewed as featured article candidates for accuracy, neutrality,
+completeness, and style, according to our featured article criteria. There are
+**5,627** featured articles out of 5,927,706 articles on the English Wikipedia
+(~0.1% are featured). Thus, about one in 1,050 of all Wikipedia articles are
+listed here. Articles that no longer meet the criteria can be proposed for
+improvement or removal at featured article review.
+
+On non-mobile versions of our website, a small bronze star icon (![This star
+symbolizes the featured content on
+Wikipedia.](//upload.wikimedia.org/wikipedia/en/thumb/e/e7/Cscr-
+featured.svg/15px-Cscr-featured.svg.png)) on the top right corner of an
+article's page indicates that the article is featured. On most smartphones and
+tablets you can also select "Request Desktop Site" to see this line (do a
+search to find out how). Additionally, if the current article is featured in
+another language, a star will appear next to the corresponding entry in the
+Languages list in the sidebar (a user preference allows toggling this on/off
+under _Gadgets_ > _Appearance_ ).
+
+**Featured content:**
+
+**Today's featured article** (TFA):
+
+**Featured article tools:**
+
+  
+
+Biographies are in sub-topics according to the larger topics
+
+Cleanup listing for this project is available. See also the tool's wiki page
+and the index of WikiProjects.
+

@@ -1,0 +1,8 @@
+Questa categoria di servizio raccoglie le voci che trattano discografie e sono
+segnalate come **da wikificare**.
+
+Le voci sono segnalate con `{{W|discografie| _mese anno_ }}`.
+
+Questa categoria contiene le 200 pagine indicate di seguito, su un totale di
+304.
+

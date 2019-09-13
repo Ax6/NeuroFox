@@ -1,0 +1,87 @@
+The **Los Alamos Neutron Science Center** ( **LANSCE** ), formerly known as
+the **Los Alamos Meson Physics Facility** ( **LAMPF** ) is one of the world's
+most powerful linear accelerators. It is located in Los Alamos National
+Laboratory in New Mexico in Technical Area 53 (TA-53). It was the most
+powerful linear accelerator in the world when it was opened in June 1972.[1]
+The technology used in the accelerator was developed in part by the nuclear
+physicist Louis Rosen. The facility is capable of accelerating protons up to
+800 MeV. Multiple beamlines allow for a variety of experiments to be run at
+once, and the facility is used for many types of research in materials testing
+and neutron science. It is also used for medical radioisotope production.
+
+LANSCE provides the scientific community with intense sources of neutrons with
+the capability of performing experiments supporting civilian and national
+security research. The Department of Energy, National Nuclear Security
+Administration, Office of Science, Office of Nuclear Energy, and Office of
+Science and Technology – the principal sponsors of LANSCE – have synergistic
+long-term needs for the accelerator and neutron science that is the heart of
+LANSCE.[ _citation needed_ ] LANSCE serves an international user community
+conducting diverse forefront basic and applied research.
+
+Since 1972, the 800-million-electronvolt (MeV) accelerator and its attendant
+facilities at Technical Area 53 (TA-53, often referred to as "the Mesa") at
+Los Alamos National Laboratory have been a resource to a broad international
+community of scientific researchers. The Los Alamos Meson Physics Facility
+(LAMPF), as it was originally called, hosted about 1000 users per year to
+perform medium energy physics experiments.
+
+In 1977, a pulsed spallation neutron source was commissioned to supply
+moderated and unmoderated neutrons to time-of-flight experiments in the
+facility called the Weapons Neutron Research (WNR) Center. Neutron scattering
+experiments were started immediately and by 1983 the Department of Energy’s
+Office of Basic Energy Sciences was funding a formal user program. Beginning
+in 1985, with the completion of the Proton Storage Ring (PSR) that compresses
+proton pulses from 750 microseconds to a quarter of a microsecond, the Los
+Alamos Neutron Scattering Center (LANSCE), now known as the Lujan Center, was
+established while WNR was expanded to other spallation sources on the
+accelerator beam.
+
+In 1995 LAMPF was renamed the Los Alamos Neutron Science Center (LANSCE) to
+reflect the broad base of neutron research being conducted on behalf of the
+weapons program and basic research; the name of the BES neutron scattering
+facility was simultaneously changed from LANSCE to the Manuel Lujan Jr.
+Neutron Scattering Center. In 1996, a Memorandum of Understanding was
+established between the Department of Energy's Offices of Energy Research (ER)
+and Defense Programs (DP) to define the stewardship of the facility and its
+experimental areas in the context of the new Scientific Stockpile Stewardship
+Program. In 2001, the MOU was rewritten to include three branches of the
+Department of Energy (DOE)—the National Nuclear Security Administration
+Defense Program (DP), the Office of Science (SC), and the Office of Nuclear
+Energy (NE)—and the Laboratory officially designated LANSCE as an approved
+user facility.
+
+Several key events have occurred during the last 20 years that have fostered
+the growth of the user programs at LANSCE. In 1968 through 1995, the DOE
+Office of Energy Research (ER) funded LAMPF as a user facility for medium
+energy physics and a user group was incorporated in 1972. Beginning
+approximately in 1977, Office of Basic Energy Sciences has provided funding of
+a new experimental area completed in 1990, including office space, the Los
+Alamos Neutron Scattering Center (later the Los Alamos Neutron Science Center)
+became a Designated National User Facility. [2] In 2011, this status was
+extended to WNR and pRad.
+
+Users conduct research at five facilities at LANSCE: Isotope Production
+Facility (IPF), Lujan Neutron Scattering Center (Lujan Center), Proton
+Radiography Facility (pRad), Ultracold neutrons (UCN), and Weapons Neutron
+Research Facility (WNR)
+
+A significant number of students and postdoctoral researchers who become
+familiar with the Laboratory through their experiences at LANSCE become part
+of the permanent workforce, joining many different technical organizations.
+[3]
+
+The User Program's demographics count user visits and unique-users. User
+visits are the total number of visits by all users. A unique-user is defined
+as counting a user only once— the first time they come to LANSCE during a
+calendar year. The largest segment of unique-users at the Lujan Center came
+from the academic community; at WNR users come from academic, industrial, and
+national laboratories. A majority of the WNR industry users are from firms
+that produce or use semiconductor devices. The semiconductor industry relies
+on WNR's unique capabilities to test their latest generation of chips for
+resistance to neutron-induced upsets. Neutron-induced upsets produced by
+energetic neutrons are important due to the natural production of high-energy
+neutrons by cosmic rays.[ _citation needed_ ]
+
+Coordinates: 35°53′17″N 106°18′26″W﻿ / ﻿35.88807°N 106.30736°W﻿ / 35.88807;
+-106.30736
+

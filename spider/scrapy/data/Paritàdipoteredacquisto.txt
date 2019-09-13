@@ -1,0 +1,144 @@
+La **parità dipotere d'acquisto** ( **PPA** ; in inglese: _Purchasing power
+parity_ \- **PPP** ) è un indice che consente di confrontare i livelli dei
+prezzi tra località diverse, appartenenti ad una stessa area valutaria o ad
+aree valutarie diverse. In quest'ultimo caso, l'indice introduce una relazione
+tra i prezzi e il tasso di cambio[1]. L'indice va contestualizzato all'interno
+della teoria economica della scuola neoclassica che sostiene che il tasso di
+cambio tra due paesi dovrebbe essere uguale al rapporto tra i rispettivi
+poteri di acquisto.
+
+La teoria ha una versione assoluta e una versione relativa.
+
+Per la _versione assoluta_ della PPA, i livelli generali dei prezzi di due
+paesi non possono differire quando vengono raffrontati dopo averli convertiti
+nella medesima valuta. Vale, cioè, la seguente relazione:
+
+Dove  P 1 {\displaystyle \ P_{1}} ![{\\displaystyle \\
+P_{1}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/121503eec0535f4dbfc0830645dff2721891b1a9)
+è il livello generale dei prezzi per il _paese 1_ ,  P 2 {\displaystyle \
+P_{2}} ![{\\displaystyle \\
+P_{2}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/1e442d207e830dceaa6700e505d03e97ea77f6ed)
+è il livello generale dei prezzi per il _paese 2_ e  E {\displaystyle \ E}
+![\\
+E](https://wikimedia.org/api/rest_v1/media/math/render/svg/01358ea1a9419bfbfbaab2467c6db81c1a6b1fb0)
+è il tasso di cambio tra la moneta del _paese 2_ e la moneta del _paese 1_.
+
+La _versione relativa_ della PPA guarda al momento in cui i prezzi _variano_ e
+quindi va presa in esame la seguente formula:
+
+La variazione percentuale del livello dei prezzi del _paese 1_ e quella del
+livello dei prezzi del _paese 2_ , se raffrontate una volta che i prezzi siano
+espressi in termini di una stessa valuta, devono essere uguali.
+
+La formula in questione può essere così trasformata:
+
+È possibile scrivere l'equazione in termini di logaritmi. Infatti la
+variazione assoluta del logaritmo naturale di una variabile è una buona
+approssimazione della variazione percentuale della stessa variabile.  e
+{\displaystyle \ e} ![{\\displaystyle \\
+e}](https://wikimedia.org/api/rest_v1/media/math/render/svg/ba8139c9f3055e69c6208f178b5ac7931e9083e8),
+p 1 {\displaystyle \ p_{1}} ![{\\displaystyle \\
+p_{1}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/e9a3558438d5bca2174bb2b8a64ababad1c62c14)
+e  p 2 {\displaystyle \ p_{2}} ![{\\displaystyle \\
+p_{2}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/d20127227cf7afb930298019389fe9d4e989cec2)
+sono i logaritmi naturali di  E {\displaystyle \ E} ![\\
+E](https://wikimedia.org/api/rest_v1/media/math/render/svg/01358ea1a9419bfbfbaab2467c6db81c1a6b1fb0),
+P 1 {\displaystyle \ P_{1}} ![{\\displaystyle \\
+P_{1}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/121503eec0535f4dbfc0830645dff2721891b1a9)
+e  P 2 {\displaystyle \ P_{2}} ![{\\displaystyle \\
+P_{2}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/1e442d207e830dceaa6700e505d03e97ea77f6ed).
+
+Poiché la variazione percentuale del livello generale dei prezzi non è altro
+che il livello di inflazione, è possibile trasformare nuovamente l'equazione.
+
+Ciò significa che quando il tasso di inflazione del _paese 2_ ( Π 2
+{\displaystyle \ \Pi _{2}} ![{\\displaystyle \\ \\Pi
+_{2}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/ac3abc99eff723e3db76f69064b26ff1283814cf))
+aumenta (diminuisce) o il tasso di inflazione del _paese 1_ ( Π 1
+{\displaystyle \ \Pi _{1}} ![{\\displaystyle \\ \\Pi
+_{1}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/23802a8482a972e71bc04f1a6f0c23e402a7c2fc))
+diminuisce (aumenta), il tasso di cambio  E {\displaystyle \ E}
+![{\\displaystyle \\
+E}](https://wikimedia.org/api/rest_v1/media/math/render/svg/01358ea1a9419bfbfbaab2467c6db81c1a6b1fb0)
+aumenta (diminuisce). Cioè, la moneta del _paese 1_ si apprezza (si deprezza)
+rispetto a quella del _paese 2_. Questo perché nel caso di aumento dei prezzi
+nel _paese 2_ gli operatori troveranno più convenienti i beni del _paese 1_ e
+l'aumentata domanda della valuta di quest'ultimo paese ne provocherà un
+aumento del cambio rispetto alla valuta del paese nel quale i prezzi sono
+aumentati.
+
+È ora possibile introdurre una semplice applicazione di questa teoria. Prima,
+però, è necessario sottolineare che la teoria in questione è da interpretare
+come una teoria _di lungo periodo_.
+
+L'equazione della versione assoluta della teoria può essere scritta nel
+seguente modo:
+
+Va notato che  E P 1 P 2 {\displaystyle \ {\frac {EP_{1}}{P_{2}}}}
+![{\\displaystyle \\ {\\frac
+{EP_{1}}{P_{2}}}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/ee0cbd7b07559db51c976e2fc55676e1424501ad)
+non è altro che il tasso di cambio reale. Di conseguenza, per la versione
+assoluta della teoria, il tasso di cambio reale deve essere uguale a 1. La
+variazione percentuale del tasso di cambio reale, approssimato dai logaritmi,
+può essere scritta nel seguente modo:
+
+Poiché vale  Δ e + Δ p 1 = Δ p 2 {\displaystyle \ \Delta e+\Delta p_{1}=\Delta
+p_{2}} ![{\\displaystyle \\ \\Delta e+\\Delta p_{1}=\\Delta
+p_{2}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/2797d96540562041cf4f7bd03e50226f58dafcb5),
+ne deriva che l'equazione precedente deve essere uguale a 0. Di conseguenza,
+la variazione del tasso di cambio reale deve essere pari a 0.
+
+Il tasso di cambio reale, quindi, deve essere costante. È chiaro che questa
+condizione non è soddisfatta nel breve periodo (poiché il tasso di cambio
+reale fluttua quotidianamente), ma secondo alcuni studi il tasso di cambio
+reale, nel lungo periodo, tende a tornare verso il livello di equilibrio.
+
+È possibile, a questo punto, stabilire se una moneta è apprezzata (o
+deprezzata) oppure no rispetto ad un'altra. Qualora la PPA non fosse
+verificata (l'equazione dà un determinato tasso di cambio, ma il tasso di
+cambio effettivamente verificato è diverso), si apre la strada per questa
+verifica. Ad esempio, se in base al confronto tra i prezzi di euro e dollaro,
+ne risulta che il tasso di cambio dovrebbe essere di (ad es.) 1,250 (dollari
+per ottenere un euro), ma in realtà questo tasso di cambio è di 1,350, vuol
+dire che l'euro è sopravvalutato rispetto al dollaro.
+
+Un indice molto utilizzato è quello del Big Mac Index (basato sui prezzi del
+celebre paniere e pubblicato dall'Economist), anche se, in realtà, questo
+indice si basa sulla _legge del prezzo unico_.
+
+_**Vantaggi del PPP**_
+
+Uno dei principali vantaggi è che i tassi di cambio dei PPP sono relativamente
+stabili nel tempo. Al contrario, i tassi di mercato sono più volatili e il
+loro utilizzo potrebbe produrre forti oscillazioni nelle misure aggregate di
+crescita anche quando i tassi di crescita nei singoli paesi sono stabili. Un
+altro svantaggio dei tassi basati sul mercato è che essi sono rilevanti solo
+per i beni scambiati a livello internazionale. I beni e i servizi non
+scambiati tendono ad essere più economici nei paesi a basso reddito rispetto
+ai paesi ad alto reddito. Un taglio di capelli a New York è più costoso che a
+Lima; il prezzo di una corsa in taxi della stessa distanza è più alto a Parigi
+che a Tunisi; e un biglietto per una partita di cricket costa di più a Londra
+che a Lahore. Infatti, poiché i salari tendono ad essere più bassi nei paesi
+più poveri, e i servizi sono spesso ad alta intensità di manodopera, il prezzo
+di un taglio di capelli a Lima è probabilmente più conveniente che a New York,
+anche quando il costo della produzione di beni commerciabili, come i
+macchinari, è lo stesso in entrambi i paesi. Qualsiasi analisi che non tenga
+conto di queste differenze nei prezzi dei beni non scambiati tra i paesi
+sottovaluterà il potere d'acquisto dei consumatori dei mercati emergenti e dei
+paesi in via di sviluppo e, di conseguenza, il loro benessere generale. Per
+questo motivo, i PPP sono generalmente considerati una migliore misura del
+benessere generale.
+
+_**Svantaggi del PPP**_
+
+Il principale svantaggio è che il PPP è più difficile da misurare rispetto ai
+tassi di mercato. Per facilitare il confronto dei prezzi tra i paesi, il
+Programma Internazionale di Confronti (ICP) è stato istituito dalle Nazioni
+Unite e dall'Università della Pennsylvania nel 1968. L'ICP è un'enorme impresa
+statistica, e nuovi confronti dei prezzi sono disponibili non molto
+frequentemente. Sono state sollevate questioni metodologiche anche per quanto
+riguarda le indagini precedenti. Tra una data d'indagine e l'altra, i tassi di
+PPP devono essere stimati, il che può introdurre imprecisioni nella
+misurazione. Inoltre, l'ICP non copre tutti i paesi, il che significa che i
+dati per i paesi mancanti devono essere stimati.
+

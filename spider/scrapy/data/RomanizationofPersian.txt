@@ -1,0 +1,96 @@
+**Romanization of Persian** or **Latinization of Persian** (Persian:
+لاتین‌نویسی فارسی‎, romanized: _Lâtinnavisiye fârsi_ , pronounced
+[lɒːtiːn.næviːˌsije fɒːɹˈsiː]) is the representation of the Persian language
+(Farsi, Dari and Tajik) with the Latin script. Several different romanization
+schemes exist, each with its own set of rules driven by its own set of
+ideological goals.
+
+Because the Perso-Arabic script is an abjad writing system (with a consonant-
+heavy inventory of letters), many distinct words in standard Persian can have
+identical spellings, with widely varying pronunciations that differ in their
+(unwritten) vowel sounds. Thus a romanization paradigm can follow either
+transliteration (which mirrors spelling and orthography) or transcription
+(which mirrors pronunciation and phonology).
+
+The Latin script plays in Iran the role of a second script. For the proof of
+this assertion it is sufficient to take a look at the city and street signs or
+the Internet addresses in all countries. On the other hand, experience has
+shown that efforts to teach millions of Iranian young people abroad in reading
+and writing Persian mostly prove to be unsuccessful, due to the lack of daily
+contact with the Persian script. It seems that a way out of this dilemma has
+been found; and that is the use of the Latin script parallel to the Persian
+script.
+
+Transliteration (in the strict sense) attempts to be a complete representation
+of the original writing, so that an informed reader should be able to
+reconstruct the original spelling of unknown transliterated words.
+Transliterations of Persian are used to represent individual Persian words or
+short quotations, in scholarly texts in English or other languages that do not
+use the Arabic alphabet.
+
+A transliteration will still have separate representations for different
+consonants of the Persian alphabet that are pronounced identically in Persian.
+Therefore, transliterations of Persian are often based on transliterations of
+Arabic.[1] The representation of the vowels of the Perso-Arabic alphabet is
+also complex, and transliterations are based on the written form.
+
+Transliterations commonly used in the English-speaking world include BGN/PCGN
+romanization and ALA-LC Romanization.
+
+Non-academic English-language quotation of Persian words usually uses a
+simplification of one of the strict transliteration schemes (typically
+omitting diacritical marks) and/or unsystematic choices of spellings meant to
+guide English speakers using English spelling rules towards an approximation
+of the Persian sounds.
+
+Transcriptions of Persian attempt to straightforwardly represent Persian
+phonology in the Latin script, without requiring a close or reversible
+correspondence with the Perso-Arabic script, and also without requiring a
+close correspondence to English phonetic values of Roman letters.
+
+**Notes** :
+
+In the pre-Islamic period Old and Middle Persian employed various scripts
+including Old Persian cuneiform, Pahlavi and Avestan scripts. For each period
+there are established transcriptions and transliterations by prominent
+linguists.[5][9][10][11][12]
+
+**Notes** :
+
+Bahá'ís use a system standardized by Shoghi Effendi, which he initiated in a
+general letter on March 12, 1923.[13] The Bahá'í transliteration scheme was
+based on a standard adopted by the Tenth International Congress of
+Orientalists which took place in Geneva in September 1894. Shoghi Effendi
+changed some details of the Congress's system, most notably in the use of
+digraphs in certain cases (e.g. __sh__ instead of _š_ ), and in incorporating
+the solar letters when writing the definite article _al-_ (Arabic: ال)
+according to pronunciation (e.g. _ar-Rahim_ , _as-Saddiq_ , instead of _al-
+Rahim_ , _al-Saddiq_ ).
+
+A detailed introduction to the Bahá'í Persian romanization can usually be
+found at the back of a Bahá'í scripture.
+
+It is common to write Persian language with only the Latin alphabet (as
+opposed to the Persian alphabet) especially in online chat, social networks,
+emails and SMS. It has developed and spread due to a former lack of software
+supporting the Persian alphabet, and/or due to a lack of knowledge about the
+software that was available. Although Persian writing is supported in recent
+operating systems, there are still many cases where the Persian alphabet is
+unavailable and there is a need for an alternative way to write Persian with
+the basic Latin alphabet. This way of writing is sometimes called
+**Fingilish** or **Pingilish** (a portmanteau of _Farsi_ or _Persian_ and
+_English_ ).[14] In most cases this is an _ad hoc_ simplification of the
+scientific systems listed above (such as ALA-LC or BGN/PCGN), but ignoring any
+special letters or diacritical signs. ع may be written using the numeral "3",
+as in the Arabic chat alphabet (though this is rarely done). The details of
+the spelling also depend on the contact language of the speaker; for example,
+the vowel [u] is often spelt "oo" after English, but Persian speakers from
+Germany and some other European countries are more likely to use "u".
+
+The Tajik language or Tajik Persian is a variety of the Persian language. It
+was written in Tajik SSR in a standardized Latin script from 1926 until the
+late 1930s, when the script was officially changed to Cyrillic. However, Tajik
+phonology differs slightly from that of Persian in Iran. As a result of these
+two factors romanization schemes of the Tajik Cyrillic script follow rather
+different principles.[15]
+

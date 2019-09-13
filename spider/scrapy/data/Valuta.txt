@@ -1,0 +1,76 @@
+La **valuta** è un'unità di scambio che ha lo scopo di facilitare il
+trasferimento di beni e servizi. Per lo più assume la forma di moneta.
+
+Viene di norma emessa da stati o gruppi di stati (si pensi all'euro) per lo
+più attraverso la propria banca centrale in regime di monopolio. In alcuni
+stati esistono più istituti di emissione.
+
+Più nazioni possono usare lo stesso nome per le loro monete (es. dollaro,
+canadese e statunitense), possono utilizzare la stessa valuta (es. l'euro),
+oppure uno stato può dichiarare a corso legale la valuta di un altro paese (ad
+esempio, il dollaro statunitense è la moneta legale di Panama, processo che
+viene indicato con dollarizzazione). Ciascuna valuta ha tipicamente multipli e
+sottomultipli, di solito si usano i centesimi.
+
+Il termine valuta viene usato più specificamente per indicare le monete
+straniere detenute da cittadini e istituzioni di uno stato, sotto forma di
+denaro circolante e di titoli di credito. Un tipico esempio di questo possesso
+è rappresentato dalle riserve di valuta detenute dalle banche centrali. Ogni
+banca centrale detiene una data quantità di moneta straniera ovvero di valuta
+allo scopo di far fronte alle richieste degli operatori economici e per
+difendere il valore della propria moneta.
+
+Il possesso di valuta da parte dei cittadini e delle imprese di uno stato è
+solitamente soggetto a norme amministrative che stabiliscono quanta moneta può
+essere detenuta e a quali condizioni.
+
+La storia delle valute segue abbastanza da vicino quella del denaro. Sebbene
+qualsiasi forma di denaro possa essere considerata valuta, il termine valuta
+si applica di solito a monetazione standard ed ai sistemi che si sono
+sviluppati da questo.
+
+Prima dell'introduzione della monetazione standard, il calcolo del valore del
+denaro basato sui metalli richiedeva diversi passi. Dapprima il metallo era
+provato su di una pietra di paragone per determinare il titolo, poi veniva
+pesato ed infine i due valori venivano moltiplicati tra loro. Così, se si
+creava una lega tra oro e piombo (che era una tecnica comune di
+falsificazione), il peso del metallo era moltiplicato per la percentuale d'oro
+per avere il peso del solo metallo prezioso.
+
+La monetazione fu introdotta per semplificare questo processo. Le monete
+furono create di una serie di pesi e titoli d'oro e poi marcati con il loro
+valore ed in questo modo non erano richieste misure al momento dello scambio.
+Ovviamente potevano essere create monete dello stesso aspetto ma con leghe
+peggiori dell'originale, ma questo era difficile da ottenere nel passato.
+
+Sistemi valutari più moderni sono stati sviluppati dall'introduzione delle
+monete legali e monete cartacee. Il processo inizia con la sostituzione del
+metallo originale con una moneta che lo rappresenti. In questo modo l'oro
+poteva essere mantenuto al sicuro nei forzieri dello stato. Esempi di questi
+sistemi nel passato erano il _Gold Standard_ , dove il dollaro statunitense
+era coperto da oro immagazzinato a Fort Knox, e la sterlina britannica, che al
+momento della sua introduzione da parte di Enrico II nel 1158 era coperta da
+una libbra di argento al 92,5% ( _One Pound of Sterling Silver_ ).
+
+L'evoluzione continuò dapprima con la rappresentazione cartacea dello stesso
+standard metallico, ed infine rimuovendo completamente la copertura in metallo
+ed affidando alla sola carta il valore della valuta. Il primo "biglietto di
+banca" (ovvero la prima banconota) fu emesso dalla Banca d'Inghilterra nel
+1694.[ _senza fonte_ ]
+
+L'Organizzazione internazionale per la normazione ha introdotto il sistema ISO
+4217 per l'identificazione delle monete tramite codici di tre lettere. In
+questo modo sono state eliminate le confusioni tra valute con più
+rappresentazioni locali, come il dollaro, la sterlina o il franco. In
+generale, il codice di tre caratteri utilizza per le prime due lettere il
+codice ISO 3166-1 per la nazione, mentre come terza lettera si utilizza
+l'iniziale della valuta.
+
+Nel seguito si elencano in ordine alfabetico le attuali valute mondiali, le
+nazioni nelle quali vengono utilizzate e riportando tra parentesi il relativo
+codice ISO 4217:
+
+I simboli delle valute sono stati resi obsoleti dallo standard ISO 4217.
+
+Altri progetti
+

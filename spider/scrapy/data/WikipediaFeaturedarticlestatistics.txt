@@ -1,0 +1,42 @@
+This page is dedicated to gathering statistics about featured articles,
+featured article candidates, and related content-review statistics. There are
+currently **5627** featured articles, and the current percentage of Wikipedia
+articles that are featured articles is 0.0949%.
+
+Note: Some of the numbers linked to by the historical version do not match the
+numbers on this page. In such cases, the numbers on this page are correct.
+
+Growth of featured and reviewed articles by month:
+
+**Key** :
+
+**Featured content:**
+
+**Today's featured article** (TFA):
+
+**Featured article tools:**
+
+  
+
+**A** The discrepancy between articles promoted and demoted in August 2016 is
+due to Harold and Inge Marcus Department of Industrial and Manufacturing
+Engineering being merged into Penn State College of Engineering per
+Wikipedia:Articles for deletion/Harold and Inge Marcus Department of
+Industrial and Manufacturing Engineering, thus decremented the FA count by 1
+without a FAR-generated demotion.
+
+**B** The unusually large increase in the number of articles in March 2015 was
+caused by a maintenance script running for the first time on 29 March. The
+purpose of the maintenance script was to correct the automatically updated
+count, which was missing roughly 95,000 articles. Since the maintenance script
+will run on the 29th of each month from now on, the reported count should stay
+much closer to the true count. See note for more information.
+
+**C** The month-end total FAs listed for March 2013 through October 2014 do
+not match the number listed in this table because of two errors [1] [2] that
+were found and corrected in November 2014.[3] The numbers in this table are
+audited and correct; the numbers in the linked diffs at month-end were
+incorrect.
+
+  
+

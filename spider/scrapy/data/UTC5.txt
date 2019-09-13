@@ -1,0 +1,23 @@
+**UTC-5** è un fuso orario, in ritardo di 5 ore sull'UTC. Rappresenta
+geograficamente l' **ora degli Stati Uniti orientali**.
+
+È utilizzato nei seguenti territori:
+
+In teoria UTC-5 corrisponde a una zona di longitudine compresa tra 82,5° W e
+67,5° W e l'ora utilizzata corrispondeva all'ora solare media del 75º
+meridiano ovest, riferimento integrato nell'UTC nel 1972.
+
+In Canada e negli Stati Uniti il fuso orario è chiamato _Eastern Standard
+Time_ (EST) in inglese oppure _Heure normale de l'Est_ (HNE) in francese. È
+quindi l' **Ora di New York** , trovandosi l’enorme megalopoli proprio a
+ridosso del meridiano fondamentale del fuso.
+
+Tra le zone di UTC-5 che adottano l'ora legale ci sono le Bahamas, il Canada
+(tranne un'isoletta del Nunavut), Cuba, Haiti, gli Stati Uniti e le isole
+Turks e Caicos, che passano a UTC-4.
+
+Reciprocamente, le zone a UTC-6 che osservano l'ora legale, tutte nel
+Nordamerica tranne l’isola di Pasqua, passano a UTC-5.
+
+Altri progetti
+

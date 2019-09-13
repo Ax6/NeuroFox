@@ -1,0 +1,49 @@
+Il template {{Ponte}} serve per generare una tabella sinottica relativa ad un
+ponte e va usato esclusivamente sulle voci relative. Fare riferimento al
+Progetto:Ingegneria.
+
+Per inserire il template in una voce copiare il seguente testo:
+
+Per tutte le misure inserire i valori senza punti delle migliaia (vengono
+inseriti dal template); **per eventuali valori non interi usare la notazione
+anglosassone** (col punto al posto della virgola). I valori così inseriti
+verranno poi in automatico restituiti dal template nel formato SI.
+
+(legenda colori)  
+
+**{{Ponte**  
+ **| nome =**  
+**| immagine![](//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-
+logo.svg/20px-Wikidata-logo.svg.png) =**  
+**| didascalia =**  
+**| nazione =**  
+**| nazione2 =**  
+**| città =**  
+**|
+attraversa![](//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-
+logo.svg/20px-Wikidata-logo.svg.png) =**  
+**|
+latitudine![](//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-
+logo.svg/20px-Wikidata-logo.svg.png) =**  
+**|
+longitudine![](//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-
+logo.svg/20px-Wikidata-logo.svg.png) =**  
+**| tipologia =**  
+**| materiale![](//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-
+logo.svg/20px-Wikidata-logo.svg.png) =**  
+**| lunghezza =**  
+**| luce =**  
+**| hluce =**  
+**| larghezza =**  
+**| altezza =**  
+**| ncarreggiate =**  
+**| ncorsie =**  
+**| progettista =**  
+**| progettisti =**  
+**| data_inizio =**  
+**| data_fine =**  
+**| apertura =**  
+**| chiusura =**  
+**| zoom mappa =**  
+**}}**
+

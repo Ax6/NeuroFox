@@ -1,0 +1,163 @@
+  
+
+Wikipedia ha solo alcune regole inderogabili, i **cinque pilastri**. Per un
+primo orientamento, puoi guardare la **WikiGuida** , leggere la **Guida
+essenziale** o consultare la pagina di **aiuto**.
+
+Se **contribuisci a Wikipedia su commissione** si applicano **condizioni d'uso
+particolari**.
+
+Ricorda di **non copiare testi né immagini da libri o siti internet poiché
+_NON è consentito inserire materiale protetto dacopyright_** (nel caso sia tu
+l'autore/autrice, devi seguire l'apposita procedura), e di scrivere seguendo
+un **punto di vista neutrale** , citando le **fonti** utilizzate.
+
+Se hai bisogno di aiuto, chiedi allo sportello informazioni (e non dimenticare
+che la risposta ti verrà data in quella stessa pagina). Se avessi bisogno di
+un aiuto _continuativo_ , puoi richiedere di farti affidare un "tutor".
+
+Naturalmente un benvenuto anche da parte mia! Se avessi bisogno di qualcosa
+non esitare a contattarmi.
+
+_Superpes15_ _(talk)_ 20:30, 8 gen 2018 (CET)
+
+Ciao, se usi il template {{cita web}} devi indicare anche i nomi dei
+parametri, altrimenti (come hai visto) non funziona. Io ho fatto così. Ciao.
+--Lepido (msg) 21:17, 18 giu 2018 (CEST)
+
+Ciao! Intanto ti ringrazio per le voci che stai creando, di utenti che
+scrivono su dipinti ce ne sono troppo pochi e uno in più è sicuramente una
+buona notizia. Aggiungo un suggerimento: per i dati tecnici (ossia tecnica,
+supporto e dimensioni) c'è già l'infobox; l'incipit dovrebbe limitarsi a
+contenere le informazioni più importanti (soprattutto titolo, autore, data e
+luogo di conservazione). Inoltre, quando scrivi "...è un dipinto" sarebbe
+buona norma linkare alla voce dipinto. Buona prosecuzione! --Carlomartini86( _
+**Dlin-Dlon**_ ) 11:33, 18 ago 2018 (CEST)
+
+Ciao, grazie per le voci che stai creando sui dipinti, ma in questo caso,
+questo e quest'altro ti sei dimenticato di aggiungere il template {{Tradotto
+da}} nella pagina di discussione (ce l'ho messo io adesso). Quando traduci una
+voce da un'altra wiki ricordati sempre di inserire quel template così da
+attribuire la paternità della voce a chi ha scritto l'articolo originale; nel
+caso di traduzioni dalla Wikipedia in spagnolo basta inserire nella pagina di
+discussione `{{Tradotto da|es|Titolo della voce originale}}`. Ciao e buon
+lavoro.-- _ **goth nespresso**_ 21:44, 10 set 2018 (CEST)
+
+Ciao, come puoi vedere la voce col titolo errato _Apoteosi di san Tommaso_ è
+stata cancellata dall'utente Hypergio, però ti faccio presente che la pagina
+Discussioni Wikipedia:Bar (come scritto nel banner in alto) serve solo per
+discutere del funzionamento della pagina Wikipedia:Bar. Per richieste
+generiche di altro tipo come la tua, è più adatto scrivere in Aiuto:Sportello
+informazioni, mentre per cose più specifiche di carattere artistico puoi anche
+chiedere in Discussioni progetto:Arte. Buon lavoro.-- _ **goth nespresso**_
+17:38, 13 ott 2018 (CEST)
+
+Ciao Meppolo, da ora le tue modifiche saranno autoverificate. Non ti
+dimenticare del campo oggetto però! -- **Ruthven** (msg) 20:31, 14 gen 2019
+(CET)
+
+Ciao, vedi qui. Occhio a non togliere la spunta all'opzione "Sposta anche la
+pagina di discussione" quando sposti. Ciao!--Sakretsu (炸裂) 00:07, 19 gen 2019
+(CET)
+
+Scrivo qua, così facciamo prima, ma in ogni caso è molto semplice. Fai
+compilare ad ognuno dei presenti la seguente dichiarazione:
+
+«Spett.le Wikimedia Foundation  
+permissions-
+it![\(at\).svg](//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/%28at%29.svg/13px-%28at%29.svg.png)wikimedia.org
+
+Oggetto: Open-source Ticket Request System (OTRS)
+
+Io sottoscritto COGNOME NOME, nato a... il.... e residente a Verona in via...,
+in qualità di legale rappresentante dell'Associazione..... con sede in Verona
+in via..... , telefono.....email....
+
+Io sottoscritto COGNOME NOME, nato a... il.... e residente a Verona in via...,
+in qualità di legale rappresentante dell'Associazione..... con sede in Verona
+in via..... , telefono.....email....
+
+Io sottoscritto COGNOME NOME, nato a... il.... e residente a Verona in via...,
+in qualità di legale rappresentante dell'Associazione..... con sede in Verona
+in via..... , telefono.....email....
+
+Dichiariamo di essere i detentori dei diritti d'autore (copyright) della
+seguente opera, disegnata da Oliviero Murru su incarico delle tre associazioni
+soprariportate:
+
+Dichiariamo di essere d'accordo alla pubblicazione di tale opera sotto la
+licenza libera **CC-BY 4.0**.
+
+Dichiariamo di essere a conoscenza del fatto che concediamo a chiunque il
+diritto di usare l'opera in un prodotto commerciale e di poterla modificare a
+seconda delle proprie esigenze.
+
+Dichiariamo di essere a conoscenza del fatto che restiamo comunque titolare
+dei diritti d'autore della nostra opera e che ci venga attribuita in accordo
+alla licenza scelta. Le modifiche all'opera fatte da altri non saranno
+attribuite a noi.
+
+Dichiariamo di essere a conoscenza del fatto che la licenza riguarda solo i
+diritti d'autore, e ci riserviamo il diritto di muovere azione legale contro
+chiunque utilizzi quest'opera in modo diffamatorio e calunnioso, o in
+violazione dei diritti d'immagine, delle restrizioni riguardo i marchi
+registrati ecc.
+
+Dichiariamo di essere a conoscenza del fatto che non posso ritrattare questo
+accordo, e che l'opera potrà essere o non essere conservata permanentemente in
+un progetto Wikimedia.
+
+Verona, data
+
+Firma ________»
+
+Stampa, fai firmare a tutti e tre, poi scannerizza le tre autorizzazioni
+firmate e inviale via mail a: **permissions-
+it![\(at\).svg](//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/%28at%29.svg/13px-%28at%29.svg.png)wikimedia.org**
+. Fine. --Holapaco77 (msg) 11:51, 22 mar 2019 (CET)
+
+Come disambigua è sufficiente (Antonio Veneziano), se per caso il poeta ha
+scritto una lirica dallo stesso titolo sposteremo di nuovo, ma ci credo poco.
+Ciao :-) --Erinaceus (msg) 20:13, 27 mar 2019 (CET)
+
+Ciao Meppolo, ti chiedo una cortesia. Vorrei aggiungere alla voce di Prince
+(il musicista), su Wikipedia in spagnolo, una nota con queste frasi che
+riguardano una sua canzone. Scrivo in italiano e ho bisogno della traduzione
+in spagnoloː
+
+Questa frase, non identica ma simile, si trova nella voce del nostro Wiki
+Takin' Me To Paradise. Su Wiki in spagnolo ho già aggiunto il collegamento
+esterno alla copia della sentenza, ma vorrei accompagnare il testo della
+sentenza con queste due frasi esplicative. Nella traduzione in spagnolo
+naturalmente il titolo delle due canzoni deve restare in inglese. Grazie--
+Fausta Samaritani (msg) 10:42, 17 apr 2019 (CEST)
+
+Sto provvedendo con una traduzione casalinga e spero che venga accolta su Wiki
+in spagnolo. Ero convinta che tu conoscessi lo spagnolo. Grazie ugualmente e
+buon lavoro.--Fausta Samaritani (msg) 18:36, 18 apr 2019 (CEST)
+
+\-- _ **o' Sistemone**_ 12:12, 5 lug 2019 (CEST)
+
+Ciao, ho visto questo spostamento in cui introduci un disambiguante, cosa
+ritini che si debba fare con San Giuseppe falegname, ci sono altre voci con lo
+stesse titolo? Se ci fosse solo quella il disambiguante non serve. --ArtAttack
+(msg) 12:27, 21 lug 2019 (CEST)
+
+Ciao Meppolo. Grazie per tutte le nuove voci che stai scrivendo.. ormai devo
+dire che l'arte antica si regge sulle tue spalle ;) Se diventato molto bravo
+coi titoli e con le categorie, devo dire che hai fatto passi da giagnte in
+pochissimo tempo. L'unica cosa che ancora andrebbe corretta sono i titoli
+delle sezioni. Cerca di rispettare sempre lo schemetto "Storia" per primo, e
+poi "Descrizione" e "Stile". Se serve accorpa pure a due a due queste sezioni
+e mettici opure tutti i sottoparagrafi che vuoi, ma cerca di attenerti a
+questo schema, lo facciamo per il lettore, perché si abitui a voce con uno
+schema costante e quindi facilmente riconoscibile. Trovi tutto spiegato qui.
+Le tue voci vecchie per ora le ho riordinate tutte già io. Ciao e a --Sailko
+15:39, 1 ago 2019 (CEST)presto.
+
+Ciao Meppolo, ho notato le tue richieste di cancellazione a seguito dei tuoi
+spostamenti relativi alla Pinacoteca nazionale di Atene. Mi sembra però che
+questi spostamenti non siano conformi alle linee guida su maiuscole e
+minuscole e sull'inclusione dei nomi geografici. Per favore, controlla e fammi
+sapere. Grazie--Sakretsu (炸裂) 11:44, 21 ago 2019 (CEST)
+

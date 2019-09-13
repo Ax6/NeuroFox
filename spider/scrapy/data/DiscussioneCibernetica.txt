@@ -1,0 +1,107 @@
+Voce ristrutturata con inserimento di riferimenti. Poichè sostanzialmente ogni
+autore che ha usato il termine "cibernetica" gli ha attribuito un significato
+specifico, in questa voce la descrizione della cibernetica è ristretto al
+pensiera ed all'attività di Wiener e dei suoi diretti collaboratori. --Vbrm
+(msg) 17:52, 26 ago 2016 (CEST)
+
+<<Il termine sembra caduto in disuso, soprattutto a causa del pessimismo
+introdotto in questo campo dalle dimostrazioni sui limiti del calcolo
+parallelo (poi superati).>>
+
+Non vedo il nesso con la cibernetica. In ogni caso a quali dimostrazioni ci si
+riferisce? Propongo di eliminare questa frase o di chiarirla.
+
+<<Oggi si preferisce usare il termine rete neurale.>>
+
+Questo è un _errore_ che fanno in molti... Gli studi sulle reti neurali
+artificiali sono precedenti (!) alla cibernetica e la loro storia è in parte
+indipendente dagli sviluppi della cibernetica e della Intelligenza
+Artificiale. Propongo di eliminare questa frase ed eventualmente di aggiungere
+un paragrafo sui rapporti tra cibernetica e reti neurali.
+
+\--Kernel2037 15:21, 26 apr 2007 (CEST)
+
+  
+La Cibernetica come definita da Wiener risale a parecchi decenni fa e coincide
+grosso modo con quella che oggi si chiama teoria del controllo. Era la fase
+embrionale dell'automazione. Secondo la mia personale opinione è però oramai
+anacronistico riproporre una tale definizione: nel frattempo ci sono stati
+sviluppi vertiginosi. Pertanto la cibernetica di oggi la vedrei meglio come
+"automazione dei sistemi complessi". In altre parole un computer oppure una
+fabbrica totalmente automatizzata li percepisco come cibernetica, mentre la
+regolazione di un termostato con un anello di feedback un po' meno. In estrema
+sintesi si potrebbe suddividere l'automazione in teoria dei controlli
+(automazione di "campo") e cibernetica.
+
+Non sono un esperto, ma credo che la definizione sia imprecisa. In realtà la
+ciberetica dovrebbe essere la scienza che studia il controllo di un sistema
+(non necessariamente un sistema informatico o una macchina) attraverso
+l'informazione.
+
+Si tratta perciò di un'approccio più teorico che non prettamente tecnologico.
+In effetti la cibernetica trova sicuramente applicazioni in ambito informatico
+(ad es. le reti neurali) ma non solo: ad esempio è possibile pensare ad un
+organismo biologico come ad un sistema controllabile attraverso l'informazione
+(il suo dna): in questi termini è possibile pensare all'ingegneria genetica
+come ad una diretta applicazione della cibernetica.
+
+Un approccio...
+
+P.
+
+La cibernetica studia i meccanismi di regolazione dei sistemi: ad esempio è
+applicatissima in Ecologia. Che facciamo: completiamo la voce o inventiamo un
+nuovo termine per la disciplina? \--Danilo 19:35, 4 ott 2006 (CEST)
+
+In questo articolo non é citata la definizione di cibernetica di Norbert
+Wiener cioé: la scienza che studia la comunicazione ed il controllo nell'uomo
+e nella macchina.
+
+Gentili utenti,
+
+ho appena modificato 1 collegamento/i esterno/i sulla pagina Cibernetica. Per
+cortesia controllate la mia modifica. Se avete qualche domanda o se fosse
+necessario far sì che il bot ignori i link o l'intera pagina, date un'occhiata
+a queste FAQ. Ho effettuato le seguenti modifiche:
+
+Fate riferimento alle FAQ per informazioni su come correggere gli errori del
+bot
+
+Saluti.— **InternetArchiveBot** (Segnala un errore) 10:52, 16 feb 2018 (CET)
+
+Gentili utenti,
+
+ho appena modificato 1 collegamento esterno sulla pagina Cibernetica. Per
+cortesia controllate la mia modifica. Se avete qualche domanda o se fosse
+necessario far sì che il bot ignori i link o l'intera pagina, date un'occhiata
+a queste FAQ. Ho effettuato le seguenti modifiche:
+
+Fate riferimento alle FAQ per informazioni su come correggere gli errori del
+bot.
+
+Saluti.— **InternetArchiveBot** (Segnala un errore) 07:24, 25 mag 2019 (CEST)
+
+Gentili utenti,
+
+ho appena modificato 3 collegamenti esterni sulla pagina Cibernetica. Per
+cortesia controllate la mia modifica. Se avete qualche domanda o se fosse
+necessario far sì che il bot ignori i link o l'intera pagina, date un'occhiata
+a queste FAQ. Ho effettuato le seguenti modifiche:
+
+Fate riferimento alle FAQ per informazioni su come correggere gli errori del
+bot.
+
+Saluti.— **InternetArchiveBot** (Segnala un errore) 00:26, 6 lug 2019 (CEST)
+
+Gentili utenti,
+
+ho appena modificato 1 collegamento esterno sulla pagina Cibernetica. Per
+cortesia controllate la mia modifica. Se avete qualche domanda o se fosse
+necessario far sì che il bot ignori i link o l'intera pagina, date un'occhiata
+a queste FAQ. Ho effettuato le seguenti modifiche:
+
+Fate riferimento alle FAQ per informazioni su come correggere gli errori del
+bot.
+
+Saluti.— **InternetArchiveBot** (Segnala un errore) 05:22, 28 ago 2019 (CEST)
+

@@ -1,0 +1,186 @@
+L' **edilizia** è l'insieme delle tecniche e delle conoscenze finalizzate alla
+progettazione e realizzazione di una costruzione o più specificatamente di un
+edificio.
+
+La parola edilizia, come la parola "edile" deriva dal latino _aedile_ , a sua
+volta derivazione di _aedes_ che significa "casa" o "abitazione", ma anche
+"tempio". La parola "edificio" ha la medesima radice _aedes_ legata al
+suffisso _ficium_ che significa "fare", "costruire", "realizzare".
+
+È sotto il nome di edilizia che ricadono tutte quelle opere, lavorazioni e
+interventi che mirano a realizzare, modificare, riparare o demolire un
+edificio. Per edilizia si intende un'attività essenzialmente tecnica e di
+processo produttivo; essa è una componente del processo architettonico e può
+essere scissa e facilmente distinta da questo. L'architettura ha una
+connotazione ben più complessa di un semplice fatto edilizio; la sua
+determinazione avviene per l'esercizio paziente e meditato di discipline
+diverse in bilico tra tecnica e arte.
+
+Nel gergo comune, il termine edilizia può assumere significato dispregiativo
+(es. un fabbricato costruito con forme elementari, privo di ornamenti, giochi
+di volume o forme che catturino l'attenzione). Tale utilizzo del termine è
+comunque errato, in quanto ogni edificio ha una sua 'componente edilizia';
+alcuni di essi, con particolari caratteristiche qualitative (di composizione,
+ricerca sui materiali, inserimento urbano etc.) possono rientrare anche nella
+categoria delle architetture.
+
+Ogni edificio è un oggetto edilizio ma è nello stesso tempo opera
+architettonica, bello o brutto che sia. L'edilizia sono i materiali e le
+tecniche costruttive, l'architettura è la realizzazione attraverso l'uso di
+questi materiali e di queste tecniche di un nuovo spazio, definiamolo
+architettonico. Quindi, l'architettura attraverso l'edilizia realizza nuovi
+involucri, nuovi ambienti, più genericamente l'ambiente costruito.
+
+Con l'industrializzazione e la specializzazione sempre maggiore dell'edilizia
+si è venuto a creare il concetto di _processo edilizio_ identificato con i
+termini anglosassoni di _Construction_ integrante le distinzioni di _Design-
+Bid-Build_ , _Design-Build_ e _Construction Management_.
+
+Per _processo edilizio_ si intende tutta la sequenza delle operazioni, che
+riguardano la creazione, la realizzazione, l'uso ed il mantenimento di
+un'opera edilizia dalla sua progettazione iniziale, alla sua costruzione ed
+alla sua gestione per tutto il tempo di vita utile.
+
+Le fasi principali del processo sono: la Progettazione, la Costruzione, la
+Gestione e Manutenzione
+
+Per settori dell'edilizia si intendono delle parti delle lavorazioni che
+richiedono competenze specifiche per essere eseguite. Il settore può essere
+definito anche mestiere. I settori dell'edilizia si individuano in due
+macrocategorie: edilizia pesante ed edilizia leggera, e possono essere
+descritti sommariamente di seguito:
+
+Edilizia pesante
+
+Edilizia leggera
+
+Opere collaterali di edilizia
+
+Il personale o le ditte che operano nel mondo dell'edilizia sono in genere
+specializzate in uno solo di questi settori, perché le competenze che bisogna
+acquisire sono talmente tante che difficilmente si riesce a essere maestri di
+più mestieri, anche e soprattutto per la complicata questione normativa che
+coinvolge ciascun settore. Dal marzo 2018 UNI 11704 è stata pubblicata la
+norma sulla qualifica del pittore edile che definisce il termine edilizia
+leggera, che è l'ambito in cui opera il pittore edile, figura di riferimento
+che può svolgere le competenze incluse nel mondo edilizia leggera.
+
+La scienza delle costruzioni si occupa della meccanica delle strutture
+(statica e cinematica) e ha l'obiettivo di fornire gli strumenti per il
+calcolo degli elementi strutturali che compongono l'ossatura di una
+costruzione. È stata resa possibile dagli sviluppi dell'analisi matematica e
+della geometria differenziale nel corso del XVIII e del XIX secolo. Fino alla
+fine dell'Ottocento non veniva eseguito un dimensionamento delle strutture, ma
+ci si basava sull'esperienza e sulla tradizione costruttiva.
+
+L'"Architettura tecnica" che analizza gli organismi edilizi, nei loro aspetti
+fondativi di natura costruttiva, funzionale, tipologica e formale e nelle loro
+gerarchie di sistemi, tale analisi è finalizzata ai temi della fattibilità del
+progetto e della rispondenza ottimale delle opere ai requisiti essenziali.
+Implicano la valutazione critica delle tecniche edili tradizionali ed
+innovative e la loro traduzione in termini di progettazione anche assistita e
+di procedimenti produttivi. Interessano sia le problematiche delle nuove
+costruzioni a varie scale dimensionali, sia quelle della conservazione, del
+recupero e della ristrutturazione dell'esistente.
+
+La "fisica tecnica", che mette in relazione conoscenze teoriche con le
+tecniche per la realizzazione degli impianti di un edificio (elettrico, idrico
+di adduzione e di scarico, termico). Di particolare importanza è la
+termodinamica, che permette di descrivere in che modo il calore passa
+dall'ambiente interno a quello esterno (e che di conseguenza permette di
+progettare al meglio la stratigrafia dei muri perimetrali, onde ridurre le
+dispersioni del calore d'inverno e del fresco d'estate). La fisica tecnica
+analizza anche le modalità di interazione tra sole, ambiente ed edificio, per
+studiare la migliore posizione delle finestre o la migliore inclinazione delle
+coperture.
+
+L'acustica è un'altra scienza in stretto contatto con l'edilizia, soprattutto
+da quando si ritiene che l'inquinamento acustico sia molto influente sulla
+salute. L'acustica, nell'edilizia, studia come il suono si propaga da un
+ambiente all'altro, e permette di capire come ottenere il giusto grado di
+isolamento acustico soprattutto in relazione alle caratteristiche fisiche
+degli elementi dell'edificio che dividono le stanze, i diversi piani e, in
+generale, l'ambiente esterno da quello interno. Solo di recente si comincia a
+sentire il problema dell'inquinamento acustico: in Francia, per esempio, vi è
+una legge che obbliga chi costruisce edifici a rispettare dei criteri di
+comfort acustico per i diversi locali. I consulenti acustici sono fondamentali
+nella progettazione di particolari ambienti, come i teatri: talvolta vengono
+eseguite simulazioni computerizzate per ottenere il migliore risultato
+geometrico per la propagazione del suono.
+
+L'illuminotecnica è una disciplina (e non una scienza, perché non ha dei
+principi suoi, ma sfrutta quelli di altre scienze) di grande importanza
+nell'edilizia. Spesso, come l'acustica, viene considerata di secondaria
+importanza per la progettazione degli edifici. Si occupa delle modalità con
+cui la luce, sia naturale che artificiale, interagisce con gli ambienti,
+determinando, quindi, il comfort visivo. Esiste una normativa UNI (la 10380)
+che descrive quali devono essere i livelli di illuminamento medi per diverse
+tipologie di locali, classificate in base all'attività che vi si svolge.
+L'illuminotecnica studia anche le diverse tipologie di apparecchi illuminanti
+e fornisce le indicazioni per poter scegliere la migliore lampada in relazione
+all'uso o all'effetto che si vuole ottenere. Il controllo della luce è
+fondamentale per realizzare ambienti che garantiscano una elevata qualità del
+vivere.
+
+L'estimo è la disciplina che permette di analizzare i costi legati alla
+realizzazione di una costruzione, o che permette di stimare il più probabile
+valore di mercato di un edificio. È legata all'economia, ed è fondamentale per
+capire se un progetto può essere realizzato o meno dal punto di vista
+economico: quindi, se sia conveniente intraprenderlo o no. Costruire un
+grattacielo nel deserto del Sahara sarebbe forse un'ottima prova di competenza
+tecnica, ma probabilmente il costo di realizzazione sarebbe talmente elevato
+paragonato al valore di mercato della costruzione ultimata da rendere
+svantaggiosa l'intera operazione.
+
+Molte altre scienze e discipline sono più o meno legate all'edilizia:
+l'ecologia, la topografia e la geologia sono tra le più importanti.
+
+L'arte nell'edilizia ha un significato ben preciso: è il modo corretto di
+portare a termine una lavorazione, secondo i dettami del buon costruire. Solo
+alcuni trattati descrivono il modo corretto di realizzare manufatti edili: tra
+i più famosi il _De architectura_ di Vitruvio o il _De re aedificatoria_
+scritto da Leon Battista Alberti nel pieno Rinascimento italiano. Tuttavia, le
+tecniche del buon costruire (l'arte del costruire) sono dettate principalmente
+dal buon senso di seguire le regole, semplici ma ferree, tramandate dai mastri
+operai ai loro apprendisti. L'arte di innalzare un semplice muro richiede la
+conoscenza dell'arte dell'impastare una buona malta, conoscendo i dosaggi di
+legante, acqua e eventuale inerte, della tecnica di allettare i mattoni in
+modo tale che collaborino attivamente alla portanza del muro, dell'arte e
+della tecnica di effettuare la rasatura del muro e, naturalmente, dell'arte e
+della tecnica di passare la pittura sullo stesso.
+
+Quando, in una descrizione di opere edili (come un capitolato), si richiede
+che una lavorazione venga "realizzata a regola d'arte" si fa riferimento
+proprio al fatto che si prevede che l'opera verrà fatta seguendo tutte le
+precauzioni, le regole e, quindi, le tecniche del buon costruire relative a
+quel particolare manufatto, che può essere una trave in cemento armato, un
+tramezzo, o anche la semplice ritinteggiatura di una vecchia parete. Ciascuna
+piccola opera edilizia, che, assieme a tante altre, permette di costruire
+edifici interi, ha le sue piccole grandi regole.
+
+Nel mondo dell'edilizia esistono diverse figure professionali, ciascuna con un
+proprio ruolo all'interno del processo produttivo.
+
+Si parte dal semplice operaio non qualificato, che è impiegato per la corretta
+funzionalità del cantiere compiendo le lavorazioni più disparate: dal
+trasporto dei sacchi di materiale alla pulizia del cantiere stesso. L'operaio
+qualificato, invece, è quello in grado di realizzare specifiche lavorazioni.
+Ogni settore dell'edilizia ha il suo operaio qualificato per la realizzazione
+delle opere relative, e a capo di ogni mestiere c'è sempre un maestro d'arte
+qualificato.
+
+A capo della squadra di operai in genere vi è un capo mastro, con il quale in
+genere dialoga il direttore dei lavori, che è la figura professionale
+responsabile della corretta esecuzione dei lavori in base al progetto
+approvato. Il direttore dei lavori è un tecnico qualificato, in genere
+ingegnere, architetto, agronomo o geometra e il Perito Industriale Edile (Per.
+Ind.) e può coincidere con il progettista.
+
+Il progettista è il fautore del progetto, e riceve l'incarico dal committente
+dell'opera. Il progettista può non essere un'unica persona, in quanto può
+esservi chi ha fatto il progetto architettonico, chi il calcolo del cemento
+armato, chi la redazione manuale del disegno, chi l'espletamento delle
+pratiche amministrative, ecc.
+
+Altri progetti
+

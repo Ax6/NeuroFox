@@ -1,0 +1,134 @@
+The **Arabic chat alphabet** , _**Arabizi**_[1] (عربيزي, _Arabīzī_ ),
+**Franco-Arabic** (فرانكو آراب, _franco-arabe_ , or عرنسية),[2] **Arabish** ,
+**Araby** (Arabic: عربي‎, _Arabī_ ), and **Mu'arrab** (معرب), refer to the
+Romanized alphabets for informal Arabic dialects in which Arabic script is
+transcribed or encoded into a combination of Latin script and Arabic numerals.
+These informal chat alphabets were originally used primarily by youth in the
+Arab world in very informal settings—especially for communicating over the
+Internet or for sending messages via cellular phones—though use is not
+necessarily restricted by age anymore and these chat alphabets have been used
+in other media such as advertising.[3][4]
+
+These chat alphabets differ from more formal and academic Arabic
+transliteration systems, in that they use numerals and multigraphs instead of
+diacritics for letters such as Qoph (ق) or Ḍād (ض) that do not exist in the
+basic Latin script (ASCII), and in that what is being transcribed is an
+informal dialect and not Standard Arabic.[4] These Arabic chat alphabets also
+differ from each other, as each is influenced by the particular phonology of
+the Arabic dialect being transcribed and the orthography of the dominant
+European language in the area—typically the language of the former colonists,
+and typically either French or English.
+
+Because of their widespread use, including in public advertisements by large
+multinational companies, large players in the online industry like Google and
+Microsoft have introduced tools that convert text written in Arabish to Arabic
+(Google Translate and Microsoft Translator). Add-ons for Mozilla Firefox and
+Chrome also exist (Panlatin[5] and ARABEASY Keyboard [6]). The Arabic chat
+alphabet is never used in formal settings and is rarely, if ever, used for
+long communications.[3]
+
+During the last decades of the 20th century, Western text-based communication
+technologies, such as mobile phone text messaging, the World Wide Web, email,
+bulletin board systems, IRC, and instant messaging became increasingly
+prevalent in the Arab world. Most of these technologies originally permitted
+the use of the Latin script only, and some still lack support for displaying
+Arabic script. As a result, Arabic-speaking users frequently transliterate
+Arabic text into Latin script when using these technologies to communicate.[7]
+
+To handle those Arabic letters that do not have an approximate phonetic
+equivalent in the Latin script, numerals and other characters were
+appropriated. For example, the numeral "3" is used to represent the Arabic
+letter ⟨ع⟩ ( _ _ʿayn__ )—note the choice of a visually similar character, with
+the numeral resembling a mirrored version of the Arabic letter. Many users of
+mobile phones and computers use Arabish even though their system is capable of
+displaying Arabic script. This may be due to a lack of an appropriate keyboard
+layout for Arabic, or because users are already more familiar with the QWERTY
+or AZERTY keyboard layout.
+
+Online communication systems, such as IRC, bulletin board systems, and blogs,
+are often run on systems or over protocols that do not support code pages or
+alternate character sets. Thus, the Arabic chat alphabet has become
+commonplace. It can be seen even in domain names, like Qal3ah.
+
+Because of the informal nature of this system, there is no single "correct" or
+"official" usage. There may be some overlap in the way various letters are
+transliterated.
+
+Most of the characters in the system make use of the Latin character (as used
+in English and French) that best approximates phonetically the Arabic letter
+that one would otherwise use (for example, ب corresponds to _b_ ). Regional
+variations in the pronunciation of an Arabic letter can also produce some
+variation in its transliteration (e.g. ﺝ might be transliterated as _j_ by a
+speaker of the Levantine dialect, or as _g_ by a speaker of the Egyptian
+dialect).[8]
+
+Those letters that do not have a close phonetic approximation in the Latin
+script are often expressed using numerals or other characters, so that the
+numeral graphically approximates the Arabic letter that one would otherwise
+use (e.g. ع is represented using the numeral _3_ because the latter looks like
+a vertical reflection of the former).
+
+Since many letters are distinguished from others solely by a dot above or
+below the main portion of the character, the transliterations of these letters
+frequently use the same letter or number with an apostrophe added before or
+after (e.g. ' _3_ is used to represent غ).
+
+Each of the different varieties of Arabic chat alphabets is influenced by the
+particular phonology of the Arabic dialect being transcribed and the
+orthography of the dominant European language in the area—typically the
+language of the former colonists. Below are some examples of Arabic chat
+alphabet varieties.
+
+The frequent use of _y_ and _w_ to represent ي and و demonstrates the
+influence of English orthography on the romanization of Egyptian Arabic. As
+was the case in other parts of the region, English became the primary European
+language in Egypt as a result of British colonialism in the first half of the
+20th century.[9]
+
+Additionally, the letter Qoph (ق) is usually pronounced as a glottal stop,
+like a Hamza (ء) in Metropolitan (Cairene) Egyptian Arabic—unlike Standard
+Arabic in which it represents a voiceless uvular stop. Therefore, in Egyptian
+_Arabizi_ , the numeral 2 can represent either a Hamza or a Qoph pronounced as
+a glottal stop.
+
+انا رايح الجامعه الساعه 3 العصر
+
+الجو عامل ايه النهارده فى إسكندرية؟
+
+ _Lebanese, Syrian, Jordanian, Palestinian _
+
+The use of ch to represent ش demonstrates the influence of French orthography
+on the romanization of Moroccan Arabic or Darija. French became the primary
+European language in Morocco as a result of French colonialism.[10]
+
+One of the characteristics of Franco-Arabic as it's used to transcribe Darija
+is the presence of long consonant clusters that are typically unorthodox in
+other languages. These clusters represents the deletion of short vowels and
+the syllabification of medial consonants in the phonology of Darija, a feature
+shared with and derived from Amazigh languages.
+
+كيفاش داير في القراية؟
+
+شلونك؟ شنو قاعد تسوي الحين؟
+
+عليمن يا قلُب تعتب عليمن؟
+
+ولاي مشتاق ليك شديد يا زول كيفك إنتا؟ انا الحمدلله اكنت داير امشي المحل داك
+فوق النيل، المكان قريب من بيتك. حاستناك في الكبري.
+
+بوه ياخي، إتَ عفة؟ ولله سمح انا ماشي للسوبرمارشة ديك بي وسط نجامينا لو تدور
+تمشي يعني، تعال معاي يلا ياخي
+
+The phenomenon of writing Arabic with these improvised chat alphabets has
+drawn sharp rebuke from a number of different segments of Arabic-speaking
+communities. While educators and members of the intelligentsia mourn the
+deterioration and degradation of the standard, literary, academic
+language,[11] conservative Muslims, as well as Pan-Arabists and some Arab-
+nationalists, view the Arabic Chat Alphabet as a detrimental form of
+Westernization. Arabic chat alphabets emerged amid a growing trend among Arab
+youth, from Morocco to Iraq, to incorporate former colonial
+languages—especially English and French—into Arabic through code switching or
+as a form of slang. These improvised chat alphabets are used to replace Arabic
+script, and this raises concerns regarding the preservation of the quality of
+the language.[2]
+

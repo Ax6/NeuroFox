@@ -1,0 +1,7 @@
+Questo template di navigazione è autochiudente: nelle voci appare inizialmente
+chiuso solo se sono presenti anche altri template cassettabili. Questo è il
+comportamento di default se non si compila il parametro _state_ del
+Template:Navbox.
+
+  
+

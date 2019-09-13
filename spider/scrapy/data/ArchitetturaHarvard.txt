@@ -1,0 +1,66 @@
+L' **architettura Harvard** , in informatica, è un tipo di architettura
+hardware per computer digitali in cui vi è separazione tra la memoria
+contenente i dati e quella contenente le istruzioni. Il termine inizialmente
+indicava l'architettura del computer Harvard Mark I, un computer basato su
+relè che memorizzava le istruzioni su un nastro perforato mentre i dati
+venivano memorizzati in un contatore elettromeccanico a 23 cifre. Questa
+macchina non era dotata di un'unità di immagazzinamento dei dati: questi erano
+interamente memorizzati dalla CPU e il loro caricamento e salvataggio era un
+processo eseguito in modo manuale agendo sui contatori.
+
+Oggi, la maggior parte dei processori implementa percorsi di segnale separati
+per motivi di prestazioni, ma in realtà implementa un'architettura Harvard
+modificata, quindi possono supportare attività come il caricamento di un
+programma dalla memoria del disco come dati ed eseguirlo.
+
+In un'architettura Harvard le memorie per i dati e per le istruzioni possono
+essere anche differenti, con tecnologia d'implementazione e timing diversi, in
+particolare in alcuni sistemi l'ampiezza degli indirizzi o la larghezza di
+parola delle istruzioni è superiore a quella dei dati, e in altri sistemi i
+programmi sono memorizzati in una memoria a sola lettura (ROM) mentre i dati
+sono normalmente in una memoria a lettura-scrittura (RAM).
+
+In un'architettura classica di von Neumann la CPU legge le istruzioni e i dati
+dalla memoria utilizzando lo stesso bus, quindi quando la CPU carica
+un'istruzione non può contemporaneamente caricare anche un dato. In
+un'architettura di Harvard il processore è in grado di accedere in modo
+indipendente a dati e istruzioni dato che questi sono separati e memorizzati
+in memorie separate. Un'architettura Harvard quindi può eseguire più compiti
+in parallelo dato che può parallelizzare le operazioni di lettura e scrittura
+della memoria. All'aumento di velocità si contrappone la presenza di circuiti
+più complessi all'interno del processore.
+
+Negli ultimi anni la velocità dei processori è aumentata in modo
+considerevole, ma lo stesso non è accaduto al tempo di accesso delle memorie.
+Le memorie oramai sono decine di volte più lente dei processori. Se il
+microprocessore dovesse accedere per ogni istruzione alla memoria si avrebbe
+un notevole calo delle prestazioni. Per evitare questo i processori integrano
+al loro interno una memoria molto veloce chiamata cache. Dentro la cache
+vengono copiati i dati e le istruzioni utilizzate più di frequente in modo da
+ridurre in modo determinante gli accessi alla memoria principale. Praticamente
+tutti i moderni processori internamente seguono l'architettura Harvard
+dividendo la cache in cache dati e cache istruzioni in modo da poter accedere
+in parallelo alle due cache e migliorare le prestazioni. Esternamente comunque
+i processori accedono con un solo bus alla memoria principale e quindi si
+comportano come la classica architettura di von Neumann.
+
+L'architettura Harvard viene spesso utilizzata in processori specializzati
+come i DSP per il trattamento dei dati audio o video. Per esempio il
+processore Blackfin della Analog Devices utilizza l'architettura Harvard.
+
+Inoltre molti microcontrollori utilizzati in applicazioni industriali
+utilizzano questa architettura. Per esempio i controllori PIC prodotti da
+Microchip Technology Inc e i controllori AVR prodotti da Atmel Corporation
+sono basati su architettura Harvard. Questi processori sono caratterizzati
+dall'avere a disposizione una memoria piccola per i dati e le istruzioni ed
+utilizzano l'architettura Harvard e l'architettura RISC per poter eseguire la
+maggior parte delle istruzioni in un solo ciclo di clock. La separazione dei
+flussi permette a questi processori di avere lunghezza di parola diversa per i
+dati e per le istruzioni sfruttando nel contempo un minor numero di transistor
+(il microprogramma vive in una ROM piuttosto ampia). Per esempio i
+microcontrollori PIC hanno un bus per i dati a 8 bit ma un bus per le
+istruzioni a 12/14 o anche a 16 bit. In questo modo possono caricare una
+singola istruzione e una costante con un solo caricamento dalla memoria in un
+solo ciclo di clock. Per esempio altre architetture RISC come l'architettura
+ARM tipicamente devono utilizzare due istruzioni per caricare una costante.
+

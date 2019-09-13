@@ -1,0 +1,11 @@
+Questa categoria contiene una sottocategoria per ciascuna proprietà Wikidata
+il cui valore è differente da quello inserito manualmente in un template
+all'interno di una voce. Sono categorie di servizio utili per trovare
+eventuali dati errati nelle voci dell'enciclopedia o su Wikidata.
+
+Le categorie qui presenti sono automaticamente inserite principalmente dal
+template {{Controllo Wikidata}} e in alcuni casi da moduli Lua.
+
+Questa categoria contiene le 200 sottocategorie indicate di seguito, su un
+totale di 258.
+

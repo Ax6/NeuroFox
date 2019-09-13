@@ -1,0 +1,592 @@
+؋ ​₳ ​ ฿ ​₿ ​ ₵ ​¢ ​₡ ​₢ ​ $ ​₫ ​₯ ​֏ ​ ₠ ​€ ​ ƒ ​₣ ​ ₲ ​ ₴ ​ ₭ ​ ₺ ​₾ ​ ₼ ​ℳ
+​₥ ​ ₦ ​ ₧ ​₱ ​₰ ​£ ​ 元 圆 圓 ​﷼ ​៛ ​₽ ​₹ ₨ ​ ₪ ​ ৳ ​₸ ​₮ ​ ₩ ​ ¥ ​円
+
+The **apostrophe** ( **'** or **’** ) character is a punctuation mark, and
+sometimes a diacritical mark, in languages that use the Latin alphabet and
+some other alphabets. In English it is used for several purposes:[1]
+
+The word _apostrophe_ comes ultimately from Greek ἡ ἀπόστροφος [προσῳδία] (
+_hē apóstrophos [prosōidía]_ , '[the accent of] turning away or elision'),
+through Latin and French.[2][3]
+
+According to Unicode, the apostrophe is the same character as the closing
+single quotation mark, although the semantics of this character are "context-
+dependent".[4] (When it functions as a closing quotation mark, it is always
+paired with an opening quotation mark.) The apostrophe also looks similar to,
+but is not the same as, the prime symbol ( ′ ), which is used to indicate
+measurement in feet or arcminutes and for various mathematical purposes, and
+the ʻokina ( ʻ ), which represents a glottal stop in Polynesian languages.
+Other substitutes such as ´ (acute) and ‘ (open single quotation mark) are
+common due to ambiguous treatment of the apostrophe in digital typesetting (as
+explained below).
+
+The apostrophe was first used by Pietro Bembo in his edition of _De Aetna_
+(1496).[5] It was introduced into English in the 16th century in imitation of
+French practice.[6]
+
+Introduced by Geoffroy Tory (1529),[7] the apostrophe was used in place of a
+vowel letter to indicate elision (as in _l'heure_ in place of _la heure_ ). It
+was also frequently used in place of a final _e_ (which was still pronounced
+at the time) when it was elided before a vowel, as in _un' heure_. Modern
+French orthography has restored the spelling _une heure_.[8]
+
+From the 16th century, following French practice, the apostrophe was used when
+a vowel letter was omitted either because of incidental elision ( _I'm_ for _I
+am_ ) or because the letter no longer represented a sound ( _lov'd_ for
+_loved_ ). English spelling retained many inflections that were not pronounced
+as syllables, notably verb endings ( _-est, -eth, -es, -ed_ ) and the noun
+ending _-es_ , which marked either plurals or possessives (also known as
+genitives; see Possessive apostrophe, below). So an apostrophe followed by _s_
+was often used to mark a plural, especially when the noun was a loan word (and
+especially a word ending in _a_ , as in _the two comma's_ ).[6]
+
+The use of elision has continued to the present day, but significant changes
+have been made to the possessive and plural uses. By the 18th century,
+apostrophe + _s_ was regularly used for all possessive singular forms, even
+when the letter _e_ was not omitted (as in _the gate's height_ ). This was
+regarded as representing the Old English genitive singular inflection _-es_.
+The plural use was greatly reduced, but a need was felt to mark possessive
+plural. The solution was to use an apostrophe after the plural _s_ (as in
+_girls' dresses_ ). However, this was not universally accepted until the
+mid-19th century.[6]
+
+The apostrophe is used in English to indicate what is, for historical reasons,
+misleadingly called the possessive case in the English language. This case was
+called the genitive until the 18th century and (like the genitive case in
+other languages) does not always involve possession. For example, in the
+phrase "little Roger's headmaster", little Roger does not own the headmaster;
+in the phrase "tomorrow's weather", tomorrow does not/will not own the
+weather.
+
+In the words of Merriam-Webster's Dictionary of English Usage:[9]
+
+The argument is a case of fooling oneself with one's own terminology. After
+the 18th-century grammarians began to refer to the genitive case as the
+possessive case, grammarians and other commentators got it into their heads
+that the only use of the case was to show possession.... Simply changing the
+name of the genitive does not change or eliminate any of its multiple
+functions.
+
+This dictionary also cites a study[10] that found that only 40% of the
+possessive forms were used to indicate actual possession.[11]
+
+The modern spelling convention distinguishes possessive singular forms (
+_Bernadette's_ , _flower's_ , _glass's_ , _one's_ ) from simple plural forms (
+_Bernadettes_ , _flowers_ , _glasses_ , _ones_ ), and both of those from
+possessive plural forms ( _Bernadettes'_ , _flowers'_ , _glasses'_ , _ones'_
+).
+
+For singular forms, the modern possessive or genitive inflection is a survival
+from certain genitive inflections in Old English, for which the apostrophe
+originally marked the loss of the old _e_ (for example, _lambes_ became
+_lamb's_ ). Until the 18th century, the apostrophe was extensively used to
+indicate plural forms. Its use for indicating plural "possessive" forms was
+not standard before the middle of the 19th century.
+
+**Summary of rules for most situations**
+
+**Basic rule (singular nouns)**
+
+For most singular nouns the ending _'s_ is added; e.g., _the cat's whiskers_.
+
+**Basic rule (plural nouns)**
+
+When the noun is a normal plural, with an added _s_ , no extra _s_ is added in
+the possessive; so _the neighbours' garden_ (where there is more than one
+neighbour) is standard rather than _the neighbours's garden_.
+
+**Basic rule (compound nouns)**
+
+Compound nouns have their singular possessives formed with an apostrophe and
+an added _s_ , in accordance with the rules given above: _the Attorney-
+General's husband_ ; _theLord Warden of the Cinque Ports's prerogative_; _this
+Minister for Justice's intervention_ ; _her father-in-law's new wife_.
+
+**Joint or separate possession**
+
+For two nouns (or noun phrases) joined by _and_ , there are several ways of
+expressing possession, including:
+
+Some grammars make no distinction in meaning between the two forms.[note 2]
+Some publishers' style guides, however, make a distinction, assigning the
+"segregatory" (or "distributive") meaning to the form "John's and Mary's" and
+the "combinatorial" (or "joint") meaning to the form "John and Mary's".[note
+3] A third alternative is a construction of the form "Jack's children and
+Jill's", which is always distributive, i.e. it designates the combined set of
+Jack's children and Jill's children.[15]
+
+When a coordinate possessive construction has two personal pronouns, the
+normal possessive inflection is used, and there is no apostrophe (e.g. "his
+and her children"). The issue of the use of the apostrophe arises when the
+coordinate construction includes a noun (phrase) and a pronoun. In this case,
+the inflection of only the last item may sometimes be, at least marginally,
+acceptable ("you and your spouse's bank account").[15][16] The inflection of
+both is normally preferred (e.g. Jack's and your dogs), but there is a
+tendency to avoid this construction, too, in favour of a construction that
+does not use a coordinate possessive (e.g. by using "Jack's letters and
+yours").[15] Where a construction like "Jack's and your dogs" is used, the
+interpretation is usually "segregatory" (i.e. not joint possession).[16]
+
+**With other punctuation; compounds with pronouns**
+
+If the word or compound includes, or even ends with, a punctuation mark, an
+apostrophe and an _s_ are still added in the usual way: "Westward Ho!'s
+railway station"; " _Awaye!_ 's Paulette Whitten recorded Bob Wilson's
+story";[20] _Washington, D.C.'s museums_[21] (assuming that the prevailing
+style requires full stops in _D.C.)._
+
+**Time, money, and similar**
+
+An apostrophe is used in time and money references in constructions such as
+_one hour's respite_ , _two weeks' holiday_ , _a dollar's worth_ , _five
+pounds' worth_ , _one mile's drive from here_. This is like an ordinary
+possessive use. For example, _one hour's respite_ means _a respite of one
+hour_ (exactly as _the cat's whiskers_ means _the whiskers of the cat_ ).
+Exceptions are accounted for in the same way: _three months pregnant_ (in
+modern usage, one says neither _pregnant of three months_ , nor _one month(')s
+pregnant_ ).
+
+**Possessive pronouns and adjectives**
+
+No apostrophe is used in the following possessive pronouns and adjectives:
+_yours_ , _his_ , _hers_ , _ours_ , _its_ , _theirs_ , and _whose_.
+
+The possessive of _it_ was originally _it's_ , and it is a common mistake
+today to write it this way, though the apostrophe was dropped by the early
+1800s and authorities are now unanimous that _it's_ can be only a contraction
+of _it is_ or _it has_.[22][note 6]
+
+All other possessive pronouns ending in _s_ do take an apostrophe: _one's_ ;
+_everyone's_ ; _somebody's_ , _nobody else's_ , etc. With plural forms, the
+apostrophe follows the _s_ , as with nouns: _the others' husbands_ (but
+compare _They all looked at each other's husbands_ , in which both _each_ and
+_other_ are singular).
+
+**Importance for disambiguation**
+
+Each of these four phrases (listed in Steven Pinker's _The Language Instinct_
+) has a distinct meaning:
+
+Kingsley Amis, on being challenged to produce a sentence whose meaning
+depended on a possessive apostrophe, came up with:
+
+Some singular nouns are pronounced with a sibilant sound at the end: /s/ or
+/z/. The spelling of these ends with _-s_ , _-se_ , _-z_ , _-ze_ , _-ce_ ,
+_-x_ , or _-xe_.
+
+Many respected authorities recommend that practically all singular nouns,
+including those ending with a sibilant sound, have possessive forms with an
+extra _s_ after the apostrophe so that the spelling reflects the underlying
+pronunciation. Examples include Oxford University Press, the Modern Language
+Association, the BBC and _The Economist_.[24] Such authorities demand
+possessive singulars like these: _Senator Jones's umbrella_ ; _Tony Adams's
+friend; my boss's job; the US's economy_. Rules that modify or extend the
+standard principle have included the following:
+
+Although less common, some contemporary writers still follow the older
+practice of omitting the second _s_ in all cases ending with a sibilant, but
+usually not when written _-x_ or _-xe_.[30] Some contemporary authorities such
+as the Associated Press Stylebook[31] recommend or allow the practice of
+omitting the additional "s" in all words ending with an "s", but not in words
+ending with other sibilants ("z" and "x").[32] The 15th edition of _The
+Chicago Manual of Style_ had recommended the traditional practice, which
+included providing for several exceptions to accommodate spoken usage such as
+the omission of the extra _s_ after a polysyllabic word ending in a sibilant,
+but the 16th edition no longer recommends omitting the possessive "s".[33]
+
+Similar examples of notable names ending in an _s_ that are often given a
+possessive apostrophe with no additional _s_ include _Dickens_ and _Williams_.
+There is often a policy of leaving off the additional _s_ on any such name,
+but this can prove problematic when specific names are contradictory (for
+example, _St James' Park_ in Newcastle [the football ground] and the area of
+_St. James's Park_ in London). However, debate has been going on regarding the
+punctuation of St James' Park (Newcastle) for some time, unlike St James's
+Park (London) which is the less contentious version. For more details on
+practice with geographic names, see the relevant section below.
+
+Some writers like to reflect standard spoken practice in cases like these with
+_sake_ : _for convenience' sake_ , _for goodness' sake_ , _for appearance'
+sake_ , _for compromise' sake_ , etc. This punctuation is preferred in major
+style guides. Others prefer to add _'s_ : _for convenience's sake_.[34] Still
+others prefer to omit the apostrophe when there is an _s_ sound before _sake_
+: _for morality's sake_ , but _for convenience sake_.[35]
+
+The Supreme Court of the United States is split on whether a possessive
+singular noun that ends with _s_ should always have an additional _s_ after
+the apostrophe, sometimes have an additional _s_ after the apostrophe (for
+instance, based on whether the final sound of the original word is pronounced
+/s/ or /z/), or never have an additional _s_ after the apostrophe. The
+informal majority view (5–4, based on past writings of the justices as of
+2006[update]) favoured the additional _s_ , but a strong minority
+disagrees.[36]
+
+The English possessive of French nouns ending in a silent _s_ , _x_ , or _z_
+is addressed by various style guides. Certainly a sibilant is pronounced in
+examples like _Descartes's_ and _Dumas's_ ; the question addressed here is
+whether _s_ needs to be added. Similar examples with _x_ or _z_ : _Sauce
+Périgueux's main ingredient is truffle_ ; _Hispince-nez's loss went
+unnoticed_; _"Verreaux('s) eagle, a large, predominantly black eagle,_ Aquila
+verreauxi _,..."_ (OED, entry for "Verreaux", with silent _x_ ; see Verreaux's
+eagle); in each of these some writers might omit the added _s_. The same
+principles and residual uncertainties apply with "naturalised" English words,
+like _Illinois_ and _Arkansas_.[37]
+
+For possessive _plurals_ of words ending in a silent _x_ , _z_ or _s_ , the
+few authorities that address the issue at all typically call for an added _s_
+and suggest that the apostrophe precede the _s_ : _The Loucheux's homeland is
+in the Yukon_ ; _Compare the two Dumas's literary achievements_.[note 7] The
+possessive of a cited French title with a silent plural ending is uncertain: "
+_Trois femmes_ 's long and complicated publication history",[38] but " _Les
+noces_ ' singular effect was 'exotic primitive' ..." (with nearby sibilants
+_-ce-_ in _noces_ and _s-_ in _singular_ ).[39] Compare treatment of other
+titles, above.
+
+Guides typically seek a principle that will yield uniformity, even for foreign
+words that fit awkwardly with standard English punctuation.
+
+Place names in the United States do not use the possessive apostrophe on
+federal maps and signs.[40] The United States Board on Geographic Names, which
+has responsibility for formal naming of municipalities and geographic
+features, has deprecated the use of possessive apostrophes since 1890 so as
+not to show ownership of the place.[40][41] Only five names of natural
+features in the US are officially spelled with a genitive apostrophe: Martha's
+Vineyard; Ike's Point, New Jersey; John E's Pond, Rhode Island; Carlos Elmer's
+Joshua View, Arizona; and Clark's Mountain, Oregon.[41][42] Some
+municipalities, originally incorporated using the apostrophe, have dropped it
+in accordance with this policy; Taylors Falls in Minnesota, for example, was
+originally incorporated as "Taylor's Falls".[43]
+
+Australia's Intergovernmental Committee on Surveying and Mapping also has a
+no-apostrophe policy, a practice it says goes back to the 1900s[44] and which
+is generally followed around the country.[45]
+
+On the other hand, the United Kingdom has Bishop's Stortford, Bishop's Castle
+and King's Lynn (among many others) but St Albans, St Andrews and St Helens.
+London Underground's Piccadilly line has the adjacent stations of Earl's Court
+in Earls Court and Barons Court. These names were mainly fixed in form many
+years before grammatical rules were fully standardised. While Newcastle United
+play football at a stadium called St James' Park, and Exeter City at St James
+Park, London has a St James's Park (this whole area of London is named after
+the parish of St James's Church, Piccadilly[46]).
+
+Modern usage has been influenced by considerations of technological
+convenience including the economy of typewriter ribbons and films, and similar
+computer character "disallowance" which tend to ignore past standards.[47]
+Practice in the United Kingdom and Canada is not so uniform.[48]
+
+Sometimes the apostrophe is omitted in the names of clubs, societies, and
+other organizations, even though the standard principles seem to require it:
+_Country Women's Association_ , but _International Aviation Womens
+Association_ ;[49] _Magistrates' Court of Victoria_ ,[50] but _Federated Ship
+Painters and Dockers Union_. Usage is variable and inconsistent. Style guides
+typically advise consulting an official source for the standard form of the
+name (as one would do if uncertain about other aspects of the spelling of the
+name); some tend towards greater prescriptiveness, for or against such an
+apostrophe.[note 8] As the case of _womens_ shows, it is not possible to
+analyze these forms simply as non-possessive plurals, since _women_ is the
+only correct plural form of _woman_.
+
+Where a business name is based on a family name it should in theory take an
+apostrophe, but many leave it out (contrast _Sainsbury's_ with _Harrods_ ). In
+recent times there has been an increasing tendency to drop the apostrophe.
+Names based on a first name are more likely to take an apostrophe, but this is
+not always the case. Some business names may inadvertently spell a different
+name if the name with an _s_ at the end is also a name, such as Parson. A
+small activist group called the Apostrophe Protection Society[51] has
+campaigned for large retailers such as Harrods, Currys, and Selfridges to
+reinstate their missing punctuation. A spokesperson for Barclays PLC stated,
+"It has just disappeared over the years. Barclays is no longer associated with
+the family name."[52] Further confusion can be caused by businesses whose
+names look as if they should be pronounced differently without an apostrophe,
+such as Paulos Circus, and other companies that leave the apostrophe out of
+their logos but include it in written text, such as Cadwalader's.
+
+An apostrophe is commonly used to indicate omitted characters, normally
+letters:
+
+The apostrophe may be used for clarity with the plurals of single letters as
+in
+
+Use of the apostrophe may be recommended only for lowercase letters.[57] On
+the other hand, some style manuals and critics suggest that apostrophes should
+never be used for plurals, even for lower case letters.[58] APA style requires
+that one write: _p_ s, _n_ s, etc.[59]
+
+An apostrophe is used by some writers to form a plural for abbreviations,
+initials including acronyms, and symbols, especially where adding just _s_
+rather than ' _s_ may leave meaning ambiguous or presentation inelegant. Some
+specific cases:
+
+For abbreviations, acronyms, etc., use of _s_ without an apostrophe is now
+more common than its use with an apostrophe, but for single lowercase letters,
+pluralization with _'s_ is usual.[65][66][67]
+
+Names that are not strictly native to English sometimes have an apostrophe
+substituted to represent other characters (see also As a mark of elision,
+below).
+
+In transliterated foreign words, an apostrophe may be used to separate letters
+or syllables that otherwise would likely be interpreted incorrectly. For
+example:
+
+Furthermore, an apostrophe may be used to indicate a glottal stop in
+transliterations. For example:
+
+Rather than ʿ the apostrophe is sometimes used to indicate a voiced pharyngeal
+fricative as it sounds and looks like the glottal stop to most English
+speakers. For example:
+
+If you have a name that ends in "s," or if you will observe home-made signs
+selling tomatoes or chili-and-beans, you will quickly note what can be done
+with a possessive apostrophe in reckless hands.
+
+Failure to observe standard use of the apostrophe is widespread and frequently
+criticised as incorrect,[71][72] often generating heated debate. The British
+founder of the Apostrophe Protection Society earned a 2001 Ig Nobel prize for
+"efforts to protect, promote and defend the differences between plural and
+possessive".[73] A 2004 report by British examination board OCR stated that
+"the inaccurate use of the apostrophe is so widespread as to be almost
+universal".[74] A 2008 survey found that nearly half of the UK adults polled
+were unable to use the apostrophe correctly.[72]
+
+Apostrophes used in a non-standard manner to form noun plurals are known as
+_greengrocers' apostrophes_ or _grocers' apostrophes_ , often written as
+_greengrocer's apostrophes_[75] or _grocer's apostrophes_.[76] They are
+sometimes humorously called _greengrocers apostrophe's_ , _rogue apostrophes_
+, or _idiot's apostrophes_ (a literal translation of the German word
+_Deppenapostroph_ , which criticises the misapplication of apostrophes in
+Denglisch). The practice, once common and acceptable (see Historical
+development), comes from the identical sound of the plural and possessive
+forms of most English nouns. It is often criticised as a form of
+hypercorrection coming from a widespread ignorance of the proper use of the
+apostrophe or of punctuation in general. Lynne Truss, author of _Eats, Shoots&
+Leaves_, points out that before the 19th century it was standard orthography
+to use the apostrophe to form a plural of a foreign-sounding word that ended
+in a vowel (e. g., _banana's_ , _folio's_ , _logo's_ , _quarto's_ , _pasta's_
+, _ouzo's_ ) to clarify pronunciation. Truss says this usage is no longer
+considered proper in formal writing.[77]
+
+The term is believed to have been coined in the middle of the 20th century by
+a teacher of languages working in Liverpool, at a time when such mistakes were
+common in the handwritten signs and advertisements of greengrocers (e. g.,
+_Apple's1/- a pound, Orange's 1/6d a pound_). Some have argued that its use in
+mass communication by employees of well-known companies has led to the less
+literate assuming it to be standard and adopting the habit themselves.[78]
+
+The same use of apostrophe before noun plural -s forms is sometimes made by
+non-native speakers of English. For example, in Dutch, the apostrophe is
+inserted before the _s_ when pluralising most words ending in a vowel or _y_
+for example, _baby's_ (English _babies_ ) and _radio's_ (English _radios_ ).
+This often produces so-called "Dunglish" errors when carried over into
+English.[79] Hyperforeignism has been formalised in some pseudo-anglicisms.
+For example, the French word _pin's_ (from English _pin_ ) is used (with the
+apostrophe in both singular and plural) for collectible lapel pins. Similarly,
+there is an Andorran football club called FC Rànger's (after such British
+clubs as Rangers F.C.) and a Japanese dance group called Super Monkey's.
+
+In the UK there is a tendency to drop apostrophes in many commonly used names
+such as St Annes, St Johns Lane,[80] and so on.
+
+In 2009, a resident in Royal Tunbridge Wells was accused of vandalism by one
+neighbour after he painted apostrophes on road signs that had spelled the
+street name as _St Johns Close_.[81]
+
+UK supermarket chain Tesco omits the mark where standard practice would
+require it. Signs in Tesco advertise (among other items) "mens magazines",
+"girls toys", "kids books" and "womens shoes". In his book _Troublesome Words_
+, author Bill Bryson lambastes Tesco for this, stating that "the mistake is
+inexcusable, and those who make it are linguistic Neanderthals."[82]
+
+In the USA, the United States Board on Geographic Names discourages the use of
+possessive apostrophes in geographic names (see above).[83]
+
+George Bernard Shaw, a proponent of English spelling reform on phonetic
+principles, argued that the apostrophe was mostly redundant. He did not use it
+for spelling _cant_ , _hes_ , etc., in many of his writings. He did, however,
+allow _I'm_ and _it's_.[84] Hubert Selby Jr. used a slash instead of an
+apostrophe mark for contractions and did not use an apostrophe at all for
+possessives. Lewis Carroll made greater use of apostrophes, and frequently
+used _sha'n't_ , with an apostrophe in place of the elided _ll_ as well as the
+more usual _o_.[85][86] These authors' usages have not become widespread.
+
+The British pop group Hear'Say famously made unconventional use of an
+apostrophe in its name. Truss comments that "the naming of Hear'Say in 2001
+was [...] a significant milestone on the road to punctuation anarchy".[87]
+Dexys Midnight Runners, on the other hand, omit the apostrophe (though _Dexys_
+could possibly be understood as a plural form of _Dexy_ , rather than a
+possessive form).
+
+The apostrophe in the name of rock band The La's is often thought to be
+misused, but in fact it marks omission of the letter _d_. The name comes from
+the Scouse slang for _lads_.
+
+The over-use of apostrophes in names in fantasy literature was satirised by
+Neal Stephenson in _Reamde_.
+
+Over the years, the use of apostrophes has been criticised. George Bernard
+Shaw called them "uncouth bacilli", referring to the apostrophe-like shape of
+many bacteria. The author and language commentator Anu Garg, in a humorous but
+well-argued discussion, has called for the abolition of the apostrophe,
+stating "Some day this world would be free of metastatic cancers, narcissistic
+con men, and the apostrophe."[88] In his book _American Speech_ , linguist
+Steven Byington stated of the apostrophe that "the language would be none the
+worse for its abolition". Adrian Room, in his _English Journal_ article "Axing
+the Apostrophe", argued that apostrophes are unnecessary, and context will
+resolve any ambiguity.[89] In a letter to the _English Journal_ , Peter Brodie
+stated that apostrophes are "largely decorative ... [and] rarely clarify
+meaning".[90] John C. Wells, emeritus professor of phonetics at University
+College London, says the apostrophe is "a waste of time".[89]
+
+In many languages, especially European languages, the apostrophe is used to
+indicate the elision of one or more sounds, as in English.
+
+Several languages and transliteration systems use the apostrophe or some
+similar mark to indicate a glottal stop, sometimes considering it a letter of
+the alphabet:
+
+The apostrophe represents sounds resembling the glottal stop in the Turkic
+languages and in some romanizations of Semitic languages, including Arabic and
+Hebrew. In typography, this function may be performed by the closing single
+quotation mark. In that case, the letter _'ayn_ (Arabic ع and Hebrew ע) is
+correspondingly transliterated with the opening single quotation mark.
+
+Some languages and transliteration systems use the apostrophe to mark the
+presence, or the lack of, palatalization:
+
+Some languages use the apostrophe to separate the root of a word and its
+affixes, especially if the root is foreign and unassimilated. (For another
+kind of morphemic separation see pinyin, below.)
+
+The form of the apostrophe originates in manuscript writing, as a point with a
+downwards tail curving clockwise. This form was inherited by the _typographic
+apostrophe_ ( ’ ), also known as the _typeset apostrophe_, or, informally, the
+_curly apostrophe_. Later sans-serif typefaces had stylised apostrophes with a
+more geometric or simplified form, but usually retaining the same directional
+bias as a closing quotation mark.
+
+With the invention of the typewriter, a "neutral" quotation mark form ( ' )
+was created to economize on the keyboard, by using a single key to represent:
+the apostrophe, both opening and closing single quotation marks, single
+primes, and on some typewriters the exclamation point by overprinting with a
+period. This is known as the _typewriter apostrophe_ or _vertical apostrophe_.
+The same convention was adopted for quotation marks.
+
+Both simplifications carried over to computer keyboards and the ASCII
+character set. However, although these are widely used due to their ubiquity
+and convenience, they are deprecated in contexts where proper typography is
+important.[101]
+
+Unicode defines three apostrophe characters:[4]
+
+Characters similar to apostrophe:
+
+The typewriter apostrophe ( ' ) was inherited by computer keyboards, and is
+the only apostrophe character available in the (7-bit) ASCII character
+encoding, at code value 0x27 (39). As such, it is a highly overloaded
+character. In ASCII, it represents a left single quotation mark, right single
+quotation mark, apostrophe, vertical line or prime (punctuation marks), or an
+acute accent (modifier letters).
+
+Many earlier (pre-1985) computer displays and printers rendered the ASCII
+apostrophe as a typographic apostrophe, and rendered the ASCII grave accent (
+**`** ) U+0060 as a matching left single quotation mark. This allowed a more
+typographic appearance of text: ```I can't''` would appear as `‘‘I can’t’’` on
+these systems. This can still be seen in many documents prepared at that time,
+and is still used in the TeX typesetting system to create typographic quotes.
+
+Support for the typographic apostrophe ( ’ ) was introduced in several 8-bit
+character encodings, such as the Apple Macintosh operating system's Mac Roman
+character set (in 1984), and later in the CP1252 encoding of Microsoft
+Windows. Both sets also used this code point for a closing single quote. There
+is no such character in ISO 8859-1.
+
+The Microsoft Windows code page CP1252 (sometimes incorrectly called _ANSI_ or
+_ISO-Latin_ ) contains the typographic apostrophe at 0x92. Due to "smart
+quotes" in Microsoft software converting the ASCII apostrophe to this value,
+other software makers have been effectively forced to adopt this as a _de
+facto_ convention. For instance, the HTML5 standard specifies that this value
+is interpreted as this character from CP1252.[105] Some earlier non-Microsoft
+browsers would display a '?' for this and make web pages composed with
+Microsoft software somewhat hard to read.
+
+Although ubiquitous in typeset material, the typographic apostrophe ( ’ ) is
+rather difficult to enter on a computer, since it does not have its own key on
+a standard keyboard. Outside the world of professional typesetting and graphic
+design, many people do not know how to enter this character and instead use
+the typewriter apostrophe ( ' ). The typewriter apostrophe has always been
+considered tolerable on Web pages because of the egalitarian nature of Web
+publishing, the low resolution of computer monitors in comparison to print,
+and legacy limitations provided by ASCII.
+
+More recently, the standard use of the typographic apostrophe is becoming more
+common on the Web due to the wide adoption of the Unicode text encoding
+standard, higher-resolution displays, and advanced anti-aliasing of text in
+modern operating systems. Because typewriter apostrophes are now often
+automatically converted to typographic apostrophes by word processing and
+desktop publishing software, the typographic apostrophe does often appear in
+documents produced by non-professionals, albeit sometimes incorrectly—see the
+section "Smart Quotes" below.
+
+`Compose``'``>` _or_  
+`Ctrl`+`⇧ Shift`+`U``2``0``1``9``↵ Enter`[106]
+
+XML (and hence XHTML) defines an `&apos;` character entity reference for the
+ASCII typewriter apostrophe. `&apos;` is officially supported in HTML since
+HTML 5. It is _not_ defined in HTML 4[107] despite all the other predefined
+character entities from XML being defined. If it cannot be entered literally
+in HTML, a numeric character reference could be used instead, such as `&#x27;`
+or `&#39;`.
+
+In the HTML entity `&rsquo;` the _rsquo_ is short for **r** ight **s** ingle
+**quo** tation mark.
+
+To make typographic apostrophes easier to enter, word processing and
+publishing software often convert typewriter apostrophes to typographic
+apostrophes during text entry (at the same time converting opening and closing
+single and double quotes to their standard left-handed or right-handed forms).
+A similar facility may be offered on web servers after submitting text in a
+form field, e.g. on weblogs or free encyclopedias. This is known as the _smart
+quotes_ feature; apostrophes and quotation marks that are not automatically
+altered by computer programs are known as _dumb quotes_.
+
+Such conversion is not always correct. Smart quotes features often incorrectly
+convert a leading apostrophe to an opening quotation mark (e.g., in
+abbreviations of years: _‘ 29_ rather than the correct _’ 29_ for the years
+_1929_ or _2029_ (depending on context); or _‘ twas_ instead of _’ twas_ as
+the archaic abbreviation of _it was_ ). Smart quote features also often fail
+to recognise situations when a prime rather than an apostrophe is needed; for
+example, incorrectly rendering the latitude 49° 53′ 08″ as 49° 53’ 08".
+
+In Microsoft Word it is possible to turn smart quotes off (in some versions,
+by navigating through _Tools_ , _AutoCorrect_ , _AutoFormat as you type_ , and
+then unchecking the appropriate option). Alternatively, typing Control-Z (for
+_Undo_ ) immediately after entering the apostrophe will convert it back to a
+typewriter apostrophe. In Microsoft Word for Windows, holding down the Control
+key while typing two apostrophes will produce a single typographic apostrophe.
+
+Some programming languages, like Pascal, use the ASCII apostrophe to delimit
+string literals. In many languages, including JavaScript, ECMAScript, and
+Python, either the apostrophe or the double quote may be used, allowing string
+literals to contain the other character (but not to contain both without using
+an escape character), e.g. `foo = 'He said "Bar!"';`. Strings delimited with
+apostrophes are often called _single quoted_. Some languages, such as Perl,
+PHP, and many shell languages, treat single quoted strings as "raw" strings,
+while double quoted strings have expressions (such as "$variable") replaced
+with their values when interpreted.
+
+The C programming language (and many derived languages like C++, Java, C#, and
+Scala) uses apostrophes to delimit a character literal. In these languages a
+character is a different object than a one-letter string.
+
+In C++, since C++14, apostrophes are also used as digit separators in numeric
+literals.
+
+In Visual Basic (and earlier Microsoft BASIC dialects such as QuickBASIC) an
+apostrophe is used to denote the start of a comment.[note 11]
+
+In the Lisp family of programming languages, an apostrophe is shorthand for
+the `quote` operator.
+
+In Rust, in addition to being used to delimit a character literal, an
+apostrophe can start an explicit lifetime.
+

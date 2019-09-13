@@ -1,0 +1,114 @@
+L' **indice di sviluppo umano** ( **ISU** , in inglese: _Human Development
+Index, HDI_ ) è un indicatore di sviluppo macroeconomico realizzato nel 1990
+dall'economista pakistano Mahbub ul Haq, seguito dall'economista indiano
+Amartya Sen. È stato utilizzato, accanto al PIL (prodotto interno lordo),
+dall'Organizzazione delle Nazioni Unite a partire dal 1993 per valutare la
+qualità della vita nei Paesi membri.
+
+In precedenza, veniva utilizzato soltanto il PIL, indicatore di sviluppo
+macroeconomico che rappresenta il valore monetario dei beni e dei servizi
+prodotti in un anno su un determinato territorio nazionale e che si basa
+quindi esclusivamente sulla crescita e non tiene conto del capitale
+(soprattutto naturale) che viene perso nei processi di crescita. Questi
+parametri misurano esclusivamente il valore economico totale o una
+distribuzione media del reddito. In pratica, un cittadino molto ricco
+ridistribuisce la sua ricchezza su molti poveri falsando in tal modo il
+livello di vita di questi ultimi.
+
+Si cercò quindi, attraverso l'indice di sviluppo umano, di tener conto di
+differenti fattori, oltre al PIL procapite, che non potevano essere detenuti
+in modo massiccio da un singolo individuo, come l'alfabetizzazione e la
+speranza di vita.
+
+La scala dell'indice è in millesimi decrescente da 1 a 0 e si suddivide, in
+base ai quartili (dal 2010), in quattro gruppi: Paesi a sviluppo umano molto
+alto, Paesi ad alto sviluppo umano, Paesi a medio sviluppo e Paesi a basso
+sviluppo umano.
+
+Molto Alto
+
+Alto
+
+Medio
+
+Basso
+
+dati non disponibili
+
+A partire dal 2010, l'indice di sviluppo umano è definito come la media
+geometrica di tre indici di base, legati rispettivamente alla speranza di
+vita, al livello di istruzione e al reddito, i quali a loro volta sono
+calcolati come precisato di seguito.[2]
+
+Indice di aspettativa di vita (IAV)  = AV − 20 85 − 20 {\displaystyle ={\frac
+{{\textrm {AV}}-20}{85-20}}} ![{\\displaystyle ={\\frac {{\\textrm
+{AV}}-20}{85-20}}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/e4b74346646adc0fe9042f070af3ea3c3a550562)
+
+dove:
+
+AV denota l'aspettativa di vita alla nascita.
+
+Indice di istruzione (II)  = IAMI + IAPI 2 {\displaystyle ={\frac {{\textrm
+{IAMI}}+{\textrm {IAPI}}}{2}}} ![{\\displaystyle ={\\frac {{\\textrm
+{IAMI}}+{\\textrm
+{IAPI}}}{2}}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/da62048acbefdefc9180c2f4f26a38ec2d20e1ca)
+
+dove:
+
+AMI denota gli anni medi di istruzione (anni che gli ultraventicinquenni hanno
+dedicato all'istruzione);  
+API denota gli anni previsti di istruzione (anni previsti di istruzione per
+gli infradiciottenni nella loro vita).
+
+Indice di reddito (IR)  = log ⁡ ( RNLpc ) − log ⁡ ( 100 ) log ⁡ ( 75000 ) −
+log ⁡ ( 100 ) {\displaystyle ={\frac {\log({\textrm
+{RNLpc}})-\log(100)}{\log(75000)-\log(100)}}} ![{\\displaystyle ={\\frac
+{\\log\({\\textrm
+{RNLpc}}\)-\\log\(100\)}{\\log\(75000\)-\\log\(100\)}}}](https://wikimedia.org/api/rest_v1/media/math/render/svg/fb9ad8f7cef76bc0db5017e182e6696fafaa168c)
+
+dove:
+
+RLNpc denota il reddito nazionale lordo _pro capite_ , corretto in termini di
+parità di potere d'acquisto ed espresso per convenzione in dollari
+statunitensi;  
+log ⁡ ( x ) {\displaystyle \log(x)} ![{\\displaystyle
+\\log\(x\)}](https://wikimedia.org/api/rest_v1/media/math/render/svg/4157d3b51ac7b147fca145d431d58ec92abc1f70)
+denota il logaritmo naturale del numero reale positivo  x {\displaystyle x}
+![x](https://wikimedia.org/api/rest_v1/media/math/render/svg/87f9e315fd7e2ba406057a97300593c4802b53e4).
+
+L'indice di sviluppo umano è la media geometrica dei tre indici precedenti.
+
+Indice di sviluppo umano (ISU)  = IAV ⋅ II ⋅ IR 3 . {\displaystyle
+={\sqrt[{3}]{{\textrm {IAV}}\cdot {\textrm {II}}\cdot {\textrm {IR}}}}.}
+![{\\displaystyle ={\\sqrt\[{3}\]{{\\textrm {IAV}}\\cdot {\\textrm {II}}\\cdot
+{\\textrm
+{IR}}}}.}](https://wikimedia.org/api/rest_v1/media/math/render/svg/38e1fc5877e1cbd9c143d222e325b1cfc23fe51a)
+
+Questo metodo è stato usato fino al Report del 2009.
+
+L'indice di sviluppo umano era definito come la media aritmetica dei tre
+indici seguenti:
+
+AV: Aspettativa di Vita  
+TIA: tasso di istruzione degli adulti  
+TCLI: tasso combinato lordo di iscrizioni scolastiche  
+PILpc: PIL procapite a PPA in USD
+
+Dal Report 2010 i Paesi sono suddivisi in quattro gruppi in base al quartile
+in cui rientrano:
+
+Fino al 2009 la classificazione avveniva fissando dei valori per le varie
+fasce:
+
+L'indice di sviluppo umano è stato criticato sotto alcuni punti di vista. In
+particolare è accusato di riflettere un pregiudizio sistemico ideologico
+contro i modelli di sviluppo economico e sociale del mondo industrializzato.
+Inoltre l'ISU è criticato per il fatto di non tenere conto delle questioni
+ambientali e tecnologiche e del ruolo svolto dallo sviluppo civile, parlando
+esclusivamente dei risultati scolastici e medici dei singoli Stati. Infine è
+accusato di avere un punto di vista poco generico, di dare troppo credito alle
+statistiche nazionali e di usare metri di giudizio troppo severi e
+condizionati dalle abitudini di pochi Paesi di riferimento.[3]
+
+Altri progetti
+

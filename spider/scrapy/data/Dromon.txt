@@ -1,0 +1,119 @@
+A **dromon** (from Greek δρόμων, _dromōn_ , "runner") was a type of galley and
+the most important warship of the Byzantine navy from the 5th to 12th
+centuries AD, when they were succeeded by Italian-style galleys. It was
+developed from the ancient liburnian, which was the mainstay of the Roman navy
+during the Empire.[2]
+
+Middle English _dromond_ and Old French _dromont_ are derived from the dromon,
+and described any particularly large medieval ship.[3]
+
+The appearance and evolution of medieval warships is a matter of debate and
+conjecture: until recently, no remains of an oared warship from either ancient
+or early medieval times had been found, and information had to be gathered by
+analyzing literary evidence, crude artistic depictions and the remains of a
+few merchant vessels (such as the 7th-century Pantano Longarini wreck from
+Sicily, the 7th-century Yassi Ada ship and the 11th-century Serçe Limanı
+wreck). Only in 2005–2006 did archaeological digs for the Marmaray project in
+the location of the Harbor of Theodosius (modern Yenikapi) uncover the remains
+of over 36 Byzantine ships from the 6th to 10th centuries, including four
+light galleys of the _galea_ type.[4]
+
+The accepted view is that the main developments which differentiated the early
+dromons from the liburnians, and that henceforth characterized Mediterranean
+galleys, were the adoption of a full deck ( _katastrōma_ ), the abandonment of
+the rams on the bow in favor of an above-water spur, and the gradual
+introduction of lateen sails.[5] The exact reasons for the abandonment of the
+ram (Latin: _rostrum_ , Greek: ἔμβολος) are unclear. Depictions of upward-
+pointing beaks in the 4th-century _Vatican Vergil_ manuscript may well
+illustrate that the ram had already been replaced by a spur in late Roman
+galleys.[6] One possibility is that the change occurred because of the gradual
+evolution of the ancient shell-first mortise and tenon hull construction
+method, against which rams had been designed, into the skeleton-first method,
+which produced a stronger and more flexible hull, less susceptible to ram
+attacks.[7] Certainly by the early 7th century, the ram's original function
+had been forgotten, if we judge by Isidore of Seville's comments that they
+were used to protect against collision with underwater rocks.[8] As for the
+lateen sail, various authors have in the past suggested that it was introduced
+into the Mediterranean by the Arabs, possibly with an ultimate origin in
+India. However, the discovery of new depictions and literary references in
+recent decades has led scholars to antedate the appearance of the lateen sail
+in the Levant to the late Hellenistic or early Roman period.[9][10] Not only
+the triangular, but also the quadrilateral version were known, used for
+centuries (mostly on smaller craft) in parallel with square sails.[9][11]
+
+Belisarius's fleet during the Vandalic War, as described by Procopius of
+Caesarea, was apparently at least partly fitted with lateen sails, making it
+probable that by that time the lateen had become the standard rig for the
+dromon,[12] with the traditional square sail gradually falling from use in
+medieval navigation.[11] These 6th-century dromons were single-banked
+("monoreme") ships of probably 50 oars, arranged with 25 oars on each
+side.[13] Again unlike Hellenistic vessels, which used an outrigger, these
+extended directly from the hull.[14] In the later two-banked ("bireme")
+dromons of the 9th and 10th centuries, the two oar banks ( _elasiai_ ) were
+divided by the deck, with the first oar bank was situated below, whilst the
+second oar bank was situated above deck; these rowers were expected to fight
+alongside the ship's marines in boarding operations.[15] The Greek scholar
+Christos Makrypoulias suggests an arrangement of 25 oarsmen beneath and 35 on
+the deck on either side for a dromon of 120 rowers.[16] The overall length of
+these ships was probably about 32 meters.[17] Although most contemporary
+vessels had a single mast ( _histos_ or _katartion_ ), the larger bireme
+dromons probably needed at least two masts in order to maneuver
+effectively,[18] assuming that a single lateen sail for a ship this size would
+have reached unmanageable dimensions.[19] The ship was steered by means of two
+quarter rudders at the stern ( _prymnē_ ), which also housed a tent ( _skēnē_
+) that covered the captain's berth ( _krab(b)at(t)os_ ).[20] The prow (
+_prōra_ ) featured an elevated forecastle ( _pseudopation_ ), below which the
+siphon for the discharge of Greek fire projected,[21] although secondary
+siphons could also be carried amidships on either side.[22] A pavesade (
+_kastellōma_ ), on which marines could hang their shields, ran around the
+sides of the ship, providing protection to the deck crew.[23] Larger ships
+also had wooden castles ( _xylokastra_ ) on either side between the masts,
+similar to those attested for the Roman liburnians, providing archers with
+elevated firing platforms.[24] The bow spur ( _peronion_ ) was intended to
+ride over an enemy ship's oars, breaking them and rendering it helpless
+against missile fire and boarding actions.[25]
+
+The four _galeai_ ships uncovered in the Yenikapi excavations, dating to the
+10th–11th centuries, are of uniform design and construction, suggesting a
+centralized manufacturing process. They have a length of about 30 metres (98
+ft), and are built of European Black Pine and Oriental plane.[26]
+
+By the 10th century, there were three main classes of bireme warships of the
+general dromon type, as detailed in the inventories for the expeditions sent
+against the Emirate of Crete in 911 and 949: the _[chelandion] ousiakon_
+([χελάνδιον] οὑσιακόν), so named because it was manned by an _ousia_ of 108
+men; the _[chelandion] pamphylon_ ([χελάνδιον] πάμφυλον), crewed with up to
+120–160 men, its name either implying an origin in the region of Pamphylia as
+a transport ship or its crewing with "picked crews" (from πᾶν+φῦλον, "all
+tribes"); and the _dromōn_ proper, crewed by two _ousiai_.[27] In Constantine
+VII's _De Ceremoniis_ , the heavy _dromōn_ is said to have an even larger crew
+of 230 rowers and 70 marines; the naval expert John H. Pryor considers them as
+supernumerary crews being carried aboard, while Makrypoulias suggests that the
+extra men correspond to a second rower on each of the upper-bank oars.[28] A
+smaller, single-bank ship, the _monērēs_ (μονήρης, "single-banked") or _galea_
+(γαλέα, from which the term "galley" derives), with ca. 60 men as crew, was
+used for scouting missions but also in the wings of the battle line.[29]
+
+Three-banked ("trireme") dromons are described in a 10th-century work
+dedicated to the _parakoimōmenos_ Basil Lekapenos. However, this treatise,
+which survives only in fragments, draws heavily upon references on the
+appearance and construction of a classical Greek trireme, and must therefore
+be used with care when trying to apply it to the warships of the middle
+Byzantine period.[30][31] The existence of trireme vessels is, however,
+attested in the Fatimid navy in the 11th and 12th centuries, and references
+made by Leo VI to large Arab ships in the 10th century may also indicate
+trireme galleys.[32]
+
+For cargo transport, the Byzantines usually commandeered ordinary merchantmen
+as transport ships ( _phortēgoi_ ) or supply ships ( _skeuophora_ ). These
+appear to have been mostly sailing vessels, rather than oared.[33] The
+Byzantines and Arabs also employed horse-transports ( _hippagōga_ ), which
+were either sailing ships or galleys, the latter certainly modified to
+accommodate the horses.[34] Given that the _chelandia_ appear originally to
+have been oared horse-transports, this would imply differences in construction
+between the _chelandion_ and the _dromōn_ proper, terms which otherwise are
+often used indiscriminately in literary sources. While the _dromōn_ was
+developed exclusively as a war galley, the _chelandion_ would have had to have
+a special compartment amidships to accommodate a row of horses, increasing its
+beam and hold depth.[35]
+
